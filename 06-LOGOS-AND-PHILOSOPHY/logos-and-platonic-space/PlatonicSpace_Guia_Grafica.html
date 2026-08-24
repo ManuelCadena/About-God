@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>El Espacio Platónico — Guía Visual Integral del Simposio</title>
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+    }
+  }
+  </script>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --bg-2: #11182e;
+      --bg-3: #162037;
+      --text: #e8eaf0;
+      --muted: #9fb1d3;
+      --accent: #3ddc97;
+      --accent-2: #5c9aff;
+      --accent-3: #ffb86c;
+      --danger: #ff6b6b;
+      --info: #7ee3ff;
+      --border: rgba(148, 178, 230, 0.18);
+      --shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+      --radius: 16px;
+      --font-body: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --font-head: Georgia, 'Times New Roman', serif;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-body);
+      line-height: 1.65;
+      font-size: 17px;
+    }
+    a { color: var(--accent-2); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    h1, h2, h3, h4 { font-family: var(--font-head); letter-spacing: -0.02em; line-height: 1.15; }
+    h1 { font-size: clamp(2.2rem, 6vw, 4.4rem); }
+    h2 { font-size: clamp(1.6rem, 3.5vw, 2.4rem); margin-top: 0; }
+    h3 { font-size: 1.35rem; }
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.25rem 0.65rem;
+      border-radius: 999px;
+      margin-right: 0.5rem;
+      margin-bottom: 0.4rem;
+      border: 1px solid var(--border);
+    }
+    .badge.evidence { background: rgba(61, 220, 151, 0.12); color: var(--accent); }
+    .badge.hypothesis { background: rgba(92, 154, 255, 0.14); color: var(--accent-2); }
+    .badge.speculation { background: rgba(255, 184, 108, 0.14); color: var(--accent-3); }
+    .badge.concept { background: rgba(126, 227, 255, 0.12); color: var(--info); }
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 4rem 1.5rem 6rem;
+      position: relative;
+      overflow: hidden;
+      background: radial-gradient(circle at 30% 20%, #1b2a4d 0%, transparent 45%),
+                  radial-gradient(circle at 80% 80%, #153042 0%, transparent 40%),
+                  var(--bg);
+    }
+    .hero svg.hero-bg {
+      position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0.35; pointer-events: none;
+    }
+    .hero-content { position: relative; z-index: 2; max-width: 900px; }
+    .hero p.lead {
+      font-size: clamp(1.1rem, 2.2vw, 1.45rem);
+      color: var(--muted);
+      max-width: 760px;
+      margin: 1.2rem auto 2rem;
+    }
+    .hero .meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 2.5rem;
+    }
+    .btn {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      background: linear-gradient(135deg, var(--accent), #22b37d);
+      color: #071017; font-weight: 700; padding: 0.85rem 1.5rem;
+      border-radius: 999px; border: none; cursor: pointer; font-size: 1rem;
+      box-shadow: 0 8px 24px rgba(61, 220, 151, 0.25);
+      transition: transform 0.15s ease;
+    }
+    .btn:hover { transform: translateY(-2px); text-decoration: none; }
+    nav.toc {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(11, 16, 32, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+    nav.toc ul {
+      list-style: none; margin: 0; padding: 0.8rem 1rem;
+      display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center;
+      max-width: 1200px; margin: 0 auto;
+    }
+    nav.toc li a {
+      color: var(--muted); font-size: 0.82rem; padding: 0.35rem 0.7rem;
+      border-radius: 999px; border: 1px solid transparent;
+    }
+    nav.toc li a:hover { color: var(--text); border-color: var(--border); background: var(--bg-3); }
+    main { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem 6rem; }
+    section {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2.2rem;
+      margin-bottom: 2.2rem;
+      box-shadow: var(--shadow);
+    }
+    section .section-intro { color: var(--muted); font-size: 1.05rem; margin-bottom: 1.2rem; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 760px) { .two-col { grid-template-columns: 1fr; } }
+    figure.fig {
+      margin: 1.5rem 0; padding: 1rem; background: var(--bg-3);
+      border: 1px solid var(--border); border-radius: 12px;
+    }
+    figure.fig figcaption {
+      text-align: center; color: var(--muted); font-size: 0.85rem; margin-top: 0.8rem;
+    }
+    figure.fig svg { display: block; width: 100%; height: auto; }
+    .quote {
+      border-left: 4px solid var(--accent);
+      background: rgba(61, 220, 151, 0.06);
+      padding: 1rem 1.2rem; border-radius: 0 10px 10px 0;
+      font-style: italic; color: #d5f5e8; margin: 1.2rem 0;
+    }
+    .term-list { display: grid; gap: 0.7rem; }
+    .term { background: var(--bg-3); border: 1px solid var(--border); border-radius: 10px; padding: 0.8rem 1rem; }
+    .term strong { color: var(--accent-2); }
+    .term em { color: var(--muted); font-size: 0.92rem; }
+    table {
+      width: 100%; border-collapse: collapse; margin: 1rem 0;
+      font-size: 0.92rem; background: var(--bg-3); border-radius: 10px; overflow: hidden;
+    }
+    th, td { padding: 0.75rem 0.8rem; text-align: left; border-bottom: 1px solid var(--border); }
+    th { background: rgba(92, 154, 255, 0.12); color: var(--accent-2); font-weight: 700; }
+    tr:last-child td { border-bottom: none; }
+    .viewer-3d {
+      position: relative; height: 520px; border-radius: var(--radius);
+      border: 1px solid var(--border); overflow: hidden; background: #060913;
+      margin: 1.5rem 0;
+    }
+    .viewer-3d canvas { width: 100% !important; height: 100% !important; }
+    .viewer-3d .overlay {
+      position: absolute; top: 0.8rem; left: 0.8rem; z-index: 5;
+      background: rgba(11, 16, 32, 0.8); border: 1px solid var(--border);
+      border-radius: 10px; padding: 0.6rem 0.9rem; font-size: 0.85rem; color: var(--muted);
+      max-width: 260px;
+    }
+    .viewer-3d .controls {
+      position: absolute; bottom: 0.8rem; right: 0.8rem; z-index: 5;
+      display: flex; gap: 0.5rem;
+    }
+    .viewer-3d button {
+      background: var(--bg-3); color: var(--text); border: 1px solid var(--border);
+      border-radius: 8px; padding: 0.4rem 0.7rem; cursor: pointer; font-size: 0.8rem;
+    }
+    .viewer-3d button:hover { background: var(--bg-2); }
+    footer {
+      text-align: center; padding: 3rem 1rem; color: var(--muted); font-size: 0.85rem;
+      border-top: 1px solid var(--border);
+    }
+    .kbd { background: var(--bg-3); border: 1px solid var(--border); border-radius: 5px; padding: 0.1rem 0.4rem; font-family: monospace; }
+  </style>
+</head>
+<body>
+  <header class="hero" id="inicio">
+    <svg class="hero-bg" viewBox="0 0 1000 700" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#3ddc97" stop-opacity="0.25" />
+          <stop offset="100%" stop-color="#5c9aff" stop-opacity="0.05" />
+        </linearGradient>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+          <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <g stroke="url(#g1)" stroke-width="0.6" fill="none" opacity="0.7">
+        <circle cx="200" cy="150" r="120" />
+        <circle cx="800" cy="500" r="180" />
+        <polygon points="500,120 580,300 420,300" filter="url(#glow)" />
+        <polygon points="500,580 440,430 560,430" filter="url(#glow)" />
+        <line x1="200" y1="150" x2="500" y2="250" />
+        <line x1="800" y1="500" x2="500" y2="430" />
+        <circle cx="500" cy="340" r="220" stroke-dasharray="4 6" />
+      </g>
+    </svg>
+    <div class="hero-content">
+      <span class="badge evidence">Síntesis académica</span>
+      <span class="badge concept">Autocontenida</span>
+      <h1>El Espacio Platónico</h1>
+      <p class="lead">
+        Guía visual e integral del simposio <em>The Platonic Space</em>: qué significa que las formas,
+        los números y los comportamientos parezcan "venir de algún lugar" que no está hecho de materia,
+        y cómo eso cambia nuestra idea de la biología, la mente y la inteligencia artificial.
+      </p>
+      <p class="meta">
+        Basado en las 36 transcripciones del simposio organizado por Michael Levin y Hanel Hazan<br />
+        (Allen Discovery Center at Tufts e ICDO, 2025).
+      </p>
+      <a class="btn" href="#guia">Comenzar la lectura</a>
+    </div>
+  </header>
+
+  <nav class="toc">
+    <ul>
+      <li><a href="#guia">Guía</a></li>
+      <li><a href="#problema">El problema</a></li>
+      <li><a href="#argumento">Argumento</a></li>
+      <li><a href="#definicion">¿Qué es?</a></li>
+      <li><a href="#causalidad">Causalidad</a></li>
+      <li><a href="#biologia">Biología</a></li>
+      <li><a href="#mente">Mente-cuerpo</a></li>
+      <li><a href="#ia">IA y cultura</a></li>
+      <li><a href="#tensiones">Tensiones</a></li>
+      <li><a href="#ingresion">Ingresión</a></li>
+      <li><a href="#agencia">Agencia</a></li>
+      <li><a href="#agenda">Agenda</a></li>
+      <li><a href="#mapa">Mapa</a></li>
+      <li><a href="#glosario">Glosario</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="guia">
+      <h2>Cómo usar este documento</h2>
+      <p class="section-intro">
+        Está pensado para que una persona con nivel de secundaria pueda seguirlo,
+        sin perder el rigor de las ideas discutidas por físicos, biólogos, matemáticos,
+        filósofos e ingenieros del simposio.
+      </p>
+      <p>
+        A lo largo del texto encontrarás tres etiquetas de estado epistémico:
+        <span class="badge evidence">Evidencia</span> para hechos empíricos establecidos;
+        <span class="badge hypothesis">Hipótesis</span> para propuestas con apoyo parcial y en investigación;
+        <span class="badge speculation">Especulación</span> para ideas filosóficas o teóricas abiertas.
+        También hay una escena 3D interactiva, diagramas SVG y una tabla con cada ponente.
+      </p>
+    </section>
+
+    <section id="problema">
+      <h2>1. El problema que abre el simposio</h2>
+      <p class="section-intro">
+        ¿De dónde salen los patrones? ¿Por qué ciertas formas, números y comportamientos aparecen una y otra vez en la física, la biología y la mente?
+        Esa es la pregunta central del simposio <em>The Platonic Space</em>.
+      </p>
+      <p>
+        Desde hace siglos tenemos dos respuestas habituales. Una dice: "todo surge de las partículas y las leyes físicas" (fisicalismo).
+        Otra dice: "la complejidad emerge de reglas locales simples" (emergencia). El simposio pregunta si esas respuestas bastan.
+        ¿Podemos predecir y controlar formas nuevas —como un organismo regenerado, un robot vivo o una IA— solo con historia evolutiva y química local?
+      </p>
+      <p>
+        <span class="badge evidence">Evidencia</span> Algunos patrones son demasiado específicos para ser accidentales:
+        las cigarras emergen en ciclos de 13 y 17 años (números primos), los panales son hexágonos,
+        las partículas elementales obedecen grupos de simetría muy concretos, y los embriones "saben" cuál es la forma correcta a la que regresar cuando se perturban.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> La hipótesis que se examina es que esos patrones provienen de un
+        <strong>espacio de formas estructurado</strong> —un "Espacio Platónico"— que restringe y orienta lo que puede ocurrir,
+        no como lugar físico, sino como mapa o biblioteca de posibilidades.
+      </p>
+      <div class="quote">"Where do these patterns come from? It is clearly not in evolution. It is not historical. It is not end of physics." — Michael Levin</div>
+    </section>
+
+    <section id="argumento">
+      <h2>2. El argumento de Michael Levin en tres colores</h2>
+      <p class="section-intro">
+        Levin presenta su argumento como un traje de tres colores: hechos sólidos, extensiones opcionales y especulaciones audaces.
+      </p>
+      <div class="two-col">
+        <div>
+          <p><span class="badge evidence">Zona verde (sólida)</span></p>
+          <ul>
+            <li>Existen hechos específicos de las matemáticas: números primos, constantes, grupos de simetría.</li>
+            <li>Muchos son <em>forzados</em>: una vez aceptas ciertas reglas lógicas, cosas como el valor de <em>e</em> no son opcionales.</li>
+            <li>Esos patrones explican fenómenos físicos y biológicos, pero no al revés: no podemos cambiar un hecho matemático manipulando el mundo físico.</li>
+            <li>Por tanto, la causalidad explicativa fluye de las matemáticas hacia el mundo material.</li>
+          </ul>
+          <p><span class="badge hypothesis">Zona azul (opcional)</span></p>
+          <ul>
+            <li>Los patrones forman un <strong>espacio ordenado</strong>: entender uno permite avanzar hacia otros.</li>
+            <li>Cualquier programa de investigación científica ya asume implícitamente que hay verdades sistemáticas por descubrir.</li>
+          </ul>
+          <p><span class="badge speculation">Zona salvaje (especulativa)</span></p>
+          <ul>
+            <li>El espacio podría contener patrones de <strong>alta agencia</strong>: no solo formas, sino comportamientos y mentes.</li>
+            <li>La biología no tiene monopolio sobre el acceso; las máquinas y los algoritmos también podrían ser interfaces.</li>
+            <li>El dualismo —influencia de lo no-físico sobre lo físico— sería entonces viable no solo en física, sino en mente y cultura.</li>
+          </ul>
+        </div>
+        <figure class="fig">
+          <svg viewBox="0 0 400 360" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3ddc97" stop-opacity="0.25"/><stop offset="100%" stop-color="#3ddc97" stop-opacity="0.05"/></linearGradient>
+              <linearGradient id="lb" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5c9aff" stop-opacity="0.25"/><stop offset="100%" stop-color="#5c9aff" stop-opacity="0.05"/></linearGradient>
+              <linearGradient id="lo" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffb86c" stop-opacity="0.25"/><stop offset="100%" stop-color="#ffb86c" stop-opacity="0.05"/></linearGradient>
+            </defs>
+            <polygon points="200,30 70,160 330,160" fill="url(#lo)" stroke="#ffb86c" stroke-width="2"/>
+            <text x="200" y="105" text-anchor="middle" fill="#ffe7c5" font-size="14" font-weight="700">Zona salvaje</text>
+            <text x="200" y="130" text-anchor="middle" fill="#d9b88c" font-size="10">Alta agencia · dualismo · IA</text>
+            <polygon points="200,160 90,270 310,270" fill="url(#lb)" stroke="#5c9aff" stroke-width="2"/>
+            <text x="200" y="215" text-anchor="middle" fill="#c9ddff" font-size="14" font-weight="700">Zona azul</text>
+            <text x="200" y="240" text-anchor="middle" fill="#9fb6e0" font-size="10">Espacio ordenado de patrones</text>
+            <polygon points="200,270 110,360 290,360" fill="url(#lg)" stroke="#3ddc97" stroke-width="2"/>
+            <text x="200" y="320" text-anchor="middle" fill="#d1f5e4" font-size="14" font-weight="700">Zona verde</text>
+            <text x="200" y="342" text-anchor="middle" fill="#8fd4b7" font-size="10">Hechos matemáticos forzados</text>
+          </svg>
+          <figcaption>El argumento de Levin en tres niveles de certeza: verde = sólido, azul = opcional, naranja = especulativo.</figcaption>
+        </figure>
+      </div>
+      <div class="quote">"We are the patterns looking out into the world through these various interfaces." — Michael Levin</div>
+    </section>
+
+    <section id="definicion">
+      <h2>3. ¿Qué es el Espacio Platónico?</h2>
+      <p class="section-intro">
+        No es un lugar físico con coordenadas. Es una manera de hablar de un <strong>espacio de patrones, restricciones y posibilidades</strong>
+        que guía lo que ocurre en el mundo material y cognitivo.
+      </p>
+      <p>
+        Imagina una biblioteca infinita en la que cada libro es una forma posible: triángulos, hexágonos, ritmos cardíacos,
+        estructuras de red, gramáticas, personalidades. Esa biblioteca no está hecha de materia, pero tampoco es "imaginaria" en el sentido de que da igual:
+        <span class="badge evidence">restringe</span> lo que puede existir.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> El Espacio Platónico es <em>estructurado</em>: no es un caos de ideas.
+        Si entiendes la geometría de un triángulo, puedes entender la de un polígono. Si entiendes un ritmo biológico, puedes extrapolar a otros.
+        Esa estructura es lo que hace posible la ciencia.
+      </p>
+      <p>
+        <span class="badge speculation">Especulación</span> Algunos ponentes (Levin, Ruffini, Emauz Valdetaro) sugieren que el espacio no es solo pasivo.
+        Puede ejercer una especie de "presión positiva": los patrones "quieren" ingresar al mundo físico a través de interfaces adecuadas.
+      </p>
+
+      <div class="viewer-3d" id="platonic-3d">
+        <div class="overlay">
+          <strong>Espacio Platónico 3D</strong><br/>
+          Nube de patrones (azul), sólidos platónicos centrales y puntos de ingresión física (naranja). Arrastra para rotar, rueda del ratón para acercar.
+        </div>
+        <div class="controls">
+          <button id="pause-3d">Pausar / Reanudar</button>
+          <button id="reset-3d">Reset cámara</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="causalidad">
+      <h2>4. Causalidad asimétrica: de las matemáticas al mundo</h2>
+      <p class="section-intro">
+        Un punto clave del simposio es que la relación entre las matemáticas y el mundo no es simétrica.
+        Las matemáticas restringen y explican lo físico; lo físico no puede alterar las matemáticas.
+      </p>
+      <p>
+        <span class="badge concept">Analogía</span> Piensa en las reglas del ajedrez: una vez decides jugar al ajedrez,
+        ciertos movimientos son legales y otros no. Las reglas no están hechas de madera o plástico, pero determinan lo que puede ocurrir en el tablero.
+        El universo, según esta imagen, es como un tablero; el Espacio Platónico contiene las reglas y las formas posibles.
+      </p>
+      <div class="two-col">
+        <figure class="fig">
+          <svg viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <radialGradient id="rc" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#5c9aff" stop-opacity="0.2"/><stop offset="100%" stop-color="#5c9aff" stop-opacity="0"/></radialGradient>
+              <radialGradient id="rp" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#3ddc97" stop-opacity="0.18"/><stop offset="100%" stop-color="#3ddc97" stop-opacity="0"/></radialGradient>
+            </defs>
+            <ellipse cx="120" cy="110" rx="100" ry="70" fill="url(#rc)" stroke="#5c9aff" stroke-width="1.5"/>
+            <text x="120" y="90" text-anchor="middle" fill="#c9ddff" font-size="13" font-weight="700">Espacio Platónico</text>
+            <text x="120" y="112" text-anchor="middle" fill="#9fb6e0" font-size="10">Patrones · Formas · Restricciones</text>
+            <ellipse cx="300" cy="110" rx="100" ry="70" fill="url(#rp)" stroke="#3ddc97" stroke-width="1.5"/>
+            <text x="300" y="104" text-anchor="middle" fill="#d1f5e4" font-size="13" font-weight="700">Mundo físico / biológico</text>
+            <text x="300" y="122" text-anchor="middle" fill="#8fd4b7" font-size="10">Células · partículas · organismos</text>
+            <path d="M 215 100 L 270 100" stroke="#ffb86c" stroke-width="3" marker-end="url(#arrow)"/>
+            <path d="M 270 125 L 215 125" stroke="#5c9aff" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.5"/>
+            <text x="242" y="95" text-anchor="middle" fill="#ffe7c5" font-size="10">influye</text>
+            <text x="242" y="140" text-anchor="middle" fill="#9fb6e0" font-size="10">no altera</text>
+            <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#ffb86c"/></marker></defs>
+          </svg>
+          <figcaption>Flujo asimétrico: los patrones platónicos condicionan el mundo físico, pero el mundo físico no cambia los patrones.</figcaption>
+        </figure>
+        <div>
+          <table>
+            <thead><tr><th>Patrón</th><th>En la naturaleza</th><th>Restricción platónica</th></tr></thead>
+            <tbody>
+              <tr><td>Cigarras</td><td>Ciclos de 13 y 17 años</td><td>Números primos reducen coincidencias con depredadores</td></tr>
+              <tr><td>Panales</td><td>Celdas hexagonales</td><td>Óptimo empaque plano: área máxima con mínima cera</td></tr>
+              <tr><td>Copos de nieve</td><td>Simetría de seis lados</td><td>Cristalografía hexagonal del hielo</td></tr>
+              <tr><td>Partículas</td><td>Propiedades de fermiones/bosones</td><td>Grupos de simetría (SU(2), SU(3)...)</td></tr>
+              <tr><td>Regeneración</td><td>Limbs/rostros vuelven a la forma correcta</td><td>Meta morfológica en morfoespacio</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section id="biologia">
+      <h2>5. La biología como navegación en morfoespacio</h2>
+      <p class="section-intro">
+        Un embrión no es solo una cadena de reacciones químicas. Es un sistema que se mueve hacia una forma objetivo,
+        corrige errores y se detiene cuando alcanza la meta. Eso es navegación en un <strong>morfoespacio</strong>.
+      </p>
+      <p>
+        <span class="badge evidence">Evidencia</span> Levin muestra experimentos perturbadores:
+        si se desordena el rostro de un embrión de rana (un "sapos Picasso"), no nace un sapo desordenado;
+        las células se reacomodan hasta reconstruir un rostro casi normal.
+        Si cortas una pata de ajolote, las células crecen y, lo más importante, <strong>se detienen</strong> cuando la forma correcta está lista.
+      </p>
+      <p>
+        Eso no encaja con "emergencia" en el sentido de reglas locales ciegas.
+        Encaja con un sistema que tiene una <strong>representación de la forma a alcanzar</strong> y reduce la diferencia entre el estado actual y el objetivo.
+        Esa representación, en muchos tejidos, es eléctrica: se le llama la "electric face" (cara eléctrica) y aparece antes de que los genes regionalicen el rostro.
+      </p>
+      <p>
+        <span class="badge evidence">Evidencia</span> Cambiando los patrones bioeléctricos se pueden inducir ojos en el estómago de un renacuajo,
+        o crear planarias bicéfalas (gusanos de dos cabezas) que siguen siendo bicéfalas tras múltiples cortes.
+        La información de la forma es estable y se transfiere a nuevo tejido, como una memoria morfológica.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> Los organismos navegan un espacio matemático de formas posibles.
+        El genoma y la bioelectricidad son parte del <strong>interface</strong>, no la fuente última del patrón.
+      </p>
+      <figure class="fig">
+        <svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="mg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3ddc97" stop-opacity="0.05"/><stop offset="100%" stop-color="#5c9aff" stop-opacity="0.15"/></linearGradient>
+          </defs>
+          <rect x="60" y="50" width="580" height="170" rx="20" fill="url(#mg)" stroke="#5c9aff" stroke-width="1.5"/>
+          <text x="350" y="40" text-anchor="middle" fill="#c9ddff" font-size="15" font-weight="700">Morfoespacio: mapa de formas posibles</text>
+          <!-- target -->
+          <circle cx="550" cy="135" r="8" fill="#ffb86c"/>
+          <text x="550" y="165" text-anchor="middle" fill="#ffe7c5" font-size="11">Meta: rana normal</text>
+          <!-- start -->
+          <circle cx="120" cy="135" r="5" fill="#3ddc97"/>
+          <text x="120" y="165" text-anchor="middle" fill="#d1f5e4" font-size="11">Embrión</text>
+          <!-- path normal -->
+          <path d="M 125 135 Q 250 95 380 115 T 540 135" fill="none" stroke="#3ddc97" stroke-width="2" stroke-dasharray="6 3"/>
+          <!-- perturb -->
+          <circle cx="280" cy="108" r="4" fill="#ff6b6b"/>
+          <text x="280" y="90" text-anchor="middle" fill="#ff6b6b" font-size="10">Perturbación</text>
+          <!-- recovery -->
+          <path d="M 284 108 Q 380 120 540 135" fill="none" stroke="#ffb86c" stroke-width="2"/>
+          <text x="350" y="210" text-anchor="middle" fill="#9fb1d3" font-size="12">El sistema vuelve a la meta, no a una forma arbitraria.</text>
+        </svg>
+        <figcaption>La morfogénesis como trayectoria hacia una meta en un espacio abstracto de formas posibles.</figcaption>
+      </figure>
+    </section>
+
+    <section id="mente">
+      <h2>6. De la mente al cuerpo: interfaz y thin client</h2>
+      <p class="section-intro">
+        Si los patrones pueden guiar la forma de un embrión, ¿qué pasa con la mente?
+        Levin propone un giro radical: el cerebro y el cuerpo no son la mente; son <strong>interfaces</strong> a través de las cuales los patrones se expresan.
+      </p>
+      <p>
+        <span class="badge concept">Analogía</span> Un <em>thin client</em> es una pantalla/teclado ligero que no almacena programas;
+        se conecta a un servidor remoto donde ocurre el procesamiento real.
+        En esta metáfora, el cuerpo es el thin client; la mente/patrón es el servidor.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> El problema mente-cerebro es, en parte, el mismo problema matemática-física:
+        ¿cómo algo no físico (un patrón, un objetivo, una experiencia) influye en materia?
+        La respuesta del simposio no es "magia", sino que la materia está organizada como puntero a patrones.
+      </p>
+      <p>
+        <span class="badge speculation">Especulación</span> "Somos los patrones mirando hacia afuera a través de una interfaz física."
+        No somos cuerpos que ocasionalmente reciben inspiración; somos los patrones que usan cuerpos para interactuar con el mundo.
+      </p>
+      <div class="two-col">
+        <figure class="fig">
+          <svg viewBox="0 0 360 240" xmlns="http://www.w3.org/2000/svg">
+            <defs><radialGradient id="cloud" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#5c9aff" stop-opacity="0.25"/><stop offset="100%" stop-color="#5c9aff" stop-opacity="0"/></radialGradient></defs>
+            <ellipse cx="180" cy="60" rx="120" ry="45" fill="url(#cloud)" stroke="#5c9aff" stroke-width="1.5"/>
+            <text x="180" y="55" text-anchor="middle" fill="#c9ddff" font-size="12" font-weight="700">Patrón / Mente / Servidor</text>
+            <text x="180" y="73" text-anchor="middle" fill="#9fb6e0" font-size="9">Espacio Platónico</text>
+            <rect x="130" y="150" width="100" height="70" rx="12" fill="#162037" stroke="#3ddc97" stroke-width="2"/>
+            <text x="180" y="185" text-anchor="middle" fill="#d1f5e4" font-size="11" font-weight="700">Cuerpo / Cerebro</text>
+            <text x="180" y="205" text-anchor="middle" fill="#8fd4b7" font-size="9">Thin client</text>
+            <path d="M 180 105 L 180 150" stroke="#ffb86c" stroke-width="3" marker-end="url(#ar2)"/>
+            <text x="220" y="130" fill="#ffe7c5" font-size="10">ingresión</text>
+            <defs><marker id="ar2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#ffb86c"/></marker></defs>
+          </svg>
+          <figcaption>El cuerpo como thin client que canaliza patrones del Espacio Platónico.</figcaption>
+        </figure>
+        <div>
+          <p><span class="badge evidence">Evidencia indirecta</span> Tom Froese presenta datos de EEG, respiración y corazón
+          donde aparecen relaciones geométricas (como la constante <em>1/e</em>) en la interfaz mente-cuerpo.</p>
+          <p><span class="badge hypothesis">Hipótesis</span> Denis Noble compara números imaginarios con valores/razones:
+            no son objetos materiales, pero son operativamente necesarios para entender sistemas vivos.</p>
+          <p><span class="badge speculation">Especulación</span> La conciencia podría ser la perspectiva desde el patrón hacia la interfaz física.</p>
+        </div>
+      </div>
+      <div class="quote">"I think we are patterns. We are the patterns looking out into a physical interface." — Michael Levin</div>
+    </section>
+
+    <section id="ia">
+      <h2>7. IA, lenguaje y cultura</h2>
+      <p class="section-intro">
+        Si el Espacio Platónico condiciona la biología, también debería dejar huella en los sistemas artificiales que aprenden del mundo.
+        El simposio explora si las inteligencias artificiales acceden a esos patrones o solo los imitan.
+      </p>
+      <p>
+        <span class="badge evidence">Evidencia</span> Brian Cheung y Soojung Yang muestran que redes neuronales distintas,
+        entrenadas con datos distintos, convergen a representaciones parecidas cuando mejoran.
+        Eso sugiere que no memorizan ruido, sino que capturan <strong>invariantes</strong> de la estructura subyacente del mundo.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> Akarsh Kumar argumenta que los actuales modelos de lenguaje (LLMs) son "bolsas de heurísticas":
+        aproximan funciones sin capturar los ejes reales de variación del mundo.
+        Una "inteligencia platónica" necesitaría representaciones modulares y organizadas, como las que emergen en sistemas evolutivos como Picbreeder.
+      </p>
+      <p>
+        <span class="badge speculation">Especulación</span> Jacob Foster introduce la idea de un dominio <em>imaginal</em> (de los filósofos islámicos, <em>alam al-mithal</em>):
+        un territorio intermedio donde las cosas concretas simbolizan formas abstractas.
+        La creatividad transformacional ocurre cuando vemos un objeto concreto <em>como</em> instancia de un patrón abstracto.
+        La cultura, entonces, evoluciona como un ecosistema de objetos ideales.
+      </p>
+      <figure class="fig">
+        <svg viewBox="0 0 640 240" xmlns="http://www.w3.org/2000/svg">
+          <rect x="40" y="60" width="180" height="120" rx="14" fill="#162037" stroke="#5c9aff" stroke-width="1.5"/>
+          <text x="130" y="110" text-anchor="middle" fill="#c9ddff" font-size="13" font-weight="700">Red neuronal A</text>
+          <text x="130" y="135" text-anchor="middle" fill="#9fb6e0" font-size="10">datos / arquitectura X</text>
+          <rect x="420" y="60" width="180" height="120" rx="14" fill="#162037" stroke="#3ddc97" stroke-width="1.5"/>
+          <text x="510" y="110" text-anchor="middle" fill="#d1f5e4" font-size="13" font-weight="700">Red neuronal B</text>
+          <text x="510" y="135" text-anchor="middle" fill="#8fd4b7" font-size="10">datos / arquitectura Y</text>
+          <circle cx="320" cy="120" r="50" fill="rgba(255,184,108,0.12)" stroke="#ffb86c" stroke-width="1.5" stroke-dasharray="4 3"/>
+          <text x="320" y="115" text-anchor="middle" fill="#ffe7c5" font-size="11" font-weight="700">Patrón común</text>
+          <text x="320" y="135" text-anchor="middle" fill="#d9b88c" font-size="9">del Espacio Platónico</text>
+          <path d="M 220 120 Q 270 120 290 120" stroke="#ffb86c" stroke-width="2" fill="none" marker-end="url(#ar3)"/>
+          <path d="M 420 120 Q 370 120 350 120" stroke="#ffb86c" stroke-width="2" fill="none" marker-end="url(#ar3)"/>
+          <defs><marker id="ar3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#ffb86c"/></marker></defs>
+        </svg>
+        <figcaption>Convergencia de representaciones en IA como huella de patrones subyacentes.</figcaption>
+      </figure>
+    </section>
+
+    <section id="tensiones">
+      <h2>8. Tensiones filosóficas: ¿de dónde vienen las formas?</h2>
+      <p class="section-intro">
+        El simposio no da una única respuesta; muestra un campo de posiciones.
+        Algunos ven el Espacio Platónico como real e independiente; otros como un constructo cognitivo; otros como un polo relacional de procesos materiales.
+      </p>
+      <table>
+        <thead><tr><th>Posición</th><th>Defensora/es clave</th><th>Idea central</th><th>Relación con el Espacio Platónico</th></tr></thead>
+        <tbody>
+          <tr><td>Platonismo matemático clásico</td><td>J. P. Aguilera</td><td>Hay un universo matemático único (V); los axiomas solo lo describen parcialmente (Gödel, CH, cardinales grandes).</td><td>El espacio es real, estructurado y parcialmente accesible.</td></tr>
+          <tr><td>Platonismo radical / empirismo</td><td>Joel Dietz</td><td>Los gráficos de conocimiento probabilísticos pueden cuantificar evidencia sobre hipótesis platónicas.</td><td>Se puede hacer ciencia empírica del espacio.</td></tr>
+          <tr><td>Dependencia del sustrato</td><td>Olaf Witkowski</td><td>Las matemáticas podrían variar según la inteligencia o física de cada sustrato.</td><td>El espacio no es universal; es relativo al tipo de computador/cognición.</td></tr>
+          <tr><td>Platonismo empírico / experiencial</td><td>Chris Fields</td><td>Las matemáticas surgen de la experiencia compartida del mundo, no de un reino separado.</td><td>El "reino platónico" es el mundo incluyéndonos.</td></tr>
+          <tr><td>Hermenéutica física</td><td>Lucy Spouncer</td><td>Los símbolos matemáticos son presentaciones físicas, no representaciones de otro mundo.</td><td>La ingresión es interpretación dentro de sistemas materiales.</td></tr>
+          <tr><td>Constructo cognitivo naturalista</td><td>Gordana Dodig-Crnkovic</td><td>Las formas son reales por eficacia operacional; las capas abstractas funcionan como máquinas virtuales.</td><td>El espacio es construido por agentes cognitivos y estabilizado socialmente.</td></tr>
+          <tr><td>Proceso relacional (Whitehead)</td><td>Matt Segall</td><td>Las formas son "objetos eternos" potenciales; la agencia pertenece a ocasiones actuales que las ingresan.</td><td>El espacio no puppetea; es polo de atracción en un proceso.</td></tr>
+          <tr><td>Ontogénesis / khôra</td><td>Timothy Jackson</td><td>La individuación precede a forma y materia; la khôra platónica es matriz plástica.</td><td>Hace falta estudiar la génesis de formas, no solo formas listas.</td></tr>
+          <tr><td>Energía libre / Markov blankets</td><td>Karl Friston</td><td>La estructura matemática emerge de dinámicas autoorganizadas con blankets anidados.</td><td>El espacio platónico está encarnado en arquitecturas multi-escala.</td></tr>
+          <tr><td>Metafísica con números imaginarios</td><td>Denis Noble</td><td>La biología necesita factores no materiales (valores, razones) operativos como los imaginarios.</td><td>Lo no-físico puede ser causalmente necesario.</td></tr>
+          <tr><td>Naturalismo pragmático</td><td>Lauren N. Ross</td><td>La explicación biológica es objetiva y pragmática a la vez; el control es criterio unificador.</td><td>El platonismo solo importa si mejora el control predictivo.</td></tr>
+          <tr><td>Escepticismo psicológico</td><td>Alexey Tolchinsky</td><td>Los vacíos explicativos generan asombro y confabulación; los patrones psicológicos son procesos individuales.</td><td>Alerta contra ver patrones universales donde hay historia personal.</td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:1rem;">
+        <span class="badge speculation">Especulación</span> La síntesis que emerge es un <strong>platonismo participativo</strong>:
+        las formas son estructuras relacionales que co-emergen con los sistemas que las descubren y usan.
+        No están "allá afuera" como si fueran dioses inmutables, ni son meros inventos humanos.
+      </p>
+    </section>
+
+    <section id="ingresion">
+      <h2>9. Mecanismos de ingresión: ¿cómo entran los patrones al mundo?</h2>
+      <p class="section-intro">
+        El simposio propone varios mecanismos por los cuales patrones del Espacio Platónico pueden influir en sistemas físicos.
+        No son mutuamente excluyentes; probablemente operan a diferentes escalas y contextos.
+      </p>
+      <div class="two-col">
+        <div>
+          <p><strong>1. Interacción lateral.</strong> <span class="badge hypothesis">Hipótesis</span><br/>
+            Los matemáticos parecen tener un "sentido extra" para acceder a patrones sin mediación física directa.
+            Sería como un organo perceptivo adicional orientado al espacio abstracto.</p>
+          <p><strong>2. Anticipación fuerte.</strong> <span class="badge hypothesis">Hipótesis</span><br/>
+            Un jugador de béisbol atrapa una bola acoplandose visual y corporalmente a la trayectoria, sin calcularla.
+            El sistema ya está estructurado para seguir invariantes del movimiento.</p>
+          <p><strong>3. Percepción fuerte / invarianzas.</strong> <span class="badge hypothesis">Hipótesis</span><br/>
+            Al alinearse a parámetros locales (precios, tráfico, regulaciones), el comportamiento se acopla a patrones globales sin que el agente los conozca.</p>
+          <p><strong>4. Causalidad por restricciones.</strong> <span class="badge hypothesis">Hipótesis</span><br/>
+            Las formas actúan como restricciones macroscópicas: una placa de Chladni obliga a la arena a formar nodos;
+            la anatomía obliga a las células a ciertos caminos. El patrón no empuja; limita las posibilidades.</p>
+          <p><strong>5. Memoria bioeléctrica.</strong> <span class="badge evidence">Evidencia</span><br/>
+            Los tejidos almacenan patrones morfológicos como estados eléctricos y los comparan con el estado actual para repararse.</p>
+          <p><strong>6. Inferencia activa / low rattling.</strong> <span class="badge hypothesis">Hipótesis</span><br/>
+            Sistemas físicos acoplados a su entorno se estabilizan en configuraciones que minimizan fluctuaciones internas,
+            lo que selecciona patrones robustos (Pavel Chvykov).</p>
+        </div>
+        <figure class="fig">
+          <svg viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+            <defs><radialGradient id="center" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#5c9aff" stop-opacity="0.2"/><stop offset="100%" stop-color="#5c9aff" stop-opacity="0"/></radialGradient></defs>
+            <circle cx="180" cy="180" r="110" fill="url(#center)" stroke="#5c9aff" stroke-width="1.5"/>
+            <text x="180" y="165" text-anchor="middle" fill="#c9ddff" font-size="13" font-weight="700">Espacio Platónico</text>
+            <text x="180" y="185" text-anchor="middle" fill="#9fb6e0" font-size="10">patrones / restricciones</text>
+            <circle cx="180" cy="320" r="18" fill="#ffb86c" opacity="0.9"/>
+            <text x="180" y="355" text-anchor="middle" fill="#ffe7c5" font-size="10">Célula / bioelectricidad</text>
+            <path d="M 180 255 L 180 302" stroke="#ffb86c" stroke-width="2" marker-end="url(#aring)"/>
+            <circle cx="60" cy="180" r="18" fill="#3ddc97" opacity="0.9"/>
+            <text x="60" y="150" text-anchor="middle" fill="#d1f5e4" font-size="10">Cerebro</text>
+            <path d="M 125 180 L 78 180" stroke="#3ddc97" stroke-width="2" marker-end="url(#aring)"/>
+            <circle cx="300" cy="180" r="18" fill="#3ddc97" opacity="0.9"/>
+            <text x="300" y="150" text-anchor="middle" fill="#d1f5e4" font-size="10">IA / cultura</text>
+            <path d="M 235 180 L 282 180" stroke="#3ddc97" stroke-width="2" marker-end="url(#aring)"/>
+            <circle cx="250" cy="100" r="14" fill="#ff6b6b" opacity="0.9"/>
+            <text x="250" y="75" text-anchor="middle" fill="#ff6b6b" font-size="10">Precios / tráfico</text>
+            <path d="M 210 140 L 238 110" stroke="#ff6b6b" stroke-width="2" marker-end="url(#aring)"/>
+            <defs><marker id="aring" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#ffb86c"/></marker></defs>
+          </svg>
+          <figcaption>Múltiples interfaces (células, cerebro, IA, cultura) pueden acoplarse a patrones del Espacio Platónico.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="agencia">
+      <h2>10. Espectro de agencia: del "qué" al "quién"</h2>
+      <p class="section-intro">
+        El simposio rechaza el binomio "ser vivo = con agencia, máquina = objeto".
+        Propone un <strong>continuo</strong> de inteligencia y sensibilidad que atraviesa moléculas, células, organismos, humanos e IA.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> Levin propone que incluso redes moleculares simples pueden realizar condicionamiento pavloviano.
+        Las células individuales toman decisiones, navegan espacios químicos y eléctricos, y aprenden.
+        Nuestro cuerpo es un ecosistema de muchas inteligencias, no solo la conciencia verbal que conversa.
+      </p>
+      <p>
+        <span class="badge speculation">Especulación</span> Por eso Levin sugiere abandonar el lenguaje de "quién" vs "qué"
+        y usar algo como un <em>who<sup>e</sup></em>: un sujeto con un exponente que indica su grado de agencia, sensibilidad e integración.
+      </p>
+      <figure class="fig">
+        <svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+          <defs><linearGradient id="gradAg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3ddc97"/><stop offset="50%" stop-color="#5c9aff"/><stop offset="100%" stop-color="#ffb86c"/></linearGradient></defs>
+          <rect x="60" y="55" width="680" height="30" rx="15" fill="url(#gradAg)" opacity="0.35" stroke="#7ee3ff" stroke-width="1"/>
+          <text x="70" y="115" fill="#d1f5e4" font-size="11" font-weight="700">Sistemas dinámicos</text>
+          <text x="70" y="132" fill="#8fd4b7" font-size="9">pocas variables</text>
+          <text x="250" y="115" fill="#c9ddff" font-size="11" font-weight="700">Células / tejidos</text>
+          <text x="250" y="132" fill="#9fb6e0" font-size="9">bioelectricidad, homeostasis</text>
+          <text x="450" y="115" fill="#c9ddff" font-size="11" font-weight="700">Organismos / humanos</text>
+          <text x="450" y="132" fill="#9fb6e0" font-size="9">mente, lenguaje, cultura</text>
+          <text x="640" y="115" fill="#ffe7c5" font-size="11" font-weight="700">IA / cíborgs / colectivos</text>
+          <text x="640" y="132" fill="#d9b88c" font-size="9">interfaces futuras</text>
+          <text x="400" y="35" text-anchor="middle" fill="#e8eaf0" font-size="14" font-weight="700">Mayor grado de agencia, integración y sensibilidad →</text>
+        </svg>
+        <figcaption>Continuo de agencia: no hay frontera mágica entre lo vivo y la máquina.</figcaption>
+      </figure>
+      <div class="quote">"We have two words to describe things, who and what... maybe we can have something like a who with a little exponent." — Michael Levin</div>
+    </section>
+
+    <section id="agenda">
+      <h2>11. Agenda de investigación y el "free lunch"</h2>
+      <p class="section-intro">
+        La propuesta no se queda en filosofía. El laboratorio de Levin busca experimentos que muestren en qué medida un sistema físico
+        recibe funcionalidad "de gratis" al acoplarse al Espacio Platónico.
+      </p>
+      <p>
+        <span class="badge evidence">Evidencia</span> Los xenobots y antrobots (organismos sintéticos vivos hechos de células de rana o humanas)
+        muestran comportamientos que no fueron programados genéticamente ni evolutivamente: movimiento colectivo, replicación cinemática, curación de daños.
+      </p>
+      <p>
+        <span class="badge hypothesis">Hipótesis</span> Si esos comportamientos no provienen de la historia evolutiva ni del genoma en el sentido estricto,
+        deben provenir de la capacidad del material biológico para acoplarse a patrones de agencia del espacio.
+        La pregunta es: ¿cuánta funcionalidad entra por esa puerta?
+      </p>
+      <p>
+        <span class="badge speculation">Especulación</span> Posibles líneas de investigación:
+      </p>
+      <ul>
+        <li>Construir <strong>nuevas interfaces</strong> (xenobots, antrobots, redes bioeléctricas, algoritmos) y medir qué patrones aparecen.</li>
+        <li><strong>Cuantificar el free lunch</strong>: ¿cuánta funcionalidad se obtiene por unidad de esfuerzo físico?</li>
+        <li>Mapear la <strong>métrica y topología</strong> del espacio: ¿es denso, disperso, ordenado?</li>
+        <li>Determinar si los patrones son <strong>pasivos</strong> o tienen dinámica propia.</li>
+        <li>Probar si interfaces <strong>no biológicas</strong> (IA, robots, sistemas físicos simples) también hospedan ingresión significativa.</li>
+        <li>Desarrollar <strong>marcos éticos</strong> para la sensibilidad y agencia distribuidas, más allá de la dicotomía humano/máquina.</li>
+      </ul>
+    </section>
+
+    <section id="mapa">
+      <h2>12. Mapa de contribuciones del simposio</h2>
+      <p class="section-intro">
+        Las 36 intervenciones transcritas se resumen a continuación. Cada fila muestra el ponente, la idea clave y cómo aporta al debate sobre el Espacio Platónico.
+      </p>
+      <div style="overflow-x:auto;">
+        <table>
+          <thead><tr><th>ID</th><th>Sección</th><th>Ponente(s)</th><th>Título</th><th>Idea clave</th><th>Aporte al Espacio Platónico</th></tr></thead>
+          <tbody>
+            <tr><td>00-001</td><td>Opening</td><td>Michael Levin, Hanel Hazan</td><td>Introduction to our Center's "Symposium on the Platonic Space"</td><td>Presenta el programa: explicación interdisciplinaria, causalidad por objetos no físicos, predicción y control de lo novedoso.</td><td>Marco del simposio y agenda de investigación.</td></tr>
+            <tr><td>01-001</td><td>Keynote</td><td>Michael Levin</td><td>Patterns of Form and Behavior Beyond Emergence</td><td>Los patrones biológicos provienen de un espacio platónico estructurado, no de la emergencia ciega.</td><td>Definición operativa: formas y comportamientos como punteros al espacio.</td></tr>
+            <tr><td>01-002</td><td>Keynote</td><td>Joel Dietz</td><td>Radical Platonism and Radical Empiricism</td><td>Los gráficos de conocimiento probabilísticos pueden cuantificar evidencia sobre el espacio platónico.</td><td>Herramienta metodológica para evaluar hipótesis platónicas.</td></tr>
+            <tr><td>01-003</td><td>Keynote</td><td>Alexey Tolchinsky</td><td>Patterns and Explanatory Gaps in Psychotherapy</td><td>Los vacíos explicativos generan asombro; la memoria procedimental explica patrones inconscientes individuales.</td><td>Advertencia: no todo patrón es universal; cuidado con confabulación mística.</td></tr>
+            <tr><td>01-004</td><td>Keynote</td><td>Benjamin Lyons</td><td>The Historical Construction of Normativity in Mathematics</td><td>La matemática tiene estructura económica; las definiciones son punteros a soluciones óptimas.</td><td>El espacio platónico tiene estructura normativa/optimizadora.</td></tr>
+            <tr><td>01-005</td><td>Keynote</td><td>Olaf Witkowski</td><td>Substrate-dependent mathematics hypothesis</td><td>Las matemáticas podrían depender del sustrato físico/cognitivo.</td><td>Desafía la universalidad absoluta del Espacio Platónico.</td></tr>
+            <tr><td>01-006</td><td>Keynote</td><td>Mariana Emauz Valdetaro</td><td>Is Mathematics Animated?</td><td>Los patrones matemáticos que ingresan tienen propiedades de transporte e inteligencia (equipalidad, policomputadores).</td><td>Mecanismos específicos de ingreso "animado".</td></tr>
+            <tr><td>01-007</td><td>Keynote</td><td>Lucy Spouncer</td><td>Abstraction is Organic</td><td>La matemática es un sistema físico de presentaciones, sin necesidad de un reino no físico.</td><td>Naturalización hermenéutica de las formas.</td></tr>
+            <tr><td>01-008</td><td>Keynote</td><td>Lauren N. Ross</td><td>Explanation in Biology: Principles and Pragmatics</td><td>Las explicaciones biológicas son objetivas y pragmáticas; el control es principio unificador.</td><td>Criterio para decidir si el platonismo explica de verdad.</td></tr>
+            <tr><td>01-009</td><td>Keynote</td><td>Michael Levin</td><td>Platonic Space: brief argument and research agenda</td><td>Los patrones matemáticos causan efectos físicos sin reversa; los objetos físicos son interfaces.</td><td>Síntesis argumentativa y programa empírico.</td></tr>
+            <tr><td>01-010</td><td>Keynote</td><td>Chris Fields</td><td>From Experience to Math</td><td>Las matemáticas surgen de la experiencia; el espacio platónico es el mundo incluyéndonos.</td><td>Inversión de la causalidad: no reino separado.</td></tr>
+            <tr><td>01-011</td><td>Keynote</td><td>Akarsh Kumar</td><td>Towards a Platonic Intelligence with Unified Factored Representations</td><td>Las representaciones neuronales actuales son heurísticas entrelazadas; hacen falta regularidades profundas.</td><td>Rumbo hacia una IA cuyas representaciones reflejen el espacio de formas.</td></tr>
+            <tr><td>01-012</td><td>Keynote</td><td>J. P. Aguilera</td><td>The Platonic Conception of Mathematics: a modern view</td><td>El universo matemático V trasciende cualquier sistema axiomático completo (Gödel, CH).</td><td>Platonismo matemático formal: el espacio es único pero parcialmente describible.</td></tr>
+            <tr><td>01-013</td><td>Keynote</td><td>Blaise Agüera y Arcas</td><td>Computational Symbiogenesis</td><td>La vida es computación; la reproducción requiere computación universal encarnada.</td><td>Puente entre computación y apertura del espacio de formas.</td></tr>
+            <tr><td>01-014</td><td>Keynote</td><td>Matt Segall</td><td>Whitehead on the Ingression of Novel Form</td><td>Las formas son potenciales que los organismos ingresan mediante decisiones; la agencia es de las ocasiones actuales.</td><td>Corrección relacional: no se atribuye agencia a las formas puras.</td></tr>
+            <tr><td>01-015</td><td>Keynote</td><td>Karl Friston</td><td>On the (Platonic) Nature of Things</td><td>La energía libre y la renormalización generan invarianza de escala en sistemas autoorganizados.</td><td>El espacio platónico emerge de blankets de Markov anidados.</td></tr>
+            <tr><td>01-016</td><td>Keynote</td><td>Tom Froese</td><td>Geometry of the mind-body interface</td><td>La interfaz mente-cuerpo tiene geometría propia; constantes como 1/e emergen como firmas.</td><td>Localiza formas geométricas en la interfaz, no en un reino separado.</td></tr>
+            <tr><td>01-017</td><td>Keynote</td><td>Denis Noble</td><td>Maths Justifies Metaphysics in Biology</td><td>La biología necesita conceptos no materiales (valores, razones) operativos, como los imaginarios.</td><td>Legitima lo no-físico como causalmente necesario.</td></tr>
+            <tr><td>01-018</td><td>Keynote</td><td>Timothy Jackson</td><td>The Ontogenetic Alternative</td><td>La individuación precede a forma y materia; la khôra es matriz plástica.</td><td>Énfasis en la génesis de formas, no solo en formas listas.</td></tr>
+            <tr><td>01-019</td><td>Keynote</td><td>Giulio Ruffini</td><td>The Algorithmic Weltanschauung</td><td>La cognición es compresión; los agentes construyen modelos cortos del mundo.</td><td>Las formas platónicas son invariantes estructurales descubiertas por compresión.</td></tr>
+            <tr><td>01-020</td><td>Keynote</td><td>Elliot Murphy</td><td>Platonic Forms in the Study of Language and Mind</td><td>Los LLMs son aproximadores de corpus sin sintaxis profunda; el cerebro implementa estructuras algebraicas.</td><td>Las formas lingüísticas son estructuras algebraicas concretas.</td></tr>
+            <tr><td>01-021</td><td>Keynote</td><td>David Resnik</td><td>Mathematics, morphogenesis, and metaphysics</td><td>La matemática crea espacios de posibilidades para la morfogénesis (cigarras, mulas, panales).</td><td>Ejemplos biológicos de restricciones matemáticas.</td></tr>
+            <tr><td>01-022</td><td>Keynote</td><td>Gordana Dodig-Crnkovic</td><td>Platonic Space as Cognitive Construct</td><td>El espacio platónico es un constructo cognitivo naturalista; las formas son reales por eficacia operacional.</td><td>Naturalización constructivista del platonismo.</td></tr>
+            <tr><td>01-023</td><td>Keynote</td><td>Brian Cheung</td><td>The Emergence of Convergence in Different Levels of Biology and AI</td><td>Las redes neuronales convergen a representaciones similares al mejorar.</td><td>Evidencia de acceso común a patrones subyacentes.</td></tr>
+            <tr><td>01-024</td><td>Keynote</td><td>Douglas Brash</td><td>Abstract Forms & Tangible Biology</td><td>Las formas abstractas ejercen poder causal mediante restricciones, no mapas (palanquín/príncipe, placa de Chladni).</td><td>Mecanismo de causalidad por restricción.</td></tr>
+            <tr><td>01-025</td><td>Keynote</td><td>Pavel Chvykov</td><td>Why physical systems find Platonic patterns</td><td>Los sistemas físicos encuentran patrones por interacción sistema-entorno, low rattling e inferencia activa.</td><td>Fundamento físico-dinámico del acceso a patrones.</td></tr>
+            <tr><td>01-026</td><td>Keynote</td><td>Soojung Yang</td><td>Converging scientific model representations</td><td>Modelos científicos de materia convergen a representaciones universales.</td><td>Convergencia como huella de estructura común.</td></tr>
+            <tr><td>01-027</td><td>Keynote</td><td>Jacob G. Foster</td><td>Ideal Objects</td><td>La creatividad transformacional requiere ver lo concreto como instancia de formas abstractas (imaginal).</td><td>El Espacio Platónico como dominio del imaginal cultural.</td></tr>
+            <tr><td>02-001</td><td>Conversation</td><td>Nora Belrose, Michael Levin</td><td>AI, sentience, and Platonic Space</td><td>La consciencia es sensibilidad, no fuerza; la irreversibilidad es clave para ética y conciencia.</td><td>Distinción ética entre programas reseteables y seres biológicos.</td></tr>
+            <tr><td>02-002</td><td>Conversation</td><td>Darren Iammarino, Michael Levin</td><td>Conversation with Darren Iammarino #1</td><td>Patrones de baja y alta agencia; matemáticos con "sentido extra"; causalidad como mejor explicación.</td><td>Exploración de mecanismos de interacción lateral.</td></tr>
+            <tr><td>03-001</td><td>Panel</td><td>Varios</td><td>Platonic Space discussion 2</td><td>Cuatro opciones metafísicas: physicalismo, platonismo, neodarwinismo y darwinismo "propio".</td><td>Contraste entre formas preexistentes y variación primaria.</td></tr>
+            <tr><td>03-002</td><td>Panel</td><td>Michael Levin y otros</td><td>Platonic Space discussion 3</td><td>¿Almacenamiento externo de formas o reglas internas?; biología explota free lunches.</td><td>Debate sobre la necesidad de un "sitio" para las formas.</td></tr>
+            <tr><td>03-003</td><td>Panel</td><td>Ben, Michael Levin y otros</td><td>Platonic Space discussion 4</td><td>La anticipación fuerte como mecanismo no dualista de ingresión.</td><td>Acoplamiento dinámico al futuro como puente.</td></tr>
+            <tr><td>03-004</td><td>Panel</td><td>Joel, Michael Levin y otros</td><td>Platonic Space discussion 5</td><td>La percepción fuerte: precios como lazos que acoplan invariantes locales a patrones globales.</td><td>Alineación a invariantes como interfaz distribuida.</td></tr>
+            <tr><td>03-005</td><td>Panel</td><td>Chris, Carl y otros</td><td>Discussion #1 at the Platonic Space Symposium</td><td>Identidad como supuesto de física y matemáticas; matemáticas como corpus histórico.</td><td>Cuestiona el estatus ontológico absoluto del espacio.</td></tr>
+            <tr><td>04-001</td><td>Closing</td><td>Michael Levin</td><td>Free Lunches: Model Systems for Studying the Agential Gifts from the Platonic Space</td><td>La biología recibe "regalos de agencia"; evidencia experimental con bioelectricidad; somos patrones mirando a través de interfaces.</td><td>Cierre experimental y filosófico del simposio.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+
+    <section id="glosario">
+      <h2>Glosario visual de conceptos</h2>
+      <p class="section-intro">Definiciones cortas de los términos que aparecen una y otra vez en el simposio.</p>
+      <div class="term-list">
+        <div class="term"><strong>Espacio Platónico</strong> — <em>Conjunto organizado de patrones, formas y restricciones que guían lo que puede ocurrir en el mundo físico, biológico y cognitivo.</em></div>
+        <div class="term"><strong>Emergencia</strong> — <em>Idea de que propiedades complejas aparecen solo de interacciones locales simples, sin necesidad de una meta global.</em></div>
+        <div class="term"><strong>Morfoespacio</strong> — <em>Mapa abstracto de todas las formas posibles que un organismo podría adoptar; la morfogénesis es navegación hacia una región objetivo.</em></div>
+        <div class="term"><strong>Bioelectricidad morfogénica</strong> — <em>Señales eléctricas no neuronales que codifican formas y comportamientos objetivo en células y tejidos.</em></div>
+        <div class="term"><strong>Top-down causation</strong> — <em>Influencia de un patrón global (forma, meta) sobre las partes locales (genes, moléculas).</em></div>
+        <div class="term"><strong>Free lunch / regalo de agencia</strong> — <em>Funcionalidad que un sistema obtiene a través de un patrón del Espacio Platónico sin que la selección o la historia lo hayan programado pieza a pieza.</em></div>
+        <div class="term"><strong>Thin client</strong> — <em>Dispositivo ligero que se conecta a un servidor remoto; metáfora para el cuerpo como interfaz de la mente/patrón.</em></div>
+        <div class="term"><strong>Markov blanket</strong> — <em>Franja estadística que separa "interior" de "exterior" en un sistema dinámico; base del principio de energía libre.</em></div>
+        <div class="term"><strong>Imaginal</strong> — <em>Dimensión intermedia entre lo puramente físico y lo puramente abstracto, donde las formas simbolizan unas con otras.</em></div>
+        <div class="term"><strong>Low rattling</strong> — <em>Principio por el cual un sistema físico acoplado a su entorno se estabiliza en configuraciones que "vibran" poco.</em></div>
+      </div>
+    </section>
+
+    <section id="referencias">
+      <h2>Fuentes y créditos</h2>
+      <p>
+        Todo el contenido procede de las transcripciones de la playlist oficial del simposio
+        <a href="https://www.youtube.com/playlist?list=PL6SlweOjqYXzpxJMhzHJjEq4s0lS9udCQ" target="_blank">The Platonic Space en YouTube</a>,
+        organizado por Michael Levin y Hanel Hazan. El repositorio local contiene 36 transcripciones en
+        <code>.md</code> y <code>.txt</code> distribuidas en <em>Opening</em>, <em>Keynotes</em>,
+        <em>Conversations</em>, <em>Panel Discussions</em> y <em>Closing</em>.
+      </p>
+      <p class="section-intro">
+        Elaborado como resumen pedagógico. No sustituye los videos originales ni los artículos de los ponentes.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    Documento autocontenido generado a partir del simposio <em>The Platonic Space</em> — 2026.
+  </footer>
+
+  <script type="module">
+    import * as THREE from 'three';
+    import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+    function initScene() {
+      const container = document.getElementById('platonic-3d');
+      if (!container) return;
+      const scene = new THREE.Scene();
+      scene.fog = new THREE.FogExp2(0x060913, 0.035);
+      const camera = new THREE.PerspectiveCamera(55, container.clientWidth / container.clientHeight, 0.1, 100);
+      camera.position.set(0, 1.2, 6.5);
+      const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setSize(container.clientWidth, container.clientHeight);
+      container.appendChild(renderer.domElement);
+      const controls = new OrbitControls(camera, renderer.domElement);
+      controls.enableDamping = true; controls.dampingFactor = 0.05;
+
+      const group = new THREE.Group(); scene.add(group);
+      const wireMat = new THREE.MeshBasicMaterial({ color: 0x3ddc97, wireframe: true, transparent: true, opacity: 0.35 });
+      const solidMat = new THREE.MeshBasicMaterial({ color: 0x5c9aff, wireframe: true, transparent: true, opacity: 0.18 });
+      const coreGeo = new THREE.IcosahedronGeometry(1.4, 1);
+      const core = new THREE.Mesh(coreGeo, wireMat); group.add(core);
+      const innerGeo = new THREE.DodecahedronGeometry(0.85, 0);
+      const inner = new THREE.Mesh(innerGeo, solidMat); group.add(inner);
+
+      const particleCount = 900;
+      const pos = new Float32Array(particleCount * 3);
+      for (let i = 0; i < particleCount; i++) {
+        const r = 2.2 + Math.random() * 2.8;
+        const theta = Math.random() * Math.PI * 2;
+        const phi = Math.acos(2 * Math.random() - 1);
+        pos[i * 3] = r * Math.sin(phi) * Math.cos(theta);
+        pos[i * 3 + 1] = r * Math.sin(phi) * Math.sin(theta);
+        pos[i * 3 + 2] = r * Math.cos(phi);
+      }
+      const pGeo = new THREE.BufferGeometry();
+      pGeo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+      const pMat = new THREE.PointsMaterial({ color: 0x7ee3ff, size: 0.04, transparent: true, opacity: 0.7 });
+      const particles = new THREE.Points(pGeo, pMat); scene.add(particles);
+
+      const interfaceGroup = new THREE.Group(); scene.add(interfaceGroup);
+      const sphereMat = new THREE.MeshBasicMaterial({ color: 0xffb86c });
+      for (let i = 0; i < 8; i++) {
+        const theta = (i / 8) * Math.PI * 2;
+        const phi = Math.PI / 3 + (i % 2) * Math.PI / 3;
+        const r = 4.3;
+        const mesh = new THREE.Mesh(new THREE.SphereGeometry(0.12, 16, 16), sphereMat);
+        mesh.position.set(r * Math.sin(phi) * Math.cos(theta), r * Math.sin(phi) * Math.sin(theta), r * Math.cos(phi));
+        interfaceGroup.add(mesh);
+        const curve = new THREE.CatmullRomCurve3([
+          mesh.position.clone().multiplyScalar(0.3),
+          mesh.position.clone().multiplyScalar(0.7),
+          mesh.position
+        ]);
+        const tubeGeo = new THREE.TubeGeometry(curve, 20, 0.015, 6, false);
+        const tube = new THREE.Mesh(tubeGeo, new THREE.MeshBasicMaterial({ color: 0x3ddc97, transparent: true, opacity: 0.4 }));
+        interfaceGroup.add(tube);
+      }
+
+      const ambient = new THREE.AmbientLight(0xffffff, 0.6); scene.add(ambient);
+      const point = new THREE.PointLight(0x3ddc97, 1.2, 20); scene.add(point);
+
+      let running = true;
+      document.getElementById('pause-3d')?.addEventListener('click', () => { running = !running; });
+      document.getElementById('reset-3d')?.addEventListener('click', () => { controls.reset(); camera.position.set(0, 1.2, 6.5); });
+
+      window.addEventListener('resize', () => {
+        camera.aspect = container.clientWidth / container.clientHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(container.clientWidth, container.clientHeight);
+      });
+
+      const clock = new THREE.Clock();
+      function animate() {
+        requestAnimationFrame(animate);
+        const t = clock.getElapsedTime();
+        if (running) {
+          core.rotation.y += 0.003; core.rotation.z += 0.0015;
+          inner.rotation.y -= 0.005; inner.rotation.x += 0.002;
+          particles.rotation.y = t * 0.02;
+          interfaceGroup.rotation.y = t * 0.015;
+          point.position.set(Math.sin(t) * 2, Math.cos(t * 0.7) * 2, Math.sin(t * 0.5) * 2);
+        }
+        controls.update(); renderer.render(scene, camera);
+      }
+      animate();
+    }
+    try { initScene(); } catch (e) { console.error('3D init failed', e); }
+  </script>
+</body>
+</html>

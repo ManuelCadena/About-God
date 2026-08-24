@@ -18,6 +18,15 @@ Transcripciones limpias e indexables del simposio completo (36 videos).
   - `INDICE.md` — Índice general con enlaces.
   - `README.md` — Guía del corpus.
 
+## Guía visual integral del simposio
+
+- `PlatonicSpace_Guia_Grafica.html` — Resumen autocontenido, pedagógico y visual de TODO el simposio.
+  - Incluye introducción para nivel secundaria, el argumento de Michael Levin en tres niveles de certeza,
+    causalidad asimétrica, biología como navegación en morfoespacio, mente-cuerpo como interfaz,
+    IA/lenguaje/cultura, tensiones filosóficas, mecanismos de ingresión, espectro de agencia,
+    agenda de investigación, mapa de contribuciones de los 36 videos, glosario y una escena 3D interactiva.
+  - Los gráficos están en SVG puro (alta resolución) y la escena 3D usa Three.js vía CDN.
+
 ## Archivos
 
 - `Conversation of Michael Levin with Iain McGilchrist #2 (1).txt`
