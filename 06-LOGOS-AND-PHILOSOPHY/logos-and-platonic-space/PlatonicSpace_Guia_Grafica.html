@@ -62,6 +62,8 @@
     .badge.hypothesis { background: rgba(92, 154, 255, 0.14); color: var(--accent-2); }
     .badge.speculation { background: rgba(255, 184, 108, 0.14); color: var(--accent-3); }
     .badge.concept { background: rgba(126, 227, 255, 0.12); color: var(--info); }
+    .badge.contested { background: rgba(255, 107, 107, 0.14); color: var(--danger); }
+    .badge.provenance { background: rgba(159, 177, 211, 0.14); color: var(--muted); font-weight: 600; }
     .hero {
       min-height: 100vh;
       display: flex;
@@ -266,6 +268,7 @@
 
     <section id="problema">
       <h2>1. El problema que abre el simposio</h2>
+      <p><span class="badge provenance">Procedencia: Simposio The Platonic Space (Opening y keynotes 001, 009)</span></p>
       <p class="section-intro">
         ¿De dónde salen los patrones? ¿Por qué ciertas formas, números y comportamientos aparecen una y otra vez en la física, la biología y la mente?
         Esa es la pregunta central del simposio <em>The Platonic Space</em>.
@@ -303,6 +306,7 @@
 
     <section id="argumento">
       <h2>2. El argumento de Michael Levin en tres colores</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynote 009, M. Levin)</span></p>
       <p class="section-intro">
         Levin presenta su argumento como un traje de tres colores: hechos sólidos, extensiones opcionales y especulaciones audaces.
       </p>
@@ -352,6 +356,7 @@
 
     <section id="definicion">
       <h2>3. ¿Qué es el Espacio Platónico?</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynotes 001, 009; conversación Belrose)</span></p>
       <p class="section-intro">
         No es un lugar físico con coordenadas. Es una manera de hablar de un <strong>espacio de patrones, restricciones y posibilidades</strong>
         que guía lo que ocurre en el mundo material y cognitivo.
@@ -379,7 +384,9 @@
       </p>
       <p>
         <span class="badge concept">Contexto histórico</span> La idea tiene 2 400 años: Platón propuso un reino de Formas perfectas
-        de las que el mundo físico es sombra. Pitágoras antes ya afirmaba "todo es número". Lo nuevo del simposio no es la metafísica,
+        de las que el mundo físico es sombra. Antes de él, la tradición pitagórica sostenía —según el testimonio de Aristóteles
+        (<em>Metafísica</em> A5), pues Pitágoras no dejó escritos— que los principios de las cosas son los números.
+        Lo nuevo del simposio no es la metafísica,
         sino convertirla en <strong>programa de investigación experimental</strong>: construir interfaces, medir qué ingresa, cuantificar el excedente.
       </p>
 
@@ -397,6 +404,7 @@
 
     <section id="causalidad">
       <h2>4. Causalidad asimétrica: de las matemáticas al mundo</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynotes 009, 021)</span></p>
       <p class="section-intro">
         Un punto clave del simposio es que la relación entre las matemáticas y el mundo no es simétrica.
         Las matemáticas restringen y explican lo físico; lo físico no puede alterar las matemáticas.
@@ -444,6 +452,7 @@
 
     <section id="biologia">
       <h2>5. La biología como navegación en morfoespacio</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynote 001 y Closing, M. Levin)</span></p>
       <p class="section-intro">
         Un embrión no es solo una cadena de reacciones químicas. Es un sistema que se mueve hacia una forma objetivo,
         corrige errores y se detiene cuando alcanza la meta. Eso es navegación en un <strong>morfoespacio</strong>.
@@ -509,6 +518,7 @@
 
     <section id="conos">
       <h2>5b. Conos cognitivos: la geometría de la agencia (Levin en profundidad)</h2>
+      <p><span class="badge provenance">Procedencia: Canal @drmichaellevin (Scaling Intelligence; Self-constructing bodies) + paneles 4 y 5 del simposio</span></p>
       <p class="section-intro">
         El <strong>cognitive light cone</strong> (cono de luz cognitivo) es una de las herramientas conceptuales más potentes de Michael Levin.
         Toma prestada la imagen del cono de luz de la relatividad —la región del espacio-tiempo que un evento puede afectar—
@@ -607,6 +617,7 @@
 
     <section id="friston">
       <h2>5c. Karl Friston en profundidad: la física de la existencia</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynote 015, K. Friston; Discussion #1)</span></p>
       <p class="section-intro">
         La keynote de Friston, "On the (Platonic) Nature of Things", es la contribución matemáticamente más densa del simposio.
         Aquí la desplegamos paso a paso, porque ofrece un camino para que las formas platónicas emerjan de la física de sistemas autoorganizados.
@@ -705,6 +716,7 @@
 
     <section id="mente">
       <h2>6. De la mente al cuerpo: interfaz y thin client</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynotes 009, 016, 017; Closing) + revisión Levin-Kofman</span></p>
       <p class="section-intro">
         Si los patrones pueden guiar la forma de un embrión, ¿qué pasa con la mente?
         Levin propone un giro radical: el cerebro y el cuerpo no son la mente; son <strong>interfaces</strong> a través de las cuales los patrones se expresan.
@@ -759,6 +771,7 @@
 
     <section id="rouleau">
       <h2>6b. Rouleau: el cerebro como interfaz, no como generador</h2>
+      <p><span class="badge provenance">Procedencia: Canal @drmichaellevin (conversaciones Rouleau 1-2; Computationalism and consciousness)</span></p>
       <p class="section-intro">
         Nicolas (Nic) Rouleau —profesor en Wilfrid Laurier University y científico afiliado del Allen Discovery Center at Tufts—
         aporta al programa la vertiente neurocientífica experimental. Junto a Levin (biología) y Friston (formalismo matemático),
@@ -789,18 +802,27 @@
       </p>
       <h3>Evidencia experimental que Rouleau pone sobre la mesa</h3>
       <ul>
-        <li><span class="badge evidence">Evidencia</span> <strong>Acoplamiento electromagnético:</strong> el EEG humano se acopla en tiempo real con la
+        <li><span class="badge contested">Evidencia discutida</span> <strong>Acoplamiento electromagnético:</strong> el EEG humano se acopla en tiempo real con la
           resonancia Schumann (7.83 Hz) del campo magnético terrestre; perturbaciones geomagnéticas correlacionan con aumento de convulsiones;
-          bloquear campos EM con jaulas de Faraday altera los ritmos alfa.</li>
-        <li><span class="badge evidence">Evidencia</span> <strong>Tejido post-mortem:</strong> tejido cerebral fijado con formaldehído (muerto, no biológico)
-          responde a corriente eléctrica con selectividad de frecuencia según la región cortical: una propiedad <em>material</em>, no metabólica.</li>
+          bloquear campos EM con jaulas de Faraday altera los ritmos alfa.
+          <em>Hallazgos correlacionales de la línea Persinger; replicación independiente limitada y no aceptados por la corriente principal.</em></li>
+        <li><span class="badge contested">Evidencia discutida</span> <strong>Tejido post-mortem:</strong> tejido cerebral fijado con formaldehído (muerto, no biológico)
+          responde a corriente eléctrica con selectividad de frecuencia según la región cortical: una propiedad <em>material</em>, no metabólica.
+          <em>Resultado del propio grupo de Rouleau; pendiente de replicación externa.</em></li>
         <li><span class="badge evidence">Evidencia</span> <strong>Organoides que aprenden:</strong> mini-cerebros bioingenierizados muestran aprendizaje
           no-asociativo con recuperación espontánea. Las neuronas <em>desencarnadas</em> muestran un fenotipo epileptiforme
           (disparos paroxísticos) que se normaliza al darles feedback de circuito cerrado: "una neurona encarnada es muy diferente a una desencarnada".</li>
-        <li><span class="badge evidence">Evidencia</span> <strong>Memoria fuera del cerebro:</strong> los estudios clásicos de transferencia de memoria (McConnell),
+        <li><span class="badge contested">Evidencia discutida</span> <strong>Memoria fuera del cerebro:</strong> los estudios clásicos de transferencia de memoria (McConnell),
           las preferencias inducidas en huevos (Hepper) y —el caso estrella— las orugas que se disuelven en la metamorfosis
-          y sin embargo la mariposa <em>recuerda</em>, remapeando las memorias a un cuerpo y estilo de vida completamente nuevos.</li>
+          y sin embargo la mariposa <em>recuerda</em>, remapeando las memorias a un cuerpo y estilo de vida completamente nuevos.
+          <em>La transferencia de memoria de McConnell es históricamente controvertida y nunca se replicó de forma concluyente;
+          la retención de memoria en la metamorfosis sí cuenta con réplicas modernas (Blackiston et al.), pero su interpretación sigue abierta.</em></li>
       </ul>
+      <p>
+        <span class="badge concept">Nota metodológica</span> Estos tres ítems se marcan como <em>evidencia discutida</em> deliberadamente:
+        la honestidad epistémica del documento exige distinguir entre datos replicados y aceptados,
+        datos publicados pero contestados, y las interpretaciones que Rouleau construye sobre ellos.
+      </p>
       <div class="quote">"I suspect all of these things are pointers in an important sense. They are indices into a different space." — Nic Rouleau</div>
       <h3>Contra el computacionalismo estándar</h3>
       <p>
@@ -854,6 +876,7 @@
 
     <section id="ia">
       <h2>7. IA, lenguaje y cultura</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynotes 011, 019, 020, 023, 026, 027)</span></p>
       <p class="section-intro">
         Si el Espacio Platónico condiciona la biología, también debería dejar huella en los sistemas artificiales que aprenden del mundo.
         El simposio explora si las inteligencias artificiales acceden a esos patrones o solo los imitan.
@@ -911,6 +934,7 @@
 
     <section id="tensiones">
       <h2>8. Tensiones filosóficas: ¿de dónde vienen las formas?</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (12 keynotes comparadas)</span></p>
       <p class="section-intro">
         El simposio no da una única respuesta; muestra un campo de posiciones.
         Algunos ven el Espacio Platónico como real e independiente; otros como un constructo cognitivo; otros como un polo relacional de procesos materiales.
@@ -941,6 +965,7 @@
 
     <section id="whitehead">
       <h2>8b. Whitehead en profundidad: la ingresión de la forma nueva (Segall)</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (keynote 014, M. Segall) + conversaciones del canal (Iammarino, Belrose) y panel 2</span></p>
       <p class="section-intro">
         Matt Segall —filósofo del proceso en el California Institute of Integral Studies— ofrece la corrección filosófica más elaborada
         al programa de Levin. Su herramienta es la metafísica de Alfred North Whitehead (1861-1947),
@@ -1096,6 +1121,7 @@
 
     <section id="ingresion">
       <h2>9. Mecanismos de ingresión: ¿cómo entran los patrones al mundo?</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (paneles 3-5; keynotes 024, 025) + Closing</span></p>
       <p class="section-intro">
         El simposio propone varios mecanismos por los cuales patrones del Espacio Platónico pueden influir en sistemas físicos.
         No son mutuamente excluyentes; probablemente operan a diferentes escalas y contextos.
@@ -1146,6 +1172,7 @@
 
     <section id="agencia">
       <h2>10. Espectro de agencia: del "qué" al "quién"</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (Closing, M. Levin; conversación Iammarino)</span></p>
       <p class="section-intro">
         El simposio rechaza el binomio "ser vivo = con agencia, máquina = objeto".
         Propone un <strong>continuo</strong> de inteligencia y sensibilidad que atraviesa moléculas, células, organismos, humanos e IA.
@@ -1180,6 +1207,7 @@
 
     <section id="agenda">
       <h2>11. Agenda de investigación y el "free lunch"</h2>
+      <p><span class="badge provenance">Procedencia: Simposio (Closing y keynote 009, M. Levin)</span></p>
       <p class="section-intro">
         La propuesta no se queda en filosofía. El laboratorio de Levin busca experimentos que muestren en qué medida un sistema físico
         recibe funcionalidad "de gratis" al acoplarse al Espacio Platónico.
@@ -1220,6 +1248,7 @@
 
     <section id="mapa">
       <h2>12. Mapa de contribuciones del simposio</h2>
+      <p><span class="badge provenance">Procedencia: Simposio The Platonic Space (36 transcripciones)</span></p>
       <p class="section-intro">
         Las 36 intervenciones transcritas se resumen a continuación. Cada fila muestra el ponente, la idea clave y cómo aporta al debate sobre el Espacio Platónico.
       </p>
@@ -1307,6 +1336,12 @@
         las conversaciones con Nic Rouleau (partes 1 y 2) y "Computationalism and consciousness" (Rouleau, Aru, Milinkovic).
         La sección en profundidad sobre <strong>Whitehead</strong> se basa en la charla completa de Matt Segall
         ("Whitehead on the Ingression of Novel Form") y en los cruces con las conversaciones de Iammarino, Belrose y el panel 2.
+      </p>
+      <p>
+        <span class="badge provenance">Trazabilidad editorial</span> La tabla de doce posiciones, el argumento de Friston en 7 pasos,
+        los seis mecanismos de ingresión, los conos cognitivos con el ejemplo del precio del café, y la síntesis del
+        "platonismo participativo" tienen destino editorial asignado en <code>Mapa_Red_Confluencia_v2.md</code> (§5),
+        junto al mapa de nodos, aristas de confluencia y la arista MIT↔simposio.
       </p>
       <p class="section-intro">
         Elaborado como resumen pedagógico. No sustituye los videos originales ni los artículos de los ponentes.

@@ -35,6 +35,16 @@ Transcripciones limpias e indexables del simposio completo (36 videos).
     crítica al modelo thin-client, alternativa procesual, "la eternidad crece" y diálogo con Levin;
     con 4 diagramas SVG (ciclo de concrescencia, cielo de diseños vs continuo de potenciales, línea de los elefantes).
     Documento interno de trabajo — no publicado.
+  - v4 (2026-08-24): pasada de corrección editorial — línea de Pitágoras con rigor historiográfico
+    (testimonio de Aristóteles, *Metafísica* A5), re-etiquetado de tres ítems de Rouleau como
+    "evidencia discutida" (Schumann, tejido post-mortem, transferencia de memoria) con nota metodológica,
+    y tags de procedencia en las 16 secciones (simposio vs canal @drmichaellevin).
+
+- `Mapa_Red_Confluencia_v2.md` — Mapa de red del simposio (36 transcripciones): tabla de doce posiciones,
+  nodos añadidos (Lyons, Emauz Valdetaro, Spouncer, Ross, Resnik, Dodig-Crnkovic, Yang, Brash, Dietz,
+  Belrose, Iammarino), seis aristas de confluencia, arista MIT↔simposio (Cheung 01-023 / Tegmark),
+  la "rama cuarta" (platonismo participativo) y destino editorial de los cinco activos nuevos.
+  Documento interno de trabajo — no publicado.
 
 ## Archivos
 
