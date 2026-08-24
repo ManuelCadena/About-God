@@ -46,6 +46,11 @@ Transcripciones limpias e indexables del simposio completo (36 videos).
   la "rama cuarta" (platonismo participativo) y destino editorial de los cinco activos nuevos.
   Documento interno de trabajo — no publicado.
 
+- `Three_Platonisms_DRAFT.md` — Borrador v0.1 del capítulo *Three Platonisms*: tres familias
+  (trascendente, naturalizado, procesual) con ponentes ancla, fortalezas y talones de Aquiles,
+  cierre que reconoce formalmente la rama cuarta (platonismo participativo) con firmas medibles
+  propuestas, y tabla comparativa de cierre. Documento interno de trabajo — no publicado.
+
 ## Archivos
 
 - `Conversation of Michael Levin with Iain McGilchrist #2 (1).txt`

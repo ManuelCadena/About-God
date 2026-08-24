@@ -80,8 +80,9 @@ La v1 del mapa trabajaba con tres platonismos (clásico, naturalizado, procesual
 Gráfica sugiere que el árbol tiene una **cuarta rama en crecimiento**: el **platonismo participativo** —
 las formas como estructuras relacionales que co-emergen con los sistemas que las descubren y usan,
 con posible dinámica propia del espacio ("espacio dinámico de Levin": los patrones no son eternos e
-inmutables; hay "química" entre ellos). Queda registrada aquí como rama en observación,
-pendiente de que el capítulo *Three Platonisms* decida si la reconoce formalmente.
+inmutables; hay "química" entre ellos). **Actualización:** el borrador del capítulo
+(`Three_Platonisms_DRAFT.md`, §IV) ya reconoce formalmente la rama cuarta —con línea punteada—
+y propone firmas medibles para decidir si es síntesis estable o compromiso inestable.
 
 ---
 
