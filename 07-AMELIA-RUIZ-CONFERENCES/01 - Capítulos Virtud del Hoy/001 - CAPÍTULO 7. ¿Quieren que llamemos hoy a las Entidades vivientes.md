@@ -1,0 +1,107 @@
+# CAPÍTULO 7. ¿Quieren que llamemos hoy a las Entidades vivientes? ...
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=qmzHPsjNsrA
+- **Duración:** 13.0min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 7
+
+## Transcripción
+
+hermanito del arma.
+
+Hola, hermanitos queriditos. Hola. Este, yo no sé si ustedes se enteraron lo mismo que yo, pero hoy qué ganas de llamar a las entidades gigantes.
+
+Este, a ver, eh, acá en el M se suele decir en realidad es como para que el cerebrito eh esté atento a recibir las energías. Se suele decir que en el yedito inique este eh por ahí recibimos eh a la hermanita agua.
+
+Eh ecot este delicto recibimos a la hermanita tierra.
+
+El del centro es el éter.
+
+Este dedicto, el índice es el aire y aquí el fuego. Entonces, ay, qué hermoso es que durante el día este tratemos de que salvo cuando estemos haciendo algo, no tener ocupajas manitos, estar libres y ni qué hablar cuando estamos caminando. Creo que a veces este se usa caminar con teniendo un vaso de café o un vaso de alguna petida o hasta agua. E este está muy interesante tomar agua y eh pero algo muy interesante te dice Pita deja libre tus manos y eh que camines recibiendo a las entidades vivientes. Entonces vas caminando y no va manejando el cansancio.
+
+Aquí a veces decís, caramba, parece hermanita tierra que vas caminando vos y yo pongo apenas la energía que voy a un plata unta y cuando llego a la punta me impulso para poner el otro tal plata.
+
+Punta me impulso y tal plata. Entonces este dijo, "Vente a tierra, te voy acaliciando y así y este y digo, también tomando el aire, el agua es todo." Y que eh este llena el ambiente de bros de colores, el agua este no solamente está en el mar, en en el río, en un vaso de agua, está en todas partes.
+
+Entonces, si yo le invoco, ella viene a mí, ay, gracias. Si voy y me lleno de ti y camina conmigo. Y entonces parece que fuese la energía del agua la que camina, la energía de la tierra la que camina, la energía del aire que el que camina, la energía del fuego que camina y e es como no sé, a ver, si usted lo siente como yo, este, y como si le prestase el cuerpo, hermanito aire, tu espíritu Y tú no quiero que esté solamente mis pulmones, eh, quiero que todo mi sea aire, tu espíritu que enseña a tomar sacar tomar acá, iniciar, cerrar, iniciar, cerrar, volver a iniciar, volví a cerrar, volví iniciar sea, ay, quiero que esté dentro de mí de tod cadaita que esté contigo. Entonces, te presto mi cuerpo y es un trozo de Dios. Claro que sí.
+
+Tiene libre bebedo para hacer el mal, ¿no?
+
+Pero los ciclones tornados y no solo sacude lo que el ser humano le puso. Es lo tiene que sacudir porque si no no le puede dar seguir dando vida al ser humano. Es simplemente es limpieza. del agua.
+
+Eh, en los tsunamis barremoto se sacone la tierra y los temblores, se sacude de energía del humano. Entonces, mis hermanitos, ay, qué lindo es e invocarlos, este, jugar con los vasitos también como si fuesen alas. dice, "Sacar de de atrás los bracitos y y jugar mis alas, el yan, el yin.
+
+Oh, quiero volar, Diosito.
+
+Me miro del fin de la vida.
+
+¿Cómo me pierdo de si estoy llena de ideas? ¿Cómo me pierdo?
+
+lo precioso te iría.
+
+Y aunque sea fea la palabra, si yo no uso a hijos, ¿cómo me pierdo la vida?
+
+Porque estoy aquí y entonces no me va a alcanzar eh este para vivir no es que no vaya a pensar e que entra que sale en lo económico. No es que no vaya a pensar e qué mo este todo el cuerpito esté sano, pero si hoy no lo está eh ya lo pienso sano.
+
+Siempre pienso el bien, siempre pienso el final de bien, porque lo enfermo va a ser sano, lo carenciado a estar pleno, lo malo en bueno ya vamos todos.
+
+Lo que pasa que es la vida eterna un viaje.
+
+Es un viaje hacia el bien. Entonces, ay, qué lindo de que emple bien para poder seguir viajando hacer bien. Pero entonces voy tomando trocitos de bien y Diosito se me ofrece todos los días, se los ofrece a todos.
+
+Qué lástima que amemos la mortalidad.
+
+Yo siempre creo si la la amamos tanto y estamos tan preocupados por la mortalidad, o sea, por todo lo que sea material, porque no hemos tomado la inmortalidad en forma consciente. Toda la hemos tomado, pero no la hemos saboreado forma consciente. Entonces el cerebro no la reconoce, no sabe que de tanto en tanto la toma, pero sin conciencia y que gracias a ella vive, pero sin conciencia.
+
+Y Pitabora te dice, "¿Cuál es el secreto del aire del agua, de las tierras del sol?" Este que a pesar que el ser humano lo contamina, sigue siendo aire, agua, tierras porque son conscientes de sí mismos, energías conscientes de sí mismas.
+
+Entonces no temen entreverarse y sigue siendo ay, sigue siendo sigue siendo tierra, en fin, la luz penetra en todo, sigue siendo luz.
+
+Entonces, eh qué importante que tomemos conciencia e de nuestra inmortalidad y conciencia de que cuando me falta es porque es cuando me siento mal, es porque me falta.
+
+Y saben quién no se siente mal aunque le falte es el poco crecido.
+
+Porque tiene en su Se acuerdan que alguna vez en este ciclo hablamos del cuerpo energético eh o domérico.
+
+Bueno, ese domérico o cuerpo energético tiene una nota vibratoria. Cuando la persona es crecida, ese domérico, esa onda es elevada, es más sutil.
+
+Por eso es que cuando le meto ahí la energía de miedo, de enojo, de tollea hasta un punto, pero después se desembaraza, así como hacen las entidades del cliente. Se desembaraza y a dónde la puede desembarazar, al cuerpo físico, eso y lo a tierra.
+
+Entonces ocurre que e puede llegar a ser hasta un punto más sano.
+
+El que tiene un cuerpito etérico más densito. Sí.
+
+O bien aquel que aprendió a limitarse de las entidades vivientes, aprendió a dejar que la vida circule por él o ella, a eh a considerar que el quimbo es Dios y respiro la eternidad que no es sucesión de tiempos.
+
+Y entonces, ¿por qué cuerpo físico le pasa el tiempo? Y digo, va, hace 20 años, 30 años, mira cómo lo sigue, mira ahora.
+
+Y porque no sabemos que el tiempo es eternidad y vivió tiempos pequeños, cortitos.
+
+con angustia, con tristeza, con bor entonces nuestras células se estresan y no se regeneran fácilmente.
+
+Entonces no se regeneran las que se tiene que regenerar en un día, no se regeneran a los 7 años que tenemos que ser distintos.
+
+no se regenera.
+
+Entonces ahí vamos registrando ese tiempo del reloj.
+
+No me acojo a tiempo que vida que es Dios mío.
+
+Y que así que se mueva el astro rota nuestro planeta y se traslade.
+
+Entonces digo, un día, un año, pero nosotros o sea, oamos vivir muchísimo más de lo que vivimos.
+
+Creo que sí vamos a ir aprendiendo de poquito.
+
+También a manejar el tiempo.
+
+Entonces, hoy si quieren respiremos eternidad.
+
+Eso que no acaba nunca, eso que no es sucesión de tiempos, eso que es el alfa y el omega, el inicio y el fin, eso que ya llegó un micro segundo de eternidad dentro de nuestro corazón juntit Ustedes quieren experiencia intentarla.
+
+Entonces, hermanitos, precioso domingo y preciosa semana respirando lo que queremos respirar en si quiero respirar eternidad pilotaria.
+
+Hasta el próximo domingo con la gracia de Dios.
+
+Adiosito.

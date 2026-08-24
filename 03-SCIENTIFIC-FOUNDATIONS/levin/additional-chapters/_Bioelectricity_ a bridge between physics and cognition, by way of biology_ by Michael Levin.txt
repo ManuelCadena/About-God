@@ -1,0 +1,567 @@
+Summary 
+The video presents a lecture by a researcher on bioelectricity as a bridge between physics and cognition. The speaker explores how mental goals translate into physical actions through bioelectric signaling at various levels of biological organization. They explain that our bodies are made of "agential materials" - cells with their own competencies and problem-solving abilities. The lecture demonstrates how tissues store "memories" in electrical patterns that guide development and regeneration, showing examples like axolotl limb regeneration and planarian head regrowth. The speaker presents research on manipulating these bioelectric patterns to create new structures, such as inducing eye formation in unexpected locations or changing the head shape of flatworms. The presentation introduces "anthrobots" - synthetic life forms created from human cells that can self-assemble and perform tasks like neural wound repair. The speaker concludes by discussing the ethical implications of creating novel biological entities and the need to develop principles for relating to beings that don't share our evolutionary history. 
+Highlights 
+Bioelectricity as a Bridge Between Physics and Cognition ‎‎ 00:00:04
+The speaker introduces the concept of bioelectricity as a bridge between physics and cognition. They point out how our abstract mental goals (financial, social, research) must translate into physical actions through charged molecules crossing muscle membranes. This represents the "miracle of everyday voluntary motion" - how chemistry in our bodies is controlled by thoughts and intentions. The speaker questions where the interface between cognition and physics occurs, suggesting that rather than a distinct boundary, "it's cognition all the way down" from high-level minds to molecules. 
+Agential Materials and Multi-Scale Competency ‎‎ 00:02:45
+The speaker introduces the concept that we are made of "agential materials" - materials with agendas and competencies. They show a single-celled organism called Lacrymaria to demonstrate how even without a brain, these cells display remarkable competency in their environment. The speaker explains that throughout evolutionary history, biology has been solving problems in many different spaces beyond just three-dimensional physical space, including gene expression, physiological states, and anatomical states. They introduce the "multi-scale competency architecture" - the idea that at every level of organization, from molecular networks to collections of organisms, there are agendas and problem-solving capabilities. 
+Regeneration and Pattern Memory in Organisms ‎‎ 00:05:06
+The speaker presents the axolotl, an amphibian with remarkable regenerative abilities that can replace damaged limbs, eyes, and organs. They explain how cells know when to stop regenerating - when the correct anatomical structure has been completed. The speaker describes an experiment where a tail grafted to the side of an amphibian transforms into a limb, demonstrating how local cells obey a global anatomical plan. They question where the information for complex anatomical structures comes from, noting it's not directly encoded in DNA but emerges from "physiological software" running on genetically specified hardware. 
+Bioelectric Patterns and Developmental Memory ‎‎ 00:08:33
+The speaker explains how cells throughout the body use electrical networks similar to those in the brain. They show how early embryos have electrical patterns that serve as scaffolds for future development, calling this the "electric face" - a decoded electrical memory of what a proper face should look like. The speaker describes their research tools for reading these bioelectric patterns using voltage-sensitive fluorescent dyes and computational modeling. They explain that their approach doesn't use external electromagnetic fields but instead hacks the normal interface cells use to control each other's behavior through ion channels and electrical synapses. 
+Rewriting Pattern Memories to Create New Structures ‎‎ 00:12:15
+The speaker demonstrates how they can rewrite bioelectric pattern memories to induce the formation of whole organs in new locations. They show an example where injecting ion channel RNA creates a spot of voltage that instructs cells to build an eye in an unexpected location. The speaker emphasizes that they're not micromanaging gene expression or controlling specific cells, but rather giving high-level instructions to competent tissue. They also show how manipulating electrical gradients in planarian flatworms can change the shape of their regenerated heads to resemble different species. 
+Anthrobots: Synthetic Life Forms from Human Cells ‎‎ 00:16:37
+The speaker introduces "anthrobots" - synthetic life forms made from adult human tracheal epithelial cells that self-assemble into swimming organisms. Despite being 100% human cells, these structures don't resemble any stage of human development. The speaker explains that when freed from the influence of the body, these cells can form entirely new structures with different behaviors. They demonstrate how anthrobots can find and repair neural wounds by landing in damaged areas and helping to knit neurons back together. The speaker notes that these cells, which normally deal with mucus and particles in the trachea, can become completely different creatures with 9,000 differently expressed genes. 
+Future of Biomedicine and Ethical Considerations ‎‎ 00:20:16
+The speaker concludes by discussing the implications of their research for the future of biomedicine. They suggest that future medicine will look more like "somatic psychiatry" than chemistry - focusing on collaborating with and convincing the various intelligences in our bodies. The speaker addresses ethical and social considerations, noting that the natural forms described by Darwin represent only a tiny corner of the possible space of viable embodied minds. They predict we'll increasingly live with cyborgs, hybrids, and novel combinations of evolved and engineered materials, requiring new ethical principles for relating to beings that don't share our evolutionary history. 
+ 
+
+Unknown speaker 00:00 
+Thank you very much.
+
+Unknown speaker 00:01 
+Uh and uh hopefully you guys can all see my slides.
+
+Unknown speaker 00:04 
+I'm going to uh talk about bioelectricity in a slightly different way than uh I usually do and introduce it as a kind of bridge between physics and cognition.
+
+Unknown speaker 00:13 
+And if you want to see the details of all this stuff here, everything is at this website and this is my personal blog about what I think some of these things mean.
+
+Unknown speaker 00:22 
+I want to point out uh something that is often forgotten.
+
+Unknown speaker 00:24 
+When when you wake up in the morning, each of us may have very abstract, high level goals, you may have financial goals, social goals, research goals, whatever.
+
+Unknown speaker 00:33 
+And in order for you to get up out of bed and execute on those goals, charged molecules like calcium, potassium and so on, have to cross your muscle membranes.
+
+Unknown speaker 00:43 
+In other words, uh the chemistry has to dance to the tune of a very high level abstract kind of mental goal.
+
+Unknown speaker 00:50 
+How does that happen?
+
+Unknown speaker 00:59 
+How is how is the chemistry of your body, the actual molecules of your body controlled by uh your your thoughts and your and your intentions.
+
+Unknown speaker 01:15 
+This is not some sort of uh special uh mind matter interaction that is only accessible to a yoga practitioners or some sort of uh special uh special masters.
+
+Unknown speaker 01:31 
+This is everyday voluntary motion.
+
+Unknown speaker 01:32 
+This is the the amazing miracle of everyday voluntary motion.
+
+Unknown speaker 01:33 
+And our bodies are constructed in a way that can transduce these extremely abstract mental um objects like goals and and so on.
+
+Unknown speaker 01:34 
+down all the way down to the uh act of chemistry changing in yourselves.
+
+Unknown speaker 01:41 
+And so, you might want to ask, okay, uh this interaction between the mental and the physical, where does it happen?
+
+Unknown speaker 01:52 
+Okay, where is the interface between cognition, then the contents of our mind and so-called just physics or physiology or chemistry, you know, when where and how do our thoughts actually affect the physical world.
+
+Unknown speaker 02:00 
+When does the mental become the physical, right?
+
+Unknown speaker 02:02 
+When does it turn over?
+
+Unknown speaker 02:16 
+And uh what I'm going to suggest is, the answer is never.
+
+Unknown speaker 02:22 
+It's cognition all the way down, all the way from uh high level uh minds embodied in human bodies and and whatever is beyond that, all the way down to molecules, that's the the answer to this uh puzzle of the interaction of the mental world and physical world, it is mental all the way down.
+
+Unknown speaker 02:33 
+Now, the goal here, of course, is to understand how this happens through the different layers of our body.
+
+Unknown speaker 02:36 
+How to understand communication, the scaling of goals, the remapping of memories across substrates, across the different components of our body and across the different problem spaces that they solve.
+
+Unknown speaker 02:41 
+And in order to explain what I mean, I would like to introduce you to a single cell.
+
+Unknown speaker 02:45 
+This is an organism known as a lacrymaria, but you get the idea.
+
+Unknown speaker 02:50 
+It's it's a single cell and this is what we are made of.
+
+Unknown speaker 02:51 
+We are made of these kind of agential materials.
+
+Unknown speaker 02:59 
+We're not made of passive matter or or even active or computational matter, we're made of agential materials, that is, materials with an agenda, materials with competencies.
+
+Unknown speaker 03:07 
+And so, there's no brain here, there's no nervous system, you can see this incredible creature.
+
+Unknown speaker 03:12 
+uh and and the competency that it has in its environment, uh and one might wonder, how how is it that we could engineer with materials like this?
+
+Unknown speaker 03:21 
+It's completely different than how we used to do it with wood and metal and Legos and so on.
+
+Unknown speaker 03:23 
+because you can't micromanage this kind of thing, you have to convince it to do things.
+
+Unknown speaker 03:34 
+And that's because uh all all throughout the history of life, biology has been solving problems in many, many different spaces besides the three-dimensional space that of which we are so familiar.
+
+Unknown speaker 03:41 
+So, we can recognize birds and primates and maybe an octopus or a whale and things like that, uh as as intelligent.
+
+Unknown speaker 03:47 
+But long before we had brains, long before we had muscles that allow us to move in three-dimensional space, biology was navigating the space of possible gene expressions, the space of physiological states and the space of anatomical states.
+
+Unknown speaker 03:56 
+In other words, your journey from being a single cell egg, a fertilized egg to being a human, uh is a navigation of the space of anatomical possibilities.
+
+Unknown speaker 04:00 
+There's a probably an infinite number of possibilities and these these systems uh do this kind of perception action loop in all of these spaces.
+
+Unknown speaker 04:05 
+But these are very hard for us to recognize.
+
+Unknown speaker 04:16 
+We as humans are completely obsessed with three-dimensional space, if it's not moving around, medium-sized object at medium speeds, we really find it very difficult to understand the intelligence.
+
+Unknown speaker 04:25 
+But in our body, every layer, all the way from the molecular networks to the the organelles within our cells to the networks of cells and tissues and organs and even uh collections of of organisms, every layer has its own capacity to solve problems.
+
+Unknown speaker 04:42 
+This is the so-called multi-scale competency architecture.
+
+Unknown speaker 04:50 
+At every level of organization, there are agendas and competencies and they solve problems.
+
+Unknown speaker 04:55 
+I'm going to show you a couple of examples of the kinds of things they do.
+
+Unknown speaker 05:06 
+First of all, this is an amazing creature called an axolotl and these amphibians are highly regenerative.
+
+Unknown speaker 05:10 
+They re they replace damaged limbs, eyes, jaws, all sorts of organs.
+
+Unknown speaker 05:19 
+And what happens here is that if uh the limb is amputated anywhere along the length here, the cells spring into action and they will immediately regenerate and regrow the same pattern and then they stop.
+
+Unknown speaker 05:27 
+That's the most amazing part about this is they know when to stop.
+
+Unknown speaker 05:35 
+When do they stop?
+
+Unknown speaker 05:40 
+They stop when the correct uh axolotl limb has been completed.
+
+Unknown speaker 05:45 
+So it has the ability to know when it's been deviated from its goal and then to work really hard to get back to that same position in anatomical space.
+
+Unknown speaker 05:50 
+It's a the ability to reach the same goal from different starting positions, right?
+
+Unknown speaker 06:01 
+That that's pretty impressive.
+
+Unknown speaker 06:07 
+But notice that it's not about damage and you can see this in the following experiment.
+
+Unknown speaker 06:17 
+Um in the 1950s, um they took tails like this uh from this uh amphibian and grafted it, surgically grafted it to the side.
+
+Unknown speaker 06:20 
+And what you see is that over time that tail uh transforms into a limb.
+
+Unknown speaker 06:26 
+Okay?
+
+Unknown speaker 06:35 
+Now, take the perspective of these little these these cells here at the tip of the tail.
+
+Unknown speaker 06:40 
+There's nothing locally wrong, there's no injury, no damage, these cells are perfectly correct tail tip cells sitting at the end of a tail.
+
+Unknown speaker 06:46 
+Why do they turn into fingers?
+
+Unknown speaker 06:54 
+Because what's happening here is that a large scale plan, so the collective, not not the not the actual animal, it's not the brain of the animal, but the tissue and and the organ structures are well aware that uh you don't need a tail here, you actually need a limb and their high level intent to fix that error filters down to the molecular biology and the chemistry uh adjust to uh to what needs to happen.
+
+Unknown speaker 07:00 
+So the local order actually obeys a global plan.
+
+Unknown speaker 07:04 
+It's an amazing part of our our architecture.
+
+Unknown speaker 07:05 
+And we we want to try to understand uh what are the possibilities here uh for uh medicine and for engineering and so on.
+
+Unknown speaker 07:11 
+And we need to start to think about uh how the outcomes, how the goals of this system, I mean, it's very clearly a goal-seeking system, it repairs, it uh it can remodel.
+
+Unknown speaker 07:21 
+It's a goal-seeking system, where do the goals come from?
+
+Unknown speaker 07:24 
+So, all of us start life as a little ball of blastomeres and eventually here, this is a cross section through a human torso.
+
+Unknown speaker 07:35 
+You see this incredible order, everything is in the right place, the right size relative to the right thing, next to the right structure.
+
+Unknown speaker 07:45 
+Where did this come from?
+
+Unknown speaker 07:50 
+You might think it came from the DNA, but we can read genomes now and none of this is actually encoded directly in the DNA.
+
+Unknown speaker 07:53 
+The DNA specifies proteins, tiny molecular hardware that every cell gets to have.
+
+Unknown speaker 08:04 
+The question of what kind of symmetry you'll have, how many eyes, if you're going to have eyes, how many fingers, all of this stuff is not directly in the DNA at all, any more than the structure of this incredible uh termite mound or the spider web is in the DNA of those creatures.
+
+Unknown speaker 08:11 
+It is the result of the physiological software that runs on the genetically specified hardware.
+
+Unknown speaker 08:16 
+Now, we have uh begun to uh develop tools to decode some of this software and you might wonder, how do groups of cells remember what to build?
+
+Unknown speaker 08:23 
+How do they how do they know what to build?
+
+Unknown speaker 08:30 
+And what else could you ask them to build?
+
+Unknown speaker 08:33 
+Well, in the brain, uh we we kind of have an idea of how this works.
+
+Unknown speaker 08:41 
+So, so the brain consists of many cells which have these little ion channels on them, the ion channels allow the cells to have a voltage gradient and that voltage is communicated or not through these special electrical synapses.
+
+Unknown speaker 08:50 
+and you can see here, this is an amazing video that this group made of uh zebrafish uh brains thinking about whatever it is that zebrafish think about.
+
+Unknown speaker 09:01 
+So you can track it and you can try to decode it, so this is the idea of neural decoding to try to understand what are the memories, the goals, the what what what is encoded in this electrophysiology.
+
+Unknown speaker 09:09 
+Well, it turns out that the ability to store mental content in uh electrical networks and propagated down to uh activity is extremely ancient.
+
+Unknown speaker 09:11 
+Biology discovered this long before we had brains or muscles or nerves.
+
+Unknown speaker 09:16 
+Every cell in your body has these ion channels, so every cell creates these electrical uh gradients, most cells have uh these electrical synapses to their neighbors so they can communicate with them uh and and create networks with a large computational capacity.
+
+Unknown speaker 09:21 
+And we can do something very similar to what neuroscientists try to do in the brain and that is to decode, so here's an early frog embryo and the colors indicate the voltages that are basically mediating the little conversations that all the cells are having with each other, who is going to be left, who is going to be right, who's going to be the head, the tail and so on.
+
+Unknown speaker 10:00 
+means.
+
+Unknown speaker 10:01 
+So
+
+Unknown speaker 10:01 
+we
+
+Unknown speaker 10:01 
+created
+
+Unknown speaker 10:02 
+uh some tools to do this, to read and write the uh the the memories of the body.
+
+Unknown speaker 10:07 
+Uh first these kind of voltage sensitive fluorescent dyes, so this is a technology to non-invasively read the electrical communication between cells.Um and you can see that here in individual cells and this is an entire embryo.
+
+Unknown speaker 10:19 
+We also do a lot of computational modeling to try to uh understand quantitatively how this works.
+
+Unknown speaker 10:25 
+I'm going to show you an example of uh several kinds of patterns.
+
+Unknown speaker 10:30 
+First of all, we call this the electric face.
+
+Unknown speaker 10:31 
+So here is uh here's an early frog embryo in a time lapse.
+
+Unknown speaker 10:34 
+Uh the brightness indicates voltage.
+
+Unknown speaker 10:37 
+And you can see here, there's a lot going on, but this is one frame of that video.
+
+Unknown speaker 10:41 
+You can see that already long before the organs of the face were specified, the electrical pattern set the uh the future as a scaffold.
+
+Unknown speaker 10:50 
+So you can see here's where the eye is going to be, here's where the mouth is going to be, here are some placode structures outside.
+
+Unknown speaker 10:56 
+Uh this is this is how it knows what a correct face looks like.
+
+Unknown speaker 11:00 
+We are literally here looking at the decoded electrical memory of the tissue of what a proper uh tadpole face is supposed to look like.
+
+Unknown speaker 11:10 
+And it's not just for a single embryos, multiple embryos, so each one of these big circles is a is a different embryo, they communicate with each other.
+
+Unknown speaker 11:16 
+So the cells communicate with each other to make a proper embryo, but the embryos, you can see when I poke this guy here, there's uh this this calcium wave that goes.
+
+Unknown speaker 11:25 
+Now, it's not enough to just read those electrical networks and uh read the memories that the tissue has, we want to be able to rewrite those memories.
+
+Unknown speaker 11:34 
+We don't use any electric uh fields, there are no magnets, no electromagnetism, no frequencies, no waves, that is not how we do this.
+
+Unknown speaker 11:42 
+What we do is hack the normal interface that the cells are using to control each other's behavior, and that means controlling these ion channels and controlling the electrical synapses.
+
+Unknown speaker 11:54 
+And we can do this with all the tools of neuroscience, so we can do it with light, we can do it with special pharmacological agents or drugs and so on.
+
+Unknown speaker 12:08 
+And so now, I want to show you just one or two examples of what happens when we can rewrite these pattern memories.
+
+Unknown speaker 12:15 
+Well, the first thing we can do is we can ask the tissue to make whole organs.
+
+Unknown speaker 12:19 
+So here's a side view of a tadpole.
+
+Unknown speaker 12:27 
+So here's the brain up here, the mouth is back here, here's the eye, here's the gut and the tail is uh sort of back here.
+
+Unknown speaker 12:31 
+What we've done is inject some ion channel RNA, so these are molecules encoding a specific uh electrical component called a potassium channel.
+
+Unknown speaker 12:45 
+We inject these cells to set up a little spot of voltage that says build an eye here.
+
+Unknown speaker 12:50 
+And sure enough, the cells do exactly that.
+
+Unknown speaker 12:51 
+Here they've built this nice eye.
+
+Unknown speaker 12:55 
+It has all the same lens and retina, optic nerve, all the same stuff that an eye is supposed to have.
+
+Unknown speaker 13:07 
+In fact, if we only inject a few cells, so the blue cells are the ones we injected, they will automatically talk to their neighbors and and uh uh instruct them to join them in making this this structure.
+
+Unknown speaker 13:18 
+So all this stuff out here that isn't blue, we never touched it.
+
+Unknown speaker 13:21 
+It's the blue cells tell the other cells what to do.
+
+Unknown speaker 13:22 
+So this is this is remarkable for many reasons.
+
+Unknown speaker 13:23 
+First of all, it tells us that the bioelectric state, which is what we've manipulated here, in fact is instructive.
+
+Unknown speaker 13:27 
+It tells the tissues what to do, but more importantly, it's instructive at a very high level.
+
+Unknown speaker 13:34 
+We didn't have to tell that what genes to turn on and off.
+
+Unknown speaker 13:41 
+This is this is nothing to do with the genetic editing, this is not about controlling specific genes, this is not about controlling stem cells.
+
+Unknown speaker 13:46 
+We have no idea how to micromanage the creation of an eye.
+
+Unknown speaker 13:51 
+What we do know how to do is to say to the very competent tissue, build an eye here, and it takes care of the rest.
+
+Unknown speaker 13:57 
+That same theme that I started with at the beginning.
+
+Unknown speaker 13:58 
+A very high level abstract goals being transduced down into the chemistry that actually implements it.
+
+Unknown speaker 14:00 
+So all of those things happen after we've said to these to these cells, instead of a gut, you should make an eye.
+
+Unknown speaker 14:01 
+What we can also do, here's another example and we have many, many examples that I could show you, but for reasons of time, I'm only going to show you two.
+
+Unknown speaker 14:04 
+Uh, this is a flatworm called a planarian.
+
+Unknown speaker 14:14 
+Um, there's a Japanese version called Dugesia japonica.
+
+Unknown speaker 14:15 
+This is a different one called Dorotocephala.
+
+Unknown speaker 14:19 
+They have a triangular head like this.
+
+Unknown speaker 14:21 
+And they're highly regenerative, so if we amputate the head, they they grow it back, okay?
+
+Unknown speaker 14:29 
+So they grow back every part of their body and we're studying this for many reasons, but one of the amazing things is that they use an electrical gradient to know how many heads and what kind of head they should have.
+
+Unknown speaker 15:00 
+these other species.
+
+Unknown speaker 15:01 
+So and and in fact not just the shape of the head, but the shape of the brain and the distribution of stem cells here becomes just like these other species.
+
+Unknown speaker 15:08 
+So you can you can you can uh ask uh the body to produce a new organ, okay, in a different location.
+
+Unknown speaker 15:21 
+You can ask the body to produce structures that belong to an entirely different species here.
+
+Unknown speaker 15:34 
+And so this is the beginning of using this bioelectric interface for regenerative medicine applications and we're working on limb regeneration and uh repairing birth defects and uh reprogramming tumors, all all of these kinds of things.
+
+Unknown speaker 15:40 
+When we learn the bioelectric interface by which we can communicate with these with these systems.
+
+Unknown speaker 15:51 
+But notice that everything I've shown you so far, uh, has been normal structures that have evolved on earth.
+
+Unknown speaker 16:03 
+So, uh, that that eye was a normal frog eye, these heads belong to normal species.
+
+Unknown speaker 16:13 
+And what so now but we need to think beyond this, what is going to happen when first of all, humans are modified, which we are already modifying ourselves in both in biological and technological ways.
+
+Unknown speaker 16:31 
+So there's going to be an incredible variety of beings that are combinations of novel uh novel technologies with existing biological structures.
+
+Unknown speaker 16:34 
+And so we can ask, where do those goals come from?
+
+Unknown speaker 16:34 
+We know where the frog eye came from and the planarian head, they came from evolution acting over eons to uh to set particular structures.
+
+Unknown speaker 16:34 
+But for beings like this that have never been here before, where do the goals of their tissues come from?
+
+Unknown speaker 16:34 
+And in order to try to understand, um, I want to introduce you to a to a synthetic life form.
+
+Unknown speaker 16:37 
+So this is something that if you saw, you might think that uh this we got this from the bottom of a lake somewhere, you know, a primitive organism, but actually if you were to sequence it, you would find 100% homo sapiens.
+
+Unknown speaker 16:45 
+We call these anthrobots, they are made from human adult cells, not not embryonic, adult human patient cells from the uh tracheal epithelial biopsies.
+
+Unknown speaker 16:51 
+And they have the ability to uh self-assemble into a tiny little creature that swims around, it has a completely different behavior, doesn't look anything like any uh stage of human development, so the plasticity is amazing.
+
+Unknown speaker 17:04 
+When you free your cells from the influence of the rest of the body, they have a different life.
+
+Unknown speaker 17:15 
+And you can ask, what does this thing has never existed before, these anthrobots have no evolutionary history, what do they know how to do?
+
+Unknown speaker 17:24 
+Well, one thing they know how to do is to repair damage, for example, the neurons.
+
+Unknown speaker 17:30 
+So if you played a bunch of human neurons here in a petri dish, you take a scalpel and you make a big scratch, so a big wound through like this, right?
+
+Unknown speaker 17:40 
+Here's your neural wound, and you put a bunch of uh these anthrobots labeled in green, they will find a spot in this wound, they will land there, and what you'll see is that they start to knit the the uh neurons across the gap, they start to repair.
+
+Unknown speaker 17:49 
+If you lift them up four days later, this is what they're doing, they're repairing the damage.
+
+Unknown speaker 17:54 
+So who would have thought that your tracheal epithelial cells, which sit there quietly for for decades dealing with mucus and particles and so on, have the ability to become a completely different little creature.
+
+Unknown speaker 18:00 
+uh, and so, you know, this is this is what they look like.
+
+Unknown speaker 18:05 
+They have little little cilia, little hairs on their outer surface that allow them to swim.
+
+Unknown speaker 18:15 
+They have four different behavior patterns that they can switch between.
+
+Unknown speaker 18:22 
+They have 9,000 differently expressed genes, okay, so about half the genome is differentially expressed.
+
+Unknown speaker 18:39 
+Again, we didn't do anything to the we didn't touch the genome, there are no synthetic biology circuits here, no weird uh nano materials, no scaffolds.
+
+Unknown speaker 18:59 
+This is novel uh the capabilities of a being that puts itself together in a way that's never existed in evolution before.
+
+Unknown speaker 19:07 
+And and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+Unknown speaker 20:00 
+have received the benefit of the ingression of
+
+Unknown speaker 20:01 
+patterns from this space and we really need
+
+Unknown speaker 20:03 
+to understand this to uh to uh to take the
+
+Unknown speaker 20:07 
+full um benefit of the technologies that are coming.
+
+Unknown speaker 20:11 
+And so, I would I would suggest that the
+
+Unknown speaker 20:13 
+future of first of all, let's just talk about biomedicine for a second.
+
+Unknown speaker 20:16 
+This these are all the familiar uh strategies of biomedicine, they're all kind of bottom up, you know, they're all hardware first, but there are these all of these uh incredible technologies coming down the line
+
+Unknown speaker 20:28 
+having to do with exploiting the intelligence of the material of life.
+
+Unknown speaker 20:33 
+And I think that future uh future biomedicine is going to look a lot more like a kind of somatic psychiatry than it's going to look like chemistry.
+
+Unknown speaker 20:40 
+It is really about collaborating, cooperating and uh convincing your your various intelligences in your body to do the the things you need them to do.
+
+Unknown speaker 20:49 
+And the final thing I'll say is this, uh besides all the advances uh that this is going to lead to in regenerative
+
+Unknown speaker 20:55 
+medicine, cancer, birth defects, bioengineering, aside from all that, there is uh there's a there's an ethical and a social
+
+Unknown speaker 21:00 
+component here, which is that uh all of the natural forms that Darwin said when meant when he said endless forms most beautiful, are a tiny
+
+Unknown speaker 21:11 
+corner of this enormous space of beings, all of the combinations of evolved material, engineered material and software and the patterns from this space, all of these make some kind of a viable novel embodied mind.
+
+Unknown speaker 21:25 
+So cyborgs and hybrads and every kind of combination under the sun is coming.
+
+Unknown speaker 21:36 
+We are going to be living with these beings, we already are with many of these already exist, but there will certainly be more, and we really need to understand all of these components and develop a novel uh set of ethical principles to relate to beings that are not like us, that are truly alien that do not come from our evolutionary life stream, and we need to enter into a kind of ethical symbiosis with these beings
+
+Unknown speaker 21:54 
+uh as a matter of maturing as a species.
+
+Unknown speaker 21:56 
+So, um I thank you very much for listening.

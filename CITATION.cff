@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "About God: The God Equation and the Probability of a Rational Creator"
+authors:
+  - family-names: "Cadena Ortiz de Montellano"
+    given-names: "José Manuel"
+repository-code: "https://github.com/ManuelCadena/About-God"
+abstract: "Investigación doctoral sobre Dios, Logos, filosofía, teología y ciencia, incluyendo el modelo probabilístico de la existencia divina y el framework C2AI."
+keywords:
+  - theology
+  - philosophy
+  - science
+  - probability
+  - logos
+  - free energy
+  - fine-tuning

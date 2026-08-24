@@ -1,0 +1,951 @@
+{
+  "ciclos": {
+    "1": {
+      "nombre": "Principal",
+      "biofix_semana": 10,
+      "aporte_produccion": "50%",
+      "semanas": {
+        "10": {
+          "gdd": 84,
+          "fenologia": "FEN-03",
+          "fase": "Floraci\u00f3n",
+          "diametro_mm": 11.2,
+          "dias_para_53mm": 47,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "11": {
+          "gdd": 168,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 17.5,
+          "dias_para_53mm": 40,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "12": {
+          "gdd": 252,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 23.7,
+          "dias_para_53mm": 33,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "13": {
+          "gdd": 336,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 29.9,
+          "dias_para_53mm": 26,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "14": {
+          "gdd": 420,
+          "fenologia": "FEN-06",
+          "fase": "Maduraci\u00f3n",
+          "diametro_mm": 36.2,
+          "dias_para_53mm": 19,
+          "receta": null,
+          "costo_ha": 0
+        },
+        "15": {
+          "gdd": 504,
+          "fenologia": "FEN-07",
+          "fase": "COSECHA",
+          "diametro_mm": 53,
+          "calibre": "230",
+          "accion": "\u2702\ufe0f Cosechar - Calibre 230 alcanzado"
+        }
+      }
+    },
+    "2": {
+      "nombre": "Secundario",
+      "biofix_semana": 24,
+      "aporte_produccion": "30%",
+      "semanas": {
+        "24": {
+          "gdd": 84,
+          "fenologia": "FEN-03",
+          "fase": "Floraci\u00f3n",
+          "diametro_mm": 11.2,
+          "dias_para_53mm": 47,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "25": {
+          "gdd": 168,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 17.5,
+          "dias_para_53mm": 40,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "26": {
+          "gdd": 252,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 23.7,
+          "dias_para_53mm": 33,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "27": {
+          "gdd": 336,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 29.9,
+          "dias_para_53mm": 26,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "28": {
+          "gdd": 420,
+          "fenologia": "FEN-06",
+          "fase": "Maduraci\u00f3n",
+          "diametro_mm": 36.2,
+          "dias_para_53mm": 19,
+          "receta": null,
+          "costo_ha": 0
+        },
+        "29": {
+          "gdd": 504,
+          "fenologia": "FEN-07",
+          "fase": "COSECHA",
+          "diametro_mm": 53,
+          "calibre": "230",
+          "accion": "\u2702\ufe0f Cosechar - Calibre 230 alcanzado"
+        }
+      }
+    },
+    "3": {
+      "nombre": "Terciario",
+      "biofix_semana": 38,
+      "aporte_produccion": "20%",
+      "semanas": {
+        "38": {
+          "gdd": 84,
+          "fenologia": "FEN-03",
+          "fase": "Floraci\u00f3n",
+          "diametro_mm": 11.2,
+          "dias_para_53mm": 47,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "39": {
+          "gdd": 168,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 17.5,
+          "dias_para_53mm": 40,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "40": {
+          "gdd": 252,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 23.7,
+          "dias_para_53mm": 33,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "41": {
+          "gdd": 336,
+          "fenologia": "FEN-05",
+          "fase": "Desarrollo",
+          "diametro_mm": 29.9,
+          "dias_para_53mm": 26,
+          "receta": [
+            {
+              "producto": "exalt",
+              "nombre": "Exalt 60 SC",
+              "dosis": "0.3 Lt/ha",
+              "costo_ha": 780.0,
+              "ieia": 0.53,
+              "iecb": 0.6794871794871795,
+              "razon": "Control minador (IEIA=53%)"
+            },
+            {
+              "producto": "sulfato_cobre",
+              "nombre": "Sulfato de Cobre Pentahidratado",
+              "dosis": "2 kg/ha",
+              "costo_ha": 180,
+              "ieia": 0.79,
+              "iecb": 4.388888888888889,
+              "razon": "Control mancha_grasienta (IEIA=79%)"
+            }
+          ],
+          "costo_ha": 960.0
+        },
+        "42": {
+          "gdd": 420,
+          "fenologia": "FEN-06",
+          "fase": "Maduraci\u00f3n",
+          "diametro_mm": 36.2,
+          "dias_para_53mm": 19,
+          "receta": null,
+          "costo_ha": 0
+        },
+        "43": {
+          "gdd": 504,
+          "fenologia": "FEN-07",
+          "fase": "COSECHA",
+          "diametro_mm": 53,
+          "calibre": "230",
+          "accion": "\u2702\ufe0f Cosechar - Calibre 230 alcanzado"
+        }
+      }
+    }
+  },
+  "resumen": {
+    "costo_total_anual": 3409920.0,
+    "costo_por_ha": 11520.0,
+    "ciclos_floracion": 3,
+    "meta_calibre": "230 (53mm)",
+    "meta_ipf": "< 0.30 (95% prob)",
+    "modelo_crecimiento": "G(t) = g\u2080 \u00d7 f_T \u00d7 f_S \u00d7 f_N",
+    "generado": "2026-01-05T02:10:24.498097"
+  },
+  "recetas_por_semana": {
+    "10": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-03",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "11": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "12": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "13": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "24": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-03",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "25": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "26": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "27": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "38": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-03",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "39": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "40": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    },
+    "41": {
+      "productos": [
+        {
+          "producto": "exalt",
+          "nombre": "Exalt 60 SC",
+          "dosis": "0.3 Lt/ha",
+          "costo_ha": 780.0,
+          "ieia": 0.53,
+          "iecb": 0.6794871794871795,
+          "razon": "Control minador (IEIA=53%)"
+        },
+        {
+          "producto": "sulfato_cobre",
+          "nombre": "Sulfato de Cobre Pentahidratado",
+          "dosis": "2 kg/ha",
+          "costo_ha": 180,
+          "ieia": 0.79,
+          "iecb": 4.388888888888889,
+          "razon": "Control mancha_grasienta (IEIA=79%)"
+        }
+      ],
+      "costo_total_ha": 960.0,
+      "compatibilidad": {
+        "compatible": true,
+        "incompatibles": [],
+        "advertencias": [
+          "exalt + sulfato_cobre: Verificar pH y dosis"
+        ]
+      },
+      "ph_mezcla": {
+        "compatible_ph": true,
+        "ph_min": 6.0,
+        "ph_max": 7.5,
+        "ph_recomendado": 6.8,
+        "mensaje": "Ajustar pH del agua a 6.8 (rango: 6.0-7.5)"
+      },
+      "fenologia": "FEN-05",
+      "orden_mezcla": [
+        "1. Sulfato de Cobre Pentahidratado (2 kg/ha) - Disolver primero",
+        "2. Exalt 60 SC (0.3 Lt/ha)"
+      ],
+      "volumen_agua_lt_ha": 400,
+      "tiempo_aplicacion": "Condiciones \u00f3ptimas para aplicaci\u00f3n"
+    }
+  }
+}

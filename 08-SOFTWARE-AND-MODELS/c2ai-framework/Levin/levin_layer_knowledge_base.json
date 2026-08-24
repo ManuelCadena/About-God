@@ -1,0 +1,244 @@
+{
+  "knowledge_base": "CitrusMax Knows - Levin Layer",
+  "version": "2.0",
+  "last_updated": "2026-01-07",
+  "category": "C2AI Framework",
+  "subcategory": "Bioelectric Cognition",
+  
+  "overview": {
+    "title": "Capa Levin - Análisis Bioeléctrico y Morfogénesis",
+    "description": "Módulo especializado que integra conceptos de bioelectricidad y morfogénesis vegetal en la toma de decisiones agronómicas. Basado en la investigación de Michael Levin sobre señalización bioeléctrica.",
+    "scientific_basis": "Las plantas codifican objetivos de desarrollo en patrones bioeléctricos (potenciales de membrana). Esta capa detecta el 'estado objetivo' actual de la planta y recomienda acciones que apoyen los procesos naturales de desarrollo.",
+    "contribution_to_pe": "~15% de ganancia incremental evitando decisiones contraproducentes"
+  },
+
+  "panels": {
+    "dashboard": {
+      "name": "Levin Layer Dashboard",
+      "description": "Panel de control bioeléctrico con visión resumida del estado actual de la planta",
+      "endpoint": "/c2ai-api/api/v1/levin/dashboard/{section}",
+      "metrics": {
+        "current_bioelectric_goal": {
+          "description": "Meta fisiológica que la planta persigue según su patrón de voltaje celular",
+          "possible_values": ["Dormancy", "Vegetative Growth", "Flowering", "Fruit Set", "Fruit Development", "Fruit Maturation", "Seed Dispersal"],
+          "interpretation": "Cada etapa corresponde a un momento del ciclo de vida del árbol"
+        },
+        "goal_alignment_score": {
+          "description": "Grado de concordancia entre las metas intrínsecas de la planta y las acciones de manejo",
+          "range": "0-100%",
+          "interpretation": {
+            "80-100%": "ÓPTIMO - Prácticas perfectamente alineadas con objetivo bioeléctrico",
+            "60-79%": "BUENO - Alineación aceptable, algunas mejoras posibles",
+            "40-59%": "MODERADO - Conflicto parcial, revisar prácticas",
+            "0-39%": "CRÍTICO - Alto conflicto, intervención urgente requerida"
+          }
+        },
+        "pruning_status": {
+          "description": "Estado de la poda y su impacto en el objetivo actual",
+          "components": {
+            "days_since_pruning": "Días desde última poda",
+            "intensity": "Porcentaje de ramas podadas",
+            "impact_on_goal": "Efecto en el objetivo actual (positivo/negativo)",
+            "pruning_window": "OPTIMAL, RECOMMENDED, CAUTION, AVOID, PROHIBITED"
+          }
+        },
+        "goal_shift_probability": {
+          "description": "Probabilidad de que la poda reprograme el patrón bioeléctrico",
+          "range": "0-100%",
+          "interpretation": {
+            "high": ">50% - Alta probabilidad de reprogramación bioeléctrica",
+            "moderate": "20-50% - Probabilidad moderada de cambio",
+            "low": "<20% - Patrón bioeléctrico estable"
+          }
+        }
+      }
+    },
+
+    "goal_alignment": {
+      "name": "Goal Alignment",
+      "description": "Análisis de las metas intrínsecas de la planta y su grado de alineamiento con acciones agronómicas",
+      "endpoint": "/c2ai-api/api/v1/levin/goal-alignment/{section}",
+      "metrics": {
+        "goals_library": {
+          "description": "Biblioteca de 8 objetivos bioeléctricos con sus características",
+          "goals": [
+            {"name": "Dormancy", "target_gdd": 0, "pruning_sensitivity": 0.3, "pruning_benefit": 0.15},
+            {"name": "Vegetative Growth", "target_gdd": 200, "pruning_sensitivity": 0.8, "pruning_benefit": 0.35},
+            {"name": "Flowering", "target_gdd": 350, "pruning_sensitivity": 0.9, "pruning_benefit": -0.25},
+            {"name": "Fruit Set", "target_gdd": 450, "pruning_sensitivity": 1.0, "pruning_benefit": -0.40},
+            {"name": "Fruit Development", "target_gdd": 830, "pruning_sensitivity": 0.7, "pruning_benefit": -0.20},
+            {"name": "Fruit Maturation", "target_gdd": 950, "pruning_sensitivity": 0.4, "pruning_benefit": -0.05},
+            {"name": "Seed Dispersal", "target_gdd": 1200, "pruning_sensitivity": 0.2, "pruning_benefit": 0.08}
+          ]
+        },
+        "alignment_breakdown": {
+          "description": "Desglose de alineación por factor",
+          "factors": ["water", "light", "nitrogen", "phosphorus", "potassium"],
+          "interpretation": {
+            ">80%": "Factor óptimo",
+            "50-80%": "Factor mejorable",
+            "<50%": "Factor limitante - requiere intervención"
+          }
+        },
+        "pruning_phenology_compatibility": {
+          "description": "Compatibilidad entre poda y fase fenológica",
+          "phases": {
+            "FEN-01": {"recommendation": "OPTIMAL", "benefit": "+15%"},
+            "FEN-02": {"recommendation": "EXCELLENT", "benefit": "+35%"},
+            "FEN-03": {"recommendation": "AVOID", "benefit": "-25%"},
+            "FEN-04": {"recommendation": "PROHIBITED", "benefit": "-40%"},
+            "FEN-05": {"recommendation": "AVOID", "benefit": "-20%"},
+            "FEN-06": {"recommendation": "CAUTION", "benefit": "-5%"},
+            "FEN-07": {"recommendation": "RECOMMENDED", "benefit": "+8%"}
+          }
+        }
+      }
+    },
+
+    "bioelectric_map": {
+      "name": "Bioelectric Map",
+      "description": "Representación espacial de los patrones de potencial eléctrico a lo largo del organismo vegetal",
+      "endpoint": "/c2ai-api/api/v1/levin/bioelectric-map/{section}",
+      "metrics": {
+        "vmem": {
+          "description": "Potencial de membrana celular (mV)",
+          "interpretation": {
+            "-60 to -80 mV": "Hiperpolarización - absorción activa o estrés",
+            "-40 to -60 mV": "Rango normal - crecimiento activo",
+            "-20 to -40 mV": "Despolarización - alta actividad metabólica"
+          },
+          "locations": ["meristem", "root_tip", "fruit_zone"]
+        },
+        "bioelectric_coherence": {
+          "description": "Sincronización de señales eléctricas entre partes de la planta",
+          "range": "0-100%",
+          "interpretation": {
+            ">70%": "Alta coordinación - planta en armonía",
+            "40-70%": "Coordinación parcial - adaptación en curso",
+            "<40%": "Baja coherencia - posible estrés o conflicto interno"
+          }
+        },
+        "gamma_power_40hz": {
+          "description": "Intensidad de oscilaciones de alta frecuencia (~40 Hz)",
+          "interpretation": {
+            ">15%": "Evento morfogénico inminente (floración, brotación)",
+            "5-15%": "Preparación para cambio de fase",
+            "<5%": "Estado basal o reposo"
+          },
+          "note": "Picos gamma preceden cambios de desarrollo en ~48 horas"
+        },
+        "voltage_heatmap": {
+          "description": "Mapa de calor de distribución de Vmem",
+          "colors": {
+            "blue": "Zonas hiperpolarizadas (raíces activas)",
+            "green": "Zonas en rango normal",
+            "red": "Zonas despolarizadas (frutos, meristemos activos)"
+          }
+        }
+      }
+    },
+
+    "morphogenesis": {
+      "name": "Morphogenesis",
+      "description": "Interpretación de cómo los patrones bioeléctricos influyen en el desarrollo estructural de la planta",
+      "endpoint": "/c2ai-api/api/v1/levin/morphogenesis/{section}",
+      "metrics": {
+        "pruning_perturbation_index": {
+          "description": "Nivel de estrés morfogenético causado por poda reciente",
+          "formula": "PI = intensidad × sensibilidad × (1 - días/90)",
+          "interpretation": {
+            "0-20%": "Perturbación baja - planta recuperada",
+            "20-50%": "Perturbación moderada - en recuperación",
+            ">50%": "Perturbación alta - evitar nuevas intervenciones"
+          }
+        },
+        "regeneration_potential": {
+          "description": "Capacidad de generar nuevo tejido y cicatrizar",
+          "interpretation": {
+            ">60%": "Alta capacidad regenerativa",
+            "30-60%": "Capacidad moderada",
+            "<30%": "Baja capacidad - considerar bioestimulantes"
+          }
+        },
+        "meristem_activation": {
+          "description": "Probabilidad de activación de yemas latentes",
+          "interpretation": {
+            ">50%": "Alta probabilidad de brotación",
+            "20-50%": "Probabilidad moderada",
+            "<20%": "Meristemos dormidos"
+          }
+        },
+        "growth_direction": {
+          "description": "Distribución de recursos entre tipos de crecimiento",
+          "components": {
+            "vegetative": "Prioriza hojas/ramas",
+            "reproductive": "Prioriza flores/frutos",
+            "maintenance": "Recuperación activa"
+          }
+        },
+        "phenology_timeline": {
+          "description": "Línea de tiempo fenológica con GDD requeridos",
+          "phases": ["FEN-01 (0)", "FEN-02 (200)", "FEN-03 (350)", "FEN-04 (450)", "FEN-05 (830)", "FEN-06 (950)", "FEN-07 (1200)"]
+        }
+      }
+    }
+  },
+
+  "scientific_references": {
+    "primary": [
+      {
+        "author": "Michael Levin",
+        "topic": "Bioelectric signaling in morphogenesis",
+        "key_concept": "Plants encode developmental goals in bioelectric patterns (membrane potentials)"
+      },
+      {
+        "author": "Karl Friston",
+        "topic": "Active Inference",
+        "key_concept": "Organisms act to minimize surprise/free energy by aligning actions with internal models"
+      },
+      {
+        "author": "Baluška & Levin (2016)",
+        "topic": "Plant cognition",
+        "key_concept": "All living cells manage information and internal 'goals' analogous to primitive cognitive systems"
+      }
+    ],
+    "formulas": {
+      "alignment_score": "Score = Σ(factor_i × peso_i) donde factores incluyen agua, luz, N, P, K",
+      "levin_layer": "L = 1 - Σ(action supports goal) × c / Σc",
+      "coherence": "C = 1 - (1/N) × Σ|Vi - Vj| / σV"
+    }
+  },
+
+  "agronomic_applications": {
+    "pruning_optimization": {
+      "description": "Planificar poda según fase fenológica y objetivo bioeléctrico",
+      "best_practices": [
+        "Podar en FEN-01/FEN-02 para máximo beneficio (+15-35%)",
+        "Evitar poda en FEN-03/FEN-04/FEN-05 (-20 a -40%)",
+        "Monitorear perturbation_index antes de nuevas intervenciones"
+      ]
+    },
+    "stress_detection": {
+      "description": "Detectar estrés antes de síntomas visibles",
+      "indicators": [
+        "Caída de coherencia bioeléctrica (<40%)",
+        "Despolarización anormal de Vmem",
+        "Ausencia de potencia gamma en épocas de actividad esperada"
+      ]
+    },
+    "growth_management": {
+      "description": "Dirigir crecimiento según objetivos productivos",
+      "strategies": [
+        "Si vegetativo >50%: Considerar poda ligera para concentrar energía",
+        "Si reproductivo >50%: Asegurar agua y potasio para fructificación",
+        "Si mantenimiento >30%: No forzar producción, permitir recuperación"
+      ]
+    }
+  },
+
+  "data_sources": {
+    "real_data": ["phenology", "gdd", "pruning_events", "soil_moisture", "nutrients"],
+    "synthetic_data": ["bioelectric_sensors", "vmem_readings", "gamma_power"],
+    "note": "Los datos bioeléctricos son actualmente SIMULADOS para demostración. En producción se conectarían sensores reales."
+  }
+}

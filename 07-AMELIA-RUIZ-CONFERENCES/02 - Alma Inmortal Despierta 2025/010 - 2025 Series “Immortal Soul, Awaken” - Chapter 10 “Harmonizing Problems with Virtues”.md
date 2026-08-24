@@ -1,0 +1,63 @@
+# 2025 Series “Immortal Soul, Awaken”: Chapter 10 “Harmonizing Problems with Virtues”
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=H46CBuWpQAo
+- **Duración:** 13.1min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 10
+
+## Transcripción
+
+Hola, buenos días.
+
+Hola, hola. A ver, este día de Dios eh, ¿qué trae consigo de eh como para compartir? Em, ¿qué les parece si tratamos de entender juntos lo que llamamos problemas? ¿Qué les parece?
+
+Porque vieron que alguien nos dice algo, está conflictuado, digo, ¿qué problema?
+
+Está afligido. ¿Qué problema?
+
+Eh, el problema es problema o es una situación desarmónica que para algunas personas es problema y para otros no.
+
+Entonces, porque es problema para unos y para otros no. ¿Les parecería que nos preguntemos eso? ¿Vieron que cuando algún amigo, una amiga te dice algo e jes tengo, me pasó esto, aquello, aquello. Y vieron cuando el otro dice, "Va, pero eso no es problema.
+
+Déjame que te lo resuelvo. Ay, gracias, dice el otro. ¿Por qué? Porque eh para la filosofía pitagórica un problema es una circunstancia desarmónica que le falta una porción de energía para armonizarse. ¿Y qué esa e cómo diríamos? Trozo de energía desarmónica.
+
+se va a uno a una persona y la persona tiene el exacto trozo de bien que se llama virtud para armonizar esa situación. Por eso le llega, dice, "Ay, esto no es problema, es un placer, yo lo hago con mucho gusto." Entonces, dentro de sí está la energía para resolverlo.
+
+Pero a todos, a esa persona, por ejemplo, que te resuelve una cosa, te resuelve, sí, pero le toca algo que que dan. ¿Y por qué quedó así?
+
+porque le falta el trozo de energía de bien llamada virtud, que esa situación para armonizarse necesita.
+
+Entonces, e este, ¿qué es lo que pasa? Bueno, la persona puede protestar, renegar, enojarse, le da miedo, le da angustia, o sea, todas las emociones negativas.
+
+miedo, angustia, tristeza o enojo. Y la situación sigue esperando. A veces eh este tiene la amabilidad la vida de dejarte de descansar un ratito y eh aparece alguien y todo te deja descansar. Después que lloré, que o que dije que no podía, te todo te deja descansar. Después vuelve otra vez la misma situación en otra forma, pero vuelve. Lo que yo no resuelvo hoy, lo tendré que resolver mañana.
+
+Como dice una amiguita, ya sin diente. O lo resolves ahora o lo resolves cuando no tenga diente. Pero bueno, te más chiste, pero o lo resolves ahora o lo resolves más adelante o lo resolves en la vida que sigue. Lo que se te presenta como problema lo que quiere es enseñarte algo.
+
+Entonces, todo consiste en que yo me dé cuenta que para algunas situaciones yo tengo dentro de mí la energía que la situación necesita para resolverla y para otras situaciones yo tengo que pedir esa energía. Se llama virtud y es un trozo de Dios misma.
+
+Entonces, la tengo que pedir, pero para eso tengo que reconocer que no la tengo. Y es importante decir, Diosito, la energía que se necesita para resolver esta virtud, esta perdón circunstancia desordenada es, a ver, por ejemplo, digo, es 15% de paciencia con un 20% de firmeza más un 3% de perdón y listo.
+
+Si es para Pitágoras es número y es geometría y es lo que justo te falta. Por eso para otro la misma circunstancia dice para yo te la resuelvo en 2 segundos. Sí, pero hay otras cosas que no saben cómo resolverl.
+
+Por eso es que porque le falta la energía y no tenemos el hábito, sobre todo los llamados buenos, de decir, "No tengo la debida energía de bien para resolver esto. Dios podrías ayudarme las religiones no nos lo enseñaron.
+
+No nos enseñaron, nos enseñaron a orar y estuviste Dios te salve, Dios te salve y no, o sea, en Pitágoras te dice, si lo amáas a Dios, lo tenés que meter dentro tuyo y ser humilde, decir, "Vos sos el que vas a resolver el problema porque yo te presto mis ojos, mis manos, mi todo, porque yo no tengo la energía adecuada para resolverlo, Pero sí la quiero. Entonces te recibo a ti dentro de mí a través de un trozo de virtud. Y entonces se resuelve la situación y yo aprendí ese trozo de virtud dentro de mi cerebro y aprendí.
+
+Entonces, e qué hermoso sería que para nuestros hijos, nuestros nietos, todos los que siguen, yo pueda escribir problemas que enfrenté en la vida, eh, cuando era niña, cuando era adolescente, niña, niño, adolescente, jovencito, maduro, el problema, ¿por qué? Porque me faltaba, hijo mío, esta virtud es simple, es sencillo, requiere humildad.
+
+Decir, no sé, no puedo, te quiero a vos, te necesito. Por eso es que en su filosofía Pitágoras dice, "¿Qué crees que quiere Dios? que digas que crees en él y que le ores o que lo experimentes a través de pedir trocitos de él mismo, que son las virtudes, y los transformes en gestos, en miradas, en abrazos, en resolución de situaciones desarmónicas, por supuesto. Esto último. Entonces es una época este creo que como distinta, como que la época de la infancia en lo en la forma de conocer a Dios acabó esa infancia en el que decía, "Ay, ponete y a orar." Sí, es precioso orar, pero mucho más precioso es que lo meta Dios en mí y resuelve los problem resuelva los problemas de mi vida.
+
+Eso es amar a Dios. Lo otro es un perso. Si yo digo, "Ay, yo lo amo, lloro siempre." Sí, está llorando a cada rato por los problemas. Y qué se voy a hacer, que si me falta dinero, que si me falta, si me echan del trabajo, que si y Dios, ¿dónde está? Ah, si yo creo. Es más, me voy a un ritual todas las semanas, sea de cuál, qué religión que fuere.
+
+Sí, salís de ritual y salís igual, entonces no te está sirviendo porque lo que te sirve es meterlo a él dentro tuyo. Es lo que hacen las plantas, nada más que lo hacen con la luz y le llaman fotosíntesis.
+
+convierten luz en algo material de tres dimensiones, la sabia, la vida del árbol. Y eso es lo que tenemos que hacer, luz de virtud, convertirlo en gesto humano. Entonces, vuelvo a lo que decía, que digo, hijitos míos, nietos, que le toque el herento. Estas son las cosas que enfrenté. ¿Qué me faltaba?
+
+Listo, es simple, es sencillo, pero no lo veía, no lo vi cuando era niña, no lo vi de adolescente, protesté, renegué, me quejé. Otros digo, lloré, patalé. Otro, me paralicé de miedo. En fin, pero un día entendí. Es simple, pero como nunca nos han enseñado. El bueno cree que tiene que ser bueno de deber. Deber es la idea, es cerebro, no es tomar una energía que está fuera de mí. Entonces, el bueno no reconoce que no tiene esa energía porque dice, "Soy bueno." Entonces va con su sangre, su carne, sus huesos a resolver los problemas. Entonces queda quedamos hecho un andrajo y no resuelvo nada porque el problema se vuelve a presentar. Cuando se vuelve a presentar y se vuelve a presentar es que no lo resolví.
+
+Entonces, qué lindo sería que eso lo deje de herencia. Y a lo mejor ahora cuando uno está vivo no te llevan el apunte, pero generalmente cuando uno se muere generalmente sí dice, "Ay, qué sabia era mamá, ya me remorí." O qué sabio era papá. Claro, yo no le hacía caso, pero y empiezan ahí a y en una de esas leen lo que les dejamos de herencia. Esta es mi herencia. No te dejaré cosa material, pero te dejo mi vida. Acá en esto, si lo lograses entender, te ahorrarías. Pero décadas de frustraciones, porque no entiendo ni para qué estoy vivo ni para nada.
+
+ni qué es la vida, ni quién soy yo. Bueno, entonces si quisieran que nos unamos en los problemillas tratando de ver que aprendí en cada uno y si aprendí y si no aprendí, me reviso así la vida y veo, claro, se repitió en esta forma y a través de esta persona y acá se volvió a repetir y acá y entonces eh ah, esto no lo aprendí, pero necesitaría que virtu A veces son varias, pero una porcioncita pequeña de una virtud y una porcioncita más grande de otra, justo lo que más te falta. Si quisieran que lo hagamos, tenemos una semanita. Si quieren en los próximos días encararlo juntos.
+
+Bueno, un abrazo, besitos, nos vemos dentro de poquito. Ciao.

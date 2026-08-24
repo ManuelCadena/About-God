@@ -1,0 +1,67 @@
+# Capítulo 22 Premonición… el recuerdo de futuro
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=vlRNoFIkQPU
+- **Duración:** 7.9min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 22
+
+## Transcripción
+
+Buenos días, hermanitos. Buenos días.
+
+Hola.
+
+Hoy nuevamente descubriendo el día de hoy y entrando a su esencia así al caro del día.
+
+Este arescito, como dicen las hermanitas de México, e, ¿cuál será en esencia de este día? ¿Qué querrá el día que yo haga?
+
+Eh, ¿y qué haré yo con este hoy?
+
+Eh, bueno, mis hermanitor, este, creo que últimamente he estado hablando de tiempo y son así como unos chispazos, pero eh está bueno que yo siga, aunque sea un poquito más de tiempo que es apasionante, apasionante. ¿Saben que eh una de las cosas que dice la filosofía pitabórica bien interesante es que antes de 2000 yo le puedo decir a miérico, "Ya sé que te vas a ir a explorar todo mi futuro y más que explora lo vas a ir a tal cual estoy hoy.
+
+Yo quiero decirte que quiero que como explorador me dias qué altas nativas hay.
+
+Terminó.
+
+¿Qué altas?
+
+¿Qué puede ser que yo viva en este punto y en esta circunstancia?
+
+Entonces, recordemos, el doble etérico se va como explorador, se va siempre.
+
+Él explora hasta el final de la vida y depende de, bueno, los chicos tienen más tiempo, pero nosotros estamos como que ahí. Entonces, llega al final, vuelve, llega al final, vuelve, llega al final, vuelve y lo vas armando. Y está como importante que me diga alternativas y a veces me dice alternativas, a veces lo que me dice es si seguís así porque lo que puede recorrer las consecuencias de mi odio, como estoy hoy. Entonces, eh si yo sigo así como hoy, me va a ocurrir esto, aquello, aquello, aquello. Entonces, mis tesoros, mi explorador se va y vuelve.
+
+Si yo le digo, por ejemplo, eh, yo me quisiera acordar de qué me va a pasar de aquí a 10 años estoy viva, ¿qué me va a pasar si yo sigo actuando como hoy?
+
+Y entonces el doble etérico se va, mi explorador se va, le podemos llamar yo cuántico, se le va, explora el futuro y vuelve con la noticia.
+
+Y si yo lo trabajé antes de dormirme diciendo, "Me quiero acordar, por favor, me quiero acordar y me llego a acordar." se llama premonición.
+
+¿Qué sería el recuerdo del futuro?
+
+El recuerdo del futuro.
+
+Entonces, yo lo puedo variar. Claro, para eso lo veo, porque me está diciendo, si seguís igualito que hoy, con tus miedos, con tus dudas, esto va a pasar.
+
+Pero si cambias, eh, esto va a ser la causa de una consecuencia diferente.
+
+Cambia.
+
+Eh, generalmente quienes han tenido premonición se han asustado mucho. Yo he conocido varias personas con premonición, este, pero se han asustado mucho y han robado, implorado este no ver más.
+
+Este, lo que pasa que en los que conocí no veían lo propio. Se ve que el explorador se iba al futuro y veía lo de otros.
+
+Entonces le parecía torturante ver que aquel va a tener un accidente y la que se va a enfermar y efectivamente ten accidente, efectivamente se enfermaba.
+
+En verdad este yo tengo como un criterio con respecto a eso. Nada es casual, nada es azaroso. Por consiguiente, si yo estoy viendo que así como está el fulato, si sigue así, se va a accidentar o si sigue así se va a enfermar, ¿qué es lo que tendrá que hacer? No avisarle al fulano, por supuesto, pero a través del triángulo hablarle.
+
+para que cambie, para decir, tenés que cambiar, tenés que cambiar, eh, porque si no correr tu hijo de enfermarte, porque si no correr tu ego, por un accidente.
+
+Entonces, eh, todos los días te voy a donar algo porque te di.
+
+La única que sabe qué le te le puede llegar a pasar soy yo. Es cómo no voy a tener ingerencia en su vida. y le oro al ser protector y le digo, "Te mando mi energía de encarnado, te mando una ofrenda, algo que me cueste en el día, te la mando para que protejas a tu protegido." Entonces, mis hermanitos queriditos, eh qué interesante es estar consciente de esto. O sea, no es fácil estar consciente de algo que la cultura no nos enseña, pero si empiezo a estar consciente, está muy interesante que use mi explorador y e y entonces este pueda ser útil para mí y para otros.
+
+Oye, espero haber expresado con claridad e lo de hoy e y me parece muy interesante, no sé cómo lo ver ustedes, aunque sea cortito, en participado en algo peón bonito juntos. Me los abrazo con todo el cariño, que tengan un domingo precioso, una semana preciosa y nos vemos si quiere el otro domingo.
+
+Chao. Diosito.

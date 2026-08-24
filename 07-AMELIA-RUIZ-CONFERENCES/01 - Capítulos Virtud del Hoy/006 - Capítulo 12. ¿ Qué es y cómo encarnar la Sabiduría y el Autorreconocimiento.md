@@ -1,0 +1,165 @@
+# Capítulo 12.  ¿ Qué es y cómo encarnar la Sabiduría y el Autorreconocimiento?
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=RCNdmD53D_A
+- **Duración:** 18.0min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 12
+
+## Transcripción
+
+Hermanitos, buenos días, hermanito queridísimo.
+
+Buenos días. Hola. Hola.
+
+M a veces pienso que alguien puede decir, eh, cómo puede decir, queridísimo, si ni lo conocí, pero tengo el convencimiento que hay un montón de personas que yo quiero y no les vi los rostros en esta vida, pero que nos hemos visto en otras, que hemos estado juntos, pero podemos contar por cientos, por miles así, y que hemos encarnado juntos en la cercanía haciendo endo determinadas cosas y ahora no nos toca conocernos, pero hay con una comunión muy acentuada.
+
+E este, ¿saben qué?
+
+Eh, me parece importante de que espero que a usted también le parezca importante de que hoy hablemos de la sabiduría, que es para la filosofía pitagórica para Pitágoras la ubicación.
+
+Entonces, ¿dónde estar? ¿Dónde no estar?
+
+¿Cuándo hablar? ¿Cuándo no hablar? La ubicación.
+
+Y [carraspeo] quiénes no nacimos con la ubicación, aquellas personas que le ocasionamos problemita a la mamá y a papá de entradita. Sí. Por ejemplo, eh decidimos encarnar cuando la mamá es soltera en una sociedad que al a la mujer soltera este bueno, no se le ve bien de que tengo un hijo. Eh, ahora ya los chicos en el problema que se hace, pero antes no.
+
+Entonces, si yo veo la situación, ¿cómo está mi mamá? Porque el maestro nos dice la filosofía pitagórica, hijo libre alrededío, el maestro te trae el día de que planeaste encarnar y te dice, mirá cómo está tu mamá, mira cómo está tu papá, mira cómo está la cosa.
+
+Guay, queres encarnar porque ya nos habíamos puesto como acuerdo como almas, pero no con la psique puesta ahí con la que se acuerda que planeó traerte de hijo, se acuerda absolutamente por nada, eh, le va a crear un problemón y lo primero que va a pasar, hijito queito, es que te rechace lo primerito, porque va a decir, "No, no puede ser, qued de embarazada. No, no, no.
+
+Dos del escándalo, ¿no?
+
+Y uno ahí hasta los tr meses no se mete dentro porque está inestable cuerpito físico de bebecito antes de los tres meses. Entonces, a ver, está viendo si se queda, o no sea, pero eh ahí estoy al lado observando todo eso que la mamá es un sufrimiento y cómo hago y que digo me van a rechazar, no me van a querer. Y este antes el maestro me los muestra y me dice, "¿Qué crees que va a pasar?" Y rechazo y eh y estás expuesto a eso y entonces puedo decir y bueno, sí, porque vengo desubicado y yo quiero trabajar en la ubicación.
+
+Entonces, eh, dice, "Bueno, no va a ser nada fácil porque 9 meses dentro de alguien que Dios mío, ¿por qué me quedé embarazado?" O sea, que uno vive 9 meses que para Pitáboras son electrónicos, o sea, mucho más de 9 meses.
+
+Este, con un rechazo, lógicamente que mi consciente de la psicisba eso. Entonces voy a terminar que me admitan, que me quieran, que me acojan, que con eso puedo cometer errores. Un montón, un montón. Estoy expuesta.
+
+Porque creo que para rechazarme tengo que dar el gusto a los otros, a los deseos, a las seques, a wow.
+
+En todos en algún momento de la vida voy a citar lo que me falta es aceptación, perdón, sabe de día que es ubicación, no aceptación, ubicación. Entonces, eh, ay, pero qué difícil ubicarse cuando nac difícil, eh, y hay de las más variadas diferencias, eh, de que hubo rechazo, pero de lo más me han contado cada cosa que no lo podéis creer. O sea, por ejemplo, que la madre oculta que está embarazada hasta no sé si meses cómo hizo y sí creí que estaba gordita.
+
+Bueno, en fin, otros entonces uno tiene problema con lo culto, eh, este trata de ocultar cosas para poder ser aceptada. Bueno, en fin.
+
+Eh, este hermanitos y hermanitas que dice, "Bueno, ¿quién dar una?" Miraquita eso porque a veces no me doy cuenta que muchos problemas los tengo por no ubicarme y no cuando no sií yo soy yo me acepte no me acepte so ahora algo inherente a eso es la falta de reconocimiento personal.
+
+No sé quién soy en cuanto a mis virtudes.
+
+Entonces, aquel que nació en esa forma no se tiene que permitir andar por el mundo sin el autorconocimiento.
+
+Es andar desnudo.
+
+¿Cómo voy a andar por el mundo si no sé qué voy a dar?
+
+Es como que cuando salgo de mi casa y ando suponiendo que voy caminando y ando por la verera, si yo no me reconozco, lo único que tengo claro es el propósito.
+
+Ah, voy a hacer tal coso. Me esperan en el trabajo.
+
+Hoy tengo que presentar tal proyecto.
+
+Pero, ¿quién eres?
+
+Y qué sé yo, pero soy incapaz para hacer esto con tu inteligencia.
+
+Es sí, eh, para el camino no se necesita inteligencia ni ninguna habilidad física, se necesita la energía.
+
+Entonces, la energía, ¿qué virtudes tenés? ¿Quién eres?
+
+Entonces, si yo tuve ese tipo de nacimiento y nazco sin ubicación y vengo a pedir la ubicación, antes de pedir la ubicación tengo que reconocer.
+
+Recuérdate a ti, recuérdate a ti, recuérdate a ti, dice Pitágoras.
+
+Vamos, te acuerda. Ha vivido muchas vidas, pero hay unige lo que tú eres, esa fuente de luz interior, fuente de agua, fuente de vida.
+
+Recuerda, por favor, porque si no vas a estar pendiente de la fuerza para que te quieran.
+
+Van so capaz de hacer cualquier cosa cuando te rechaza, ay, como me ayo morir porque no tengo, no sé quién soy, no tengo mi capa protectora de mi yo soy.
+
+Entonces, yo soy mi espíritu. Sí.
+
+El espíritu de Dios es el que creó Galaxias entera millones, millones, millones, millones de astros. Lo tengo adentro. Sí.
+
+Y yo estoy esperando que un fulano o una fulana me diga, "Ay, qué bien, te felicito." Y yo para sentirme bien, cuando ese padre cree que yo soy un hijo y es capaz de darme todo lo que tiene, si yo me ofrezco a hacer el bien, ¿sí?
+
+Entonces, yo soy mi espíritu, sí, yo soy mi alma, ¿sí?
+
+O sea, lo inmortal en mí yo soy. Sí.
+
+¿Y qué trabajé?
+
+Bueno, para saber que trabajaste vas a tener que fijarte en los peores momentos de tu vida que te sale de bien.
+
+Entonces, eh puede ser que yo me haya dado cuenta que puede ser que me enoje o puede ser que me entristezca porque alguien me culpa de algo que no es verdad, es porque alguien no me ve, porque hay Bueno, en fin, puede ser que yo me entristezca, llore o me dé miedo, pero alguna vez haya reflexionado, sí, pero lo amo y a la larga le perdono.
+
+Sí.
+
+Y entonces, ¿quién eres? El perdón.
+
+Lo trabajaste en mucha vida. Sí.
+
+para que eh se note así en esta desde chiquito y papá hace esto y la mamá hace igual lo amo, igual lo amo. Digo así significa que he pasado por muchas cosas adversas y he aprendido a soltarlas y a perdonar y ahora soy el perdón en alma y se truce a través del cerebro.
+
+Entonces dio, qué interesante, soy también fortaleza.
+
+Sí, me ha pasado de todo y sigo, sigo, sigo así y busco el bien, aunque a lo mejor algún etapa de la vida no le llamé Dios, pero siempre busqué el bien, la honestidad, la corrección, el no perjudicar a nadie.
+
+dijo, "Qué hermoso.
+
+Siempre siste así.
+
+Qué hermoso.
+
+Y entonces, eh, ¿quién so? Sí, eh, siempre busqué el bien, no me abatí con nadie y soy la fortaleza.
+
+También soy la búsqueda de Dios.
+
+Qué interesante.
+
+Pero entonces esas virtudes tienen colores.
+
+Y por ejemplo, este que dije, "Busco a Dios siempre lo busqué desde chiquitita y es un color azul celeste, cielo y cuando es muy diáfalo y un un azul claro, brillante, poco a Dios siempre en la fortaleza.
+
+Hm.
+
+el perdón violeta o como entre algunos países llaman morado.
+
+Entonces y wow, a la mañana y lo profundo y si quieren hago esto lo que hicimos otras veces y p la visto y la llego adentro y pido todo dentro y siento que desde el centro de mí parte el morado violeta, parte el naranja, la fortaleza parte El celeste busco a Dios, celeste azul y lo veo en mi agua. Si quiero también la cierro por arriba, la ciego por abajo, cierro por costado. Necesita poco movimiento, solamente necesita concientización y salo. Esto es lo que yo voy a dar hoy.
+
+Pero aparte, por ejemplo, me falta ver, me falta la firmeza, me falta eh puede ser que la mujer diga un sitio, pero esto es lo que yo ya soy.
+
+Y salirse eso es andar perdido.
+
+Entonces, en base a eso, pido la ubicación y y digo, esa es lo que me falta.
+
+Y entonces esta también me falta el antorcimiento, ya lo ejercité y digo, bueno, me falta la ubicación. Diosito, hoy te pido sabiduría.
+
+¿Podrías que yo intuya dote estar donde me está hablar? Si hablo, ¿qué cosa hablar o no hablar?
+
+¿Podrías emparme hoy?
+
+por ejemplo, de trabajo, puede ser, por ejemplo, la primera hora tengo una reunión, puede ser y ahí no más reviso mi agenda que anoté todo y en la ubicación digo, pues darme ubicación, sabiduría para ver qué tacho de la agenda, qué agreo.
+
+Entonces, a lo mejor esto no, esto no, esto sí, esto sí, esto sí, agrego cosas.
+
+Porque con sabedoria veo dónde tengo que estar y dónde no.
+
+Te dice Pitágoras, el sitio donde tienes que estar es un sitio amigo.
+
+Siempre el sitio te va a aportar y vos aportas al sitio. El sitio te aporta, vos aportas al sitio. Los sitios son donde no tenés que estar, aunque sean buenes, para que tu cerebro entienda, son sitios enemigos, no te aportan ni aportas.
+
+tenes que ir, no es tu sitio.
+
+¿Qué le parece esta reflexión en malitos míos para los que iniciaron, así como hemos dicho al inicio, y entonces falta sabiduría, falta ubicación, igual quise venir porque quise entrenar esta virtud, pero antes de esta, el autorconocimiento.
+
+Bautízate con las benditas aguas del autorreconocimiento personal. Y si eres perseverante, eres fuerte. Entonces alguien viene y te dice, "Ay, qué débil que sos. No te reías, cariñitos y aquí cambiado de la vida como un perro que alguien diga, ay, mira, un gato." El perro sigue siendo un perro.
+
+Entonces, eso sé quién sobe y si alguien te dice, eh, la verdad que sos un poco flojo, ¿eh? Y yo me sé que soy una topadora. Voy, voy me ríe. ¿Qué le voy a estar explicando?
+
+Si el perro le dice un gato, puede decir gua gua. O sea, sigue siendo perro, o sea, y no me ofendo. ¿De qué me voy a ofender? El que no vea que se haceito.
+
+Claro, pero si no te reconocimiento, ¿qué problema? te dice, "Quiere lo que no soy capaz de quértelo" o te dice, "Ay, para que yo te quiera venir acá y ahí a lo mejor voy." Entonces, si ya lo hemos estado trabajando, pero todavía me pasan esas cosas, ¿no les parece que no faltan cuotitas, autorconocimiento, ubicación?
+
+Emy, juntitos trabajando, hermanitos Lama, juntitos, juntitos, juntitos y Dios quiere con la gracia, bendito Dios.
+
+Beso, cariñito, precioso de una hermosa semana. Y si Dios quiere, hasta el próximo domingo. Chào

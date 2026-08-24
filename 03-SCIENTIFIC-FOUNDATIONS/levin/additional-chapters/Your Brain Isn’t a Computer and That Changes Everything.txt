@@ -1,0 +1,1914 @@
+ 
+ 
+
+Unknown speaker 00:00 
+I
+
+Unknown speaker 00:00 
+make the additional really weird claim that
+
+Unknown speaker 00:03 
+I don't think algorithms capture
+
+Unknown speaker 00:04 
+everything we need to know about life.
+
+Unknown speaker 00:06 
+which to go on the the idea of the brain as a computer is a metaphor, and not the thing itself.
+
+Unknown speaker 00:12 
+There's no bright line between what it does and what it is.
+
+Unknown speaker 00:15 
+That would not be what I would have predicted.
+
+Unknown speaker 00:20 
+This is a monumental theolocution.
+
+Unknown speaker 00:23 
+For the first time ever, Professor Anil Seth and
+
+Unknown speaker 00:27 
+Professor Michael Levin are conversing and performing research in real time,
+
+Unknown speaker 00:31 
+and we get to be the flies on the wall.
+
+Unknown speaker 00:33 
+Anil says that the brain as a computer metaphor has blinded us for decades.
+
+Unknown speaker 00:39 
+You can't extract the software from the substrate.
+
+Unknown speaker 00:41 
+This means that silicone consciousness may be impossible, not because machines lack dualistic souls though.
+
+Unknown speaker 00:48 
+But wait, Michael disagrees.
+
+Unknown speaker 00:50 
+He thinks that machines may be able to access the same platonic space that biological systems tap into.
+
+Unknown speaker 00:56 
+The magic isn't restricted to carbon.
+
+Unknown speaker 01:00 
+Both professors are now building and studying xenobots together.
+
+Unknown speaker 01:03 
+These are living robots made from skin cells that self-organize, exhibiting behaviors evolution never programmed.
+
+Unknown speaker 01:09 
+Do they dream?
+
+Unknown speaker 01:10 
+Do they have preferences?
+
+Unknown speaker 01:13 
+Are they conscious?
+
+Unknown speaker 01:15 
+On this episode of Theories of Everything, we explore their radical collaboration,
+
+Unknown speaker 01:18 
+including questions like, "How might split-brain patients prove consciousness fragments and multiplies?"
+
+Unknown speaker 01:24 
+and the terrifying possibility that large language models are doing something entirely different from what their outputs suggest.
+
+Unknown speaker 01:32 
+tasks no programmer asked for, no steps in the code demand for, but perhaps where that quote unquote magic lies.
+
+Unknown speaker 01:39 
+Remember to hit that subscribe button if you like videos exploring fundamental reality.
+
+Unknown speaker 01:45 
+All right, we're going to talk about aliens, we're going to talk about cyborgs, modules in the brain,
+
+Unknown speaker 01:50 
+split hemisphere patients if I'm not mistaken at unconscious processing.
+
+Unknown speaker 01:53 
+We're going to get to all of that.
+
+Unknown speaker 01:54 
+To set the stage, I'd like to know what's exciting you both research wise currently, something you're pursuing.
+
+Unknown speaker 02:01 
+So, Anil, why don't we start with you, please?
+
+Unknown speaker 02:03 
+Well, thanks, Curt.
+
+Unknown speaker 02:05 
+Um, two things, I guess.
+
+Unknown speaker 02:14 
+One thing, topic which seems to be exciting a lot of people these days, which is the possibility of AI uh being conscious.
+
+Unknown speaker 02:24 
+Um, whether it's something that AI systems can have, or whether, as I tend to think, that it's something more bound up with our nature as living creatures.
+
+Unknown speaker 02:25 
+And the other thing that's exciting me actually just just came to mind in you a little, and this the talk is that is the question of islands of consciousness.
+
+Unknown speaker 02:31 
+So, you know, we there's a lot of work on things like split brain patients, patients with brain damage and so on.
+
+Unknown speaker 02:34 
+But the question that me and a couple of colleagues, Tim May, and and who wondering is, can are there isolated neural systems that may have conscious experiences?
+
+Unknown speaker 02:44 
+And one candidate for this is called hemispherotomy, which is kind of neurosurgical operation where you have bits of the brain um detached, disconnected from all other parts of the brain, but you still have neural activity as these parts of the brain is still part of a living organism.
+
+Unknown speaker 02:54 
+Are they islands of awareness?
+
+Unknown speaker 03:00 
+So we've been exploring that theoretically and very recently with certain evidence from uh brain imaging of people following this neurosurgical operation.
+
+Unknown speaker 03:21 
+Michael.
+
+Unknown speaker 03:22 
+Yeah.
+
+Unknown speaker 03:23 
+So, so a couple of things uh on the experimental front.
+
+Unknown speaker 03:27 
+Um, really excited about uh some novel systems that we're setting up as uh compositional agents.
+
+Unknown speaker 03:30 
+So, so putting together different uh living and non-living components using AI and other interfaces to allow them to uh to not not not just communicate with each other, but we hope uh form a kind of collective intelligence.
+
+Unknown speaker 03:40 
+And then we can ask some interesting questions about what kind of inner perspective this new intelligence might be.
+
+Unknown speaker 03:43 
+Uh, just in general, you know, um,
+
+Unknown speaker 03:44 
+complementing the work we've done before around uh distributing and let's say separating out the different pieces like like Anil was just saying of the brain and so on.
+
+Unknown speaker 03:50 
+The flip side of that, which is putting together new kinds of beings that haven't existed before and asking, what their behavioral complements are, what their uh, what their capacities are, what their goals are, their preferences, what do they pay attention to, these these kinds of things.
+
+Unknown speaker 03:55 
+And just and just in general, really digging into this idea of uh, for lack of a better word, intrinsic motivations.
+
+Unknown speaker 04:00 
+And asking in novel creatures that don't have the benefit of a lengthy evolutionary history that presumably set some of their cognitive properties, where do these things come from, you know?
+
+Unknown speaker 04:03 
+And and how do we predict them, how do we recognize them?
+
+Unknown speaker 04:44 
+I I should have said, of course, like one of the things that's really exciting me is stuff that Mike and I have been talking about together about um, you know, we we we sort of about uh, or the some of the systems that he's building, some of the things he's actually talking about, do they sort of self-organize in ways which seem to obey.
+
+Unknown speaker 05:00 
+the know is a site of physics.
+
+Unknown speaker 05:02 
+and and other other sorts of situations where we might attribute
+
+Unknown speaker 05:05 
+things like intrinsic motivation to evolve systems.
+
+Unknown speaker 05:09 
+as it is a big question about
+
+Unknown speaker 05:11 
+you know, are laws of perception, are they, are they um adapted to specific environmental situations or are they somehow
+
+Unknown speaker 05:19 
+intrinsic to how biological neural systems self-organize.
+
+Unknown speaker 05:24 
+So we've been bouncing ideas back and forth um to do experiments to explore some of these questions, which is very
+
+Unknown speaker 05:33 
+Tell us about some of these experiments.
+
+Unknown speaker 05:35 
+We haven't been done yet.
+
+Unknown speaker 05:37 
+So um but the the the logic is to take some simple observations of phenomena that are very widespread in perception across many evolved species, whether it's a human being, a mouse or um uh I don't know, probably a bacterium or something like that.
+
+Unknown speaker 05:56 
+So there are things like Weber or Fechner's law, so the idea that um the perceived intensity of a stimulus scales logarithmically with its with its actual magnitude.
+
+Unknown speaker 06:07 
+Um Now this this is something that seems very, very gel.
+
+Unknown speaker 06:11 
+Now, is this something that's
+
+Unknown speaker 06:15 
+return, we can look for evidence for in some of these completely out of evolutionary context systems of the kind that Mike is is generating.
+
+Unknown speaker 06:25 
+And so that'd be one example, there are a whole bunch of other examples we have.
+
+Unknown speaker 06:29 
+Can we find things like susceptibility to visual illusions or things like that in in these systems.
+
+Unknown speaker 06:34 
+So one of the simplest kind of a very general perceptual and learning phenomena, um that we might be able to
+
+Unknown speaker 06:42 
+examine um whether they are whether they happen in these in these systems which don't have this straightforward evolutionary trajectory.
+
+Unknown speaker 06:53 
+Yeah, exactly.
+
+Unknown speaker 06:54 
+And and and these these comprise xenobots, anthro bots uh and and even weirder um constructs that we can start to put together by
+
+Unknown speaker 07:00 
+either building technological interfaces between radically different kinds of beings that allow them to, you know, sort of like a like a like an artificial corpus callosum that takes two different things and tries to bind them into into one novel uh collective thing and seeing and seeing whether some of their properties and their behavioral competencies match the things that people have been studying as as Neil's that psychophysics and you know, all all the things out of a behavioral handbook basically.
+
+Unknown speaker 08:00 
+Yeah.
+
+Unknown speaker 08:01 
+And and this finally relates um this, you know, the this idea of
+
+Unknown speaker 08:04 
+AI and consciousness and so on for the following reasons.
+
+Unknown speaker 08:06 
+Which is why I think it's very exciting.
+
+Unknown speaker 08:08 
+I think my kind might have different but overlapping reasons for our interest in this.
+
+Unknown speaker 08:10 
+I mean, for me it's it's it's there's this sort of assumption by people who talk a lot about consciousness and AI that the biological stuff we're made of doesn't really matter.
+
+Unknown speaker 08:19 
+It's just there to implement algorithms, um, silicon could do just as well.
+
+Unknown speaker 08:25 
+Uh, and I tend to think differently, and we both do it, and so these are these are ways of just looking at, you know, what's the dynamic and functional potential that's sort of intrinsic to the stuff we're we're made of that that provides the basis for our cognitive, our perceptual, ultimately our conscious, um, abilities and and properties.
+
+Unknown speaker 08:46 
+So these are experiments of way getting at that.
+What what's just there that that um, you know, that evolution can then make use of.
+
+Unknown speaker 08:54 
+Anil, can you make the elevator pitch for people who are already familiar with the argument that look, the
+
+Unknown speaker 09:00 
+processing that's going on in our brain is just processing, it could potentially be translated to a computer, if consciousness is similarly information processing, then we have something that's quote unquote substrate independent.
+
+Unknown speaker 09:11 
+So, you're making the claim that it's not so clear, maybe there is a dependence to the substrate.
+
+Unknown speaker 09:17 
+Can you make that case?
+
+Unknown speaker 09:19 
+And then also Michael, I know that you have several questions you'd like to ask Anil and feel free at any point to.
+
+Unknown speaker 09:26 
+Um, I'll try and make it.
+
+Unknown speaker 09:27 
+It's it does the case and I'm trying to make it.
+
+Unknown speaker 09:30 
+It's it's it's quite tricky because it goes against such a deeply embedded assumption.
+
+Unknown speaker 09:37 
+Uh, that the brain is basically a a computer made of meat and the things that it does, the only things that it does that are relevant for things like cognition and consciousness are computations, are forms of of information processing.
+
+Unknown speaker 09:50 
+And if you start from that perspective, it leads you to this idea that there is this substrate independency.
+
+Unknown speaker 09:57 
+So the elevator pitch really is that we've we've kind of forgotten that the the idea of the brain
+
+Unknown speaker 10:00 
+is a computer is is a
+
+Unknown speaker 10:01 
+metaphor and not the thing um
+
+Unknown speaker 10:04 
+itself.
+
+Unknown speaker 10:05 
+It's a it's a sort of marriage of mathematical convenience.
+
+Unknown speaker 10:09 
+And the closer you look at real biological systems, it might work beautifully exemplifies.
+
+Unknown speaker 10:15 
+Now, the less that this idea of substrate independency makes any real sense.
+
+Unknown speaker 10:21 
+There's no bright line in a brain or a biological system in general between what you might call the mindware and the wetware, between what it does and what it is.
+
+Unknown speaker 10:31 
+And if there's no clear way to separate inner system, what it does from what it is, then it's very, very much less clear that one should think that computation is all that matters.
+
+Unknown speaker 10:43 
+Um, because for computation to be all that matters, you kind of have to have the sharp separation between the software and the hardware, the what it does and what it is.
+
+Unknown speaker 10:51 
+And if you can't do that, and there's less reason to think that computation is what matters, and there's less reason to think that, then there's equally less reason to think that you could implement what matters in a substrate independent way on something else.
+
+Unknown speaker 11:07 
+Um, you can of course still use computers to simulate a brain in whatever level of detail you want.
+
+Unknown speaker 11:12 
+But that's that's neither here nor there.
+
+Unknown speaker 11:18 
+It's a very useful thing to do, we we both do this, we do this all the time, but you can simulate anything using a computer, that's one reason computers are great.
+
+Unknown speaker 11:22 
+But that doesn't mean you will instantiate the phenomenon.
+
+Unknown speaker 11:27 
+You only do that if computation really is all that matters.
+
+Unknown speaker 11:39 
+Yeah, um, I mean, I I agree with everything Neil said, but I I take it in a slightly different direction.
+
+Unknown speaker 11:40 
+So so I think it's critical to remember that, yeah, uh, everything we think about as computation is a metaphor, it's a formal model.
+
+Unknown speaker 11:45 
+And so we have to ask ourselves, what does this model uh, help us do and and what is it hiding?
+
+Unknown speaker 11:50 
+In other words, what what is it preventing us from seeing?
+
+Unknown speaker 11:59 
+And uh, I I agree that uh, this metaphor it does not capture everything that we need to know about and we and we need to uh, to to um, to use to uh, to to do technology and so on about life.
+
+Unknown speaker 12:00 
+Uh, I think the computational paradigm and the notion of algorithms and so on, does not capture everything we need to know about life.
+
+Unknown speaker 12:07 
+But I'll but but but I make the additional really weird claim is that I don't think it captures everything we need to know about machines either.
+
+Unknown speaker 12:18 
+In other words, we are we tend to think, at least at least the people I meet tend to tend to think that we have this, we have this set of metaphors that are for machines and and their algorithms.
+
+Unknown speaker 12:27 
+And they don't really apply to biology, certainly people say, well, they don't apply to me, I'm creative and whatever else, you know, they are.
+
+Unknown speaker 12:33 
+But but there is a corner of the universe that is boring mechanical.
+
+Unknown speaker 12:36 
+They it only does what the algorithm says it should do and and for those kinds of things, you know, these these metaphors are are perfect.
+
+Unknown speaker 12:40 
+They capture everything there is to know.
+
+Unknown speaker 12:43 
+So, uh, so I agree with Neil on the first part, but I doubt the second part.
+
+Unknown speaker 12:56 
+I I think that that a lot of what we have, um, in uh, in in our theories of computation is a pretty reasonable theory of of what I call the front end.
+
+Unknown speaker 13:07 
+It's I I think most of what we deal with are actually thin clients in a certain sense.
+
+Unknown speaker 13:10 
+Uh, they're interfaces to something to to something much deeper, which we can call the platonic space.
+
+Unknown speaker 13:16 
+I don't love the name, but but but I say it that way because then at least the mathematicians know what what I'm talking about.
+
+Unknown speaker 13:20 
+But I think that even and and we have some work already published and more work coming soon in the next few months on this, showing that, yeah, the standard way of looking at algorithms, I don't even tell the story of so-called machines.
+
+Unknown speaker 13:38 
+This is what I think I find Mike's work so interesting because it's provocative and it's direction.
+
+Unknown speaker 13:40 
+I think I think he's he's, you know, I've always, I think he
+
+Unknown speaker 13:45 
+summarizes what I said very well is is that um, see, we underestimate the richness of biological systems if you force them into the uh, what's often called the machine.
+
+Unknown speaker 13:50 
+That's for by which we really mean that all that matters is a sort of Turing computation algorithm thing.
+
+Unknown speaker 13:53 
+But I think it's it is equally true that we limit our imagination about what machines might be as well by doing this.
+
+Unknown speaker 14:00 
+And there's a whole kind of alternative history of of AI, which was really grounded in 20th century cybernetics.
+
+Unknown speaker 14:06 
+There's much more to do about dynamical systems, attractors, stream back system, all things you can still simulate computationally.
+
+Unknown speaker 14:07 
+which are fundamentally not to arise in from.
+
+Unknown speaker 15:00 
+that the algorithmic way of thinking um about things.
+
+Unknown speaker 15:04 
+There are also really interesting mathematical properties like emergence and and so on, which
+
+Unknown speaker 15:10 
+which I think apply to these can both be help us understand but also might be design principles for machines of various types, which again don't really
+
+Unknown speaker 15:17 
+fit into an algorithmic um view of things.
+
+Unknown speaker 15:24 
+So, most work, beautifully shows that even something we think of as an algorithmically way, correct me if I'm wrong, but you're the
+
+Unknown speaker 15:31 
+the double sort of stuff.
+
+Unknown speaker 15:39 
+So, this is an algorithm that anyone in computer science 101 learns to to code to to sort things into a particular order, has really interesting emerging properties, um, that could be, the other things can be built on on top of.
+
+Unknown speaker 15:47 
+So, yeah, I don't think I think it's
+
+Unknown speaker 15:50 
+for me it's like there's this there's this nice iterative back and forth where um we can learn to think of both biology and machines uh differently, and of course that might give us richer metaphors um through which we can use one lens to understand the other.
+
+Unknown speaker 16:11 
+Would you say then that we have the idea of machine and that a Turing machine is a strict subset of that idea of machine?
+
+Unknown speaker 16:21 
+I mean, a Turing machine is an abstraction, right?
+
+Unknown speaker 16:28 
+Turing machines were never sort of supposed to exist, you know, as things.
+
+Unknown speaker 16:31 
+They've they've infinite tape and and things like that.
+
+Unknown speaker 16:45 
+So, you've got, you know, the Turing machine, the idea is you in in one sense you're mapping a bunch of numbers onto another bunch of numbers.
+
+Unknown speaker 16:52 
+And and then the universal Turing machine does this through this moving head and an infinite tape.
+
+Unknown speaker 16:57 
+It was never really supposed to exist as a physical machine, and I think that's where part of the problem has has sort of come from.
+
+Unknown speaker 17:02 
+Um, but but an algorithm in that sense, yeah, I think that's a subset.
+
+Unknown speaker 17:08 
+when you realize a Turing machine, that's a subset of possible things.
+
+Unknown speaker 17:15 
+So, if you don't mind spelling out to the audience the the idea of hypercomputation.
+
+Unknown speaker 17:18 
+And would you then say that biological creatures or cells or what have you are doing something that is hypercomputational, and feel free to take this
+
+Unknown speaker 17:30 
+in a different direction Michael as well if you like.
+
+Unknown speaker 17:32 
+Would you, yeah, I mean I'd I'd say that.
+
+Unknown speaker 17:33 
+Would you, would you, would you tell, would you give me what you're thinking of when you use the word hyper computation, I've heard it used to to imply different things.
+
+Unknown speaker 17:44 
+So if something can solve the halting problem, it would be an example of a hyper computer.
+
+Unknown speaker 17:48 
+Something that can decide problems that a Turing machine or a universal Turing machine can't.
+
+Unknown speaker 17:53 
+Right, so it's sort of super Turing in in some sense.
+
+Unknown speaker 17:56 
+Um, that's one way in which machines can be, you know, non-turing or um, can state turing world.
+
+Unknown speaker 18:06 
+But there are, I think there are, you know, there are many other systems that that are just not captured by this, by this way, they don't have to be based on on the halting problem that do, you know, strictly anything that is stochastic,
+
+Unknown speaker 18:20 
+anything that is continuous is is beyond this world of of strict universal Turing machines, there are kinds of extensions that try, try to go there.
+
+Unknown speaker 18:32 
+And but they're also functions that things do that necessarily involve particular material substrates.
+
+Unknown speaker 18:44 
+So, so take something like um, metabolism.
+
+Unknown speaker 18:52 
+And metabolism is not mapping some range of numbers whether they're continuous or random to another number.
+
+Unknown speaker 18:59 
+It involves actual transformation of a particular kind of substance into another kind of substance.
+
+Unknown speaker 19:03 
+Um, that's just non-turing and and what is a fairly trivial way that that kind of thing might be very important for for particular classes of of machines or systems whether they're biological uh or not.
+
+Unknown speaker 19:13 
+So there's there's there's different spaces of what you might call non-turing processes.
+
+Unknown speaker 19:14 
+Only some of these are these kinds of hyper computation, halting problem solving things where you might say you've got some sort of very fancy quantum stuff going on.
+
+Unknown speaker 19:29 
+But I think these differ about, opinions differ, right?
+
+Unknown speaker 19:33 
+I mean, there are some people that that would say um, that the actually um,
+
+Unknown speaker 19:39 
+unless you're talking about this, this hyper computation in the sense you've mentioned it, that everything else is is sort of a relatively feasible extension of of Turing as is.
+
+Unknown speaker 19:50 
+So there's there's definitely debate in that area.
+
+Unknown speaker 20:00 
+efficient, something simpler for instance.
+
+Unknown speaker 20:02 
+It turns out you can do that with your dinner.
+
+Unknown speaker 20:05 
+Hello Fresh sends you exactly the ingredients you need, they're pre-measured, they're pre-portioned, so you don't have to deal with this superposition of do I have too much cilantro versus not enough cilantro or whatever you have collapsing in your kitchen every night.
+
+Unknown speaker 20:21 
+They've just done their largest menu refreshed yet with literally 100 different recipes each week.
+
+Unknown speaker 20:28 
+There's vegetarian options, calorie smart ones, protein heavy, my personal favorite.
+
+Unknown speaker 20:32 
+Then there's these steak and seafood options at no extra cost.
+
+Unknown speaker 20:36 
+All the meals take approximately 15 minutes to a half hour.
+
+Unknown speaker 20:40 
+They've actually tripled their seafood offerings recently and added more veggie packed recipes.
+
+Unknown speaker 20:45 
+Each one has two or more vegetables now.
+
+Unknown speaker 20:48 
+I've been using it myself.
+It's the one experiment in my life that's always yielded reproducible results.
+It's delicious, it's easy, it saves me from having to live on just black coffee while editing episodes at 1:00 a.m.
+
+Unknown speaker 21:01 
+Personally, my favorite part is that it's an activity that I can do with my wife.
+
+Unknown speaker 21:04 
+Thus it not only serves as dinner, but as a bonding exercise.
+
+Unknown speaker 21:08 
+The best way to cook just got better.
+
+Unknown speaker 21:10 
+Go to hellofresh.com/THEORIESOFEVERYTHING10FM to get 10 free meals plus a free item for life.
+
+Unknown speaker 21:16 
+That's one per box with active subscription.
+Free meals applied as discounts on the first box, new subscribers only, varies by plan.
+
+Unknown speaker 21:27 
+That's hellofresh.com/THEORIESOFEVERYTHING10FM to get 10 free meals plus a free item for life.
+
+Unknown speaker 21:37 
+I I would go in in a in a in a in a slightly different direction and emphasize is something that does not lean on quantum mechanics, does not lean on stochasticity and does not lean on uh hyper touring or um or anything like that.
+
+Unknown speaker 21:53 
+Um, let's and and and also let's let's even step back from the living because like living living thing conventional living things are so complex that you know, you can always find more mechanisms and so on.
+
+Unknown speaker 22:00 
+I want to look at a at a at an extremely minimal model and the reason the reason that we chose this was precisely because it's such a minimal model.
+
+Unknown speaker 22:04 
+I wanted to sort of maximize the shock value of of of this thing for our for our intuitions.
+And this is uh the work that um my student Taning Jang and Adam Goldstein and I did on on sorting algorithms, which is what Neil um mentioned.
+And there's a couple more things like it coming in the next few months.
+
+Unknown speaker 22:27 
+this sorting algorithm is
+
+Unknown speaker 22:30 
+it it's the it's it's well.
+
+Unknown speaker 22:31 
+like bubble sort, selection sort, these kinds of things, um, CS students in CS 101 have been studying these for, I don't know, 60 years probably.
+
+Unknown speaker 22:39 
+Um, and and uh, no one, I I as far as I can tell, no one noticed what we noticed because the assumption has always been, this thing does what we asked it to do.
+
+Unknown speaker 22:50 
+And a lot of, a lot of what what I'm trying to emphasize is specifically running a running against that assumption that yeah, it sorts the numbers all right.
+
+Unknown speaker 22:57 
+But if you back off from this, from this assumption that all it does is what the steps of the algorithm ask it to do, then you find some new things.
+
+Unknown speaker 23:05 
+And you know, computer scientists are well aware of uh, emergent complexity, emergent unpredictability, you know, cellular automata do all kinds of funky things and and some of the rules are chaotic and and all this kind of stuff.
+
+Unknown speaker 23:19 
+That's not what I'm talking about.
+I'm not talking about emerging complexity, unpredictability or even perverse instantiation, which A life people find all the time.
+I'm talking about things that any behavioral scientist would recognize as within their domain if if you didn't tell them that this came from a from a from a deterministic algorithm.
+
+Unknown speaker 23:38 
+And so, uh, I I can go into details if you want, but but a couple of a couple of things are are are sailing here.
+
+Unknown speaker 24:08 
+What
+
+Unknown speaker 24:08 
+this, what this, what these algorithms are also doing, while they're sorting your numbers, are also uh a couple of interesting, I call them side quests because we didn't there's nothing, there are no steps in the algorithm asking them to do this.
+
+Unknown speaker 24:14 
+In fact, if you try to write an algorithm to force them to do it, it would be a whole bunch of extra work, which is actually quite interesting because I think we're getting free compute here.
+
+Unknown speaker 24:16 
+That's a whole other thing that I think is a very testable, it's a crazy and it's it's it's a nice testable prediction because it's so weird and unexpected.
+
+Unknown speaker 24:20 
+Um, they are they are doing some other some other things that are not directly related to what you've asked them to do.
+
+Unknown speaker 24:27 
+That's really important because it means that these language models, for for example, when when we say AI, nowadays a lot of people think language models, we people tend to assume that the thing that the language model talks about is some kind of clue as to its inner nature, right?
+
+Unknown speaker 24:32 
+And people say, well, you know, my GPT said to me that it was conscious or wasn't conscious or whatever.
+
+Unknown speaker 24:35 
+My, my point is, the thing you force it to do may have zero to do with what's actually going on.
+
+Unknown speaker 24:43 
+Now, in biologicals, that's not that's not true because evolution I I I think works really hard to make sure that the the signs that we and the communications that we do are related to our inner state and and things like that.
+
+Unknown speaker 24:45 
+So in in biology, those things
+
+Unknown speaker 25:00 
+are tied closely together.
+
+Unknown speaker 25:01 
+But I think we've we've we've disconnected them.
+
+Unknown speaker 25:04 
+And what we are now making are things that would that that look like they're talking and whatever and and and they are.
+
+Unknown speaker 25:11 
+But I'm not sure any of those things are at all a guide to what's going on inside.
+
+Unknown speaker 25:16 
+And if a if a dumb bubble sort, which is six lines of code, fully deterministic, nowhere to hide, six lines of code.
+
+Unknown speaker 25:21 
+If that thing is doing things that we did not expect and we did not ask it to do, and by ask, I mean there are no steps in the algorithm to do what it's doing.
+
+Unknown speaker 25:30 
+then I don't, you know, who knows what these what these language models are doing, but I'm pretty sure that just watching the the the language output is not a really good guy to to what's happening.
+
+Unknown speaker 25:41 
+I think we have to go back to the very beginning and we have to apply the kinds of things that Anil was talking about, which is basic behavioral uh testing in various spaces.
+
+Unknown speaker 25:49 
+I think our imagination is really poor at this.
+
+Unknown speaker 26:00 
+I think we have to we have to um just just be really creative as far as asking what what what is this thing actually doing.
+
+Unknown speaker 26:03 
+specifically in the spaces between the algorithm because because the thing is uh the it it has to it's a little bit like this is this is a crazy kind of a crazy analogy that I came up with the other day.
+
+Unknown speaker 26:14 
+You know, um this this uh notion of steganography.
+
+Unknown speaker 26:15 
+So in steganography, you take an let's say a piece of data, let's say it's an image, it's a JPEG and it looks like whatever it looks like.
+
+Unknown speaker 26:20 
+There are bits within that image that if you were to change those bits, it wouldn't look any different, right?
+
+Unknown speaker 26:30 
+There's some there's some degrees of freedom in there that you can move things around and the image would still look the same.
+
+Unknown speaker 26:33 
+And so what people do is they hide information in there and and maybe it's your signature that you are the one who took the picture or maybe maybe it's a code because you're a spy, you know, whatever whatever it is, you hide information in there.
+
+Unknown speaker 26:44 
+But the iron rule is, you can't mess up the primary picture.
+
+Unknown speaker 26:53 
+You can sneak stuff into the degrees of freedom, but you can't mess with the primary picture because or the primary data pattern because then it will be obvious that that something's there.
+
+Unknown speaker 27:05 
+I I kind of have a feeling that this is what's going on, not not just with computer algorithms, but with everything.
+
+Unknown speaker 27:15 
+There is the primary thing it's supposed to do and anything else that it gets to do has to be compatible with that primary thing.
+
+Unknown speaker 27:23 
+It isn't magic, you can't break the laws of physics, you can't go against the algorithm, right?
+
+Unknown speaker 27:33 
+You're not doing things that the algorithm forbids.
+
+Unknown speaker 27:34 
+But there's a but there but it turns out, I think, that there's this there there are these weird like um empty spaces between the algorithm where you can do and and I mean, doesn't that describe to some extent our existential, you know, you have a certain bit of time in in this world.
+
+Unknown speaker 27:45 
+You have to be consistent with those laws of physics, eventually your physical body gets ground down to, you know, entropy and whatever.
+
+Unknown speaker 27:54 
+But until then, you can do some cool stuff that isn't forbidden by the laws of physics, nor is it prescribed by those laws, I don't think.
+
+Unknown speaker 28:05 
+And so, um, one thing and and I'll I'll stop here, one thing which which I'm sort of most proud of in that paper that I think was was was kind of cool is that we figured out a way to let off the pressure on the algorithm a little bit to see what would happen.
+
+Unknown speaker 28:14 
+And the way you do that, now, how would you do that?
+
+Unknown speaker 28:17 
+It has to follow the algorithm.
+
+Unknown speaker 28:22 
+How could you possibly let off the pressure?
+
+Unknown speaker 28:33 
+What we did was, we allowed duplicate numbers in the sort.
+
+Unknown speaker 28:34 
+And and what that allows you to do is you still have all all the five still have to end up before the six is and has to go before the sevens and so on.
+
+Unknown speaker 28:43 
+But how you arrange those is now not really constrained by the algorithm.
+
+Unknown speaker 28:54 
+All you you don't touch, you don't change the algorithm, you just allow multiple repeats within the and what did we see?
+
+Unknown speaker 29:02 
+We saw that the crazy thing it was doing, which I call clustering.
+
+Unknown speaker 29:04 
+I could tell you what that is, but then matter.
+
+Unknown speaker 29:05 
+It it went up higher than than than than when you couldn't when we didn't let it do that.
+
+Unknown speaker 29:14 
+And so, I I really think and this comes back to the AI thing, I really think that it's a lot like raising kids in the following sense.
+
+Unknown speaker 29:33 
+To the extent that you force them to do specific things, you squelch down on the intrinsic motivation.
+
+Unknown speaker 29:34 
+Some kid that's forced to be in in a class all day, you're not going to get to see what else he would be doing otherwise.
+
+Unknown speaker 29:38 
+Maybe it's out playing soccer, who knows what, who knows what it would be.
+
+Unknown speaker 29:43 
+And so, I think this is this is very apposite here.
+
+Unknown speaker 29:59 
+So, you know, engineering people often talk about having redundancy within a system.
+
+Unknown speaker 29:59 
+So, if a system is is designed to do something, to follow some steps in an algorithm, well, then you might
+
+Unknown speaker 30:00 
+multiple.
+
+Unknown speaker 30:01 
+copies in case something goes wrong, you have a backup.
+
+Unknown speaker 30:03 
+But the backup is doing the same thing, it's redundant in that sense.
+
+Unknown speaker 30:08 
+Um, biological systems don't seem to be like that, they exhibit degeneracy rather than redundancy.
+
+Unknown speaker 30:14 
+That is, they may have multiple ways of doing the same thing in context A, but in context B, these multiple ways of doing the same thing now do different things.
+
+Unknown speaker 30:25 
+So this is a this is hinting at the same thing that that although it looks like they're doing the same thing, there's actually some spaces in between somewhere.
+
+Unknown speaker 30:35 
+Um, that that you will you won't see unless you you look in different context, otherwise you'll only see the same process that might look like an algorithm.
+
+Unknown speaker 30:44 
+And it's that degeneracy that gives biological systems their kind of open-endedness, their ability to adapt to novel situations and and and so on.
+
+Unknown speaker 30:51 
+It might be related to what Mike is calling an intrinsic motivation that you have to have some kind of degeneracy rather than redundancy to systems.
+
+Unknown speaker 31:04 
+I mean, what's interesting to me is that people, people are often with with the exception of a few like die hard, you know, reductionist materialist or whatever, people, people are generally pretty willing to grant living things that, right?
+
+Unknown speaker 31:15 
+And they're okay with saying that uh, you know, living things, especially brainy living things get to get to do some of those things.
+
+Unknown speaker 31:23 
+But what I've what I'm now finding is that people get very upset when when you when I suggest that the same thing might be true all the way down.
+
+Unknown speaker 31:31 
+It seems to be very important that we have this distinction.
+
+Unknown speaker 31:35 
+You know, those are that's the dead matter and the mere machines, we are special, we can do this thing.
+
+Unknown speaker 31:40 
+And and my point is not I'm not trying to mechanize living things.
+
+Unknown speaker 31:51 
+I'm going in the opposite direction.
+
+Unknown speaker 31:59 
+I'm saying there's not there's not less mind than you think there is.
+
+Unknown speaker 32:04 
+I I think there's more.
+
+Unknown speaker 32:18 
+But but but actually, especially people um, uh, you know, kind of organist thinkers who really resist the mechanization of life and all this stuff.
+
+Unknown speaker 32:29 
+They they really get upset.
+
+Unknown speaker 32:30 
+They really get upset at this last part.
+
+Unknown speaker 32:30 
+founded computers, right?
+
+Unknown speaker 32:31 
+So,
+
+Unknown speaker 32:32 
+one way of potentially misunderstanding what you're saying is is you're you're then basically allowing computational functionalism by the back door again in some ways by saying, look, you know,
+
+Unknown speaker 32:44 
+an algorithm like bubble sort has actually all the things um that you need or it has so much more going on than than than what one might think.
+
+Unknown speaker 32:52 
+So let's not be too quick to to rule out substrate independent algorithms as sufficient for other things that might seem otherwise hard to explain.
+
+Unknown speaker 33:07 
+Well, I think I think you're right and I think people could but but in that that that would be a misinterpretation of what I'm saying.
+
+Unknown speaker 33:12 
+I am not saying that that it's doing that because of the algorithm, right?
+
+Unknown speaker 33:28 
+So the so the standard computationalist theory is, you are conscious because your algorithm is doing workspace theory, what you what whatever, you know, whatever it's it's doing, right?
+
+Unknown speaker 33:40 
+That's why you're I'm saying the exact opposite.
+
+Unknown speaker 33:50 
+I'm saying that even something as stripped down and forced to the stupid algorithm, there are still spaces there through which whatever this is that that I, you know, that this whatever whatever this this magic is that we're talking about is is able to squeeze in even even there.
+
+Unknown speaker 34:08 
+So, let's get to aliens, Michael.
+
+Unknown speaker 34:11 
+I don't know what this you know, people people email me sometimes asking to talk to my alien handlers, there's that, but I I don't, you know, I don't know, I don't know anything about aliens other than to say that it it seems implausible to me, not not being an expert on on exobiology, whatever.
+
+Unknown speaker 34:32 
+It seems implausible to me that the only kind of life is the life that we're familiar with here or or or cognition.
+
+Unknown speaker 35:00 
+on earth, I think is is almost certainly too narrow as a as a criterion for these kinds of things.
+
+Unknown speaker 35:06 
+I mean, I I'm just always go back to the Fermi paradox and like, you know, where where is everybody.
+
+Unknown speaker 35:10 
+But um,
+
+Unknown speaker 35:12 
+and which always worries me because it just sort of suggests to me that um,
+
+Unknown speaker 35:16 
+I think it's also very implausible that we're the only example of of life, but then the evidence for intelligent life that has
+
+Unknown speaker 35:23 
+been able to broadcast structured energy out into the universe seems lacking, where you know, where the hell is everybody.
+
+Unknown speaker 35:31 
+Um, so of course the conclusion from this is that life might be very, you know, um,
+
+Unknown speaker 35:34 
+prevalent in in many places or at least certainly not only here, but that there's that is quite difficult to get to get life to the stage where it lasts long enough
+
+Unknown speaker 35:43 
+to persist and become cognitively sophisticated.
+
+Unknown speaker 35:54 
+I I I have an idea and I find that you know, existentially concerning and and just a great um,
+
+Unknown speaker 35:55 
+sort of shaker of the snow globe for reminding us that we really need to take care of our own planet and civilization first, because it might not be very common
+
+Unknown speaker 36:00 
+to get to the the kinds of things we are even if it's exotic in a different way somewhere else.
+
+Unknown speaker 36:15 
+I think the universe is much more likely to be filled with grey goo than, you know,
+
+Unknown speaker 36:24 
+Mike Levins with eight legs and octopode, octopad form.
+
+Unknown speaker 36:30 
+So Anil, if I was to take your cells and put them into a dish,
+
+Unknown speaker 36:35 
+some would form xenobots, some would die, most probably would die, and
+
+Unknown speaker 36:37 
+some may just wander about or what have you.
+
+Unknown speaker 36:42 
+Have you become multiple agents at that point, or were you always multiple agents pretending to be one?
+
+Unknown speaker 36:50 
+I don't think pretending uh to to be one.
+
+Unknown speaker 36:54 
+I think it's an excellent question.
+
+Unknown speaker 36:55 
+I I don't really whether you can have multiple kind of coarse grainings of agency simultaneously.
+
+Unknown speaker 36:59 
+I think it's is quite interesting.
+
+Unknown speaker 37:08 
+I don't I don't see why not in a sense.
+
+Unknown speaker 37:15 
+I think there can be there can be sub-organismic levels of agency in my constituents, but um, there's something sort of enslaving of these finer grains of description in things like organisms, things pull together, the parts pull together as a whole.
+
+Unknown speaker 37:30 
+in uh in a way that doesn't happen if you dissociate me into my constituent cells.
+
+Unknown speaker 37:36 
+So I don't yeah, I don't see a contradiction between cells having agency and an organism having agency and a society having agency and perhaps a global society having some kind of agency.
+
+Unknown speaker 37:44 
+These things can can all um coexist and have a a reality simultaneously.
+
+Unknown speaker 37:52 
+But they will they will affect each other.
+
+Unknown speaker 38:01 
+So agency at a macro level will probably constrain the agency that's available at the micro levels.
+
+Unknown speaker 38:01 
+And you have a book on consciousness which I'll place on screen and a link in the description right now.
+
+Unknown speaker 38:06 
+So you've probably heard of the identity theory of consciousness.
+
+Unknown speaker 38:21 
+My understanding is that it just says mental states are simply the same as physical states.
+
+Unknown speaker 38:22 
+They're not caused by, they're not emergent from, they're just identical to them.
+
+Unknown speaker 38:23 
+What do you make of that?
+
+Unknown speaker 38:24 
+I'm curious for both of you.
+
+Unknown speaker 38:24 
+Well, I don't think it's a theory.
+
+Unknown speaker 38:34 
+I think I think things like identity in quite theory and more metaphysical positions um than than actual theories.
+
+Unknown speaker 38:35 
+And for me, I I I like to wear metaphysics lightly if if at all.
+
+Unknown speaker 38:40 
+You know, I don't think you get very far.
+
+Unknown speaker 38:42 
+Um to say that a mental state is or a conscious state is identical to to a physical state, I mean, who knows, in some sense it might be trivially true and in another sense it might be absolutely completely wrong.
+
+Unknown speaker 38:51 
+Um, but what I do think is it's it's not it doesn't give you anything in particular to do or any anywhere to go.
+
+Unknown speaker 39:06 
+So instead of sort of arguing about whether theories like that are correct or incorrect, I prefer to ask whether they're useful or not useful.
+
+Unknown speaker 39:15 
+And I don't think identity theory is that useful.
+
+Unknown speaker 39:18 
+I'm broadly a pragmatic materialist, which is to say that I'm pretty convinced that conscious states have something to do with the stuff with with physical stuff.
+
+Unknown speaker 39:30 
+Um and we certainly know empirically there are correlations and causal relations between what if you do something to the brain, something will happen in conscious experience, at least in human beings, who knows, you know, maybe consciousness is more general than biological systems.
+
+Unknown speaker 39:44 
+But I think pragmatic materialism is a productively useful thing to do and we can we can go about the business of trying to explain properties of consciousness in terms of properties of biological systems.
+
+Unknown speaker 40:40 
+and
+
+Unknown speaker 40:40 
+and
+
+Unknown speaker 40:41 
+we'll see how far we get.
+
+Unknown speaker 40:42 
+And this depends or then we're asked then we have to face the the question of what are the properties of biological systems that give us explanatory predictive grip on properties of consciousness.For a bunch of people, the assumption is, it's just the computation.
+
+Unknown speaker 40:20 
+It's to bring us back to early early part of the conversation.
+
+Unknown speaker 40:23 
+But there could be many other things that actually give us explanatory and predictive grip about consciousness that aren't the computations and that's that's the view that that that I'm interested in in exploring.
+
+Unknown speaker 40:34 
+And uh, and we'll see whether it's useful or not.
+
+Unknown speaker 40:38 
+I've been using Claude to prep for theories of everything episodes and it's fundamentally changed how I approach topics.
+
+Unknown speaker 40:45 
+When I'm exploring say gauge theory or consciousness prior to interviewing someone like Roger Penrose, I demand of an LLM that it can actually engage with the mathematics and philosophy and physics, etc. at the technical level that these conversations require.
+
+Unknown speaker 41:02 
+I also like how extremely fast it is to answer.
+
+Unknown speaker 41:07 
+I like Claude's personality, I like its intelligence.
+
+Unknown speaker 41:12 
+I also use Claude code on a daily basis and have been for the past few months.
+
+Unknown speaker 41:20 
+It's a game changer for developers.
+
+Unknown speaker 41:21 
+It works directly in your terminal and understands your entire codebase and handles complex engineering tasks.
+
+Unknown speaker 41:23 
+I also used Claude, the web version, live during this podcast with Eva Miranda here.Oh my God, this is fantastic.
+
+Unknown speaker 41:27 
+That's actually a feature named artifacts and none of the other LLM providers have something that even comes close to it.
+
+Unknown speaker 41:35 
+And no coding is required.
+
+Unknown speaker 41:40 
+I just describe what I want and it spits out what I'm looking for.
+
+Unknown speaker 41:48 
+It's the interactive version of, hey, you put words to what I was thinking.
+
+Unknown speaker 41:50 
+Instead, this one's like more like you put implementation into what I was thinking.
+
+Unknown speaker 41:54 
+That's extremely powerful.
+
+Unknown speaker 42:04 
+Use promo code theories of everything, all one word capitalized, ready to tackle bigger problems, sign up for Claude today and get 50% off Claude Pro, which includes access to Claude code when you use my link claude.ai/theoriesofeverything.
+
+Unknown speaker 42:10 
+That's the view that that that I'm interested in in exploring.
+
+Unknown speaker 42:15 
+And uh, and we'll see whether it's useful or not.
+
+Unknown speaker 42:18 
+Yeah, yeah, I I I agree with that.
+
+Unknown speaker 42:19 
+I mean, it sounds it's I think it's less than a theory than it is a um, a linguistic claim.
+
+Unknown speaker 42:26 
+it's just, you know, you're just saying something about the definitions.
+
+Unknown speaker 42:29 
+I I find it kind of unhelpful.
+
+Unknown speaker 42:30 
+It's a little bit like saying that um, you know, uh, airline ticket prices, uh, what are those?
+
+Unknown speaker 42:37 
+Well, let's let's associate them with with some physical states and well, what explains them?
+
+Unknown speaker 42:47 
+Well, the the, you know, the the constants at the beginning of the big bang plus some randomness.
+
+Unknown speaker 42:50 
+So I'm I'm interested in uh metaphors and I think they all these things are metaphors, but I'm interested in metaphors that help us discover new things.
+
+Unknown speaker 42:57 
+Um, and I don't see how equating them linguistically with with physical states is is doing the trick.
+
+Unknown speaker 43:06 
+I don't I don't think that works in biology for the for the for the sort of cognitive non-consciousness uh specific things and I don't see it helping here either.
+
+Unknown speaker 43:24 
+Mike, you said you had some questions about split hemisphere patients for Anil.
+
+Unknown speaker 43:29 
+Um, well, I I don't know what's okay.
+
+Unknown speaker 43:30 
+I don't it's not so much specifically about split hemisphere patients, but um, I guess I guess it's the thing I I brought up in email.
+
+Unknown speaker 43:35 
+I was just wondering, I was listening to a talk, I I forget whose talk it is, and somebody was saying, look, there are all these unconscious processes during reading, during driving, whatever, there's all these unconscious processes.
+
+Unknown speaker 43:42 
+And and I was just curious what you think about that because it seems to me critical to say conscious to whom.
+
+Unknown speaker 43:48 
+In other words, they might well be unconscious to the main left hemisphere, whatever, um, that's that's verbally reporting this and saying, wow, I drove all the way from from home, you know, to my office and I wasn't conscious of any of that.
+
+Unknown speaker 43:56 
+And so you say, okay, great, there's this like unconscious part.
+
+Unknown speaker 44:03 
+Well, it's not conscious to you, but neither are my conscious states conscious to you.
+
+Unknown speaker 44:03 
+So how do we know, right?
+
+Unknown speaker 44:06 
+So, so that that that that all of these things aren't don't the the subsystems of the brain and mind that that execute them.
+
+Unknown speaker 44:09 
+How do we know they don't have an experience they can't verbalize.
+
+Unknown speaker 44:10 
+So I was just curious about that.
+
+Unknown speaker 44:10 
+Yeah.
+
+Unknown speaker 44:10 
+we
+
+Unknown speaker 45:00 
+we had just uh for the
+
+Unknown speaker 45:01 
+people listening, we we'd started this nice dialogue um by email just a couple of couple of days ago.
+
+Unknown speaker 45:06 
+So I think it raises some really important
+
+Unknown speaker 45:08 
+questions about
+
+Unknown speaker 45:11 
+about how we use the words.
+
+Unknown speaker 45:12 
+Unfortunately, I do think it's a little bit linguistic here.
+
+Unknown speaker 45:15 
+We talk about the conscious and the unconscious.
+
+Unknown speaker 45:17 
+And of course they mean different things in in in different contexts.
+
+Unknown speaker 45:20 
+So
+
+Unknown speaker 45:21 
+when it comes to, let's say, split hemisphere uh patients, the intuition is,
+
+Unknown speaker 45:26 
+there are two separate conscious agents.
+
+Unknown speaker 45:30 
+Um, just only one of them has the ability to to behaviorally report through language what what it's experiencing.
+
+Unknown speaker 45:38 
+Um, but it's partly because
+
+Unknown speaker 45:42 
+each hemisphere has kind of the full complement of resources that one might think of as necessary that that this becomes, you know, a sort of plausible position.
+
+Unknown speaker 45:52 
+Then there's other uses of of conscious versus unconscious.
+
+Unknown speaker 45:56 
+There's a whole history of a lot of the history of consciousness science is trying to contrast conscious from unconscious perception.
+
+Unknown speaker 46:04 
+So you know, you'll show an image and somebody will say, yeah, I see it and then you mask it in some way.
+
+Unknown speaker 46:08 
+Um, manipulate it in some way and people and I didn't see it, but you can still see parts of the brain responding.
+
+Unknown speaker 46:13 
+And the logic is, well, the contrast that you get there
+
+Unknown speaker 46:17 
+between when a something was consciously seen in the same image or the same sound was not consciously experienced, or if you look at the difference in the brain, that difference has to do with with consciousness.
+
+Unknown speaker 46:28 
+That's the whole strategy of looking for the for the neural correlates of consciousness.
+
+Unknown speaker 46:32 
+But then you might ask, well,
+
+Unknown speaker 46:35 
+how do you know that the unconscious perception was in fact unconscious?
+
+Unknown speaker 46:42 
+It may have just been unconscious to the to the subject as a whole, but then may have been an inaccessible
+
+Unknown speaker 46:47 
+conscious experience happening.
+
+Unknown speaker 46:51 
+So I think this is logically perfectly possible, but then you have this whole, well, how do you
+
+Unknown speaker 46:54 
+you then link that not only to a brute correlation, but you have to then come up with some theoretical reason and that will depend on your theory, right?
+
+Unknown speaker 46:59 
+Like a theory like global workspace might say, okay, look, the reason that
+
+Unknown speaker 47:04 
+the conscious perception was reportedly conscious was because it engaged the global workspace, and a theory is that
+
+Unknown speaker 47:10 
+things are conscious in virtue of accessing this this this global workspace.
+
+Unknown speaker 47:17 
+So you have some sort of theoretical reason for saying that the unconscious is in fact unconscious, but of course then you you risk a little bit of circularity, right?
+
+Unknown speaker 47:27 
+You know, um, that
+
+Unknown speaker 47:28 
+your evidence for global workspace is
+
+Unknown speaker 48:00 
+based on the theoretical explanation that that makes one conscious and the other not not conscious.
+
+Unknown speaker 48:04 
+So you have to have multiple multiple sources of evidence.
+
+Unknown speaker 48:07 
+All this to say is it's it's uh it's a very good question and it it came up in the thing I mentioned right at the beginning, we have these hemispherotomy patients whose parts of their brain are completely disconnected.Um, so they by definition can't respond to things, they can't generate any response.
+
+Unknown speaker 47:30 
+They're sort of the opposite of language models in this sense, right?
+
+Unknown speaker 47:30 
+They can't give us any persuasive behavioral evidence because they can't, they're not connected to anything.
+
+Unknown speaker 47:30 
+Yet, you know, they they are part.
+
+Unknown speaker 48:14 
+of a brain at was at one point conscious.
+
+Unknown speaker 48:17 
+And all that's happened really, you know, in the limit, they're damaged as well.
+
+Unknown speaker 48:23 
+I mean, there's other things going on is they've been disconnected.
+
+Unknown speaker 48:24 
+So plausibly, at least for me, they're more likely to be conscious but inaccessible.
+
+Unknown speaker 48:28 
+Much more likely a priori than a language model is to be.
+
+Unknown speaker 48:32 
+And so we have to find indirect ways of trying to assess the the the likelihood of of consciousness in these very disconnected um hemispheres and to to cut along story very short because you're going to go in a second, mate.Um, when we look at EEG and this was work done with with colleagues in at the University of Milan, uh, it looked
+
+Unknown speaker 48:45 
+like these these isolated.
+
+Unknown speaker 48:46 
+hemispheres are in states of very, very deep sleep.
+
+Unknown speaker 48:49 
+So we see slow waves, um, very prominent slow waves, um, sharp spectral exponent and so on.
+
+Unknown speaker 48:56 
+But how do we know that that is in fact unconscious because there are a few examples of human beings where we actually see slow waves at the same time as consciousness in in DMT, for instance, and things like that.
+
+Unknown speaker 49:06 
+So it's it's it's iterative.
+
+Unknown speaker 49:11 
+It's very hard to be definitive and it's an excellent question.
+
+Unknown speaker 49:12 
+I think we don't, we don't know, you know, until we start looking at systems radically different from a a psychology undergraduate looking at a monitor, which we still do and that's very useful, but we have to look at these other things as well.
+
+Unknown speaker 49:23 
+We don't really know what assumptions we're making when we interpret the data from just look for the car keys where the light is.
+
+Unknown speaker 49:30 
+You might miss the bigger picture.
+
+Unknown speaker 49:33 
+Now, Mike, before you get going, if suppose I gave you both unlimited resources to design some experiment,
+
+Unknown speaker 49:41 
+what would you create?
+
+Unknown speaker 49:47 
+Boy, uh, well, I I fundamentally, I think we need a uh, uh, an environment, um, a a closed loop environment in which the exercise all kinds of there's about an
+
+Unknown speaker 50:00 
+to just the beginning.
+
+Unknown speaker 50:01 
+There's so much weirder things that we're looking into.
+
+Unknown speaker 50:03 
+Uh, such that we might be able to um, recognize new, new kinds of cognitive uh, preferences, goals, competencies, whatever that to which we're otherwise blind and I mean, you could imagine making this thing enormously rich and complex.
+
+Unknown speaker 50:19 
+Anil.
+
+Unknown speaker 50:20 
+Well, I mean, obviously fun Mike would be the thing to do, but but you know, other than that, you know, I I think if you think about where the adjacent possible progress might be most, most rapid.
+
+Unknown speaker 50:35 
+What we lack, what we've lacked in neurosciences, the ability to look at high resolution in time and space and um, and across much of the brain at the same time, measuring from many neurons in time and space at the same time in systems that we know are conscious.
+
+Unknown speaker 50:54 
+Um, or or very high, you know, primates and other things.
+
+Unknown speaker 50:58 
+And there are just massive advances now, I think in invasive neurophysiology, in in different kinds of neuroimaging methods that that we can sort of, you know, optogenetics being being one of them.
+
+Unknown speaker 51:09 
+Um, but I think really doubling down on manipulation and recording and high space time and coverage simultaneously, uh, coupled with the development of new mathematical tools to understand um, the complete these kinds of complex data sets.
+
+Unknown speaker 51:26 
+That's that's where I'd I'd I'd go.
+
+Unknown speaker 51:32 
+Lots to do there.
+
+Unknown speaker 51:33 
+Many of the people who watch this podcast are specialists in computer science, math, physics, philosophy, adjacent fields, consciousness studies, neuroscience, of course, cognitive science.
+
+Unknown speaker 51:45 
+But also many are not, many are artists, for instance, when I was at this MIT event, I'll place a link on screen and in the description.
+
+Unknown speaker 51:52 
+There were many people who were painters and poets and so on who came up to me.
+
+Unknown speaker 51:57 
+So, I was going to ask just about advice for for researchers, but you can frame it as advice to to everyone.
+
+Unknown speaker 52:04 
+What advice do you have?
+
+Unknown speaker 52:09 
+Um, you know, I think I think for for students, it's super important to kind of curate your curiosity, I think, you know, I mean, I started at this very general curiosity in in consciousness, but then I think it was important to allow that curiosity to to find.
+
+Unknown speaker 52:30 
+and
+
+Unknown speaker 52:30 
+other branches that then end up coming together in different ways.
+
+Unknown speaker 52:33 
+You know, I got very interested in in other things too.
+
+Unknown speaker 52:35 
+In in um, in cybernetics, in in things that at the time didn't seem to have
+
+Unknown speaker 52:41 
+much to do with this this big question, but a lot of um,
+
+Unknown speaker 52:48 
+one way to carve out a successful career is to put different pieces together to to cut, you know, to to gain skills that are both techniques, methodologies, but also conceptual toolboxes to that you then can reassemble in in different ways that other people might not have had the opportunity to do so.
+
+Unknown speaker 53:13 
+Um, so really there's they're two interconnected things, which is which is
+
+Unknown speaker 53:18 
+don't lose sight of the big picture of what you want to do, but but also be flexible and try try and um, develop curiosity in adjacent things that might come in handy.
+
+Unknown speaker 53:28 
+And also learn to do stuff.
+
+Unknown speaker 53:32 
+You know, I think uh, many advances in science have come about through advances in methods first.
+
+Unknown speaker 53:40 
+And if we learn methods, we we will learn um, the right questions to ask, and I think that's that's maybe the the thing that I'm still trying to learn to do as a researcher,
+
+Unknown speaker 53:54 
+which is the thing I find really hard.
+
+Unknown speaker 54:02 
+It's finding the right questions, not finding the answers to the questions that you have.
+
+Unknown speaker 54:06 
+Can you give an example of one of method that you wish you had, for instance, it could be that you wish you had learned earlier in your career, or just a general example of something that would be beneficial to a student.
+
+Unknown speaker 54:23 
+So then also something an example would be, well, what's something where you were pursuing the answer, but you realized that it should have been a better question.
+
+Unknown speaker 54:33 
+So I I try and give examples that connect connect these both of these things.So an example of some of something that I wish I had gained some expertise in earlier is psychophysics.Now, this is the standard experimental thing, you know, I'd caricature it a bit early, undergraduates sitting in front of a monitor pressing buttons and so on, but the the methods of psychophysics are probably the the longest established experimental methods of studying.
+
+Unknown speaker 55:00 
+consciousness.
+
+Unknown speaker 55:01 
+Um,
+
+Unknown speaker 55:01 
+you know, how do we interpret data for people pushing buttons when you show them things?
+
+Unknown speaker 55:05 
+I mean, it's it's very simple,
+
+Unknown speaker 55:07 
+but there's a huge amount of literature that goes back to the 19th century there,
+
+Unknown speaker 55:12 
+and, you know, I made, I think a ton of mistakes and certainly a ton of inefficiencies,
+
+Unknown speaker 55:18 
+kind of improvising my way through through this literature or through my own work,
+
+Unknown speaker 55:23 
+uh, because I I hadn't gained the skills early enough.
+
+Unknown speaker 55:28 
+So that's one example.
+
+Unknown speaker 55:30 
+Um,something I wish I'd done differently.
+
+Unknown speaker 55:33 
+I think it would have allowed me to ask better questions experimentally.
+
+Unknown speaker 55:39 
+Um,
+
+Unknown speaker 55:40 
+the thing that I think I was that went well was, um,
+
+Unknown speaker 55:45 
+I picked up, I learned, trained myself and and then asked other people to help me learn, uh, information theory and uh, Granger causality modeling.
+
+Unknown speaker 55:56 
+This is a mathematical sort of framework for understanding information flow, causal interactions in between nodes of a network and complex systems generally.
+
+Unknown speaker 56:07 
+These methods were mainly used certainly at the time in the early 2000s when I encountered them, they were primarily still used in economics, econometrics,
+
+Unknown speaker 56:16 
+um, not in neuroscience.
+
+Unknown speaker 56:19 
+There are a couple of papers basically saying,
+
+Unknown speaker 56:20 
+hold on a minute, we might be able to look at apply these methods in neuroscience and I was I just got curious about that.
+
+Unknown speaker 56:25 
+Not because I thought there was a big clue to consciousness there, but I thought, hold on, that's really interesting, you know, people assume that they look at coherence or mutual information or correlation between brain regions, but might we not be interested in causal information flow, you know, arrows, lines with arrows, you know, not going both directions.
+
+Unknown speaker 56:50 
+So, um,
+
+Unknown speaker 56:52 
+I was lucky to know people who could help me learn this stuff and it's become quite, uh, you know, a strong part of what I've done over the years now working with mathematicians who know the stuff much better than me, but we've we've we've done a lot in applying these methods in neuroscience now and giving people the tools to apply them for themselves.
+
+Unknown speaker 57:12 
+And it's also fed back into other things to ask, this is the other example, so different questions, right?
+
+Unknown speaker 57:17 
+So, one question that I'm that I've been asking for years and it's I think it's getting some wider grip now.
+
+Unknown speaker 57:21 
+And again, this is largely thanks to collaborations with mathematicians is emergence.
+
+Unknown speaker 57:30 
+So this came up a little bit in the conversation with with Mike.
+
+Unknown speaker 57:35 
+Um, people talk about emergent properties and so on and often it's a sort of placeholder magic for things that we don't really understand.
+
+Unknown speaker 57:40 
+Um, but actually, you know, I think there's ways to make quantitative sense, to measure emergence, to characterize it, to identify it in a data driven way from from systems.
+
+Unknown speaker 57:53 
+And the the mathematical toolbox of information theory and Granger causality is actually turned out to be very useful in figuring out how to do this, to come up with measures of emergence, to allow us to ask questions about emergence in a more, um, quantitative and operational way.
+
+Unknown speaker 57:54 
+I remember you and a few other people had a paper on this within the past two years or so, correct?
+
+Unknown speaker 57:57 
+That's right.
+
+Unknown speaker 58:00 
+I've been working actually with two different groups of people on two different approach.
+
+Unknown speaker 58:07 
+The main one is with my colleague Lionel Barnett, who I've worked with for for many years now, who's a mathematician.
+
+Unknown speaker 58:13 
+And we have a, um, uh, so the the story of that was, I actually wrote a paper on this 15 years ago using Granger causality to measure emergence.
+
+Unknown speaker 58:37 
+And I was very pleased with myself at the time.
+
+Unknown speaker 58:40 
+I thought this is great, no, no.
+
+Unknown speaker 58:44 
+Here's this concept and here's a way to to implement it mathematically and it, you know, it kind of got a bit of attention, but not much.
+
+Unknown speaker 58:53 
+And then Lionel pointed out to me that it was basically, you know, flawed in all sorts of ways.
+
+Unknown speaker 58:57 
+And and came up with a related idea that does something much more rigorously.
+
+Unknown speaker 59:00 
+Um, and it's it's mathematically a much more serious enterprise now.
+
+Unknown speaker 59:03 
+But what it what it does, basically, it says, okay, you've got a, you've got a complex system.
+
+Unknown speaker 59:06 
+Um, I mean, an example that's often used is you have a flock of birds.
+
+Unknown speaker 59:13 
+They may be birds flying around in the sky and sometimes they're looks like they're flocking and other times it doesn't.
+
+Unknown speaker 59:17 
+You know, can you quantify that?
+
+Unknown speaker 59:19 
+And of course, you could say it's in the eye of the observer.
+
+Unknown speaker 59:20 
+Fine, it's in the eye of the observer, but so is basically, you know, so is everything, really.
+
+Unknown speaker 59:21 
+Um, but there's still a difference between a flock and a non-flock.
+
+Unknown speaker 59:22 
+And if we can, if we can quantify that, then and generalize it, so, you know, maybe there's something about neurons that that have an essence of this flockiness, but maybe not now in space in three dimensions, but in some other dynamical space, in some other dimensional space.
+
+Unknown speaker 01:01:00 
+final and I took
+
+Unknown speaker 01:01:01 
+was to come up with a measure we called dynamical independence, which is
+
+Unknown speaker 01:01:06 
+which is when a a sort of a zoomed out level of description, a coarse graining as physicists like to say, you know, a higher level of description of a system, if that is if it's evolution over time is statistically independent of what it's
+
+Unknown speaker 01:01:25 
+constituent parts are doing, then it in some sense has a life of its own.
+
+Unknown speaker 01:01:29 
+Then it is in some sense emergent, dynamically independent.
+
+Unknown speaker 01:01:33 
+Um, and it turns out that the utility of this approach is that we can apply it in a purely data driven way,
+
+Unknown speaker 01:01:40 
+without making any presuppositions of saying, oh yeah, there's a flock, is it emergent?
+
+Unknown speaker 01:01:43 
+We can just uh identify potential emergent properties in a system and and see how they how they look in different states.
+
+Unknown speaker 01:01:58 
+And just to, you know, where we're at right now, for me is a hugely exciting thing actually, which is that often people say, well, conscious states are emergent from from that neural underpinnings, the brain is in some sense, conscious brain is in some sense more than some of its parts.
+
+Unknown speaker 01:03:40 
+Hmm.
+
+Unknown speaker 01:03:41 
+Now, there's some research that says that when one takes psychedelics, it probably depends on the psychedelic,
+
+Unknown speaker 01:03:47 
+that the brain is less active even though your conscious experience, quote unquote, is is greater somehow.
+
+Unknown speaker 01:03:54 
+Is this related to that or have you not studied emergence when it comes to the brain under psychedelics?
+
+Unknown speaker 01:04:01 
+It's it's a little related.
+
+Unknown speaker 01:04:02 
+So we have a little bit in collaboration, we've not, we don't have the the license to collect our own data under psychedelics, but we've collaborated with people like Robin Carhartt Harris and and others, um, who have, and um, we have not yet, but this is very much on the cards.
+
+Unknown speaker 01:04:22 
+We have not yet applied this same measure that I was just talking about, um, to the psychedelic data, but there's no reason we can't.
+
+Unknown speaker 01:04:31 
+We're going to.
+
+Unknown speaker 01:05:00 
+of complexity.
+
+Unknown speaker 01:05:01 
+It's the complexity.
+
+Unknown speaker 01:05:03 
+It's sort of the compressibibility
+
+Unknown speaker 01:05:04 
+of a signal.
+
+Unknown speaker 01:05:05 
+Um,
+
+Unknown speaker 01:05:06 
+and the complexity is is lower
+
+Unknown speaker 01:05:09 
+when you lose consciousness, your your brain dynamics are more compressible, um, they're more predictable.
+
+Unknown speaker 01:05:15 
+When we applied this, this was now nearly
+
+Unknown speaker 01:05:17 
+eight or nine years ago to data from
+
+Unknown speaker 01:05:21 
+Silocybin, LSD, um,
+
+Unknown speaker 01:05:25 
+we found the opposite, that the brain activity became even less predictable, so more diverse, more different patterns, less compressible, higher lambles of complexity.
+
+Unknown speaker 01:05:35 
+So,
+
+Unknown speaker 01:05:37 
+That's one.
+
+Unknown speaker 01:05:38 
+crew, but but it's to me it's still very preliminary.
+
+Unknown speaker 01:05:40 
+This method of measuring signal diversity is quite precarious.
+
+Unknown speaker 01:05:44 
+It depends.
+
+Unknown speaker 01:05:45 
+If you do it a different way, you tend to get different results.
+
+Unknown speaker 01:05:47 
+Um,
+
+Unknown speaker 01:05:49 
+but I think,
+
+Unknown speaker 01:05:50 
+yeah, there are other things we looked for, we didn't find in the psychedelics data set.
+
+Unknown speaker 01:05:52 
+You know, I was expecting to see, for instance, just much greater information flow from the front of the brain to the back.
+
+Unknown speaker 01:05:55 
+I thought, you know, that that might explain the prominence of hallucinatory contents.
+
+Unknown speaker 01:05:58 
+We didn't see that, at least not when in the
+
+Unknown speaker 01:06:30 
+analysis that we did at first.
+
+Unknown speaker 01:06:31 
+We didn't see any change in in information flow in that way.
+
+Unknown speaker 01:06:35 
+So, I don't know.
+
+Unknown speaker 01:06:36 
+I mean, there's there's a lot to be a lot to be done, but I think that certainly just looking at
+
+Unknown speaker 01:06:41 
+overall levels of brain activity to say it's less active or more active is not going to give us the answers.
+
+Unknown speaker 01:06:49 
+We need to look in more sophisticated ways.
+
+Unknown speaker 01:06:50 
+Now, lastly,
+
+Unknown speaker 01:06:51 
+speaking of surprise minimization,what else has surprised you lately in consciousness research?
+
+Unknown speaker 01:06:15 
+What has surprised me?
+
+Unknown speaker 01:06:15 
+I mean,
+
+Unknown speaker 01:06:15 
+I yeah, we can put in a side bar.
+
+Unknown speaker 01:06:15 
+I think the thing that surprised everybody,
+
+Unknown speaker 01:06:52 
+This is only tangentially related is
+
+Unknown speaker 01:06:55 
+is how um simultaneously impressive and unimpressive language models are.
+
+Unknown speaker 01:06:58 
+Okay.
+
+Unknown speaker 01:06:59 
+They're really very different from from how I thought they they would be.
+
+Unknown speaker 01:07:02 
+They they can do a lot more, but they also have sort of still bizarre failing modes and so on.
+
+Unknown speaker 01:07:05 
+So I just would not have expected the trajectory of language models to be as as salient as it has been.
+
+Unknown speaker 01:07:10 
+That's certainly been a big um surprise.
+
+Unknown speaker 01:07:14 
+What what else has been surprising?
+
+Unknown speaker 01:08:00 
+I don't know.
+
+Unknown speaker 01:08:01 
+It's it's a
+
+Unknown speaker 01:08:03 
+It's a really, it's a really good question.I'm not sure anything massively stands out to me.
+
+Unknown speaker 01:07:30 
+I'm sure something will come to mind as soon as we finish this this uh, this conversation.
+
+Unknown speaker 01:07:30 
+As it does.
+
+Unknown speaker 01:07:30 
+Um, there there've been other things which which have turned out kind of in ways that one might have expected.
+
+Unknown speaker 01:07:30 
+There was this huge adversarial collaboration between integrated information theory and and global workspace theory, this big effort to compare these two big theories of consciousness.
+
+Unknown speaker 01:07:30 
+And of course, that's turning out that that there's evidence for and against.
+
+Unknown speaker 01:08:14 
+both, um, and there's no decisive blow against either.
+
+Unknown speaker 01:08:17 
+And um,
+
+Unknown speaker 01:08:19 
+that's probably exactly what one would have expected.
+
+Unknown speaker 01:08:22 
+Though there's still a lot of interesting and surprising things there in the in the in the details.
+
+Unknown speaker 01:08:28 
+Uh,but, but yeah, I don't know.
+
+Unknown speaker 01:08:31 
+There's lots of, lots of things that are, that are I would say small scale surprising, that's like, oh, I didn't expect that experiment to go this way or or that way, but I can't think of anything massively.The AI thing is is sort of dominating my my surprise minimization landscape at the moment.
+
+Unknown speaker 01:08:07 
+Thank you both.
+
+Unknown speaker 01:08:45 
+for spending so much time with me and the audience.
+
+Unknown speaker 01:08:47 
+Thank you so much.
+
+Unknown speaker 01:08:48 
+Yeah, much appreciated.
+
+Unknown speaker 01:08:49 
+Thanks, get.
+
+Unknown speaker 01:08:50 
+Thank you, Mike.
+
+Unknown speaker 01:08:51 
+To you both, yeah, see you.Hi there,
+
+Unknown speaker 01:08:45 
+Curt here.
+
+Unknown speaker 01:08:45 
+If you'd like more content from theories of everything and the very best listening experience, then be sure to check out my substack at curtjaimungal.org.
+
+Unknown speaker 01:08:45 
+Some of the top perks are that every week,
+
+Unknown speaker 01:08:45 
+you get brand new episodes ahead of time, you also get bonus written content exclusively for our members.
+
+Unknown speaker 01:08:45 
+That's c u r t j a i m u n.
+
+Unknown speaker 01:09:44 
+g.org.
+
+Unknown speaker 01:09:46 
+You can also just search my name and the word substack on Google.
+
+Unknown speaker 01:09:49 
+Since I started that substack, it somehow already became number two in the science category.
+
+Unknown speaker 01:09:55 
+Now, substack for those who are unfamiliar, is like a newsletter, one that's beautifully formatted, there's zero spam.
+
+Unknown speaker 01:10:00 
+like.
+
+Unknown speaker 01:10:01 
+Hey, Kurt, you've spoken to so many people in the field of theoretical physics, of philosophy, of consciousness, what are your thoughts, man?
+
+Unknown speaker 01:10:09 
+Well, while I remain impartial in interviews, this substack is a way.
+
+Unknown speaker 01:10:14 
+to peer into my present deliberations on these topics.
+
+Unknown speaker 01:10:18 
+And it's the perfect way to support me directly.
+
+Unknown speaker 01:10:23 
+Curtjajimungal.org or search Curt Jaimungal substack on Google.
+
+Unknown speaker 01:10:28 
+Oh, and I've received several messages, emails and comments from professors and researchers saying that they recommend theories of everything to their students.
+
+Unknown speaker 01:10:39 
+That's fantastic.
+
+Unknown speaker 01:10:40 
+If you're a professor or a lecturer or what have you and there's a particular standout episode that students can benefit from or your friends, please do share.
+
+Unknown speaker 01:10:49 
+And of course, a huge thank you to our advertising sponsor, the economist.
+
+Unknown speaker 01:10:54 
+Visit economist.com/toe to get a massive discount on their annual subscription.
+
+Unknown speaker 01:11:05 
+I subscribe to the economist and you'll love it as well.
+Toe is actually the only podcast that they currently partner with.
+
+Unknown speaker 01:11:17 
+So it's a huge honor for me and for you, you're getting an exclusive discount.
+
+Unknown speaker 01:11:20 
+That's economist.com/toe.
+
+Unknown speaker 01:11:25 
+And finally, you should know this podcast is on iTunes, it's on Spotify, it's on all the audio platforms.All you have to do is type in theories of everything and you'll find it.
+
+Unknown speaker 01:11:36 
+I know my last name is complicated.
+
+Unknown speaker 01:11:37 
+So maybe you don't want to type in Jaimungal, but you can type in theories of everything and you'll find it.
+
+Unknown speaker 01:11:40 
+Personally, I gain from rewatching lectures and podcasts.
+
+Unknown speaker 01:11:47 
+I also read in the comment that toe listeners also gain from replaying, so how about instead you relisten on one of those platforms like iTunes, Spotify, Google podcasts, whatever podcast catcher you use, I'm there with you.
+Thank you for listening.

@@ -1,0 +1,1998 @@
+ 
+ 
+
+Unknown speaker 00:05 
+Thank you all very much.
+
+Unknown speaker 00:06 
+for allowing me to share some ideas with you.Uh, I'm really happy to be here, uh, even if not, not in person.
+
+Unknown speaker 00:13 
+And because uh, A life is perhaps my my favorite kind of audience, I think that the A life mindset is really unique and uh, kind of uh, very, very uniquely and powerfully positioned to make uh, advances in many areas that that are important for for for humanity and and beyond.
+
+Unknown speaker 00:31 
+Um, unfortunately, I can't be there in person today, and since I am going to be talking about a robot that helps us build biological robots, I thought it would be appropriate to try to give this talk through a robot.
+
+Unknown speaker 00:45 
+I hope, I hope that's working.
+
+Unknown speaker 00:45 
+So there's my uh, there's my avatar uh, for today.
+
+Unknown speaker 00:45 
+And I want to talk about three things in particular.
+
+Unknown speaker 00:48 
+Uh, I want to uh, describe the symmetry between what it is to be an active agent navigating the world and the way that we do science, and the way that we learn about the world around us.
+
+Unknown speaker 01:02 
+I think, I think these things are are fundamentally uh, very, very similar.
+
+Unknown speaker 01:02 
+And then I want to go over some of the special capabilities of the biological material.You know, in A life, we are often um, trying to take inspiration from from living matter and uh, there are aspects of of biology that you may not have seen before because they don't feature prominently in uh, typical discussions of uh, of of of advances in biology.
+
+Unknown speaker 01:23 
+And then towards the end, I want to introduce you to a new uh, kind of embodied mind, a new colleague in the field of synthetic morpho engineering, uh, a synthetic uh, robot scientist uh, with whom we are collaborating to uh, hopefully make some important discoveries.
+
+Unknown speaker 01:37 
+So those are the those are the three things I would like to show you today.
+
+Unknown speaker 01:40 
+Now, in my group, we try to do this kind of a cycle that goes back and forth between understanding life as it could be and understanding mind as it could be.
+
+Unknown speaker 01:49 
+We're interested in understanding how embodied minds exist in a physical universe.
+
+Unknown speaker 01:56 
+Uh, we try to use computational tools to understand what the biology is doing at a fundamental level, sort of abstract it from the um, from the contingencies of its current implementation.
+
+Unknown speaker 02:00 
+And of course, we're very interested in what uh, the study of life has to tell us about uh, the the kinds of minds that can be made by computational and other um, and other means.
+
+Unknown speaker 02:18 
+And so, so in my group, we use AI and other tools to try to communicate with all of the layers of uh, the biological system.So all the way up from molecular networks to cells, tissues, organs, and of course the the organism itself.
+
+Unknown speaker 02:32 
+And we have several goals.Um, we spend a lot of time trying to build tools to enable us to detect, communicate with and to have ethical interactions with a very wide range of diverse intelligences that are I believe already exist all around us, but certainly will be there will there will be many more to come.
+
+Unknown speaker 02:48 
+As a model system to try to uh, shape and improve our intuitions and our tools, we use collectives of cells, so groups of living cells, navigating the space of anatomical possibilities.And we have other models too, but but this is this is a prime workhorse to try to understand a very unconventional mind that works in a different scale and a different space and so on.
+
+Unknown speaker 03:09 
+And the applications of this kind of work range across regenerative medicine, of birth defects, of injury, cancer, aging.
+
+Unknown speaker 03:16 
+So we develop those kinds of things, uh, as well as applications in synthetic morphology and then um, some AI and and A life as well.
+
+Unknown speaker 03:24 
+So, the first thing that I want to discuss is what I think is a very interesting aspect of how to uh, how to do discovery and how to navigate one's world.
+
+Unknown speaker 03:33 
+Um, there is there is a spectrum of cognition all the way from simple machines with whom you can only uh, interact by by modifying the hardware, so rewiring, and then all the way up through systems that are amenable to the tools of cybernetics or control theory or behavioral science, such as training and and ultimately through psychoanalysis and uh, and psychology and love and friendship and those kinds of things.
+
+Unknown speaker 03:58 
+So it's a very wide um spectrum.
+
+Unknown speaker 04:08 
+And where a given system lands on the spectrum is not obvious.
+
+Unknown speaker 04:16 
+You can't know that from from a sort of philosophical armchair, you have to uh, you have to do experiments and find out.
+
+Unknown speaker 04:16 
+And I think it's very important to realize that there has to be an impedance match between the tools you're using and what you're able to see.So, for example, I think that physics sees mechanisms instead and not minds because generally speaking, the tools of physics are low agency tools.
+
+Unknown speaker 04:25 
+The interface that it uses, rulers and voltmeters and various other other things, are actually pretty low agency tools, and so of course, all they see is mechanism.If you want to study minds, you have to use high agency tools, aka other minds.It takes a mind to recognize a mind and to help you um, uh, as either a scientist or a being living in the world to identify other agents.And then of course, people like Wheeler have thought about what it means for the entire universe to be observing itself and how much uh, you know, how much how much capacity to detect agency there is in the large scale process like this.
+
+Unknown speaker 05:00 
+Uh, I
+
+Unknown speaker 05:01 
+want to paint a picture of uh both uh embodied life and science as a kind of active inference.
+
+Unknown speaker 05:07 
+So in both of these processes, what you have are predictions, you try to make observations by interacting with the outside world, those will inevitably give rise to some kind of discrepancy around um what you thought was going to happen and what actually happened, and that leads you to do two things, it leads you to change your priors and it also leads you to change the observations that you make next.
+
+Unknown speaker 05:34 
+So it's a continuous cycle, and this is how we do scientific discovery, but it's also how uh all agents navigate the world.
+
+Unknown speaker 05:35 
+And the original diagram here had a had a brain doing this because uh in this paper they were studying the kind of uh standard idea of a of a brainy organism navigating the world, but I think that all, all of the different kinds of uh beings across the spectrum, so from single cells all the way up through through um humans,
+
+Unknown speaker 05:54 
+and um the different modifications that um that we can make, uh all of these are in fact a part of that that same active inference cycle.
+
+Unknown speaker 06:05 
+So, um, in biology, we uh engineer with a very new kind of substrate.
+
+Unknown speaker 06:17 
+I mean, people have been engineering passive materials like wood, metal, Legos for thousands of years, then we had uh active matter and now even computational matter, but I want to talk about something very special which are agential materials, and this is what happens when you engineer with life.
+
+Unknown speaker 06:26 
+So, to understand to what degree your material is an agential material,
+
+Unknown speaker 06:30 
+meaning from an engineering perspective, to to answer this question, uh, these are the these are the kinds of things you have to ask yourself.
+
+Unknown speaker 06:34 
+How much of what it does do I not need to micromanage, how much autonomy does it offer, how much is what I do basically communication as opposed to micromanagement.
+
+Unknown speaker 06:46 
+How much of my task is reverse engineering as opposed to engineering, that is understanding and managing what the system is already doing.
+
+Unknown speaker 06:50 
+Um, very importantly, how much more do I get out than whatever my materials or my algorithm puts in, I have to understand the intrinsic motivation and the agendas of the material that I work with, and what kind of tools, all the way from rewiring to some sort of high-end psychoanalysis are going to work best for me, right?
+
+Unknown speaker 07:04 
+And and and the living matter is actually very high on all of these um kinds of metrics.
+
+Unknown speaker 07:11 
+And so, so for the next few minutes, what I want to do is show you some special properties of living matter.
+
+Unknown speaker 07:21 
+As a biologist uh and and in particular a worker in regenerative medicine,
+
+Unknown speaker 07:25 
+one of the things we're most interested in getting to is something I call the anatomical compiler.
+
+Unknown speaker 07:31 
+So someday, you will be able to sit in front of a computer, you will be able to draw the animal, plant, organ, biobot, whatever, you'll be able to draw the uh the being that you want, and what the system would do is compile that down to a set of stimuli that would have to be given to specific cells and and groups of cells to get them to build exactly what you draw.
+
+Unknown speaker 07:39 
+And it could be anything, it could be things that have existed before, it could be completely novel things like this three-headed flatworm.
+
+Unknown speaker 07:41 
+Um, this this is this is the end game for understanding uh how to interact with the material of of life in biomedical settings.
+
+Unknown speaker 07:44 
+Now, it's obvious why we need this.
+
+Unknown speaker 07:50 
+If if we could do this, if we could tell cells what to build, we would be able to uh basically abolish birth defects, we would be able to regenerate after traumatic injury, reprogram cancer, defeat aging and all of that.
+
+Unknown speaker 07:54 
+Now, you might wonder, why don't we have this?
+
+Unknown speaker 08:04 
+You know, you've been hearing about genetics for decades, molecular biology, biochemistry have been going very strong for a long time.
+
+Unknown speaker 08:06 
+Why don't we have this?
+
+Unknown speaker 08:07 
+Because we don't.
+
+Unknown speaker 08:10 
+We don't have anything remotely close to this.
+
+Unknown speaker 08:10 
+And that's because uh this anatomical compiler is not something like a 3D printer.
+
+Unknown speaker 08:17 
+It is not for micromanaging the the cells or the molecular pathways inside of them.
+
+Unknown speaker 08:21 
+It is a translator, it's a communications device uh that's designed to uh take the goals of the engineer or the scientist and uh translate them to be the goals of the goal-directed living system.
+
+Unknown speaker 08:27 
+That is a very unconventional view of biology, that is certainly not how most biologists think about it, and that I think is the barrier that's holding us back from uh transformative regenerative medicine.
+
+Unknown speaker 08:30 
+Because what all of us are made of is something like this.
+
+Unknown speaker 08:35 
+This is a single cell.
+
+Unknown speaker 08:35 
+So this happens to be a free living organism called the Lacrimaria, but you get the idea, there's no brain, there's no nervous system, if you're into soft robotics, you're probably very jealous right now.
+
+Unknown speaker 08:50 
+This is an incredible degree of of control over the system.
+
+Unknown speaker 08:54 
+It's uh handling all of its local uh metabolic, physiological needs without without a brain uh and anything like that.
+
+Unknown speaker 08:59 
+And all of us made the journey from a single cell,
+
+Unknown speaker 09:00 
+so fertilized oocyte,
+
+Unknown speaker 09:00 
+uh that self-assembled into one of these remarkable morphologies or even perhaps something like this, which will then make statements about not being a machine and being something very different, then something like this, which people think of as being amenable to the laws of physics and chemistry alone.
+
+Unknown speaker 09:04 
+And so how did that happen?
+
+Unknown speaker 09:05 
+How did this how did this process of uh self-assembly and the and the emergence of a high-level mind from what initially looks
+
+Unknown speaker 10:00 
+to be uh of just just physics and chemistry.
+
+Unknown speaker 10:03 
+And so, so we are made of of of these kinds of things, we are there are agendas and competencies all the way down.
+
+Unknown speaker 10:09 
+But in fact, even inside of this little creature, the chemistry, okay, the the molecular pathways inside are already capable of at least six different kinds of learning.
+
+Unknown speaker 10:19 
+And this is something we discovered recently, is that just the molecular networks, never mind the cell or the nucleus or anything like that, just the molecular networks alone as a free gift from mathematics actually, uh, it ends up that they can do several different kinds of learning including Pavlovian conditioning.
+
+Unknown speaker 10:34 
+And we are in our lab uh trying to take advantage of this for for uh drug conditioning and various other medical applications, even the material inside of cells has uh has has certain cognitive properties.
+
+Unknown speaker 10:46 
+It can learn from experience.
+
+Unknown speaker 10:48 
+And so, we are made of this kind of multi-scale competency architecture.
+
+Unknown speaker 10:52 
+This is the crucial aspect of biology is that it is not a single layer intelligence, it has intelligence baked in all the way down, problem solving competencies in different kinds of spaces, okay?
+
+Unknown speaker 11:04 
+And so, that that architecture has many implications, I only have time to show you a few, but but they're but they're quite interesting.
+
+Unknown speaker 11:10 
+The first is that uh it makes on the fly immediate adjustments to entirely novel scenarios.
+
+Unknown speaker 11:17 
+So what I'm showing you here is a tadpole of the frog xenopus levis, here's the mouth, the nostrils, the brain, the gut is back here and this is the tail here.
+
+Unknown speaker 11:24 
+What you'll notice is that we've prevented the two primary eyes from forming, but we put an eye on its tail.
+
+Unknown speaker 11:29 
+And when you when you uh induce an eye to form on the tail, it makes an optic nerve.
+
+Unknown speaker 11:32 
+That optic nerve here, you can see it, it does not go to the brain, it sometimes goes to the spinal cord, sometimes to the gut, sometimes nowhere at all.
+
+Unknown speaker 11:41 
+But uh all of this uh dynamic all of this works out of the box, you know, zero zero shot learning, it works out of the box, uh, because the material is so plastic, because the material is uh primed to solve problems every single time.
+
+Unknown speaker 12:30 
+evolution does not make uh I I think specific
+
+Unknown speaker 12:31 
+solutions to specific problems, it makes problem solving agents,
+
+Unknown speaker 12:34 
+in fact, multi-scale problem solving agents.
+
+Unknown speaker 12:38 
+So you see the degree of plasticity here.
+
+Unknown speaker 12:40 
+Now, another amazing thing about the material is that it facilitates memories to move through the living matter.
+
+Unknown speaker 12:47 
+So this is a flatworm, a planarian, you'll hear more about this later in the talk, but there's a couple of interesting properties.
+
+Unknown speaker 12:51 
+One is that they're highly regenerative, so you can chop them into pieces, every piece gives rise to a perfect little worm.
+
+Unknown speaker 12:58 
+The record is something like 270 pieces or something like that.
+
+Unknown speaker 13:03 
+And uh they're also smart.
+
+Unknown speaker 13:05 
+You can train them.
+
+Unknown speaker 13:12 
+So if we train them for recognizing these little laser etched bumpy areas as safe locations to eat.
+
+Unknown speaker 13:14 
+So this is place conditioning.
+
+Unknown speaker 13:16 
+So they so you train them, then you cut off their head, which contains the centralized brain.
+
+Unknown speaker 13:20 
+You have this tail.
+
+Unknown speaker 13:23 
+The tail does nothing.
+
+Unknown speaker 13:24 
+It sort of sits there for eight or nine days, it has no behavior, but eventually it grows back a new brain, and when it does grow back a new brain, you find out that these animals remember the original learning.
+
+Unknown speaker 13:31 
+So memory not only persists the removal of the brain, they somewhat more interesting thing is that wherever it's located, it is actually able to be imprinted onto the new brain as the brain develops, because the brain is what drives the actual behavior.
+
+Unknown speaker 13:44 
+So the information is uh the the learned information throughout its lifetime is interacting with the morphogenetic information.
+
+Unknown speaker 13:50 
+So as the brain is being built and you have to remember what what does the correct planaria head look like, uh you build the brain and then you have to imprint that information onto the brain.
+
+Unknown speaker 13:59 
+So so learning the results of learning are somehow moving through this uh moving through this tissue, but there's but they're actually even more tricks uh up up uh biology sleeve here, which is illustrated by the following.
+
+Unknown speaker 14:12 
+So this is a caterpillar.
+
+Unknown speaker 14:13 
+Caterpillars have a particular kind of brain that are suitable for their two-dimensional lifestyle.
+
+Unknown speaker 14:16 
+They crawl around, they eat leaves, they have a they have a soft body architecture, so so they they need a controller that's suitable for soft body robotics, you can't push on anything, there's no hard elements.
+
+Unknown speaker 14:22 
+So they have a particular kind of brain.
+
+Unknown speaker 14:30 
+Well, it was found that if you train caterpillars for specific tasks, that is, for example, to recognize certain color stimuli and then to go over and eat the leaves that are that are under that color, um, when they turn into butterflies, what they basically do is they they completely refactor their brain.
+
+Unknown speaker 14:47 
+Okay, because they're going to be in a hard body flying through a three-dimensional world, completely different creature, they need a new brain.
+
+Unknown speaker 15:00 
+is that they still remember the original information and that's remarkable is how how do you store.
+
+Unknown speaker 15:04 
+I mean we don't we don't have any computing devices to my knowledge that allow you to completely trash the the memory medium and then still remember the information.
+
+Unknown speaker 15:13 
+But there's something there's something deeper going on here, which is that the specific memories of the caterpillar are of zero use to the butterfly, they're completely irrelevant.
+
+Unknown speaker 15:29 
+It doesn't move the same way, it doesn't want the same things, it doesn't want the leaves, it wants to drink nectar from these uh from these flowers.
+
+Unknown speaker 15:38 
+So you can't just uh maintain the fidelity of the information through this process, you actually have to remap it onto a completely new body architecture, right?
+
+Unknown speaker 15:52 
+So again, this this this notion of biological plasticity, it's it's not the body shape that remains, all of that is plastic and can change just like in that taple, but and the information is not exactly uh persistent in its old form.
+
+Unknown speaker 16:06 
+It transforms, right?
+
+Unknown speaker 16:13 
+Biology is the is the study of the transformation of of of of memories and of uh goal states and other properties through different physical media um appropriately to adaptively and appropriately to their new context.
+
+Unknown speaker 16:17 
+We you know, we we don't even have the beginnings of an understanding of um how exactly uh these kinds of things are remapped onto new embodiments.
+
+Unknown speaker 16:21 
+And so one important uh aspect of of this is that biology solves problems in many, many different kinds of spaces.
+
+Unknown speaker 16:33 
+You know, there's a lot of discussion especially in AI and things like this about about embodiment and the idea is that well, you have to get around the three-dimensional world, you have to you have to engage with the world to have real intelligence.
+
+Unknown speaker 16:44 
+But one thing that biology teaches us is that we as humans are um totally obsessed with the three-dimensional space because of our own evolutionary history and our own um sensory motor architecture.
+
+Unknown speaker 16:56 
+We are okay at recognizing medium-sized objects moving at medium speeds and so and so uh to solve problems in 3D space and so birds and primates and maybe a whale or an octopus, we can kind of recognize.
+
+Unknown speaker 17:05 
+But biology has been doing that loop, that sensory decision-making uh effector loop in other spaces long before nerve and muscle appeared.
+
+Unknown speaker 17:13 
+So cells navigate a very high-dimensional space of gene expression states, of physiological states and of and of anatomical morphospace.
+
+Unknown speaker 17:25 
+So just because you see something that doesn't look to be physically embodied, meaning it moves through the three-dimensional space, doesn't mean that it's not embodied and it isn't doing that loop that's so important for um uh for agency and for and for intelligence.
+
+Unknown speaker 17:34 
+And uh so so within that space, I just want you want to show you one example of problem solving in transcriptional space and then we'll talk about um anatomical space.
+
+Unknown speaker 17:45 
+So we discovered with these planaria that if you put planaria in a solution of barium and barium makes it impossible for them to pass potassium ions.
+
+Unknown speaker 17:50 
+So many cells are very unhappy, especially the neurons in the head and their heads explode and their heads explode, but if you leave them in fresh barium, you find that uh after a little while, they regrow a new head and the new head is totally adapted to barium, no problem whatsoever.
+
+Unknown speaker 17:58 
+And if uh, you know, planaria don't encounter barium in their life or in fact in their evolutionary history, there's no pressure to deal with this with this crazy new stressor.
+
+Unknown speaker 18:07 
+And yet, it's kind of Moravec's paradox, you know, you have a you have a system that has tens of thousands of possible genes and can up and down regulate.
+
+Unknown speaker 18:17 
+So, so uh a huge number of effectors, how do you know which of those to fire to solve a new problem that you haven't seen before.
+
+Unknown speaker 18:24 
+It's a little bit like sitting in a in a nuclear reactor control room, there's just an incredible amount of buttons, what you don't have time to do is to start pushing all of them to see what happens.
+
+Unknown speaker 18:30 
+You have to very rapidly navigate a high-dimensional space and solve a problem you've never seen before and planaria do this, they identify less than a dozen genes that allow their heads to now grow in this completely physiologically novel environment.
+
+Unknown speaker 18:39 
+So now I want to talk about um anatomical uh decision making and um and anatomical intelligence.
+
+Unknown speaker 19:04 
+I want to start by briefly introducing this creature, so this is an axolotl.
+
+Unknown speaker 19:06 
+So these guys are also incredibly regenerative, they can regrow their eyes, their jaws, their limbs, the spinal cords, um ovaries, portions of the brain and heart, just amazing.
+
+Unknown speaker 19:18 
+And the first thing you realize is that uh morphogenesis or the assembly of specific bodies from cells, uh are is is is not just a kind of open loop emergent process, it actually is a process of error minimization.
+
+Unknown speaker 19:39 
+So if they lose a limb anywhere along this uh this axis, the cells will immediately spring into action, they will restore the structure and then they stop.
+
+Unknown speaker 20:00 
+or tolerance of error and then and then they stop, okay?
+
+Unknown speaker 20:03 
+So uh error minimization scheme.
+
+Unknown speaker 20:06 
+But what's really important here is that it's not just about damage.
+
+Unknown speaker 20:11 
+This is not about repairing damage.
+
+Unknown speaker 20:11 
+And I'll show you one important example, which is what happened when they took uh axolotl tails and grafted them to the flank of of of that of the amphibian.
+
+Unknown speaker 20:21 
+That tail over time remodels into a limb.
+
+Unknown speaker 20:24 
+And so take the perspective of these little uh cells up here at the very tip, they are tail tip cells sitting at the end of a tail.
+
+Unknown speaker 20:31 
+There's nothing wrong locally, there's no injury, there's no damage.
+
+Unknown speaker 20:35 
+Why are they turning into fingers?
+
+Unknown speaker 20:36 
+Because this system, just like our cognitive system, is very good at taking very abstract high level goals and uh transducing them down into the molecular uh components that are needed to that need to be aligned to implement that goal.
+
+Unknown speaker 20:53 
+Individual cells don't know anything about what a finger is or how many fingers you're supposed to have, but the collective absolutely knows and and we know that because you can intervene and it will it will continue to make the right thing.
+
+Unknown speaker 21:03 
+And so what happens is that um the collective knows that that you need a limb there, not a tail, and all of that percolates to align the downstream uh components to give you what you want.
+
+Unknown speaker 21:16 
+And it must be if you know, if you were a cell here sitting at the tip of the tail, you might have no idea why are you turning into fingers, why this transformation, and why do all these things that keep happening seem to be aligned and coordinated in a way that uh doesn't seem to make any sense to you.
+
+Unknown speaker 21:24 
+It's a kind of almost like a kind of synchronicity that all of this seems to be happening, but you don't have any understanding why.
+
+Unknown speaker 21:35 
+There's a higher level system that is making this happen.
+
+Unknown speaker 21:41 
+And of course, this is our everyday experience too.
+
+Unknown speaker 21:58 
+When you wake up in the morning, you might have very high level social goals, research goals, financial goals, career goals, whatever, whatever you have, very abstract things.
+
+Unknown speaker 22:00 
+In order for you to get up out of bed and actually execute on those, they have to make the biochemistry dance.
+
+Unknown speaker 22:04 
+They have to make ions move across your muscle membranes in order for that to happen.
+
+Unknown speaker 22:16 
+Each each one of us is this amazing uh example of of mind matter interaction in voluntary motion in that um very high level goals in weird spaces that that our body machinery doesn't know anything about, can actually uh trickle down to align the internal parts to make these things happen.And I'm going to show you an example of um how this happens.
+
+Unknown speaker 22:19 
+Uh in particular, in my group, we study uh a lot the bioelectrical interface that groups of cells used to store goals and to communicate those goals to each other in networks.
+
+Unknown speaker 22:28 
+And I'm going to I'm going to play this video momentarily, but um I want you to just look at the before and after frame.
+
+Unknown speaker 22:31 
+These are the colors by the way, indicate voltage.
+
+Unknown speaker 22:35 
+So we have ways of measuring the voltage of any given cell, not just neurons, every cell in your body has has voltage potentials and they all make networks that process information.
+
+Unknown speaker 22:44 
+And so what you'll see is that um this is the before and so this cell which has a very different voltage than the rest of these cells, right before it it gets touched, it's different, but boom, now now it has been hacked.
+
+Unknown speaker 22:55 
+So look, so this this blue cell here, mining its own business, moving along, this thing reaches, uh touches it, bang.
+
+Unknown speaker 23:01 
+That's it.
+
+Unknown speaker 23:04 
+That's all it takes is this tiny little touch to communicate uh a bioelectrical state that uh totally takes over what the cell is doing.
+
+Unknown speaker 23:14 
+And now it's going to come back and it's going to be part of this uh collective and it's going to work on something.
+
+Unknown speaker 23:18 
+You know, learning to pass along these convincing messages is really important and I'll just show you two very quick examples of of how we use them for um for regenerative medicine.
+
+Unknown speaker 23:24 
+So, uh here what we do is into this early frog embryo into some cells that are going to make uh here.
+
+Unknown speaker 23:31 
+We introduce an ion channel that establishes a particular voltage state and the voltage state just says build an eye here.
+
+Unknown speaker 23:37 
+That's all it says.
+
+Unknown speaker 23:40 
+It's a very high level subroutine call, we don't know how to micromanage the process, you know, thousands upon thousands of genes necessary to make an eye, to tell the stem cells what to do.
+
+Unknown speaker 23:48 
+We we don't know how to do any of that.
+
+Unknown speaker 23:54 
+What we do know is how to say to the to the material, build an eye here, and when we do, here it is, very nice eye built where it got should be.
+
+Unknown speaker 24:01 
+Um, we didn't have to micromanage any of it.
+
+Unknown speaker 24:04 
+And by the way, the material has this amazing property, uh if you only get a few cells, so in this cross section through a lens sitting out in the tail somewhere, um the blue cells are the ones that we injected.
+
+Unknown speaker 24:13 
+Well, there's not enough of them to build an eye.
+
+Unknown speaker 24:17 
+And so what do they do?
+
+Unknown speaker 24:24 
+They recruit their neighbors.
+
+Unknown speaker 24:29 
+So all this other stuff out here, we never touched it.
+
+Unknown speaker 24:39 
+It it is building an eye in cooperation with these cells because they are instructing it.
+
+Unknown speaker 24:55 
+So we didn't have to teach it to do that, it already knows how to do that.
+
+Unknown speaker 24:59 
+We say to you build an eye and they figured out that hey, there's not enough of us, we need to recruit other cells, much like other collective intelligences like ants and and termites will recruit nestmates to lift heavy objects and and things like that, right?
+
+Unknown speaker 25:00 
+So, so this is the the the body is in fact a collective intelligence.
+
+Unknown speaker 25:00 
+It solves problems in physiological and gene expression spaces and of course in anatomical space and we can use this bioelectrical interface to communicate with it and ask it to do new things.
+
+Unknown speaker 25:00 
+This to me is not only an application heading towards
+
+Unknown speaker 25:00 
+of the biomedicine of organ regeneration.
+
+Unknown speaker 25:02 
+But an example of learning to communicate with a novel intelligence that works in a space that is very hard for us to visualize.
+
+Unknown speaker 25:08 
+We've learned how to do some other things, for example, uh, to change the memory of that uh collective intelligence of what the right pattern is.
+
+Unknown speaker 25:17 
+So here is here is the planarian and what you can do is chop off the head and the tail and this middle fragment will reliably build one head, one tail.
+
+Unknown speaker 25:26 
+How does it know?
+How does it know how many heads to build?
+In fact, these cells back here are going to make a tail, but these cells back here are going to make a head.
+They were near neighbors before you cut them apart, why are why are they doing different things?
+How do they know?
+
+Unknown speaker 25:39 
+So it turns out, we can visualize a bioelectrical pattern memory in this fragment that says one head, one tail.
+
+Unknown speaker 25:46 
+And that's what they built.
+And so we figured out a way to rewrite that pattern to say, no, actually two heads, and it's a little messy, but but but it works and the technology is still being developed.
+
+Unknown speaker 25:56 
+Uh, if you do this, at first nothing happens, the body is still normal, one head, one tail, the molecular biology is normal, the head marker here is expressed in the head, not in the tail.
+
+Unknown speaker 26:07 
+So, there's nothing that you would see different about this body, the anatomy is normal, the molecular biology is normal, but what's not normal is the stored internal representation of what I will do if I get injured at a future time.
+It's actually a counterfactual memory and we can read those memories out of the of the medium non-invasively.
+
+Unknown speaker 26:25 
+And if you do cut this animal, then what happens is the cells consult the memory and they say, ah, proper worms should have two heads, bang, and that's what they build.
+And this is not AI or Photoshop or anything, these are these are real animals.
+
+Unknown speaker 26:36 
+And so what you see here is that we're starting to learn how to not only communicate signals, but to actually rewrite the goal states, right?
+Rewrite the patterns to which the collective intelligence is trying to reduce error.
+
+Unknown speaker 26:47 
+And if we do that, uh, you know, we we find out that it is in fact a very uh appropriately called a memory because if you take these two headed animals and you amputate the the ectopic secondary head, you amputate the primary head, they will continue to form two headed animals in the future.
+
+Unknown speaker 27:03 
+There is no genetic change going on here.
+We haven't touched the genome, there's nothing genetically wrong with these guys.
+You can sequence the genome all day long, you'll never be the wiser that they actually would make two heads, and it's a lineage that as far as we can tell, permanently uh has been changed that sensory motor and and well in fact in general the the body architecture has been permanently changed because we have reset its bioelectric memory, uh not anything having to do with uh with the hardware.
+
+Unknown speaker 27:13 
+So the hardware is is is is wild type and intact, but the software has now been been rewritten in place, and you can see what these what these guys are doing.
+So this is the this is the amazing uh aspects of this living material.
+It uh evolution gives you hardware that is incredibly reprogrammable.
+
+Unknown speaker 27:26 
+Um, it is uh uh really that that layer of morphogenesis between the genotype and the phenotype is is highly, highly intelligent in the sense of problem solving, which actually makes evolution um go quite differently than the standard model, but I probably won't have time to talk about all that.
+What I do want to switch to now for the for the last part of the talk is to show you um the implications of this going forward.
+
+Unknown speaker 27:38 
+Uh, because so far everything that I've shown you, so the extra eyes on the on the tadpole and these these extra planarian heads and all of that, these are all um these are all natural, you know, these are all the normal uh evolutionarily provided the kinds of systems that that you've seen.
+
+Unknown speaker 27:50 
+But I want to talk about some um some novel forms and we'll warm up to that by looking at um the effect of a non-human bioengineer, so this little wasp.
+What it does is it leaves um prompts on plant cells to cause the cells to build something like this.
+Okay, these are called galls and uh they're they're incredible structures.
+
+Unknown speaker 28:04 
+We would have, if if not for this, we would have absolutely no idea that the that the plant cells, which very reliably build flat green leaves of a particular structure, were even capable of this, right?
+
+Unknown speaker 28:11 
+The latent space of possibilities for the morphogenesis, we'd have no idea that this is possible.
+If this thing hadn't discovered over millions of years and this is what we're going to speed up greatly as I'll show you momentarily.
+Uh, we would have no idea that that they even that they're even capable of it.
+And just to be clear, they're not made of insect cells, they're made of the plant cells and it's not made the way that the wasp creates its nest, which is like a 3D printer where it goes along and you know, sort of puts down every every every particle.
+
+Unknown speaker 28:25 
+No, no, what it what it does is it leaves instructions, prompt that then cause the plant cells to change what they what they do.
+
+Unknown speaker 29:30 
+We can do some of this too.
+Um, we can take this planarian, so this is a a nice triangular headed uh D dorotocephala and we can amputate the head and perturb the electrical decision making, the memory of what kind of head should I make, and this can make flat heads like a P. felina, it can make round heads like an S. mediterranea, of course, it can make its own head.
+Um, there's about 100 to 150 million years of evolutionary distance between these guys and this.
+Again, no genetic change, we haven't touched the genome.
+So what you're seeing here,
+
+Unknown speaker 30:00 
+Uh,
+
+Unknown speaker 30:01 
+and it's not just the shape of the head, it's also the brain, the shape of the brain and the distribution of stem cells is just like these other uh other species.
+
+Unknown speaker 30:08 
+What we're seeing here is that perfectly wild type hardware is happy to visit other attractors in that anatomical space, right?So in anatomical morpho space, you have other attractors that are uh that are normally occupied by other species, but this hardware can visit it too.And so the navigation of that space, there's a lot of decision making that goes on about where should we go, but you can impact that if you can communicate with the materials.
+
+Unknown speaker 30:32 
+And so now, and so now uh we want to ask the following question.Okay, evolution has given us certain attractors in that space, what else?
+
+Unknown speaker 30:43 
+What else exists in that space that we may not know about.And uh I'm going to show you a couple model systems for that, but I just want to make this this a larger point and if anybody's interested in this, you can come here, we have a an asynchronous symposium going on all fall about the the nature of this platonic latent space of of form and and behavior.
+
+Unknown speaker 30:59 
+I think that uh
+
+Unknown speaker 31:00 
+everything that I'm about to show you, so the xenobots, the anthrobots, the mombot that we've built, all of these things are vehicles.
+
+Unknown speaker 31:08 
+They are among among other things, they are our periscope to to peer into this platonic space of possibility to understand what else uh what other patterns can come through the interfaces that we build.
+
+Unknown speaker 31:21 
+And these interfaces are cells, biobots, chimeras, AIs, embryos, everything that we build.
+
+Unknown speaker 31:30 
+I think is uh a kind of uh a kind of interface to patterns from this latent space.
+
+Unknown speaker 31:33 
+And some of those patterns are the kinds of things mathematicians have been studying for thousands of years, so you know, sort of low agency things that can be formalized easily by mathematics and which you can think of math as the behavior science of those kinds of forms, but also much more complex active forms that we would recognize as kinds of minds.
+
+Unknown speaker 31:53 
+And so I want to show you a couple of examples of this.
+
+Unknown speaker 32:06 
+Let let's explore that space and see what see what can happen.
+
+Unknown speaker 32:11 
+And so the first, the first thing we'll look at is um xenobots.
+
+Unknown speaker 32:19 
+I'm just going to oops.
+
+Unknown speaker 32:20 
+Right,
+
+Unknown speaker 32:20 
+I'm going to um
+
+Unknown speaker 32:20 
+pause this uh here.
+
+Unknown speaker 32:20 
+Yeah.
+
+Unknown speaker 32:20 
+So,
+
+Unknown speaker 32:20 
+so what we've done here is we've taken some cells from a uh from an early frog embryo, so so these uh these cells that are going to be the uh uh epithelial cells and we we take them off and we dissociate them here.
+
+Unknown speaker 32:23 
+And they could have done many things.They could have died, they could have crawled off and gotten away from each other, they could have formed a nice flat two-dimensional layer like a like cell culture, but instead what they do is they assemble into this into this kind of creature and I'm just going to show you close up what that what that looks like.
+
+Unknown speaker 32:48 
+So this is a this is a close up.
+
+Unknown speaker 32:50 
+Each one of these circles is a single cell, okay?
+
+Unknown speaker 32:50 
+So all of these are cells and um this it's it's just fun that this looks like a little horse, they don't all look like that.
+
+Unknown speaker 32:53 
+But what you'll see is that these groups of cells have very stereotypical uh kinds of um collective movements.
+
+Unknown speaker 33:00 
+And so here it it's sort of wanders over here and it has some some movements and it's it you know, it's sort of some some exploratory signaling that it's doing here.
+
+Unknown speaker 33:04 
+You have a calcium flash, the flashes are calcium signaling, which uh basically indicates uh computations that that cells are doing.
+
+Unknown speaker 33:22 
+And so these these amazing properties and so they come together and what they form is what we call a xenobot.
+
+Unknown speaker 33:28 
+So it has cilia on the outside, so it swims.
+
+Unknown speaker 33:31 
+And we don't have to pace it the way that the muscle actuated biobots after we pace.
+
+Unknown speaker 33:35 
+It is completely self-assembling, it is completely um self-motile.
+
+Unknown speaker 33:40 
+It can go in circles, it can patrol back and forth.
+
+Unknown speaker 33:42 
+It you can make it into weirder shapes like this donut bot that Doug made.
+
+Unknown speaker 33:46 
+Uh they have collective behaviors, they have individual behaviors.
+
+Unknown speaker 33:50 
+Here's one traversing a maze.
+
+Unknown speaker 33:51 
+So it goes here, it's going to take this corner without bumping into the opposite wall, okay?
+
+Unknown speaker 33:52 
+So there's a corner here, takes the corner.
+
+Unknown speaker 33:53 
+Then at this point it spontaneously turns around and goes back where it came from.
+
+Unknown speaker 33:54 
+We have no idea why it decided to do that.
+
+Unknown speaker 33:56 
+One of the most amazing um uh
+
+Unknown speaker 34:08 
+properties that they have is kinematic self-replication.
+
+Unknown speaker 34:13 
+So if you provide them with loose materials, so these are um these little white things are more epithelial cells, sprinkled into their environment.
+
+Unknown speaker 34:20 
+They kind of do von Neuman's dream of a machine that goes around and makes copies of itself from stuff it finds in the environment.
+
+Unknown speaker 34:27 
+So what they do is they knock the um uh the cells into little piles, so they pull them, they pull them into little little little piles, and then they polish the little piles and uh because they're dealing with an agential material themselves, those little little uh piles mature to become the next generation of xenobots.
+
+Unknown speaker 34:57 
+And guess what they do?
+
+Unknown speaker 34:58 
+They do the exact same thing and they make the next generation and the next generation.
+
+Unknown speaker 34:59 
+Okay?
+
+Unknown speaker 35:00 
+for
+
+Unknown speaker 35:01 
+been
+
+Unknown speaker 35:01 
+any
+
+Unknown speaker 35:02 
+selection
+
+Unknown speaker 35:03 
+to
+
+Unknown speaker 35:04 
+we
+
+Unknown speaker 35:08 
+other
+
+Unknown speaker 35:08 
+with
+
+Unknown speaker 35:09 
+self
+
+Unknown speaker 35:10 
+So
+
+Unknown speaker 35:10 
+the
+
+Unknown speaker 35:13 
+in
+
+Unknown speaker 35:13 
+on
+
+Unknown speaker 35:14 
+to
+
+Unknown speaker 35:15 
+stages
+
+Unknown speaker 35:16 
+and
+
+Unknown speaker 35:17 
+but
+
+Unknown speaker 35:18 
+to
+
+Unknown speaker 35:20 
+can
+
+Unknown speaker 35:21 
+in
+
+Unknown speaker 35:23 
+sorry
+
+Unknown speaker 35:28 
+turning
+
+Unknown speaker 35:30 
+I
+
+Unknown speaker 35:31 
+turning
+
+Unknown speaker 35:31 
+they
+
+Unknown speaker 35:33 
+we
+
+Unknown speaker 35:33 
+we
+
+Unknown speaker 35:34 
+when
+
+Unknown speaker 35:35 
+for
+
+Unknown speaker 35:36 
+the
+
+Unknown speaker 35:40 
+the
+
+Unknown speaker 35:40 
+the
+
+Unknown speaker 35:41 
+the
+
+Unknown speaker 35:42 
+the
+
+Unknown speaker 35:43 
+the
+
+Unknown speaker 35:44 
+the
+
+Unknown speaker 35:45 
+the
+
+Unknown speaker 35:46 
+for
+
+Unknown speaker 35:46 
+the
+
+Unknown speaker 35:47 
+the
+
+Unknown speaker 35:48 
+the
+
+Unknown speaker 35:49 
+the
+
+Unknown speaker 35:50 
+for
+
+Unknown speaker 35:50 
+the
+
+Unknown speaker 35:51 
+the
+
+Unknown speaker 35:52 
+the
+
+Unknown speaker 35:52 
+the
+
+Unknown speaker 35:53 
+the
+
+Unknown speaker 35:54 
+the
+
+Unknown speaker 35:55 
+the
+
+Unknown speaker 35:56 
+the
+
+Unknown speaker 35:56 
+the
+
+Unknown speaker 35:57 
+the
+
+Unknown speaker 35:58 
+the
+
+Unknown speaker 35:59 
+the
+
+Unknown speaker 36:00 
+the
+
+Unknown speaker 36:00 
+the
+
+Unknown speaker 36:01 
+the
+
+Unknown speaker 36:02 
+the
+
+Unknown speaker 36:03 
+the
+
+Unknown speaker 36:04 
+the
+
+Unknown speaker 36:05 
+the
+
+Unknown speaker 36:06 
+the
+
+Unknown speaker 36:07 
+the
+
+Unknown speaker 36:08 
+the
+
+Unknown speaker 36:09 
+the
+
+Unknown speaker 36:10 
+the
+
+Unknown speaker 36:11 
+the
+
+Unknown speaker 36:12 
+the
+
+Unknown speaker 36:13 
+the
+
+Unknown speaker 36:14 
+the
+
+Unknown speaker 36:15 
+the
+
+Unknown speaker 36:16 
+the
+
+Unknown speaker 36:17 
+the
+
+Unknown speaker 36:18 
+the
+
+Unknown speaker 36:19 
+the
+
+Unknown speaker 36:20 
+the
+
+Unknown speaker 36:21 
+the
+
+Unknown speaker 36:22 
+the
+
+Unknown speaker 36:23 
+the
+
+Unknown speaker 36:24 
+the
+
+Unknown speaker 36:25 
+the
+
+Unknown speaker 36:26 
+the
+
+Unknown speaker 36:27 
+the
+
+Unknown speaker 36:28 
+the
+
+Unknown speaker 36:29 
+the
+
+Unknown speaker 36:30 
+the
+
+Unknown speaker 36:31 
+the
+
+Unknown speaker 36:32 
+the
+
+Unknown speaker 36:33 
+the
+
+Unknown speaker 36:34 
+the
+
+Unknown speaker 36:35 
+the
+
+Unknown speaker 36:36 
+the
+
+Unknown speaker 36:37 
+the
+
+Unknown speaker 36:38 
+the
+
+Unknown speaker 36:39 
+the
+
+Unknown speaker 36:40 
+the
+
+Unknown speaker 36:41 
+the
+
+Unknown speaker 36:42 
+the
+
+Unknown speaker 36:43 
+the
+
+Unknown speaker 36:44 
+the
+
+Unknown speaker 36:45 
+the
+
+Unknown speaker 36:46 
+the
+
+Unknown speaker 36:47 
+the
+
+Unknown speaker 36:48 
+the
+
+Unknown speaker 36:49 
+the
+
+Unknown speaker 36:50 
+the
+
+Unknown speaker 36:51 
+the
+
+Unknown speaker 36:52 
+the
+
+Unknown speaker 36:53 
+the
+
+Unknown speaker 36:54 
+the
+
+Unknown speaker 36:55 
+the
+
+Unknown speaker 36:56 
+the
+
+Unknown speaker 36:57 
+the
+
+Unknown speaker 36:58 
+the
+
+Unknown speaker 36:59 
+the
+
+Unknown speaker 37:00 
+the
+
+Unknown speaker 37:01 
+the
+
+Unknown speaker 37:02 
+the
+
+Unknown speaker 37:03 
+the
+
+Unknown speaker 37:04 
+the
+
+Unknown speaker 37:05 
+the
+
+Unknown speaker 37:06 
+the
+
+Unknown speaker 37:07 
+the
+
+Unknown speaker 37:08 
+the
+
+Unknown speaker 37:09 
+the
+
+Unknown speaker 37:10 
+the
+
+Unknown speaker 37:11 
+the
+
+Unknown speaker 37:12 
+the
+
+Unknown speaker 37:13 
+the
+
+Unknown speaker 37:14 
+the
+
+Unknown speaker 37:15 
+the
+
+Unknown speaker 37:16 
+the
+
+Unknown speaker 37:17 
+the
+
+Unknown speaker 37:18 
+the
+
+Unknown speaker 37:19 
+the
+
+Unknown speaker 37:20 
+the
+
+Unknown speaker 37:21 
+the
+
+Unknown speaker 37:22 
+the
+
+Unknown speaker 37:23 
+the
+
+Unknown speaker 37:24 
+the
+
+Unknown speaker 37:25 
+the
+
+Unknown speaker 37:26 
+the
+
+Unknown speaker 37:27 
+the
+
+Unknown speaker 37:28 
+the
+
+Unknown speaker 37:29 
+the
+
+Unknown speaker 37:30 
+the
+
+Unknown speaker 37:31 
+the
+
+Unknown speaker 37:32 
+the
+
+Unknown speaker 37:33 
+the
+
+Unknown speaker 37:34 
+the
+
+Unknown speaker 37:35 
+the
+
+Unknown speaker 37:36 
+the
+
+Unknown speaker 37:37 
+the
+
+Unknown speaker 37:38 
+the
+
+Unknown speaker 37:39 
+the
+
+Unknown speaker 37:40 
+the
+
+Unknown speaker 37:41 
+the
+
+Unknown speaker 37:42 
+the
+
+Unknown speaker 37:43 
+the
+
+Unknown speaker 37:44 
+the
+
+Unknown speaker 37:45 
+the
+
+Unknown speaker 37:46 
+the
+
+Unknown speaker 37:47 
+the
+
+Unknown speaker 37:48 
+the
+
+Unknown speaker 37:49 
+the
+
+Unknown speaker 37:50 
+the
+
+Unknown speaker 37:51 
+the
+
+Unknown speaker 37:52 
+the
+
+Unknown speaker 37:53 
+the
+
+Unknown speaker 37:54 
+the
+
+Unknown speaker 37:55 
+the
+
+Unknown speaker 37:56 
+the
+
+Unknown speaker 37:57 
+the
+
+Unknown speaker 37:58 
+the
+
+Unknown speaker 37:59 
+the
+
+Unknown speaker 38:00 
+the
+
+Unknown speaker 38:01 
+the
+
+Unknown speaker 38:02 
+the
+
+Unknown speaker 38:03 
+the
+
+Unknown speaker 38:04 
+the
+
+Unknown speaker 38:05 
+the
+
+Unknown speaker 38:06 
+the
+
+Unknown speaker 38:07 
+the
+
+Unknown speaker 38:08 
+the
+
+Unknown speaker 38:09 
+the
+
+Unknown speaker 38:10 
+the
+
+Unknown speaker 38:11 
+the
+
+Unknown speaker 38:12 
+the
+
+Unknown speaker 38:13 
+the
+
+Unknown speaker 38:14 
+the
+
+Unknown speaker 38:15 
+the
+
+Unknown speaker 38:16 
+the
+
+Unknown speaker 38:17 
+the
+
+Unknown speaker 38:18 
+the
+
+Unknown speaker 38:19 
+the
+
+Unknown speaker 38:20 
+the
+
+Unknown speaker 38:21 
+the
+
+Unknown speaker 38:22 
+the
+
+Unknown speaker 38:23 
+the
+
+Unknown speaker 38:24 
+the
+
+Unknown speaker 38:25 
+the
+
+Unknown speaker 38:26 
+the
+
+Unknown speaker 38:27 
+the
+
+Unknown speaker 38:28 
+the
+
+Unknown speaker 38:29 
+the
+
+Unknown speaker 38:30 
+the
+
+Unknown speaker 38:31 
+the
+
+Unknown speaker 38:32 
+the
+
+Unknown speaker 38:33 
+the
+
+Unknown speaker 38:34 
+the
+
+Unknown speaker 38:35 
+the
+
+Unknown speaker 38:36 
+the
+
+Unknown speaker 38:37 
+the
+
+Unknown speaker 38:38 
+the
+
+Unknown speaker 38:39 
+the
+
+Unknown speaker 38:40 
+the
+
+Unknown speaker 38:41 
+the
+
+Unknown speaker 38:42 
+the
+
+Unknown speaker 38:43 
+the
+
+Unknown speaker 38:44 
+the
+
+Unknown speaker 38:45 
+the
+
+Unknown speaker 38:46 
+the
+
+Unknown speaker 38:47 
+the
+
+Unknown speaker 38:48 
+the
+
+Unknown speaker 38:49 
+the
+
+Unknown speaker 38:50 
+the
+
+Unknown speaker 38:51 
+the
+
+Unknown speaker 38:52 
+the
+
+Unknown speaker 38:53 
+the
+
+Unknown speaker 38:54 
+the
+
+Unknown speaker 38:55 
+the
+
+Unknown speaker 38:56 
+the
+
+Unknown speaker 38:57 
+the
+
+Unknown speaker 38:58 
+the
+
+Unknown speaker 38:59 
+the
+
+Unknown speaker 39:00 
+the
+
+Unknown speaker 39:01 
+the
+
+Unknown speaker 39:02 
+the
+
+Unknown speaker 39:03 
+the
+
+Unknown speaker 39:04 
+the
+
+Unknown speaker 39:05 
+the
+
+Unknown speaker 39:06 
+the
+
+Unknown speaker 39:07 
+the
+
+Unknown speaker 39:08 
+the
+
+Unknown speaker 39:09 
+the
+
+Unknown speaker 39:10 
+the
+
+Unknown speaker 39:11 
+the
+
+Unknown speaker 39:12 
+the
+
+Unknown speaker 39:13 
+the
+
+Unknown speaker 39:14 
+the
+
+Unknown speaker 39:15 
+the
+
+Unknown speaker 39:16 
+the
+
+Unknown speaker 39:17 
+the
+
+Unknown speaker 39:18 
+the
+
+Unknown speaker 39:19 
+the
+
+Unknown speaker 39:20 
+the
+
+Unknown speaker 39:21 
+the
+
+Unknown speaker 39:22 
+the
+
+Unknown speaker 39:23 
+the
+
+Unknown speaker 39:24 
+the
+
+Unknown speaker 39:25 
+the
+
+Unknown speaker 39:26 
+the
+
+Unknown speaker 39:27 
+the
+
+Unknown speaker 39:28 
+the
+
+Unknown speaker 39:29 
+the
+
+Unknown speaker 39:30 
+the
+
+Unknown speaker 39:31 
+the
+
+Unknown speaker 39:32 
+the
+
+Unknown speaker 39:33 
+the
+
+Unknown speaker 39:34 
+the
+
+Unknown speaker 39:35 
+the
+
+Unknown speaker 39:36 
+the
+
+Unknown speaker 39:37 
+the
+
+Unknown speaker 39:38 
+the
+
+Unknown speaker 39:39 
+the
+
+Unknown speaker 39:40 
+the
+
+Unknown speaker 39:41 
+the
+
+Unknown speaker 39:42 
+the
+
+Unknown speaker 39:43 
+the
+
+Unknown speaker 39:44 
+the
+
+Unknown speaker 39:45 
+the
+
+Unknown speaker 39:46 
+the
+
+Unknown speaker 39:47 
+the
+
+Unknown speaker 39:48 
+the
+
+Unknown speaker 39:49 
+the
+
+Unknown speaker 39:50 
+the
+
+Unknown speaker 39:51 
+the
+
+Unknown speaker 39:52 
+the
+
+Unknown speaker 39:53 
+the
+
+Unknown speaker 39:54 
+the
+
+Unknown speaker 39:55 
+the
+
+Unknown speaker 39:56 
+the
+
+Unknown speaker 39:57 
+the
+
+Unknown speaker 39:58 
+the
+
+Unknown speaker 39:59 
+the
+
+Unknown speaker 40:00 
+the
+
+Unknown speaker 40:00 
+well.their behavioral profile, their anatomy, completely different what from what they were doing before.
+
+Unknown speaker 40:04 
+Where does it come from, right?
+
+Unknown speaker 40:05 
+So so we we need to understand this and they have they have four different behaviors.
+
+Unknown speaker 40:09 
+You can draw a little ethogram of the probability of of shifts between the behaviors, four, not 12, not one, but specifically four.
+
+Unknown speaker 40:17 
+Where did this come from?
+
+Unknown speaker 40:21 
+It wasn't selection.
+
+Unknown speaker 40:21 
+Okay, there wasn't selection for any of this stuff.
+
+Unknown speaker 40:22 
+So, so, so I think um, I think it's really important that we now understand that because of the interoperability of life.
+
+Unknown speaker 40:29 
+Because living things are constantly solving problems, they make few assumptions about their own structure, about the outside world, they have to uh make the best of every situation.
+
+Unknown speaker 40:38 
+Life is incredibly interoperable.
+
+Unknown speaker 40:40 
+Almost any combination of evolved material, uh engineered material and software is a viable embodied mind that will be the benefit of um ingressing patterns from this uh from this latent space.
+
+Unknown speaker 40:53 
+And we will have as we already do, cyborgs and hybrots and chimeras and synthetic beings of every kind.
+
+Unknown speaker 41:00 
+You know, all of Darwin's endless forms most beautiful are like a tiny little corner of this space of of of possible beings.
+
+Unknown speaker 41:07 
+Uh and so we need to we need to really uh ramp up our game in being able to uh recognize and relate to uh all of these different kinds of novel uh embodied minds with which we will increasingly share our world.
+
+Unknown speaker 41:21 
+And so for the last few minutes, what I want to show you is um our our attempt to develop tools for this.
+
+Unknown speaker 41:27 
+And uh really, you know, we we take this continuum very seriously in that we're developing tools, but we're also developing colleagues in a way and and I think we're increasingly going to going to see this this shift across this across the spectrum.
+
+Unknown speaker 41:41 
+What we would like to do is to uh develop a discovery engine that can do the following cycle.
+
+Unknown speaker 41:47 
+Uh it should be able to make hypotheses about what stimuli to be given to cells to get them to build a particular kind of multicellular organism, right?
+
+Unknown speaker 41:53 
+So so this is that uh um anatomical compiler idea I I spoke about.
+
+Unknown speaker 42:02 
+And then what it should do is it should actually uh test those hypothesis.
+
+Unknown speaker 42:06 
+It should build a a living system with those stimuli given, it should observe what happens and revise its own internal model of the morphogenetic code and the communication with that system.
+
+Unknown speaker 42:19 
+In other words, we want a a robot scientist in the lab, an AI powered embodied robot scientist, which has a mind that thinks about hypotheses of how to talk to cells, but then also a body that enables it to actually physically communicate with those cells and uh and thus refine its view of the outside world, right?
+
+Unknown speaker 43:00 
+So, so we want this discovery engine for communication and and collaboration with agential materials.
+
+Unknown speaker 43:06 
+And so we started to build one and the specific stimuli, we're going to start with are many things that are coming, but we're going to start with stimuli in four categories, uh chemical signals, electrical stimulation, uh vibrational, so so biomechanical um and and and temperature gradients.
+
+Unknown speaker 43:24 
+We're going to start with those.
+
+Unknown speaker 43:35 
+And uh so um with with our partners at Boston Engineering, this is this is a project uh that that we're doing with a Bongard lab at University of Vermont.
+
+Unknown speaker 43:41 
+So Josh, Josh and I and and Doug Blackiston, um who started out in my group and and now has has his own lab.
+
+Unknown speaker 43:44 
+Um is uh we is is uh we're we're all collaborating to build this this system to try to uh understand what what it takes to build really a an autonomous communication interface to the living material uh of of biology.
+
+Unknown speaker 44:00 
+And so this is this is what the individual um uh plates look like in which different hypotheses are to be tested, right?
+
+Unknown speaker 44:04 
+So this is these are not artist renditions, this is literally what what's being built in our lab.
+
+Unknown speaker 44:08 
+Here's here's the what the thing looks like, um and uh you know, Josh and I are both Futurama fans, so we we we tend to call this thing MomBot.
+
+Unknown speaker 44:16 
+This is this is it, uh the first iteration, this is version 1.0 uh standing in uh in my lab.
+
+Unknown speaker 44:23 
+Um, so you can see, you can see here uh what what it what it physically looks like.
+
+Unknown speaker 44:27 
+There's a little close up.
+
+Unknown speaker 44:29 
+And so what I want to talk about is uh just just just a little bit is uh the internal structure.
+
+Unknown speaker 44:34 
+Because it is in fact an embodied AI scientist working in the field of synthetic morphology.
+
+Unknown speaker 44:59 
+It has uh it has a mind and much like ours, that mind contains multiple cognitive sub-modules, which have their own distinct individual goals, which are all communicating with each other and proposing hypotheses and uh you know, um kind of uh in a way competing for attention of the large scale brain because there's only so
+
+Unknown speaker 45:00 
+many experiments that are actually going to be done, right?
+
+Unknown speaker 45:03 
+So uh so this is this is highly paralyzed and and and scalable.
+
+Unknown speaker 45:07 
+And then it has it has a body, the body are uh these these elements that I just that I just showed you, they are uh again parallel and nested, so so many of these things are activated at different scales.
+
+Unknown speaker 45:19 
+Uh so so it is it is this kind of multi-scale architecture.
+
+Unknown speaker 45:22 
+And one of the things that it does and so so here that I'm running out of time, so I'm not going to go through all of the all of the architecture, but there will be a paper um uh Dugan Dugan Camera writing a paper on this on this soon, that uh what it's actually doing is infotaxis.
+
+Unknown speaker 45:35 
+It's searching for more information by doing experiments, it tries to do the most informative experiment to give it uh the best way to revise its priors and to learn about the world that it lives in.
+
+Unknown speaker 45:49 
+That world is the world of uh morphogenesis.
+
+Unknown speaker 45:52 
+It's the world of uh behavior shaping cues that uh that have particular results in in anatomy.
+
+Unknown speaker 46:00 
+And so, um I just want to um I want to uh point out um something interesting that um
+
+Unknown speaker 46:06 
+this again to go go back to this uh going back to this idea of uh of doing experiments and revising your um revising your picture of the world, this system it does that at at at multiple scales.
+
+Unknown speaker 46:23 
+So at one scale, it has hypotheses about the biobots, the xenobots in particular that it's building and it revises those, but even the subsystems within that robot have their own proprioception loop.
+
+Unknown speaker 46:35 
+So for example, this thing and unfortunately there's a video that should be playing here that um seems to not be playing.
+
+Unknown speaker 46:40 
+Uh, but there's a uh there's a pipet that comes down, grabs these plastic um uh the the the disposable plastic pipet ends and so that it can trans uh trans uh transport xenobots from one well to another or chemicals in and out of the solution.
+
+Unknown speaker 46:59 
+It has sensing through that tip, right?
+
+Unknown speaker 47:07 
+It it's actually able to know whether that tip is touching liquid or not, right?
+
+Unknown speaker 47:12 
+So there's a there's a sensing mechanism and there's a there's an internal loop that will adjust its its own behavior depending on what it touches.
+
+Unknown speaker 47:21 
+So just like we have large scale goals and then we have sort of smaller loops within us that can uh that can guide our behavior when you reach out and balance uh you know, balance objects and so on.
+
+Unknown speaker 47:30 
+There are there are nested uh proprioception loops inside of this large scale um you know, large scale operation.
+
+Unknown speaker 47:40 
+So, so we're we're incredibly excited about this because because not only is it um going to help us understand how to make uh and how to communicate with xenobot materials, it is also I think a model system for uh creating uh a kind of uh exploratory uh AI system.
+
+Unknown speaker 47:50 
+So, so here are some next steps.
+
+Unknown speaker 47:55 
+Uh first of all, of course, we're going to be using it to develop new kinds of xenobots and that's that's kind of the immediate next agenda.
+
+Unknown speaker 48:00 
+One thing you might think about is um adding a kind of uh curiosity metacognitive loop where it should find new problems to solve, not just solutions.
+
+Unknown speaker 48:05 
+So what it's doing right now is we as the users ask for bots that have specific properties and then it tries to figure out how would I make a bot to do that, right?
+
+Unknown speaker 48:10 
+So bespoke um synthetic living machines, it tries to solve our problems.
+
+Unknown speaker 48:17 
+In the future, there should be uh components added for creative exploration where it can pose its own problems and actually say, you know what would be interesting is a bot that does this and this and this.
+
+Unknown speaker 48:30 
+Right?
+
+Unknown speaker 48:40 
+And and finally, what I think would be really interesting is uh to enable this system to actually communicate with the bots and find out what they want.
+
+Unknown speaker 49:04 
+And what I mean by saying what bots want is the following, you can easily imagine the system where let's say you have a some kind of cell culture system and there's instrumentation that monitors metabolic um stress and other behaviors.
+
+Unknown speaker 49:10 
+And when the cell the cells could learn to activate specific behaviors to get nutrients, to get the machine to put more nutrients into the system, right?
+
+Unknown speaker 49:17 
+They already have this for plants, they have a thing that kind of waters plants when they ask for it and so you can you can sort of learn to run parts of your world to uh to to help you achieve achieve goals.
+
+Unknown speaker 50:00 
+I think um the
+
+Unknown speaker 50:01 
+the uh the the future impacts of this is going to be along
+
+Unknown speaker 50:04 
+three basic uh tracks.
+
+Unknown speaker 50:06 
+First, just the obvious thing is useful synthetic living machines, so in the body repair, environmental cleanup, exploration, maybe space, you know, those those kinds of things.
+
+Unknown speaker 50:16 
+Then, then the the the second thing, the more long-term thing is this, uh really um uh robot science to help crack this morphogenetic code.
+
+Unknown speaker 50:33 
+How do we communicate with groups of cells to regenerate after injury, to repair birth defects, to uh normalize cancer cells and and all of that.
+
+Unknown speaker 50:44 
+Uh really to to try to um help us develop this anatomical compiler, right?
+
+Unknown speaker 50:47 
+So this is this is I think the future of science is embodied AI to help us crack these kinds of problems.
+
+Unknown speaker 50:53 
+But also very important is something something quite different, which is the use of this system to communicate with unconventional minds to help us.
+
+Unknown speaker 51:08 
+So this is the diverse intelligence uh research program to help us recognize very alien kinds of minds that
+
+Unknown speaker 51:12 
+I think exist all around us to uh
+
+Unknown speaker 51:13 
+actually join with them to be parts of collaborative aligned cooperative uh systems.
+
+Unknown speaker 51:17 
+Um uh and and and actually be be be part of it.
+
+Unknown speaker 51:31 
+And one way to one way to look at this is not just as the automation of discovery, not just as uh an anatomical compiler, but the Mombo platform as a communication node, as a sort of um a bow tie node in between human scientists and the cellular collective intelligence, right?
+
+Unknown speaker 51:38 
+One way to look at this is as a translator interface, but it's not a passive translator interface, it itself is an active intelligence, and this idea of having um AIs and in general nested cognition that becomes interfaces between other cognitive systems, I think is very powerful.
+
+Unknown speaker 51:47 
+And and it particularly is critical because of the need to develop an ethical symbiosis.
+
+Unknown speaker 52:01 
+We are going to have to I I think if we are move forward as a as a mature society, we are going to have to learn to relate to these radically different kinds of minds.
+
+Unknown speaker 52:07 
+So, um, I'm going to I'm going to wrap up here and just uh remind us of the main points that I tried to transmit.Morgan's Canon, which is basically this idea that you should uh always skew low on on uh uh essays of of intelligence for whatever you're looking at, you should assume it's a dumb mechanical system.
+
+Unknown speaker 52:32 
+Uh I I think it's an off-ramp for science and engineering.
+
+Unknown speaker 52:32 
+I think it's really limiting in biology and bioengineering and biomedicine.
+
+Unknown speaker 52:32 
+I I think it's a big mistake to do that as opposed to developing tools that allow you to guess correctly.
+
+Unknown speaker 52:33 
+skew low but guess correctly.
+
+Unknown speaker 52:34 
+I think there's a
+
+Unknown speaker 52:35 
+really profound symmetry between the
+
+Unknown speaker 52:37 
+cognition of agents and the process of science.
+
+Unknown speaker 52:40 
+So the process of discovery of the self, of the world, and how you enlarge your perspective upon new minds and and to actually collaborate with those new minds to enlarge your perspective.
+
+Unknown speaker 52:51 
+And I think now we can develop tools to rigorously define uh what actually exists on that spectrum of persuadability that I showed you on that on that cognitive spectrum, to communicate to them via novel interfaces, be they bioelectric, biomechanical and you know, things we haven't even we haven't even uh thought of yet.
+
+Unknown speaker 53:09 
+Um, and then and then to develop new ways to uh to to relate to them because I think that uh AI, A-life and the understanding of agent materials is is really the future.
+
+Unknown speaker 53:20 
+So I'm going to um end here by uh doing the most important part, which is to thank all the people who did the work.
+
+Unknown speaker 53:30 
+And so here are the uh the the the the postdocs and grad students and everybody else who did the work.
+
+Unknown speaker 53:50 
+Um, in particular for uh for that last part of today, I want to really thank um uh my uh my close collaborator Josh and his whole lab, like this is this is his team, all the people that have worked on the um on the cognitive side of of of Mamba, um Boston engineering who are um the company that that helped us build all of these things and their team.
+
+Unknown speaker 54:08 
+Uh uh Doug of course uh in his new lab.
+
+Unknown speaker 54:13 
+Um, lots of uh lots of funders in the past that have supported various efforts, but Crel in particular, um, has that has really um funded us to make this this this uh quite expensive uh engineering effort.
+
+Unknown speaker 54:22 
+Um, and uh uh shout out and and disclosures of of three companies that I want to mention.
+
+Unknown speaker 54:34 
+So Fauna Systems is our partner for taking forward the actual Xenobot technology, so whatever it is that Mamba discovers.
+
+Unknown speaker 54:40 
+Um, astonishing labs, which are supporting us for the study of um uh different kinds of uh cellular intelligence and bio-inspired AI and many things like that.
+
+Unknown speaker 54:57 
+And uh Softmax as well and you heard from from Adam Goldstein, you know, this this business of of aligning parts and in particular uh alignment between uh artificial um systems and humans, I think is incredibly uh incredibly important for us going forward.And a huge shout out to Marty Schwalm, uh the amazing engineer who made the robot through which I'm giving this talk today.
+
+Unknown speaker 55:04 
+Thanks so much, Marty.

@@ -1,0 +1,8 @@
+"Concepto","Qué es","Ejemplo"
+"Cadena de Markov","Modelo de cómo cambias entre estados con probabilidades","Tus estados mentales: T→E→C→F con probabilidades específicas"
+"Matriz P","Tabla de probabilidades de pasar de un estado a otro","P_{TE} = 0.4 significa 40% probabilidad de pasar de Tranquilo a Energético"
+"Trace","Matriz más pequeña cuando eliminas estados que un observador NO puede percibir","Si no puedes percibir ""Cansado"", tu matriz solo tiene T, E, F"
+"Renormalización","Ajustar probabilidades para que sumen 1 después de eliminar estados","Si eliminas C, redistribuyes su 20% entre los estados restantes"
+"Time Dilation","Observador con trace más pequeño cuenta menos transiciones → tiempo más lento","A cuenta 20 ticks, B solo cuenta 16 → reloj de B corre 80% de la velocidad de A"
+"Commute Time","Pasos promedio para ir de estado i→j→i","De Tranquilo a Enfocado y regresar: 5.8 pasos promedio"
+"Length Contraction","Distancias medidas más cortas en trace","B mide distancia T-F como 2.07 vs 2.41 para A"

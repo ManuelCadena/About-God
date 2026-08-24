@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Google OAuth Redirect</title>
+</head>
+<body>
+    <h1>Test Google OAuth - Método Redirect</h1>
+    <p>Este método usa redirección directa a Google.</p>
+    
+    <a href="https://accounts.google.com/o/oauth2/v2/auth?client_id=<REDACTED_GOOGLE_CLIENT_ID>&redirect_uri=https://logoilab.com&response_type=token&scope=openid%20email%20profile&include_granted_scopes=true&state=pass-through%20value">
+        <button style="background-color: #4285f4; color: white; border: none; padding: 12px 24px; border-radius: 4px; font-size: 16px; cursor: pointer;">
+            Sign in with Google (Redirect)
+        </button>
+    </a>
+    
+    <script>
+        // Capturar el token si regresa
+        window.addEventListener('load', function() {
+            const hash = window.location.hash;
+            if (hash.includes('access_token')) {
+                console.log('Token recibido:', hash);
+                alert('Login exitoso! Token en la URL y consola.');
+            }
+        });
+    </script>
+</body>
+</html>

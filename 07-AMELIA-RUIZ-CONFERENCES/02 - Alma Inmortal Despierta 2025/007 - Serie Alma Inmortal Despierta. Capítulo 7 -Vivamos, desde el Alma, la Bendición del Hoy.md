@@ -1,0 +1,61 @@
+# Serie Alma Inmortal Despierta. Capítulo 7 "Vivamos, desde el Alma, la Bendición del Hoy"
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=_1gbvaPN-YA
+- **Duración:** 11.6min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 7
+
+## Transcripción
+
+Buenos días, hermanitos. Hola, hola, buen día. Buen día, buen día.
+
+E no le parece hermoso saludar a al día que en que uno amaneció, que amaneció otro día y así todos los días decir, hoy bendito sea el día de hoy, bendito seas hoy. Eh, y yo estar vivo en en este día.
+
+Voy a hacer lo que más pueda en este hoy. Eh, para Pitágoras es todo una ley el hoy, la ley del hoy. Y este dice, "Si uno se circunscribiese solo al hoy, todo le sería posible.
+
+Lo que pasa que un problema lo proyecta en el tiempo y m dice esto más y es una enfermedad.
+
+¿Cuándo será que termine? Por ahí te dicen tres meses. Ay, chalay. Después cuando eh alguien parte dice, "Uy, el duelo dura 2 años o dura 3 a." Eh, para la filosofía pitagórica, uno maneja el tiempo, puede convertir 5 minutos en 5 años, 5 días, 50 años, en lo que uno quiera.
+
+Eh, las cosas no se resuelven en un tiempo determinado, se resuelven cuando uno creen que se va a resolver. Por consiguiente, eh no sé si les parece, si lo reflexionan y están de acuerdo, eh no nos dejemos eh diseñar con el tema de los tiempos eh y los plazos. Eh, esto lleva, no sé, 5 meses para que se efectivice y yo pienso, lleva el tiempo que Dios quiera. Puede ser en lugar de 5 meses, 5 años, pero puede ser 5 días que se precipite el bien y cuando Dios lo disponga, no cuando un ser humano lo disponga, aunque sea bueno, aunque sea yo misma, yo quién soy, qué sé si me encuentro con una pared y sé que hay detrás, qué sé. Los tiempos son de Dios.
+
+Nunca nos dejemos guiar por plazos humanos, hermanitos queridos, si le parece. Y habíamos empezado a hablar del hoy, eh, y digo, hoy quiero despertar mi almita y no sé si mañana, pero hoy sí, hoy y solo por hoy. Y este le digo, Almita, usa mi cerebro, usa mis manos. Usa mis ojos para ver a tus amados, para reconocerlos por encima de los trajes carnales que traen puestos. Aprende a reconocerlos. O sea, yo enséñame, perdón, ella sabe. Enséñame a reconocerlos. Al cerebrito le tiene que enseñar.
+
+A veces la pareja fue un hijo de un tiempo pasado y bueno, yo ahora a lo mejor le pido cosas que si no terminó bien de cerrar la encarnación que tuvo conmigo de hijo, es como que no se da cuenta de lo que yo le pido y se sigue comport portando como si fuese hijo. Y entonces uno puede decir, "Ay, caramba, yo no soy tu mamá." Bueno, no lo soy. Un baile de disfraces, hermanitos, a veces son los roles humanos y los papeles que me pongo en esta vida, pero tengo que saber captar lo que hay más adentro y más allá de la apariencia.
+
+Entonces digo, "Ah, ¿qué estoy pidiendo?
+
+Que se ubique cómo." Entonces digo, suponiendo, a ver, ya que me salió ese ejemplo, lo continúo. Digo, por ejemplo, yo le estoy pidiendo a alguien que se comporte como pareja y no como hijo. Entonces digo, "A ver, ¿cuál es la verdad?
+
+se comporta como un hijo. Eso es escandaloso, ¿no? Pero no es deseable. Muy bien. Y vos creés que cumpla el rol que actualmente tiene, que es pareja, entonces cerra el rol pasado y entonces todos los días en el triángulo decirle, eh, me parece que yo fui tu mamá.
+
+Y me parece que me dio que te descuidé porque ahora me pedís, pero con total naturalidad, como si realmente fuese tu madre. Ahora tenemos la misma edad, aviso. Y digo, pero sabes que te voy a curar de aquello para que cerremos ese ciclo y se abra otro mejor y más perfecto que el anterior con el rol actual. Eh, y yo sé que va a haber un track, un antes y un después, y vos vas a decir, "No sé qué me pasó. Sentí como un track.
+
+y es como que me mira y como si recién me viese. Claro, pasó de rol, pero si yo no cerré, no le puedo pedir al otro que se comporte con el rol que le pusimos en esta vida. Porque si él todavía no concluyó el rol pasado porque yo no lo cerré, me va a pedir que lo cierre.
+
+Bueno, todo esto empezó con el hoy, ¿eh?
+
+Y tengo que me voy con el hoy a otros sitios, pero hoy, hoy lo que pueda, hoy con gusto, con alegría, hoy. Entonces, e este también este juego de los roles humanos, a veces podes reconocer en un hijo a un maestro.
+
+tuyo en otros tiempos a un papá y le decía, "Wow, o sea, qué raro. Pero en este en esta soy su madre, no es mi padre, me tiene que obedecer, pero cerrá el anterior, porque si se estás comportando como si fuese tu padre, no te ves como madre, ni te reconoce, ni te respeta como madre, es ve la verdad y admitila. ¿Les parece eso de ver, aceptar para después transformarse? Hay que ver la verdad. Y entonces dio, "Ah, bueno, se ve que fue mi padre. Vaya a saber cómo me comporté, cómo se comporta ahora." y medio groserito y un poquitito impositivo, un poquito autoritario. Y entonces, ¿cómo será que yo me comporté si fue mi padre? No sera exactamente igual, groserita, impositiva, autoritaria. Entonces voy al triángulo, digo, "Perdón, perdón, perdón, perdón.
+
+Te estás comportando como si fuese mi padre, no mi hijo. Y eso me descoloca. Pero quizás es porque yo no sé ser madre todavía. Claro, no he terminado un rol pasado de hija. Este baile de disfraces no está fácil, pero tengo que Pero dice Pitágoras, la verdad se ve, basta que la observe.
+
+No tengo que ser intuitivo, clarividente, no solamente observador y admitirlo. La verdad, cómo se comporta y cómo se cómo se comportaría un padre autoritario, impositivo, grosero. Y entonces yo, pero hijo, entonces me voy a cerrar ese rol así simple, sin hacer un escándalo.
+
+Parece que fuese engorroso. No, nada es engorroso, todo es simple. Se requiere que pida perdón.
+
+Este, claro, fui desobediente, fui rebelde, fui, sin duda lo que ahora me despierta, pero quiero ser una madre amantísima, ¿sí? Protectora, sí. Bondadosa, sí. Pero por eso tengo que cerrar ciclo anterior y necesito publicarlo a alguien, no solo hago el triángulo Diosito, arriba siempre mi corazón, el corazón del otro, un triángulo y digo, bueno, cierro ciclo pasado para poder entrar en este y que de golpe haga así, me despierte y diga, hijo, por Fin. Soy tu madre. Me desperté al rol y espero que te despiertes al tuyo.
+
+Espero haber cerrado contigo en eh un tiempo que no cerré.
+
+Aprovechemos el hoy. Aprovechemos el vivir, hermanitos queridísimos.
+
+Aprovechemos con toda la alegría y la reverencia que merece la vida.
+
+Abracitos y estamos juntitos.
+
+Abracitos. Los cuide, los proteja, los bendiga. Nos cuide, nos proteja, nos bendiga y nosotros nos sintamos así.
+
+Chao, hasta el próximo ratito. Chao.

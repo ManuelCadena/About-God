@@ -1,0 +1,2101 @@
+ 
+ 
+
+Unknown speaker 00:00 
+I look forward to
+
+Unknown speaker 00:01 
+I to to a class in school where the young kids learn about us the way that we learn about cavemen when we read that oh my god, you know, you used to step on a sharp stick and get sepsis and die and that was the end of that.
+
+Unknown speaker 00:12 
+And and they would learn about us and they would say,
+
+Unknown speaker 00:14 
+wait a minute, you're telling me these people, they they would have to live their whole life in whatever body they randomly got at birth.
+
+Unknown speaker 00:34 
+So they just got, you know, some some random cosmic ray would hit their would hit their embryonic cells and they would be crippled or they would have, you know, whatever their limitations of IQ or whatever, they would just have to stay in that body and and there was nothing they could do about it.
+
+Unknown speaker 00:43 
+And they would, you know,
+
+Unknown speaker 00:44 
+they would they would have to kill other things to eat just to survive.
+
+Unknown speaker 00:50 
+These are all crazy.
+
+Unknown speaker 00:51 
+These are a mature species shouldn't be shouldn't be doing any of this.
+
+Unknown speaker 01:04 
+And and I feel like if, you know, in in the future when they look back, this is going to seem ridiculous.
+
+Unknown speaker 01:08 
+It's going to seem crazy that that that uh that our lives and the and the meaning and the and the achievements of of our lives would be limited to things that we had absolutely no control over because we didn't know what to do.
+
+Unknown speaker 01:14 
+We didn't, you know, the saddle seem to poop out after after 80 or 90 years, we don't know what to do.
+
+Unknown speaker 01:15 
+And and that's and that's it.
+
+Unknown speaker 01:15 
+That's just that's just how that's how we were born and that's how we stayed.
+
+Unknown speaker 01:18 
+I I, you know, to to me this is going to this is going to seem the kids aren't even going to believe that this is how we lived our lives.
+
+Unknown speaker 01:40 
+So hello everyone.
+
+Unknown speaker 01:42 
+Uh, I am here with uh John Verveki that all of you know very well, but I'm also here with Michael Levin.
+
+Unknown speaker 01:47 
+It is the first time that I meet him.
+
+Unknown speaker 01:54 
+For years now, people have been telling me, you have to talk to Michael, you have to talk to him, you have to talk to him.
+
+Unknown speaker 01:55 
+And so finally, uh, with John's help, we were able to connect and uh, hopefully we can have a uh productive discussion.
+
+Unknown speaker 02:02 
+Michael runs a research uh lab at Tufts University.
+
+Unknown speaker 02:15 
+He's doing some really amazing things that we're going to talk about obviously in the podcast and that connect to obviously to the things that John and I care about.
+
+Unknown speaker 02:16 
+So Michael, thank you for accepting this.
+
+Unknown speaker 02:17 
+Yeah, thank you.
+
+Unknown speaker 02:23 
+It's very nice to meet you and um yeah, John and I've had many conversations and he said I should come on, so uh yeah, let's do it.
+
+Unknown speaker 02:24 
+Yeah.
+
+Unknown speaker 02:24 
+Yes.
+
+Unknown speaker 02:25 
+All right, so I mean, I think we could maybe start in maybe you can explain briefly what it is that you do, especially in some ways, you know, what are the things that you're bringing to the table that are that have been surprising in terms of the system that you're discovering and that you're implementing on the on the biological world.
+
+Unknown speaker 02:42 
+Yeah, well, uh, there's there's kind of many ways to describe it.
+
+Unknown speaker 02:43 
+Uh, I think I think I'll try this one for today.
+
+Unknown speaker 02:48 
+Um, if if if you if you look from the outside at what it is that my group does and and I run the Allen Discovery Center at Tufts University and uh, we have applications that range across birth defects, regenerative medicine, meaning um trying to repair really drastic injuries and the aging and things like that.
+
+Unknown speaker 03:05 
+Um, we we we do we have applications in cancer, in bioengineering.
+
+Unknown speaker 03:09 
+And so, so one way to look at this as it's really pretty, pretty normal science, you know, we publish in all the normal um scientific journals, uh all all all that is is that that aspect of it is conventional.
+
+Unknown speaker 03:22 
+But one of the interesting things that uh I think uh is an unspoken assumption in that work in general in the in the community is that uh there's a certain set of formal models and these formal models come from uh chemistry, they come from um some some math and some physics.
+
+Unknown speaker 03:30 
+And there's this notion that those formal models, specifically formal models that people associate with mechanisms or machine-like processes, right?
+
+Unknown speaker 03:34 
+And so, well, we'll have to define that word, but but fundamentally it's defined by a set of structures like, you know, things around touring um you know, touring machines and these these tools of computation.
+
+Unknown speaker 03:58 
+The idea is that those kinds of things are going to be sufficient for the life sciences.
+
+Unknown speaker 04:03 
+So this idea that if that those formal models, they've done great for us in physics, they've done great for us in engineering and and all of that.
+
+Unknown speaker 04:04 
+And that if we just keep using those those kinds of models, uh, we are going to get what we're looking for in the life sciences, which is to understand where we come from and why, and then more importantly, than just explaining the stuff that's already happened, is facilitating the research going forward and really gaining control of our embodiment and and repairing all these horrible afflictions that that that plague uh living living uh systems.
+
+Unknown speaker 04:35 
+And so, one of the things that I'm fundamentally interested in and and this has been kind of the central point of my of my career is understanding embodied minds.
+
+Unknown speaker 04:59 
+So for me, I I want to very much help patients, that's for sure, but but also the the the way we use things like uh regenerative medicine and bioengineering and so on, is as model systems for testing our approach to various very ancient
+
+Unknown speaker 05:00 
+philosophical questions.
+
+Unknown speaker 05:01 
+So there are some really deep questions about what it means to be a mind in the physical universe, how minds can be composed of parts, so collective intelligence, that kind of stuff.
+
+Unknown speaker 05:09 
+Mhm.
+
+Unknown speaker 05:10 
+So, so, so my my claim is that uh you can't just decide that chemistry and those kinds of formal models are the right way to go.
+
+Unknown speaker 05:18 
+You have to do experiments and you have to in fact uh consider what you might be missing with those models and try other other tools that we have in our toolbox to see if they might actually be more appropriate.
+
+Unknown speaker 05:28 
+Some of those tools come from behavioral science, right?
+
+Unknown speaker 05:31 
+And so then what we do is apply some of these things that are typically used with brainy animals or you know, the the subjects of behavioral science, and we find and we find that, hey, wait a minute, actually those tools give you some really good advantages in dealing with molecules and with cells, with molecular networks and even with some really weird things that that that we can talk about that aren't even even that even stranger than that.
+
+Unknown speaker 05:53 
+And so that starts to open up some really fundamental questions about how how we've been thinking about cognition, intelligence and how far to you know, how far of in in terms of diversity of embodied minds can we go.
+
+Unknown speaker 06:06 
+So that's what that's what my group does is is is it seeks to understand different ways to uh uh address our mind blindness and what I think of as our very limited ability to see other beings that are not like ours, that are not like us.
+
+Unknown speaker 06:20 
+So maybe you can tell people just a little bit about the results that you've been having, you know, some of the experiments you've been that you've been running and that you've been, I mean, that are giving measurable results that are at least to me when I first started seeing them just completely astonish me.
+
+Unknown speaker 06:32 
+I couldn't believe some of the things that I was seeing.
+
+Unknown speaker 06:36 
+If you give some examples of how that that lands in practice and that it'll help people understand why, why this is so important.
+
+Unknown speaker 06:42 
+Sure, sure.
+
+Unknown speaker 06:43 
+I'll yeah, I'll I'll mention a few things.
+
+Unknown speaker 06:44 
+Um one one important thing to put this all this in context is that there's a there's a there's a certain game that that tends to get played, which is that we will we we have discovered something and I describe it and then people will say, well, that's consistent with chemistry and physics, that doesn't prove anything.
+
+Unknown speaker 07:02 
+And so my let me be very clear about my claim.
+
+Unknown speaker 07:09 
+My claim is not that we've discovered some sort of magic underneath that is inconsistent with physics, that is not what I'm saying in the slightest.
+
+Unknown speaker 07:17 
+What I'm saying is the reason that you're that people are saying this now after we've discovered the thing that wasn't discovered before is that it's not just this the the the the task here is not to just uh find consistency when somebody does something new, the thing is to find new frameworks that help you find the new thing.
+
+Unknown speaker 07:30 
+backwards and say, well yeah, I suppose I could tell a biochemical story about this, of course you can, it's not going to be fairies underneath, it's always good, if you want to look underneath and tell a biochemical story, you always can.
+
+Unknown speaker 07:39 
+But but the question is why didn't that biochemical story get you to this discovery and and what other stories are needed to add to our toolbox.
+
+Unknown speaker 07:46 
+So, so okay, so so some some simple things that that we found.
+
+Unknown speaker 07:51 
+Uh one one of the big things that we've been studying is how memories exist uh in all kinds of living uh material uh that that is not brain.
+
+Unknown speaker 08:01 
+And so what we've discovered, for example, is that uh the standard picture of morphogenesis or embryonic development or regeneration, so basically cells getting together to build complex structures, is that the standard version of okay, the cells follow simple rules and we all know there's there's systems where if you follow a bunch of simple rules, something very complex will happen.
+
+Unknown speaker 08:21 
+That's kind of a and people call this emergence, this feed forward process, you sort of turn the crank and something emerges.
+
+Unknown speaker 08:27 
+Well, we found out that uh sometimes that's what's happening in biology, but other times, there's a very specific uh goal directed process.
+
+Unknown speaker 08:36 
+And when when I say goal, I don't mean human level purpose as in I know what my goal is, I don't mean that, I mean goal in the uh sense in which your thermostat has goals or your self-driving car has goals or a guided missile has goals.
+
+Unknown speaker 08:47 
+In other words, there's an error minimization loop where the system represents uh some kind of a state and it has different degrees of ingenuity to get to that state even if things go wrong or something get things change or whatever.
+
+Unknown speaker 08:59 
+So, so we found that biology actually uh stores set points or or morphological goals and uh we can rewrite those goals and that cells are basically a collective intelligence, not not just your neural cells, like we all know that's a collective intelligence that that helps make you, but but all cells can make a collective intelligence that can reach certain kinds of goals.
+
+Unknown speaker 09:09 
+And you can rewrite those goals, which is amazing because what we found is that those goals are encoded bioelectrically, looking backwards, not such a shock because, you know, this is how how our brains work, turns out that's a much more ancient system.
+
+Unknown speaker 09:21 
+So, so you so we can do things like we um you take a flatworm and if and the flatworm is regenerative, so you cut it into pieces and every piece makes one head, one tail, very reliably, and you get your you get your worm back.
+
+Unknown speaker 09:34 
+So, it turns out that if you look, there's a um uh there's a bioelectrical memory in the tissues that tell you how many heads a worm is supposed to have, and we can rewrite that memory without touching the DNA, this is not about the hardware, this is not about the genetic hardware, this is about the the the the memories that
+
+Unknown speaker 10:00 
+guide the problem solving intelligence of the cells and you say to those cells with a with a um interface that we worked out.
+
+Unknown speaker 10:03 
+No, actually a real a good worm should have two heads and then guess what they build, they build two heads and now now it's super cool, you can cut it into pieces and those pieces will forever, as far as we can tell, it's been what 20 years that we've been doing this.
+
+Unknown speaker 10:09 
+Uh those pieces will continue to make two-headed worms.
+
+Unknown speaker 10:21 
+Oh, so if you have a two-headed worm and you cut that one into two, then the the part will continue to make two-headed worms.
+
+Unknown speaker 10:28 
+Correct, that that lineage, you have now made a lineage of two-headed worms that will forever be two-headed worm.
+
+Unknown speaker 10:33 
+And by the way, uh if you sequence it, genetically sequence it, you will be none the wiser about it because you we haven't touched the genome, the genome is completely normal.
+
+Unknown speaker 10:44 
+You're right?
+
+Unknown speaker 10:45 
+So it's invisible to the standard methods of of of molecular genetics.
+
+Unknown speaker 10:45 
+So, um so so we can do that, we can we can alter these kinds of things in software as it were.
+
+Unknown speaker 10:50 
+We've shown that um certain kinds of birth defects and this is in animal models, this is not in in humans yet, but we're going hopefully to the clinic at some point.
+
+Unknown speaker 11:00 
+Um we can repair certain really nasty kinds of birth defects by reminding the cells, again through this bioelectric interface, reminding the cells what is the pattern that they're supposed to be building.
+
+Unknown speaker 11:10 
+So so we can override certain kinds of birth defects, we can create new organs where they don't belong, so we've made tadpoles with eyes in their guts and things like this, where you can say to the cells build an eye.
+
+Unknown speaker 11:21 
+And this is important, when we do this, we don't micromanage the genes, we don't micromanage the cells, we figured out a message that says build an eye here.
+
+Unknown speaker 11:30 
+And the reason that works is because we're dealing with an agental material.
+
+Unknown speaker 11:31 
+whether it's a material that I don't have to be as an engineer, I don't have to be in charge of everything, it has competencies, all I'm doing is plugging into those competencies and I and and if I if I can speak the language that it understands and if I'm convincing, because that's a key part of this, you have to convince the material.
+
+Unknown speaker 11:41 
+This is not you it it it you know, there's ways that it will ignore you, if you do it wrong, it'll ignore you.
+
+Unknown speaker 11:53 
+So you have to be convincing and then you say build an eye here, that's what it'll do, it'll build an eye.
+
+Unknown speaker 11:57 
+We've done we've done uh normalization of cancer.
+
+Unknown speaker 12:00 
+So injecting nasty human oncogenes into uh into uh the the frog model, normally they make tumors, uh basically a dissociative identity disorder of this collective intelligence, so we could talk about what I mean by that, but but you can you can reverse that by artificially forcing the cells into a particular bioelectrical state.
+
+Unknown speaker 12:09 
+And then you've normalized the tumor, the cells will go on to do normal, build healthy organs and do normal things, even though the um uh the the onco protein is blazingly strongly expressed.
+
+Unknown speaker 12:19 
+And I guess the final thing I'll mention, we we've done induction of regeneration, so allow um animals that don't regenerate to grow their legs back.
+
+Unknown speaker 12:30 
+And uh we've made some some synthetic life forms that are made of living cells, but in a form and function that has never existed on earth before.
+
+Unknown speaker 12:49 
+These are these are some of the things that that we work on.
+
+Unknown speaker 12:50 
+Yeah, and so I mean, this is to me, it's it's uh it's amazing.
+
+Unknown speaker 12:59 
+I mean, it's amazing in the sense that this this idea that because we are and so we have to get to the right terminology.
+
+Unknown speaker 13:02 
+And so you you use the word memory, okay?
+
+Unknown speaker 13:14 
+Uh and when you mean what you mean by memory and you relate the the notion of memory to to purpose, right?
+
+Unknown speaker 13:19 
+Uh like there's a goal and then there's a that goal produces a memory because we always think of memory as something in the past, but I keep telling people that actually a goal is a type of memory because you're always aligning yourself towards that goal.
+
+Unknown speaker 13:31 
+You have to remember what you're doing, you know, as you're moving towards towards the goal.
+
+Unknown speaker 13:38 
+Is that what you mean when you use the word memory?
+
+Unknown speaker 13:59 
+Well, um I I agree with everything you just said, uh uh a goal I do think is is a kind of memory that looks into the future, but there are there are other kinds of memory, there are many different kinds of memory and there are other kinds of memory that don't involve goals, right?
+
+Unknown speaker 14:11 
+So there's habituation, uh sensitization, they're very simple kinds of memories that are not forward looking like that.
+
+Unknown speaker 14:19 
+But but but memory is a requirement I I think for for significant goal directedness, you have to remember what your goal is, otherwise, otherwise it's not going to happen.
+
+Unknown speaker 15:00 
+Until that goal is satisfied, the cells are going to work really hard.
+
+Unknown speaker 15:02 
+They're going to keep working like your thermostat, they're going to keep working until the error is within acceptable, you know, bounds.
+
+Unknown speaker 15:08 
+So, so we see that pattern that says one head, one tail, and we figured out a way to rewrite it.
+
+Unknown speaker 15:13 
+And so we go in and we rewrite it and we say two heads.
+
+Unknown speaker 15:16 
+And and my ultimate goal the ultimate goal of the regenerative medicine side of of the lab is to be able to write any pattern you want.
+
+Unknown speaker 15:23 
+So complete freedom of embodiment.
+
+Unknown speaker 15:24 
+So so first to rewrite all the normal human patterns.
+
+Unknown speaker 15:27 
+So you've lost a finger or you've lost an eye or you need a new liver or whatever whatever it is.
+
+Unknown speaker 15:32 
+Here's the pattern that will make the cells grow that for you from scratch every time.
+
+Unknown speaker 15:37 
+That's that's the goal.
+
+Unknown speaker 15:44 
+And then ultimately to be able to say new patterns, you know, five fingers is good and all that, but what if I wanted something else, right?
+
+Unknown speaker 15:53 
+So ultimately you could have whatever.
+
+Unknown speaker 15:54 
+But that's that's the idea to be able to communicate your goals to the collective intelligence of the cells in a way that they will then build whatever you want them to build.
+
+Unknown speaker 15:55 
+And so in this in this vision, the the genetics, they become a kind of like bound potential that the the these patterns are tapping into because I I imagine there's a limit, right?
+
+Unknown speaker 16:03 
+You can't you can't uh how can I say this?
+
+Unknown speaker 16:17 
+Like you can't make a worm, you know, grow wings, let's say, like you can't make a flat worm or maybe I don't know.
+
+Unknown speaker 16:21 
+I don't know how far it goes, but yeah.
+
+Unknown speaker 16:22 
+Yeah, that's a that's a good question.
+
+Unknown speaker 16:26 
+So so that's a good question.
+
+Unknown speaker 16:26 
+So so you're asking if the morphogenetic machinery is universal.
+
+Unknown speaker 16:27 
+And uh I I will I will I I we don't know yet.
+
+Unknown speaker 16:33 
+The real answer is we don't know, but but but I'll tell you what I think.
+
+Unknown speaker 16:37 
+Um, there is a fundamental problem which is that the hardware does constrain some things you can do.
+
+Unknown speaker 16:39 
+So for example, in the if in the planarian genome, there is no genes there are no genes that will make hard materials, right?
+
+Unknown speaker 16:45 
+So there's there's no there's nothing to make bone or you know, any of that stuff.
+
+Unknown speaker 16:49 
+You are no amount of bioelectrics is going to is going to make that thing grow up, you know, something that it doesn't chemically is not able to do.
+
+Unknown speaker 16:55 
+However, uh I maybe that's that we don't we're not sure, but I suspect that's a reasonable limit.
+
+Unknown speaker 17:01 
+However, other than that, my my strong suspicion is that uh it's universal.
+
+Unknown speaker 17:07 
+So if you wanted to have wings and you had the hardware, you were capable of making the molecules needed to for whatever your wings are supposed to have, I bet I bet you could have wings and a propeller and a what you know, whatever you whatever you want.
+
+Unknown speaker 17:19 
+As long as as the hardware is is important, but uh boy, I I I I don't think it is as limiting as people think it is.
+
+Unknown speaker 17:28 
+Hmm.
+
+Unknown speaker 17:30 
+Yeah, this is very it's this is very scary.
+
+Unknown speaker 17:31 
+I mean, it's it's exciting and it's scary, you know, uh, the
+
+Unknown speaker 17:38 
+so the the let I mean the thing that I'm interested in obviously is talking about patterns.
+
+Unknown speaker 17:44 
+So have you this type of of idea, like it does seem like it's something like a new like it's kind of platonic, it's it's kind of Aristotelian platonic, uh, you know, there's this
+
+Unknown speaker 17:54 
+you have a set of of bound potential that's quite malleable, you know, and then you have uh form, you have information that is that is in some ways calling it or
+
+Unknown speaker 18:06 
+helping it know where to direct its energy towards in what direction.
+
+Unknown speaker 18:10 
+Uh, and then that's creating this union between the pattern and the the embodiment.
+
+Unknown speaker 18:15 
+Like if you if you tried to put in a pattern that didn't that couldn't be realized.
+
+Unknown speaker 18:37 
+Let's say if you tried to force a good example again, like you said, you have if the the genetic structure can produce hard material and you tried to use some pattern or try to force a pattern on it, then it would just ignore it or it would it would just not work, like what would happen.Yeah, um, well, let's let's take a step back into the because because you you've you've opened a a very big kind of issue here with these platonic patterns.
+
+Unknown speaker 18:45 
+So, so look, uh, you know, if if we had done this a year and a half ago, I would not have been talking about this at all.
+
+Unknown speaker 18:58 
+you know, I I've been thinking about this stuff for decades and I had not broached the topic of platonic patterns until until this year.
+
+Unknown speaker 19:09 
+And that's because I think it is now actionable.
+
+Unknown speaker 19:13 
+In other words, it we've we're now to the point where we can actually make useful progress and it's time to test out some of those those ideas.
+
+Unknown speaker 19:18 
+And and the reason is, uh, among other things, is that when you, let's let's just let's just ask the question of where do these patterns come from.
+
+Unknown speaker 19:45 
+So, so we look at an early, you know, like like for example, um, uh, one thing that was discovered in my lab by Danny Adams years ago is this thing we call the electric face.
+
+Unknown speaker 19:59 
+And it's literally the fact that when you look, when you do the electrical profiling of an early embryo long before it has a face, okay?
+
+Unknown speaker 20:00 
+That's that's the standard answer.
+
+Unknown speaker 20:02 
+So, in the last few years, what we've done in our lab and other people have done relevant things too, but they just don't they don't sort of put it this way.
+
+Unknown speaker 20:10 
+Uh, we've made things like Xenobots and Anthrobots.
+
+Unknown speaker 20:26 
+These are um, living constructs that are made from standard cells, we do not touch the DNA, we don't put any synthetic biology, there's no scaffolds, the 3D printed anything.
+
+Unknown speaker 20:47 
+These are these are stock stock hardware, so standard cells.
+
+Unknown speaker 20:54 
+And what we found is that if you give them a chance to kind of reboot their embodiment, they make novel creatures that have new behaviors, new patterns of gene expression, new uh uh form, and new physiology and new capabilities that don't look like anything that they've that we've had in our in our evolutionary history.
+
+Unknown speaker 21:05 
+And they do this immediately out of the box.
+
+Unknown speaker 21:10 
+You don't need to train them to it, you don't need to force it, you know, people say, how did you make them?
+
+Unknown speaker 21:13 
+I say, well, all due respect to to the hard working scientists in our lab, we barely made them, they sort of make themselves.
+
+Unknown speaker 21:33 
+What we did is we facilitated some of these things to come forward.
+
+Unknown speaker 21:53 
+And so, so now it becomes time to ask a very simple question, do you want to be pessimistic, which I think it is this view is, which is the standard view, it's a very pessimistic view, which says, these are emergent phenomena, they're surprises that we didn't see coming.
+
+Unknown speaker 22:04 
+They come for they're just a random grab bag of facts that seem to hold in our universe, and when we come across them, we will write them down in our big book of cool emergence surprises and and that'll sort of be that.
+
+Unknown speaker 22:13 
+And then and then we have to and then we we, you know, at some at some point we'll find some new ones and and and that'll be great.
+
+Unknown speaker 22:24 
+Or, I think the more optimistic uh and and I can't, you know, I can't prove that this is correct.
+
+Unknown speaker 22:36 
+This is the metaphysics I prefer, the more optimistic view is what the platonist mathematicians do, which is they say, right, there are tons of these weird facts about numbers and shapes and so on.
+
+Unknown speaker 22:40 
+Um, but they're not a random grab bag of surprises, they they they are made by an ordered structure, they exist within an ordered structured space.
+
+Unknown speaker 22:46 
+We know that space is not the physical space because there's nothing you can do in the physical world to change Figenbaum's constant and the, you know, the value of E and all this stuff, you you can't change that from the physical world.
+
+Unknown speaker 23:00 
+It's a separate space of all these truths.
+
+Unknown speaker 23:06 
+And we can have and the reason I say it's optimistic is because once you posit that it's a structured space, you can have a research program to explore the space as the mathematicians do.
+
+Unknown speaker 23:16 
+You can you can you know, you can systematically go from one to the other and find out, find new ones.
+
+Unknown speaker 23:21 
+And so, so the model I'm proposing and I I'll send you guys if I haven't already, I'll send you a link to this where I'm organizing an um asynchronous symposium on the platonic space.
+
+Unknown speaker 23:32 
+And we have a bunch of computer scientists and mathematicians and I I I did the first talk on biology and and and so on.
+
+Unknown speaker 23:36 
+Uh, where we'll be talking about this this idea that uh there there is this structured space of patterns.
+
+Unknown speaker 23:40 
+Some of these patterns are the low agency things that mathematicians study.
+
+Unknown speaker 23:43 
+So you might say that mathematics is like the behavioral science of kind of simple inhabitants of that space.
+
+Unknown speaker 23:46 
+But some of those patterns, I I think, and this is kind of like a crazy, you know, sort of controversial claim that I wouldn't have made, you know, until recently, I I I I think that some of the more complex high agency patterns from the space are behavioral propensities, aka kinds of minds.
+
+Unknown speaker 24:06 
+I think that's what minds actually are, is that they're they're actually the the the inhabitants of that of that space.
+
+Unknown speaker 24:10 
+And so you get forms of uh forms that ingress into the physical world, some of these are shapes of of morphogenesis, some of these are behaviors, some of these are um gene expression profiles or physiological circuits.
+
+Unknown speaker 24:16 
+Could I say something?
+
+Unknown speaker 24:19 
+Go ahead.
+
+Unknown speaker 24:20 
+Yeah, yeah, yeah.
+
+Unknown speaker 24:21 
+Um, I I I I think uh I agree of course with what Mike's saying, Mike and I talked about this.
+
+Unknown speaker 24:24 
+I think there's a further argument.
+
+Unknown speaker 24:59 
+Mike isn't building this argument, but I'm building this argument.
+
+Unknown speaker 25:00 
+I think when he moved uh that biology into a platonic space or a neoplatonic space, the already existing convergences between his work and uh a lot of the work that's going on in for
+
+Unknown speaker 25:00 
+for e-cogsi and Mike is
+
+Unknown speaker 25:01 
+talking about kinds of minds now.
+
+Unknown speaker 25:03 
+So it's not inappropriate for me to do this.
+
+Unknown speaker 25:05 
+I think when you move into that neoplatonic space, you get a shared ontology that can bind that biology and that cognitive science together even more tightly in a mutually informative and mutually beneficial fashion.
+
+Unknown speaker 25:18 
+So some of the action on the ground isn't just going to show up biologically, it shows up in new ways and new things we can do when we're trying to understand the nature of cognition.
+
+Unknown speaker 25:27 
+And for me, that's a very exciting thing.And one of the things that shows you, I can, you know, Mike is talking about anomalies are building up and we'll just note these in our notebook.
+
+Unknown speaker 25:37 
+Well, Thomas Kuhn says, eventually the anomalies become systematic and then you make a paradigm shift and if the paradigm shift is fruitful, then it lives.
+
+Unknown speaker 25:44 
+And I think that's what we're on the cusp of right now.I think the anomalies have piled up too high.We're looking for a kind of systematicity and I think Mike is pointing towards that.
+
+Unknown speaker 25:54 
+And I think a lot of my work, uh, you know, coming out of 4E cogsi and embodiment, you know, it converges in some very, very powerful ways.
+
+Unknown speaker 26:04 
+And I and I and I don't think I'm forcing anything on Mike, you know, he's talking about collective intelligence, he's talking about levels, like, you know, he makes use of Eric Hole's work as as I do, that's that vertical dimension.
+
+Unknown speaker 26:16 
+Horizontally, he talks about the cognitive light cone, which is very overlapped, and he talks about in terms of care, which overlaps a lot with the work I do on predictive processing and relevance realization.
+
+Unknown speaker 26:27 
+He talks about memory in terms of agency where agency is expressed in terms of ingenuity, which is, are there multiple pathways from the initial state to the goal state and can the system access multiple pathways?
+
+Unknown speaker 26:38 
+Like all of this just goes like this.
+
+Unknown speaker 26:41 
+And for me, that is a powerful reason.
+
+Unknown speaker 26:49 
+I think it's I think it is a good epistemological reason to pursue you know, what Mike is calling the optimistic frame because the it's the potential to massively,
+
+Unknown speaker 26:56 
+like, imagine if we really, really wed, which I'm trying to do and I think Mike is trying to do, biology and cognition together in this way.
+
+Unknown speaker 27:05 
+I mean, then embodiment, look, look at the tunes that are becoming out here really powerfully, embodiment becomes not just a phrase, it becomes a deep ontological principle that explains so much.
+
+Unknown speaker 27:16 
+Or Jonathan, something like logos.
+
+Unknown speaker 27:20 
+Mike is talking about information patterns and you have to persuade and that makes things actualize in different ways.
+
+Unknown speaker 27:27 
+and so, uh, Mike, if you want to object anything, I'm saying, please feel free, but I think another argument, an argument I make by making use of Mike's work is, look, this has the potential, we have a convergence from 4E cogsi and Mike's take on biology, and they really overlap and reinforce a mutually like mutually afford insight.
+
+Unknown speaker 27:50 
+I think this is a powerful justification for pursuing this program, for for taking it as something plausible, something that should be taken seriously within scientific and philosophical domains.
+
+Unknown speaker 28:08 
+So I just wanted to add that as an additional argument.
+
+Unknown speaker 28:09 
+And that's why I am so excited about Mike's work.
+
+Unknown speaker 28:10 
+Yeah, no, that's great.
+
+Unknown speaker 28:11 
+I nothing for me to complain about there.
+
+Unknown speaker 28:12 
+Uh, the only the only thing I would I would add is um is just that uh at the at the end of right before that um Jonathan was asking about uh um, you know, what happens if you try to force the wrong pattern into the wrong embodiment.
+
+Unknown speaker 28:19 
+And I, you know, I I I I view everything we do in the physical world when we make the robots, cells, embryos, biobots, chimera, like whatever we make, I think these are interfaces.
+
+Unknown speaker 28:26 
+What we're making are the are the interfaces for these patterns.
+
+Unknown speaker 28:38 
+I don't think it's a matter of trying to cram the wrong pattern into the interface.
+
+Unknown speaker 28:41 
+I think they're in it's a weird way of putting it and I don't exactly know what it means, but I I my strong suspicion is that these patterns are kind of under positive pressure.
+
+Unknown speaker 28:54 
+In the sense that you don't need to do much to get them to come through.
+
+Unknown speaker 29:00 
+You make an interface, there they are.
+
+Unknown speaker 29:03 
+And and in fact, the key for us, I think, going forward as uh, if we're going to survive as a as a species, is to get much better than we are now about what patterns do you get when you make specific kinds of interfaces.
+
+Unknown speaker 29:09 
+We make, among other things, swarm robotics, we make social and financial structures, we and then never mind all the cyborgs and everything else.
+
+Unknown speaker 29:13 
+We make all these things, we have no clue what patterns we're picking up.
+
+Unknown speaker 29:23 
+And we may be picking up patterns that have never had embodiments and I I have a feeling that a lot of when we talk about AI and things like that.
+
+Unknown speaker 29:24 
+We're fishing in a pool that that maybe has never been embodied on this planet, maybe although I doubt it, but maybe nowhere in the universe.
+
+Unknown speaker 29:39 
+Um, you don't force these things in.
+
+Unknown speaker 29:48 
+You make an interface and then you better have some idea of what's going to show up as as my how I see it.
+
+Unknown speaker 30:00 
+to the physics, the ones that I care about.
+
+Unknown speaker 30:01 
+say Maximus the confessor, especially the notion of form.
+
+Unknown speaker 30:05 
+gets fused with the idea of logos and logos in the sense of reason, in the sense of purpose, right?
+
+Unknown speaker 30:10 
+And so the form is actually purpose driven, it's not just like a shape that doesn't have any it it actually is actually something that leads you towards purpose, which is when we talked about the idea of memory and of purpose, it really kind of lit me up.
+
+Unknown speaker 30:25 
+Uh, that these patterns, they're they're active, right?
+
+Unknown speaker 30:34 
+They they actively constrain reality towards the purpose that they that they pattern, you know, and so to me all of that makes sense.
+
+Unknown speaker 30:38 
+Um,
+
+Unknown speaker 30:40 
+it's it's it's important, right?
+
+Unknown speaker 30:43 
+Because that that's a very important point and in the in the talk, so so in that symposium I put up last night, I put up an hour and a half talk about this this the platonic space and biology.
+
+Unknown speaker 30:50 
+And I spend I spend 20 minutes of that specifically talking about these patterns being goal states and uh and not just uh, you know, here are the patterns that happen to show up.This is this is an actual goal state that a system that an intelligent system is pursuing.
+
+Unknown speaker 31:08 
+Yeah, Kevin Corrigan has made uh quite a significant argument about the ancient Greek notion of logos being understood much more like the way we talk about, you know, the system of constraints on feedback cycles within a dynamical system rather than just like connecting dots on a piece of paper, right?
+
+Unknown speaker 31:26 
+Now, I want to I want I want to I want to throw one potential fly in the ointment if I can.
+
+Unknown speaker 31:31 
+Uh, uh, just just just just because, um, I want to see what both of you say about this.
+
+Unknown speaker 31:37 
+Uh, and I you know, and I've been talking about this, I've been talk I was talking about this, um, uh, to Zevy Slaven about the work of a Jewish neoplatist called Ibn Gabral.
+
+Unknown speaker 31:49 
+Um, and and other people.
+
+Unknown speaker 31:50 
+And Whitehead too is this and and Mike, you used a Whitehedian term, so it's not you talked about ingression, right?
+
+Unknown speaker 32:03 
+Uh, now the thing, the thing that people often don't notice, uh, you know, Whitehead said he's a platonist and he is, but there's an inversion that's going on.
+
+Unknown speaker 32:08 
+And in terms of what classical platonism looks like, because at the top is form and form is pure actuality, and at the bottom is, it's pure potentiality.
+
+Unknown speaker 32:16 
+But when Whitehead talks about up here, he's talking about he's talking about possibility space and potentiality, right?
+
+Unknown speaker 32:29 
+That that gets loaded or ingress down to you used.
+
+Unknown speaker 33:00 
+Pauls
+
+Unknown speaker 33:00 
+out
+
+Unknown speaker 33:01 
+uh from,
+
+Unknown speaker 33:02 
+calls sort of causation up from,
+
+Unknown speaker 33:04 
+uh the at the bottom, the matter at the bottom.And that's that's a that's an inversion um of the classical platonic model.
+
+Unknown speaker 32:30 
+Um and and why that's important, I think paradigmatically,
+
+Unknown speaker 32:30 
+is because when we had the older model, uh where it's actuality at the top, and we tended to say we tended to equate actuality with reality.
+
+Unknown speaker 32:30 
+In fact, we use the terms synonymously in our language.
+
+Unknown speaker 32:30 
+We'll say, when we we'll say, I actually love her or I act.
+
+Unknown speaker 33:14 
+and we use it synonymously, but if you accept the inversion,
+
+Unknown speaker 33:16 
+then of course, now you've got possibility, real possibility being constitutive of reality in a fundamental way.
+
+Unknown speaker 33:24 
+And I I would just want to note that although we're talking and we're using a lot of the platonic language,
+
+Unknown speaker 33:27 
+and I'm very happy to uh to be there, as you know, there's also an inversion that has occurred to my mind.
+
+Unknown speaker 33:34 
+Um, and I wanted to know what either one of you or both of you thought of that.
+
+Unknown speaker 33:38 
+Is that matter, uh, does it matter uh very much uh to either one of you.
+
+Unknown speaker 33:43 
+Um, and and and and what is the relate
+
+Unknown speaker 34:18 
+How
+
+Unknown speaker 34:18 
+how do we
+
+Unknown speaker 34:21 
+how do we
+
+Unknown speaker 34:22 
+I
+
+Unknown speaker 34:23 
+I I'm very much for reading these old authors, you know that Jonathan, and but I you know, there's there's a hermeneutic thing here.
+
+Unknown speaker 34:37 
+there's a lot of similarities, but there's also this fundamental inversion and so what do we do there?
+
+Unknown speaker 34:47 
+And so who wants to uh
+
+Unknown speaker 34:49 
+Sorry for putting
+
+Unknown speaker 34:50 
+I I mean, I can start in the sense that I I tend to think incarnationally, that's that's the that's my Christianity speaking or my Christian physics is that
+
+Unknown speaker 34:59 
+I
+
+Unknown speaker 35:00 
+and
+
+Unknown speaker 35:00 
+actuality is not
+
+Unknown speaker 35:01 
+is not being.
+
+Unknown speaker 35:03 
+Like it's not it's it's how can I say this?
+
+Unknown speaker 35:05 
+It's like uh in order I think that the the realest thing is the is the relationship between the two.
+
+Unknown speaker 35:12 
+Like the realest thing is when these forms, they they they they embody themselves.
+
+Unknown speaker 35:18 
+That's the thing that that at least that I care about the most.
+
+Unknown speaker 35:21 
+Okay, well I want to hear what Mike has to say.
+
+Unknown speaker 35:24 
+Uh I mean, because the the model is very much like to my mind at least your arrows where you have top down constraints and you have bottom up causation in a way.
+
+Unknown speaker 35:33 
+Um, where constraints are what patterns do is shape what is possible, they're shapings of possibility.
+
+Unknown speaker 35:39 
+Uh, that's how most mathematicians um,
+
+Unknown speaker 35:42 
+talk about mathematical formula or scientific laws if you're a realist about their about those laws.
+
+Unknown speaker 35:47 
+They're not events, they're not actualities, they're constraints on what is possible for us.
+
+Unknown speaker 35:54 
+So they're the real shaping of real possibility and they're top down and then bottom up.
+
+Unknown speaker 36:00 
+With the if the constraint is a purpose, then then it makes sense to me.
+
+Unknown speaker 36:02 
+Like the constraining of possibility is a purpose and that purpose manifests itself ultimately in certain shapes, certain certain directions, certain certain uh alignments, like all kinds of words we could use.
+
+Unknown speaker 36:10 
+I mean, I might not be using the right words for for Michael, but but then to me that makes sense.
+
+Unknown speaker 36:29 
+Yes, I agree, but what I'm saying is we're opening up the kinds of things we consider when we attempt to give explanations.
+
+Unknown speaker 36:37 
+We're not just looking like in a Humean fashion for relations between events.
+
+Unknown speaker 36:42 
+We're also looking for constraints on what's possible because we we now long.
+
+Unknown speaker 36:46 
+So what I'm arguing for is you can't be a nominalist about possibility anymore.
+
+Unknown speaker 36:54 
+You can't say possibility is just something we humans do for the lack of knowledge.
+
+Unknown speaker 37:00 
+Possibility has to be real, the constraints have to be real because you have to be able to if they're not I mean this is the I think this is part of an implication of Mike's argument.
+
+Unknown speaker 37:04 
+like there seems to be a real ordering and and and a real I don't I'm struggling for word a real existence in order to explain the the radical novelty that he like there hasn't been some long historical process.
+
+Unknown speaker 37:23 
+You can't give a causal history for this, right?
+
+Unknown speaker 37:25 
+But nevertheless, it's playing a fundamental role.
+
+Unknown speaker 37:28 
+Mike, maybe I'm misrepresenting you, but please.
+
+Unknown speaker 37:31 
+Yeah, I'm very yeah, really interesting question.
+
+Unknown speaker 37:34 
+So, so, so three things I'd like to say.
+
+Unknown speaker 37:38 
+First about the the views of Plato and Whitehead and all of that.
+
+Unknown speaker 37:40 
+Um, none of what I do is uh meant to stick closely to what any of these people thought to whatever extent we know what they thought.
+
+Unknown speaker 37:43 
+Um, and and and I I thought about this really hard about the naming of this and I may at some point need to change the name.
+
+Unknown speaker 37:54 
+The reason I went with platonic space is because it uh tied what I'm saying to a body of work among mathematicians where they know exactly what I'm talking about.
+
+Unknown speaker 37:59 
+That is that is really it.
+
+Unknown speaker 38:00 
+you know, other things that Plato may have thought about unchanging forms and all that, I don't really, you know, go along with.
+
+Unknown speaker 38:03 
+And so you know, within none of these things am I trying to stick close to any of that, right?
+
+Unknown speaker 38:09 
+this and so we can talk about how much of this I I I think is right or whatever.
+
+Unknown speaker 38:15 
+The the second thing I wanted to say is um, in terms of constraints.
+
+Unknown speaker 38:22 
+So here's here's my here's my thought on this.
+
+Unknown speaker 38:27 
+The kinds of things that are constrained by the these forms, I think these are the things we generally call physics.
+
+Unknown speaker 38:36 
+In other words, you know, hey, you know, why do the fermions do XYZ?
+
+Unknown speaker 38:46 
+Oh, it's because this mathematical structure has a symmetry that only allows what like that's that's the constraints.
+
+Unknown speaker 38:50 
+What I think happens in biology, okay, there are some constraints, but I think it's much more than that.
+
+Unknown speaker 39:00 
+I think the things we call life and that we call biology are things that exploit and are potentiated by those forms, not just constrained by them.
+
+Unknown speaker 39:06 
+So the big thing and we can talk about how I think biology exploits the hell out of a lot of free lunches that are provided by these forms.
+
+Unknown speaker 39:09 
+So that it is no longer enough if you're just talking about constraints, you're talking about the low end of my spectrum, which is machines and the kinds of things physics likes to study.
+
+Unknown speaker 39:15 
+By the time you get to the things biology likes to study, what you're finding is that these that these forms are not just constraining what happens, they're actually uh potentiating or um greatly enhancing what can happen, right?
+
+Unknown speaker 40:40 
+I
+
+Unknown speaker 40:40 
+I agree.
+
+Unknown speaker 40:41 
+I I but I do think they're causal and and and I'll tell you how.
+
+Unknown speaker 40:43 
+I'm using a slightly different uh emphasis for causation.
+
+Unknown speaker 40:47 
+I'm using uh the the following and I don't know who exactly this is due to, but but it it goes like this, you have you have two two features and you want to know which one causes which one.
+
+Unknown speaker 40:54 
+What you do is you tweak this one and you see if this changes, and then you tweak this one and you see if this one changes.
+
+Unknown speaker 40:58 
+And the driver, right?
+
+Unknown speaker 41:05 
+So, so what I'm looking for is to find out which one is the driver of the other one.
+
+Unknown speaker 41:05 
+And that's the causation.
+
+Unknown speaker 41:07 
+The causation is when you what if I if I change thing A and thing B inevitably follow suit, then I can say that A is causal to B.
+
+Unknown speaker 41:19 
+How what to do with time, I I I don't claim to know.
+
+Unknown speaker 41:20 
+But but I'm interested in the in the functional causation.
+
+Unknown speaker 41:22 
+And so
+
+Unknown speaker 41:23 
+In terms of in terms of time, it's not that it's not that complicated because purposes are causes.
+
+Unknown speaker 41:48 
+And you can't measure the purpose until you've reached the goal, and so the the the cause appears at the end in many systems because the the the purpose is drawing things into it.
+
+Unknown speaker 41:54 
+And then you only see its result once you've reached that, reach there.
+
+Unknown speaker 41:55 
+It's like a when you watch a movie and you okay, let's say you watch six cents and you don't understand what's happening.
+
+Unknown speaker 42:09 
+And then at the end, it reveals to you what all of these things were doing.
+
+Unknown speaker 42:11 
+And once you see it, it becomes the cause of the movie.
+
+Unknown speaker 42:14 
+But it's not it's not a cause like a billiard ball hitting another.
+
+Unknown speaker 42:17 
+It's a it's a I mean, it's a formal cause.
+
+Unknown speaker 42:18 
+It's a it's a cause that is explaining the reason why all of these things are together in the first place.
+
+Unknown speaker 42:24 
+Yeah, I I get it.
+
+Unknown speaker 42:24 
+And and I agree.
+
+Unknown speaker 42:25 
+And we
+
+Unknown speaker 42:25 
+Mike, the person is JS Mill, it's called the the method of differences.
+
+Unknown speaker 42:38 
+So, so here's here's the kind of thing I I I have in mind um for the for the causation bit.
+
+Unknown speaker 42:44 
+Um, this is just just one of a million examples we could talk about.
+
+Unknown speaker 42:44 
+Um, the cicadas come out at 13 years and 17 years.
+
+Unknown speaker 42:54 
+And so you're a biologist and you ask, so so why is that?
+
+Unknown speaker 42:54 
+And and then you say, well, it's because they're trying to time their um make sure that their predators don't time the cycles, right?
+
+Unknown speaker 42:55 
+Because if it's 12 years, then every two years, every three years, every four years, somebody would be.
+
+Unknown speaker 42:56 
+And so you say, well, that's amazing.
+
+Unknown speaker 42:57 
+So what is it about 13 and 17?
+
+Unknown speaker 42:58 
+They say, ah, these are prime.
+
+Unknown speaker 42:59 
+Okay?
+
+Unknown speaker 43:00 
+And so well what what why specifically 13 and 17?
+
+Unknown speaker 43:00 
+And so now what's happened is you've left the realm of biology, you've left the realm of physics, now you're in the math department.
+
+Unknown speaker 43:01 
+And and and they can explain to you why the distribution of primes is the way it is.
+
+Unknown speaker 43:02 
+And so now we have this situation where if the distribution of primes had been different, the cicadas would be coming out at a different time.
+
+Unknown speaker 43:03 
+But on the other hand, there is nothing I can do in biology and physics, I can tweak the constants of the big bang, whatever I want to do with the physical world, I am never going to change the distribution of primes or the value of E or Figenbaum's constant.
+
+Unknown speaker 43:18 
+So, so what I see as causation is simply this.
+
+Unknown speaker 43:21 
+I see that the patterns are determining aspects of of of the physical world.
+
+Unknown speaker 43:24 
+And I don't see any way for things we do in the physical world to to to feedback, although there is a um there's a caveat to this, but but but that that is what I see as the causation.
+
+Unknown speaker 43:25 
+That that the influence flows in in that if we want to understand what's happening here, the source is is in these facts of of mathematics and in facts of other things that are not mathematics.
+
+Unknown speaker 43:26 
+So that I think are actually psychology or whatever, whatever they are.
+
+Unknown speaker 43:27 
+So, so I I I agree with you that there are determination relations.
+
+Unknown speaker 43:28 
+Uh, I guess I'm pressing on this because one of the classic problems, I mean, this is a standard trope in the philosophy of mathematics for Platonism is accounting for the causal status.
+
+Unknown speaker 43:33 
+Uh, you can't seem to get any causal relation out of these things because they don't seem to bear a temporal or spatial location.
+
+Unknown speaker 43:40 
+Like where is any of those functions you just where are they?
+
+Unknown speaker 43:41 
+Like are they over there?
+
+Unknown speaker 43:42 
+Uh, like no, that it they're nowhere and and and they're everywhere.
+
+Unknown speaker 43:43 
+Um, and and they don't happen at a specific time or a specific place.
+
+Unknown speaker 43:44 
+And and so I think I I I I I hear what you're saying and and this is why I want to press you, Mike, because I think I think something's happening.
+
+Unknown speaker 43:45 
+I let let I let let's take up your proposal because it's a really good one.
+
+Unknown speaker 43:46 
+Let's reserve constraint for something where we're just we're just talking about, no, we have to give them their due by the way.
+
+Unknown speaker 43:47 
+There's not only selective constraints, there are enabling constraints.
+
+Unknown speaker 43:48 
+So, but you said it's more than that.
+
+Unknown speaker 43:49 
+There's I I get there's a sense of almost an exploratory element to this.
+
+Unknown speaker 43:50 
+Is is is that fair?
+
+Unknown speaker 43:51 
+Okay, so constraint does not convey that.
+
+Unknown speaker 43:52 
+But you know, classically cause doesn't either.
+
+Unknown speaker 43:53 
+And the stuff you're talking about doesn't have a lot of the other features of cause.
+
+Unknown speaker 43:59 
+It sounds to me almost like and Dennis Walsh is trying to do the same thing here.
+
+Unknown speaker 44:00 
+He's a philosopher of biology at the University of Toronto, is to come up with, you know, that there is something other than what we mean by cause or constraints that we're talking about here, that we and this is why I try to invoke the the I think I mentioned it to you, the neoplatonic notion of a paradigmatic cause, which is not a formal cause, an efficient cause, a mechanical cause.
+
+Unknown speaker 45:00 
+or
+
+Unknown speaker 45:01 
+a final cause.It's
+
+Unknown speaker 45:02 
+it's this
+
+Unknown speaker 45:03 
+accessing and downloading vertical
+
+Unknown speaker 45:05 
+kind of determination.
+
+Unknown speaker 45:08 
+Yeah.
+
+Unknown speaker 45:09 
+Um
+
+Unknown speaker 45:10 
+and you know.
+
+Unknown speaker 45:10 
+I I I I like that a lot and I and I agree with you in the sense that um if the standard version of causation doesn't capture what's going on here, too bad for the standard version of causation.
+
+Unknown speaker 45:20 
+Uh I I mean I agree okay it doesn't have a location, it doesn't have.
+
+Unknown speaker 45:25 
+Well, too bad, who cares.
+
+Unknown speaker 45:26 
+Uh I I think there's something much more important going on here.
+
+Unknown speaker 45:28 
+I think I think those kind of causes were worked out by largely by people focused on building steam engines and things where this knob is over here touching this, you know, thing and the gear and this is why that that kind of causation is not going to do us in in the in the biological and the cognitive sciences.
+
+Unknown speaker 45:48 
+I I don't think.
+
+Unknown speaker 45:49 
+And in fact, I I make the I make the um connection to there's there was another case where this came up, which is when when Descartes sort of announced this this idea of of a non-physical mind of running the brain around like a like a like a puppet.
+
+Unknown speaker 46:03 
+Um, you know, uh the the princess of Bohemia, I forget her name, wrote to him and said, well, look here, how would that the you said the non-physical mind doesn't have a location and we have conservation of mass, how how.
+
+Unknown speaker 46:30 
+How is that going to happen?
+
+Unknown speaker 46:31 
+And what I find really weird, um, and I've been playing with this stupid idea of writing some sort of a fictional dialogue between the two of them that I think should have happened if it didn't happen, because Descartes was a mathematician.What it seems to me he should have said is, excuse me, we have had since since you know, the time of Pythagoras and before that, we have already had examples of non-physical facts determining reality in the physical world, we've already had this.
+
+Unknown speaker 46:15 
+He he yeah, but he and your question is a good one.
+
+Unknown speaker 46:15 
+Why doesn't he?
+Because he gets committed to a completely horizontal notion of causation.
+
+Unknown speaker 46:15 
+Yeah, that's he gets committed.
+
+Unknown speaker 46:52 
+and because
+
+Unknown speaker 46:54 
+there is the rejection of any verticality to ontology.
+
+Unknown speaker 46:59 
+There's a there's deeper ontological moves that are going on that precludes him from considering, you're right.
+
+Unknown speaker 47:04 
+That answer should have been available to him, but he's rejecting any kind of platonic verticality.
+
+Unknown speaker 47:08 
+And what I see you doing and and I think we're actually fleshing it out, that was an unintended pun.
+
+Unknown speaker 47:13 
+Uh, we're fleshing it out is um,
+
+Unknown speaker 47:14 
+like the the strong need to bring a verticality back into our ontology in a deep way.
+
+Unknown speaker 47:19 
+Yeah, and and specifically, I mean, the kind of uh,
+
+Unknown speaker 47:22 
+just to be clear, I'm I'm not a philosopher, I don't you know, I uh, the reason that I
+
+Unknown speaker 47:30 
+refer this kind of reversion is driven by engineering.
+
+Unknown speaker 47:33 
+It's driven by by simply by by the following.
+
+Unknown speaker 47:36 
+The cause, when I'm looking for causes, I'm not looking for um, you know, to match any philosophical notion of causation.
+
+Unknown speaker 47:43 
+What I want as an engineer is where should I be looking in order to understand and control the system that I want to understand and control.
+
+Unknown speaker 47:51 
+And if this and if the traditional notion of causation doesn't help me do that, then then then then fine, then I then I'm not interested.
+
+Unknown speaker 47:58 
+What I want to understand is if I if I have a system that behaves in a certain way, whether it's cicadas that come out at 13 years or whether it's a a xenobot that does things that we didn't ask it to do or or a bubble sort that has side quests that are not in the algorithm or these kinds of things that we study.
+
+Unknown speaker 48:14 
+Uh, if if if the answer lies in mathematic in in the properties of mathematical objects, then as far as I'm concerned, that's that's the that's the that's the cause I'm looking at.
+
+Unknown speaker 48:24 
+If if somebody wants to come up with a different terminology for it, fine, but as an engineer, this is what I'm looking for.
+
+Unknown speaker 48:34 
+I'm looking to understand what what is actually driving the thing that I'm interested in.
+
+Unknown speaker 48:43 
+Sure.
+
+Unknown speaker 48:51 
+Your basically doing, you're following the science and I mean that in a good way, not the way that phrase has been used in the past.
+
+Unknown speaker 49:00 
+Uh, the recent past, but you're following the science and it's basically leading us out of a framework that was given to us, a fundamental ontological epistemological framework given to us by the enlightenment, the the the framework called modernity, where we understand reality, we understand causation this way, there's no vertical, etc, etc.
+
+Unknown speaker 49:07 
+And this like I see you, tell me if this is wrong, but the science, you're following the science and it's leading us out of that framework.
+
+Unknown speaker 49:27 
+And I'm trying to point out how profound I think that is.
+
+Unknown speaker 49:31 
+Yeah, well, well, I I appreciate that.
+Um, I I agree with you.
+I think I think we made certain assumptions around and again, I'm not a historian of science, but my my understanding of what happened during the enlightenment is that we made certain assumptions about the sets of tools we were going to use.
+Like every set of tools, it has blind spots.
+We are still sort of coasting along on those on those tools, assuming that turn the crank long enough and things will be okay.
+I I think we've gone way beyond now understanding that a lot of these assumptions were were not good.
+They were fine at the time, they served us well for some time, but they're not
+
+Unknown speaker 50:00 
+actually going to um going to keep going.
+
+Unknown speaker 50:01 
+And uh there's there's something else I wanted to mention, which is this notion of embodiment.
+
+Unknown speaker 50:07 
+So,
+
+Unknown speaker 50:07 
+Yes.The part that the part that that people tend to agree with me on is the part that I think embodiment is absolutely critical.
+
+Unknown speaker 50:14 
+It's very important.
+
+Unknown speaker 50:14 
+The part where I tend to lose everyone is the following.
+
+Unknown speaker 50:17 
+I I think as human beings with a very particular um the cognitive apparatus and evolutionary history and whatever, I think we are obsessed with the three-dimensional world.
+
+Unknown speaker 50:28 
+I think that there are spaces in which uh kinds of minds, meaning beings and and and some of them are, you know, more morally important beings, do this perception, decision, action loop, right?
+
+Unknown speaker 50:40 
+The the world in which they strive, they solve problems, they suffer, they they win, they lose, they they do things.
+
+Unknown speaker 50:45 
+I think there are numerous spaces that are very difficult for us to visualize as humans.
+
+Unknown speaker 50:53 
+And because we have trouble visualizing these spaces, we assume that they don't exist and we when we say embodiment, we mean, you know, a physical body.
+
+Unknown speaker 51:00 
+It's if if you're a if you're a software agent, you need to have a robot and trundle around on wheels or now walk around or something, you can't just be sitting in a box somewhere, you don't engage with the physical world unless you're, you know, running around touching things.
+
+Unknown speaker 51:12 
+Well, biology, long before nerve and muscle evolved, biology was doing all of these kinds of problem solving, navigational, you know, goal directed things in physiological state space, in uh transcriptional state space, and metabolic state space, and anatomical this is what we study in our lab, most of these anatomical state space.
+
+Unknown speaker 51:35 
+These spaces are as real to these beings that live in those spaces, I I think, as the three-dimensional world is to us, they are as fictional and as constructed as the 3D world is by us, I think.
+
+Unknown speaker 51:47 
+And um there are many different kinds of embodiment that we do not traditionally recognize as embodiment.
+
+Unknown speaker 51:54 
+And there's actually a a good chunk of my lab now is devoted to creating tools, empirical tools for people to use to recognize uh beings in non uh you know, in non-traditional spaces and to communicate with them.
+
+Unknown speaker 52:00 
+This is one of our goals is to enable you to recognize, communicate with and ethically relate to beings that live in all kinds of other crazy spaces that we don't, you know, uh we we we can't visualize.
+
+Unknown speaker 52:08 
+So, so I just want to be really clear that it's to me, it's not that okay, there are forms and then there's like 3D universe, there are many other spaces as far as I'm concerned.
+
+Unknown speaker 52:16 
+Jonathan, before you say it, I just want to one more point of conversion.Dan Chapy and I did a lot of work uh about uh the NASA scientists uh moving the rovers around on Mars and does that violate embodiment because the scientists are here and the rovers are up there.
+
+Unknown speaker 52:25 
+And what we found was, no, no, there's a different way in which they they collectively organize themselves and make use of the information from the rovers to create this overall dynamical system that has the capacity to grock hyper patterns that like individual human cognition can't grasp.
+
+Unknown speaker 53:00 
+Do I think it I think it's very plausible that human beings can participate in these collective intelligences in some way or form.
+
+Unknown speaker 53:02 
+And given Eric Hol's work, that gives us access to otherwise inaccessible causal uh power and information access that's otherwise not available.
+
+Unknown speaker 53:18 
+I'm not invoking anything woo here.
+
+Unknown speaker 54:02 
+Uh, you know, you and I know Eric Hol's got some pretty rigorous argument, um, and some good simulations providing evidence for this.
+
+Unknown speaker 54:07 
+But for me,
+
+Unknown speaker 54:17 
+do I think it I think it's very plausible that human beings can participate in these collective intelligences in some way or form.
+
+Unknown speaker 55:00 
+you know, if we got over reality and we have that kind of participation, um, and it seems to be actually allowing, and I'm using your language, Mike, the engineering to move the rovers around and be able to study the hyper objects, the hyper patterns of the Martian atmosphere.
+
+Unknown speaker 55:16 
+Then there's the possibility that maybe stuff we had dismissed as being in the enlightenment as being superstitious, we should take seriously again, and now I'm going to turn it over to Jonathan.
+
+Unknown speaker 55:26 
+And because that so I that's my flower in the ointment, right?
+
+Unknown speaker 55:32 
+Well, well, just just just very quickly.
+
+Unknown speaker 55:33 
+Um, I I like that a lot and and I can tell you that something very similar, I think, is the future of molecular medicine.
+
+Unknown speaker 55:41 
+Because because what we are doing right now is uh pointing out that, you know, if if you have a bowling ball on a landscape, then your view as a third person external observer tells pretty much the whole story.
+
+Unknown speaker 55:54 
+You you you can see, you know what's going to happen.
+
+Unknown speaker 56:04 
+But if you have a mouse on a landscape, your view as an external observer is kind of useless.
+
+Unknown speaker 56:06 
+You need to know what is the mouse think of this landscape and what is he see and where so so so so now when we look at, okay, we want to control the physiology of the liver or we want to control the blast to regenerate a limb or an eye or whatever, uh, which of those models is going to do.
+
+Unknown speaker 56:16 
+And and and I'm here to tell you that it's not the bowling ball model, it's it's the it's the first person perspective model so that in the future when when you are going to uh and and we're trying to make tools for this, we're trying to make practical tools for this.
+
+Unknown speaker 56:27 
+Instead of controlling the rover in three-dimensional space on Mars, you are controlling as a as a as a worker in regenerate medicine, you are controlling the movement of cells in an invisible anatomical morph space that you can't see or the movement of your liver in physiological state space that has 29 dimensions that you couldn't begin to imagine.
+
+Unknown speaker 56:47 
+And so you need tools for you to become that being to share your your inner perspective with it and say, okay, I'm kind of again, like right, I'm not trying to get woo here, but I think there will be tools, there will be augmented reality tools that will say, I want you to navigate the space thus, how are you going to do that if you don't understand the space?
+
+Unknown speaker 57:04 
+How are you going to communicate to to this being if you're not part of it in the same way that you were talking about merging with that rover, right?
+
+Unknown speaker 57:10 
+And and and I think we're going to end up in a lot of very weird spaces that that are at different scales, different time scales, spatial scales, distributed, disconnected where we are going to be part of that first person perspective of really weird beings like body organs, like cells, like synthetic self-growing thouses and God knows what.
+
+Unknown speaker 57:30 
+uh, that we are going to have to um, be part of that, you know, from the inside, not from the outside.
+
+Unknown speaker 57:37 
+Um, so I there's a lot of a lot of has been said, but for sure in terms of the the idea of non 3D bodies.
+
+Unknown speaker 57:45 
+I think people have known about these for a long time.
+
+Unknown speaker 57:50 
+We call them subtle bodies, they're different iterations of it.
+
+Unknown speaker 57:53 
+Of course, most ancient traditions care mostly about those that are at the personal and transpersonal level, but you know, you can find embodiments, for example, at a personal influence level in stories, that is the way that I influence others through even just speech is that type of non completely physical embodiment.
+
+Unknown speaker 58:00 
+If a very influential uh celebrity endorses a product and then that gets taken up in the minds of parents that then buy that product for children, what you're encountering is a non-physical power that's embodying itself at different levels and it's kind of reaching all the way all the way down.
+
+Unknown speaker 58:05 
+And so in the human sphere and in the kind of social sphere, we have these types of bodies that that they're all different types of of bodies that are not completely gross, like that aren't brute, but we're used to understanding how influence functions and and uh and I don't know if you've thought about the analogy between those types of transpersonal patterns kind of embodying themselves and what it is you're doing at the biological level.
+
+Unknown speaker 59:35 
+Yeah, yeah, there's there's a lot going on there and and one person that you guys probably should uh should talk to is Richard Watson.
+
+Unknown speaker 59:40 
+So, um, uh, University of Southampton.
+
+Unknown speaker 59:43 
+So he he's a computer scientist, evolutionary biologist and um, he and I have done a bunch of work together.
+
+Unknown speaker 59:59 
+He's he's very interested in uh metaphors of of music and and uh things like this in in driving collective intelligence and these spaces and be and and all all the everything you just said like you guys.
+
+Unknown speaker 01:01:00 
+could talk for hours with him, so I I would suggest that as well.
+
+Unknown speaker 01:01:04 
+That's interesting because um, I mean that first of all that uh for me, I've been doing Dowas practices for uh 30 years and that's and I really have objected to the uh very North American way of talking about this in terms of energy and stuff like that.
+
+Unknown speaker 01:01:19 
+Uh the in the in in in in situ, the metaphor that's used uh for the Dow is is are almost always musical uh metaphors, not energetic uh metaphors and it's much more.
+
+Unknown speaker 01:01:32 
+Yeah.
+
+Unknown speaker 01:01:33 
+align with that.
+
+Unknown speaker 01:01:36 
+I I very much uh uh um Mike, could you link uh on Yeah, I'll I'll make I'll make I'll make a connection now.
+
+Unknown speaker 01:01:42 
+Thank you.
+
+Unknown speaker 01:01:43 
+So the biggest the biggest question though that comes to my mind is that I mean I I want to make sure I understand correctly, if I'm not understanding correctly, please please do correct me.
+
+Unknown speaker 01:01:59 
+Uh and so what you seem to be talking about, it connects to this idea that in some ways these patterns that are framing or that are, you know, gathering this potential together towards purposes and that these are these bioelectrical patterns that are manifest manifesting themselves that way, but that ultimately they represent certain purposes or certain goals that this multiplicity now organizes itself towards.
+
+Unknown speaker 01:02:19 
+If that's right, then it seems that there is, I I believe at least most traditions in the history of the world have ascertained that there are that there is a a hierarchy of those goals, that there is a natural hierarchy of the goods through which these patterns manifest into the world.
+
+Unknown speaker 01:02:30 
+And in that way, that's why the in some ways the classical Darwinian system is almost easier to understand in that sense, which is, you know, if it survives, then it's closer, you know, it's closer to the good in some ways, that there's a goodness calling.
+
+Unknown speaker 01:02:36 
+There's something that makes being persist and through iterations, you know, that that that maintains itself and things get thrown off, things get brought back, like there's all this these this back and forth.
+
+Unknown speaker 01:02:47 
+Um, but in the space that you are able to enter now, and like in some ways by bringing human agency into these systems.
+
+Unknown speaker 01:02:50 
+Let me just frame this with one last statement, which is that at least at the human level because of human consciousness and especially human self-consciousness.
+
+Unknown speaker 01:02:50 
+We have recognized that in the way that we act, that there are certain patterns that are parasitic.
+
+Unknown speaker 01:02:59 
+There are certain wills that you can download, that you can interact with, that you can be influenced by that are actually destructive, but that we do so nonetheless for all kinds of perverse reasons, which we don't want to go into too much.
+
+Unknown speaker 01:03:06 
+And so the thing when I hear you talk about like we could do anything, right?
+
+Unknown speaker 01:03:12 
+We could give, you know, you could grow wings, you could grow five eyes, you could you could do all these things.
+
+Unknown speaker 01:03:21 
+I also am worried of the fall, right?
+
+Unknown speaker 01:03:36 
+Worried of us bringing our parasitic processes into into the a space which until now has in some ways been hasn't been completely tainted by it.
+
+Unknown speaker 01:03:41 
+Of course, it is tainted to some extent.
+
+Unknown speaker 01:03:48 
+I mean, we do species breeding, these are slow, slow versions of in you know, imbibing patterns into into species.
+
+Unknown speaker 01:03:51 
+And now you're doing it at like one generation, you create a a chimera.
+
+Unknown speaker 01:03:56 
+Uh and the reasons why we have warnings about chimeras in mythology is not completely, I think, irrelevant, right?
+
+Unknown speaker 01:04:03 
+that we have this image of the Sphinx that will eat you.
+
+Unknown speaker 01:04:04 
+Well, there's there's there's many things that are not chimeras that will eat you.
+
+Unknown speaker 01:04:04 
+So, um, I guess uh, okay, uh, so you brought up two two things.
+
+Unknown speaker 01:04:05 
+I I'd like to I'd like to talk about both of them.
+
+Unknown speaker 01:04:06 
+Let's let's do let's do the first one first.
+
+Unknown speaker 01:04:06 
+So, um, the patterns that we pick up.
+
+Unknown speaker 01:04:10 
+So, so I want to I want to float an idea uh roughly summarized uh in um uh.
+
+Unknown speaker 01:04:13 
+this uh this idea of uh of thoughts are thinkers.
+
+Unknown speaker 01:04:14 
+And which is which is this.
+
+Unknown speaker 01:04:15 
+Let's let's uh let's just be let's visualize this idea that.
+
+Unknown speaker 01:04:18 
+there are many patterns of um what one way to do the hierarchy.
+
+Unknown speaker 01:04:20 
+And I don't know what kind of hierarchy this this space has, but the but the I'm open to that.
+
+Unknown speaker 01:04:21 
+And I can see there's one hierarchy that I can see immediately, which is.
+
+Unknown speaker 01:04:21 
+there are patterns that you might characterize as fleeting thoughts.
+
+Unknown speaker 01:04:28 
+They come and they go, they sort of go through a cognitive system and they're gone, right?
+
+Unknown speaker 01:04:30 
+Patterns.
+
+Unknown speaker 01:04:31 
+There are other patterns that are persistent thoughts.
+
+Unknown speaker 01:04:33 
+They're they they they kind of do a little niche construction in the cognitive agent that prevent that that make it easier to keep having those thoughts and they're kind of they they're sort of the viruses of that world is they just kind of like to hold on and that's pretty much it.
+
+Unknown speaker 01:04:41 
+Then then there are more complex things, um, that and and that that we can see as, for example, personality fragments.
+
+Unknown speaker 01:04:49 
+So if someone has dissociative identity disorder, they're
+
+Unknown speaker 01:05:00 
+things that are they're more than just intrusive thoughts because they have some planning and they have some goal directedness and they have a little bit of cleverness to them.
+
+Unknown speaker 01:05:00 
+And then and then and and by the way there are some things that we could talk about in weird ancient traditions that are between those two things, but let's just move on.
+
+Unknown speaker 01:05:00 
+I'm sure you you don't know what I'm talking about.
+
+Unknown speaker 01:05:00 
+Um, then and you know, and then there's whatever is transhuman, you know, whatever else, right?
+
+Unknown speaker 01:05:00 
+So, so if if we like this this continuum, we can say that we ourselves are patterns, that's what I think we are.
+
+Unknown speaker 01:05:00 
+I think we are embodied patterns.
+
+Unknown speaker 01:05:00 
+I think we are extremely sophisticated self-constructing, self-maintaining patterns.
+
+Unknown speaker 01:06:14 
+we interact withmany other, in fact, we throw off, we spawn off patterns all the time, which are our the results of our cognitive and emotional activity.
+
+Unknown speaker 01:05:37 
+We are susceptible to other patterns, some of these patterns are um autocrine, meaning that we generate them ourselves.
+
+Unknown speaker 01:05:37 
+Other patterns are not they don't come from us, they come from some other other beings or whatever, and we may or may not resonate with them.
+
+Unknown speaker 01:05:37 
+We may or may not offer them a home to whatever extent we indulge them.
+
+Unknown speaker 01:05:37 
+Some of these are patterns that are known to for, you know, computer science as as as thoughts that break the thinker.
+
+Unknown speaker 01:05:37 
+So there are patterns that uh once you've seen them, you can't really unsee them and it actually
+
+Unknown speaker 01:06:30 
+means back to alter your structure and so like that's it.
+
+Unknown speaker 01:06:32 
+In in a certain sense, right?
+
+Unknown speaker 01:06:34 
+And so, yeah, I I think I think there's a perfectly reasonable um uh I I I think in all of these things it's not necessarily a difference in in kind as much as a difference in degree and yeah, we have to be very intentional in what kind of patterns we we generate and what kind of patterns we accept because they all have they all have consequences.So I'm I'm I'm kind of on I'm one on board of that.
+
+Unknown speaker 01:06:15 
+I do want to I do want to talk about the other thing, which is this being worried about chimeras and things like this.
+
+Unknown speaker 01:06:15 
+Um, a fundamental claim.
+
+Unknown speaker 01:06:52 
+I'll make and and I make it mostly because I'm not even a clinician and you should see the emails I get every day, okay?
+
+Unknown speaker 01:06:55 
+Uh probably 50 to 100 emails.
+
+Unknown speaker 01:06:59 
+Uh well, okay, maybe 10 or 15 emails that say what you're doing is scary, um frog cell, biobots too much, freaking me out, uh you know, planarians, uh you know, you shouldn't they shouldn't have to has a good old fashioned worm has one head, you should stick to that.
+
+Unknown speaker 01:07:10 
+You know, okay, so so so some of that.
+
+Unknown speaker 01:07:12 
+And then probably 10 times more of that saying, what the hell are you waiting for?
+My kid has a birth defect, I've got cancer, somebody else has.
+
+Unknown speaker 01:08:00 
+You lost a limb.
+
+Unknown speaker 01:08:01 
+What are you screwing around for?
+
+Unknown speaker 01:08:03 
+When are we going to get, when are we going to get relief from these, from these ridiculous, uh, painful, um, you know, maladies.
+
+Unknown speaker 01:08:09 
+And and what I'll say is this, you know, are are we, do we need humility in, in all of this?
+
+Unknown speaker 01:08:14 
+Absolutely, 1000%.
+
+Unknown speaker 01:08:17 
+Are we going to make mistakes occasionally?
+
+Unknown speaker 01:08:22 
+A thousand percent, we're going to, we're going to make mistakes.
+
+Unknown speaker 01:08:23 
+Um, however, what I see as the status quo, this is, here's, here's what I don't believe, because a lot of, a lot of people make this argument.
+
+Unknown speaker 01:08:30 
+implicitly, they make this argument, everything right now is cool, and you scientists better not screw it up.
+
+Unknown speaker 01:08:36 
+Everything's great and don't do anything to make it worse.
+
+Unknown speaker 01:08:40 
+Now, granted, sometimes scientists come up with some stuff that make things worse, it can happen.
+
+Unknown speaker 01:08:44 
+But the claim that everything is fine now is, I think, uh, incredibly, you know, outrageous, and the people who are freaked out about the two-headed flatworms tend to be the young, healthy people, and as soon as their kid has some kind of problem, they run to the hospital and they pray like hell that somebody had figured something out.
+
+Unknown speaker 01:09:06 
+And then, and then they, and then maybe they start wondering where, where do medical solutions come from.
+
+Unknown speaker 01:09:07 
+And so my point, my point is this, that I think where we are now is in no way optimal.
+
+Unknown speaker 01:09:10 
+I don't believe, and I'm, and I am not, I am not saying outright that, that there are not, um, interesting verticalities that guide what happens here.
+
+Unknown speaker 01:09:19 
+What I am saying is, I do not believe that the current status quo of our embodiment, meaning the, the, the, the obligate loss of cognitive capacity in after about eight decades, the, you know, the, the astigmatism, the lower back pain, the birth defects, the cancer.
+
+Unknown speaker 01:09:34 
+I, I don't believe any of this was, was in, was is is optimal or was intended to be this way.
+
+Unknown speaker 01:09:40 
+We, our, our physical embodiments, as far as I can tell, are the products of cosmic rays hitting our embryonic cells.
+
+Unknown speaker 01:09:48 
+They're the process, they're the results of processes that really don't have, and I mean, I know this is a controversial opinion, but this is, this is what, what I think.Uh, they have not been looking out for us in terms of any of the values that, that we care about, and in, in, in the way, to me, what's happening is that all of this has been waiting, basically, for us to gain the, the knowledge and hopefully the wisdom to improve on some of this stuff, so that everyone, everywhere can have the kind of quality and length of life that it takes to have a, an, an intentional life with, with meaning, not distracted by, you know, by, by pain and avoidable, preventable, you know, tragedies.
+
+Unknown speaker 01:10:00 
+that we
+
+Unknown speaker 01:10:01 
+that we are simply too stupid currently to do anything about.
+
+Unknown speaker 01:10:03 
+I, I,
+
+Unknown speaker 01:10:03 
+I understand the worries and there are many things to be worried about,
+
+Unknown speaker 01:10:08 
+but the number one thing to be worried about is where we are now, the status quo is unsupportable, I think.
+
+Unknown speaker 01:10:13 
+There is a there's a massive amount of of of suffering for as far as I can tell, no, no good reason.
+
+Unknown speaker 01:10:18 
+You know, and and people argue with us and they say, look, uh,
+
+Unknown speaker 01:10:20 
+you know, uh, the shortness of our lives, that's what gives it meaning because you have to,
+
+Unknown speaker 01:10:24 
+like great, so how about maybe 10 years?
+
+Unknown speaker 01:10:27 
+How would that be?
+
+Unknown speaker 01:10:28 
+No, no, no, 10 is ridiculous, 80, like 80's great.
+
+Unknown speaker 01:10:30 
+Why is 80 great?
+
+Unknown speaker 01:10:33 
+Why is 10 too short and 80's great?
+
+Unknown speaker 01:10:34 
+Why not, why is it not the fact that maybe you need a good thousand years before you get to really
+
+Unknown speaker 01:10:38 
+understand the wisdom of of how to live a good life.
+
+Unknown speaker 01:10:40 
+Who, you know,
+
+Unknown speaker 01:10:41 
+I I I just I I don't see that any of the things that we have now are chosen were carefully chosen so that we could have, you know, an appropriate set of values.
+
+Unknown speaker 01:10:53 
+Like I don't I don't think that's what's happening.
+
+Unknown speaker 01:10:54 
+So, so yes, we will make mistakes, but boy, the situation right now is I think untenable and and it's on us all of us, I think, to to try to improve it.As best as we can.
+
+Unknown speaker 01:11:04 
+That that's
+
+Unknown speaker 01:11:04 
+Could could I amplify Mike a little bit?
+
+Unknown speaker 01:11:06 
+Um, because I'm a bit of a sh sh disturber myself.
+
+Unknown speaker 01:11:08 
+Um, which is,
+
+Unknown speaker 01:11:10 
+um, not only are there all those things that Mike talked about, uh, the non-optimalities, I think the meaning crisis is a real thing and I've argued for it at length.
+
+Unknown speaker 01:11:19 
+And I think the kind of work where we're exploring this stuff, and I've tried to argue that here right now, gives us opportunities to deeply and in philosophically and scientifically respectable manner, address the meaning crisis.
+
+Unknown speaker 01:11:33 
+And so,
+
+Unknown speaker 01:11:34 
+I I think that's a powerful benefit that we need to put into our cost benefit analysis.
+
+Unknown speaker 01:11:41 
+I just want to amplify Mike that way.
+
+Unknown speaker 01:11:41 
+Yeah, I mean, I think, I mean, I bring that up because
+
+Unknown speaker 01:11:43 
+there's a lot of there are a lot of mythological stories that talk about this problem, you know, the problem of the making of chimeras or the the the chimera in some ways being a puzzle that that destroys you.
+
+Unknown speaker 01:11:56 
+Um, but at the same time, I agree with you, John, and I also agree with you, Mike.
+
+Unknown speaker 01:12:01 
+I I think one of the reason why I wanted to talk to you is because I can see in the work you're doing that you're opening up all kinds of ways of talking about things that I think many people have forgotten what they're about, you know, a lot of the ancient wisdom
+
+Unknown speaker 01:12:16 
+in some ways had become arbitrary and people didn't understand what it was referring to.
+
+Unknown speaker 01:12:21 
+And so I think some of the work that you're doing and the work that John's doing is helping us understand what it is we're talking about.
+
+Unknown speaker 01:12:27 
+Like when we talk about transpersonal agencies, like you know, the language of angels and demons and ancient gods, it became a kind of arbitrary Marvel science fiction thing, you know, with beings that exist, but we don't know what that means, but when you start to kind of understand these this these the way that intelligence is influence us, you know, the way that our intelligence influences the world, and then the way that you can see intelligences running through systems, purposes that are agentic,
+
+Unknown speaker 01:12:56 
+uh, all of a sudden, you can start to at least reinterpret or look back at some of the things that we have we've just tossed aside and forgotten and and and it can help us understand our uh, our world again.
+
+Unknown speaker 01:13:08 
+So I want to I want to to to put a caveat on what I said.
+
+Unknown speaker 01:13:11 
+I mean, in some ways I, you know, I'm it's a lot of the things you're doing are so wild and new that, you know, it is there it is a little frightening, but I but I also find it exciting because I can see that for a lot of people that would have refused the possibility of vertical causation, at some point, it becomes impossible to ignore it because it's actually not yielding.
+
+Unknown speaker 01:13:35 
+You've reached the limit of what it can yield for you without considering it.
+
+Unknown speaker 01:13:39 
+Like if we don't start thinking about things this way, then we're go actually even scientifically we reach a limit, we can't go for any further.
+
+Unknown speaker 01:13:44 
+So I just wanted to caveat that.
+
+Unknown speaker 01:13:46 
+Yeah, thank you.
+
+Unknown speaker 01:13:47 
+Uh, well, I I I think it is it is I mean, here I'll tell you why I think it's frightening.
+
+Unknown speaker 01:13:57 
+It's it's because it is frightening.
+
+Unknown speaker 01:14:14 
+It's frightening because it places the responsibility on us.
+
+Unknown speaker 01:14:15 
+I think that um when people people ask me, you know,
+
+Unknown speaker 01:14:16 
+what what are you most most scared of?
+
+Unknown speaker 01:14:21 
+And uh, you know, it's not that the xenobots will eat us all, it's that we will we will fail to rise to the level of intelligence and wisdom that are needed to address these issues that have plagued us forever.
+
+Unknown speaker 01:14:34 
+That is what that is what's frightening to me is that is that I don't I you know, it's not a foregone conclusion that we can do it.
+
+Unknown speaker 01:14:35 
+And it places the responsibility on us and and it means that we we are in an important sense the adults in the room responsible all all of us responsible for relieving uh the level of of suffering and for solving the meaning crisis.
+
+Unknown speaker 01:14:59 
+I think that's absolutely absolutely critical.
+
+Unknown speaker 01:16:00 
+don't
+
+Unknown speaker 01:16:01 
+don't let it sit like this.
+
+Unknown speaker 01:16:04 
+do
+
+Unknown speaker 01:16:04 
+do something, learn.
+
+Unknown speaker 01:16:04 
+And and and let's get past this.
+
+Unknown speaker 01:16:06 
+Does that does that exist?
+
+Unknown speaker 01:16:07 
+Mike, I would put it to you that the axial revolution was a
+
+Unknown speaker 01:16:10 
+a significant change from the bronze age in which the status quo was taken as the normative, and the axial revolution said, no, no, the status quo is somehow fallen or decadent or illusory or filled with foolishness and violence, and we need to transcend it, and it brought about a totally different conception of wisdom.
+
+Unknown speaker 01:16:28 
+I think I think that's very interesting.
+
+Unknown speaker 01:16:29 
+And I, you know, I have this fantasy looking looking forward, um,
+
+Unknown speaker 01:16:34 
+I I assuming we all make it, which is also not a foregone conclusion, but assume assuming we all make it, I look forward to to a class in school where the young kids learn about us the way that we learn about cavemen when we read that, oh my gods, you know, you used to step on a sharp stick and get sepsis and die and that was the end of that.
+
+Unknown speaker 01:16:52 
+And and they would learn about us and they would say, wait a minute, you're telling me these people, they they would have to live their whole life in whatever body they randomly got at birth.
+
+Unknown speaker 01:17:02 
+So they just got, you know, some some random cosmic ray would hit their would hit their embryonic cells and they would be crippled or they would have, you know, whatever their limitations of IQ or whatever, they would just have to stay in that body and and and there was nothing they could do about it.
+
+Unknown speaker 01:17:14 
+And they would, you know, they would have to kill other things to eat just to survive.
+
+Unknown speaker 01:17:18 
+These are all crazy.
+
+Unknown speaker 01:17:23 
+These are a mature species shouldn't be shouldn't be doing any of this.
+
+Unknown speaker 01:17:24 
+And and I feel like if, you know, in in the future when they look back, this is going to seem ridiculous.
+
+Unknown speaker 01:17:30 
+It's going to seem crazy that that uh that our lives and the and the meaning and the and the achievements of of our lives would be limited to things that we had absolutely no control over because we didn't know what to do.
+
+Unknown speaker 01:17:41 
+We didn't, you know, the cells seem to poop out after after 80 or 90 years, we don't know what to do.
+
+Unknown speaker 01:17:45 
+And and and that's and that's it.
+
+Unknown speaker 01:17:49 
+That's just that's just how that's how we were born and that's how we stayed.
+
+Unknown speaker 01:17:55 
+One one of the things, I mean, this is something, I don't know, hopefully I can make it relate and you can tell me if it sounds completely arbitrary, but one of the the differences that we see in traditional way of seeing is that there seems to be a difference between, let's say, a liturgical practice.
+
+Unknown speaker 01:18:12 
+If you think about like a liturgical practice in which you are in some ways coming together and you are attending to something above you, right?
+
+Unknown speaker 01:18:20 
+So you a group comes together, they sing, they process, they do all these things and they in some ways are attending and and making themselves dependent is a good way of thinking about it.
+
+Unknown speaker 01:18:30 
+Like consciously making themselves dependent on something that is a higher good, right?
+
+Unknown speaker 01:18:39 
+The God of infinite love, a saint, a patron saint, something that is is a good.
+
+Unknown speaker 01:18:40 
+And that has always been differentiated from the the the sorcerer, right?
+
+Unknown speaker 01:18:50 
+The sorcerer that is able to perceive these patterns in the world and is able to kind of grab them and manipulate them towards power, you could say.
+
+Unknown speaker 01:18:59 
+Can I just say one thing because um,
+
+Unknown speaker 01:19:02 
+Mike, I mean, Mike's work as the potential and Mike, I'm not imposing on you.
+
+Unknown speaker 01:19:06 
+You wrote a you wrote an article with others about care and Buddhism and AI.
+
+Unknown speaker 01:19:15 
+I'm not so I'm not bringing in something foreign here.
+
+Unknown speaker 01:19:18 
+And and and I think I've made enough connections here to make the claim.
+
+Unknown speaker 01:19:20 
+Well, what Mike's work's doing, especially, you know, if it if it can integrate with my work and if my work can integrate with his work, is the possibility of stitching back knowledge and ontology and the cultivation of wisdom rather than having them separate, culturally separate and orthogonal from each other.
+
+Unknown speaker 01:20:00 
+Like the
+
+Unknown speaker 01:20:01 
+the possibility uh of bridging
+
+Unknown speaker 01:20:03 
+in like what like
+
+Unknown speaker 01:20:04 
+between knowledge and wisdom to put it sort of simplistically
+
+Unknown speaker 01:20:09 
+is opened up by the kind of work that Mike is doing and the kind of work that I'm doing.
+
+Unknown speaker 01:20:13 
+And and we don't have to live with the enlightenment idea
+
+Unknown speaker 01:20:17 
+that there's knowledge over here that is completely valueless or something like that.
+
+Unknown speaker 01:20:21 
+And then there's wisdom over here, which is kind of arcane and
+
+Unknown speaker 01:20:26 
+we could go back to a different way, which is
+
+Unknown speaker 01:20:29 
+the possibility that our wisdom could impact on our knowing and our knowing can make an impact on our attempts to cultivate wisdom and meaning.
+
+Unknown speaker 01:20:38 
+I think Mike's work and my work is arguing for that possibility and strongly recommending it to people.
+
+Unknown speaker 01:20:44 
+Mike, you've published on this, so I don't think I'm putting anything into your mouth to say that.
+
+Unknown speaker 01:20:48 
+Yeah, yeah, yeah, no, that's that's absolutely true.
+
+Unknown speaker 01:20:50 
+And I I I apologize, I'm already um quite late.
+
+Unknown speaker 01:20:58 
+I'm going to have to go in about three minutes, sorry, in about three minutes, I'm going to have to pop off for sure.
+
+Unknown speaker 01:21:00 
+Uh just just just to say that um I look I I I totally understand uh the distinction, you know, the sorcerer picture that you were painting.
+
+Unknown speaker 01:21:06 
+I I get the distinction.
+
+Unknown speaker 01:21:10 
+Uh I am not claiming that uh you know, um
+
+Unknown speaker 01:21:13 
+pure intelligence un sort of guided by by wisdom, by compassion, by these other things cannot be used for uh very sort of selfish destructive aims.
+
+Unknown speaker 01:21:23 
+Of course, of course it can.
+
+Unknown speaker 01:21:24 
+Um, I I once I once did a um uh a poll of uh of the following situation.
+
+Unknown speaker 01:21:33 
+just visualize, you're Og and you just discovered fire.
+
+Unknown speaker 01:21:37 
+And so you're on your way back to your tribe to show them this like amazing thing and then you you you have this vision of everything that follows after that, steel, weapons, uh, you know, artificial hearts, nuclear bomb, you know, submarines, antibiotics, like the whole the whole thing, right?
+
+Unknown speaker 01:21:48 
+So now the so now the question, do you sort of put the stick out and be like, nope, I haven't got anything or do you or do you roll, right?
+
+Unknown speaker 01:21:54 
+So about so about 6% of and these are people who who read my stuff, so they're presumably they're you know, sort of they like some of this.
+
+Unknown speaker 01:22:08 
+6% of them said you should have put out the fire and and and stayed outdoors freezing, you know, freezing and and and stuff like that.
+
+Unknown speaker 01:22:10 
+So, uh, you know, I I I don't think the right framing and who am I to say anything on these matters, right?
+
+Unknown speaker 01:22:16 
+I I don't know, but but this is just my own personal, my own personal view is that the way I see it is not as a matter of we got to find the right way to relinquish responsibility and then things will be good.
+
+Unknown speaker 01:22:33 
+No, it's to what as what John said, is to is to try to couple the the intelligent the rise in in capacity with the rise in the cone of compassion, right?
+
+Unknown speaker 01:22:36 
+The the the level of care that we can and wisdom that we can manage
+
+Unknown speaker 01:22:39 
+so that we can actually be the positive agents of change because I just don't see waiting for somebody else to do it.
+
+Unknown speaker 01:22:41 
+It it doesn't seem to be working out.
+
+Unknown speaker 01:22:42 
+Michael, thank you so much.
+
+Unknown speaker 01:22:43 
+Thanks for your patience and thanks for this was in some ways kind of exploratory to trying to figure out how we could we could discuss together and uh but I think there's some some really great nuggets that have come out of the conversation.
+
+Unknown speaker 01:22:48 
+I really appreciate it.
+
+Unknown speaker 01:22:50 
+Fabulous.
+
+Unknown speaker 01:22:51 
+Thank you so much.
+
+Unknown speaker 01:22:53 
+Yeah, lots lots more to talk about.
+
+Unknown speaker 01:22:54 
+Happy to happy to do it anytime.
+
+Unknown speaker 01:22:55 
+Yeah, thank you.
+
+Unknown speaker 01:22:56 
+I appreciate it.
+
+Unknown speaker 01:22:57 
+Great seeing you again, Mike.
+
+Unknown speaker 01:22:58 
+Thanks John.
+
+Unknown speaker 01:22:59 
+Yeah, very good to see you both.
+
+Unknown speaker 01:23:00 
+Take it easy.
+
+Unknown speaker 01:23:01 
+Bye.

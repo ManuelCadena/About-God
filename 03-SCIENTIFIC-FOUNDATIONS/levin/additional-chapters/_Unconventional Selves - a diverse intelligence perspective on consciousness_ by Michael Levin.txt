@@ -1,0 +1,2415 @@
+ 
+ 
+
+Unknown speaker 00:00 
+uh thank you uh to the organizers for allowing me to participate even though I can't be there in person.
+
+Unknown speaker 00:04 
+Um it's too bad.
+
+Unknown speaker 00:06 
+I I would love to be there.
+
+Unknown speaker 00:07 
+Um and uh what uh I'm going to talk about today are uh some ideas uh around uh embodiments of uh diverse kinds of minds and and maybe the implications for um for consciousness.
+
+Unknown speaker 00:20 
+Uh I myself uh do not work specifically on consciousness, um but this many of the things we do I think have implications for it.
+
+Unknown speaker 00:27 
+So today I'm going to go out on on a few limbs and uh try to introduce uh some data to you that that may be relevant.
+
+Unknown speaker 00:34 
+Um all the primary papers, the software, the data sets, everything is uh downloadable here at this uh laboratory website and uh this is my own personal blog where I talk about what I think some of these things um actually mean.
+
+Unknown speaker 00:46 
+So what I want to be clear today, uh especially for this audience is that I do not claim to have a new theory of consciousness, nor am I going to try to support one specific theory of consciousness uh by data, but uh but here are the things that uh I am going to claim.
+
+Unknown speaker 00:58 
+First of all, that um the use of cognitive frameworks, in other words, uh mentalistic terms and all of the uh the tools both practical and conceptual of cognitive and behavioral science, uh are highly applicable outside the brain.
+
+Unknown speaker 01:16 
+I do not think neuroscience is about neurons at all, um and I think uh a lot of what we have gained from behavioral and neuroscience can be used far outside the brain.
+
+Unknown speaker 01:26 
+And this is not a linguistic, uh philosophical or uh poetic kind of claim.
+
+Unknown speaker 01:38 
+Um over the last 25 years, being able to do this has led to many new discoveries and new capabilities both in our lab and in other labs.
+
+Unknown speaker 01:45 
+And so so I claim this uh the the defense for this kind of weird idea is is simply empirical fertility.
+
+Unknown speaker 01:54 
+Uh I think that uh if we use any of the following criteria for addressing the problem of other minds with each other, so whether you like uh cellular mechanisms that underlie cognition in the brain, whether you like problem-solving behavior, or evolutionary relationships or even metrics such as uh phi and causal emergence and things like that.
+
+Unknown speaker 02:06 
+If you use any of those things as evidence of consciousness in addressing that the problem of other minds, then for those exact same reasons, you need to consider very seriously the possibility of consciousness in many body structures.
+
+Unknown speaker 02:18 
+Uh I personally actually would go significantly farther than that, but for today we're going to focus on um on on biologicals mostly with a little bit at the end of of some other things.
+
+Unknown speaker 02:28 
+But I think I think uh those those criteria are telling us that we have to take this very seriously.
+
+Unknown speaker 02:33 
+And I think that uh outstanding problems of AI and ethics and many other things are not going to be resolved if we insist on maintaining a restricted focus on humans, on three-dimensional space as the only kind of arena for embodiment and on brains as privileged.
+
+Unknown speaker 02:54 
+I think all three of those things have to be uh widened quite quite significantly.
+
+Unknown speaker 03:18 
+So what I'm going to do today uh comes in four parts, uh a little bit about my framework, uh and then I'm going to show you uh what I think of as a as a really interesting model system for these kinds of studies, which is the collective intelligence of morphogenesis.
+
+Unknown speaker 03:32 
+We'll talk a little bit about some new creatures that have never existed on earth before and uh and and then I'll make a couple of conclusions and and maybe say some um some some fairly um outlandish things.
+
+Unknown speaker 03:38 
+And so we'll see.
+
+Unknown speaker 03:54 
+Um the the first thing I I want to point out is that I I think a lot of discussion in the philosophy of mind and in this field in general has been driven by this kind of uh this kind of picture.
+
+Unknown speaker 04:09 
+This is uh a famous piece of art called Adam names the animals in the Garden of Eden.
+
+Unknown speaker 04:28 
+And there's a couple of uh things here that I think are deeply wrong with this picture, but but also something that's that's very very deep and interesting.
+
+Unknown speaker 04:37 
+Uh the thing that's wrong with it is that it gives the this this this idea which I think a lot of people have internalized that there are discrete natural kinds.
+
+Unknown speaker 04:59 
+There are different kinds of animals.
+
+Unknown speaker 05:00 
+and the cognitive and and so on.
+
+Unknown speaker 05:02 
+Um, when people say how how why do you think that they are uh continuous as opposed to categorical uh binary sorts of uh sorts of things.
+
+Unknown speaker 05:09 
+I I I think it's it's actually um on on the the onus is on those who who do think that these are sharp transitions and categories to show why that makes sense.
+
+Unknown speaker 05:18 
+I I I think the background uh assumption should be that it's continuous and gradual.
+
+Unknown speaker 05:22 
+And if you think there are phase transitions, you have to say what those are and and how they exist.
+
+Unknown speaker 05:27 
+So, um, I I take continuity to be the the null hypothesis for all of this.
+
+Unknown speaker 05:31 
+Now, we are at the center of not just this continuum, but actually another continuum where both through biological changes and technological changes,
+
+Unknown speaker 05:36 
+the notion of a human, which figures very prominently in discussions of philosophy of mind and so on, which they, you know, they typically mean the mature sort of modern adult human here with his agential glow of of responsibility and and and you know, and moral worth and all of that.
+
+Unknown speaker 05:57 
+Uh, again, I I I think this is all this is all a spectrum.
+
+Unknown speaker 06:00 
+because it is not it is no longer going to work to uh talk about humans versus machines or living things versus machines because all of this forms a very uh a very uh tight continuous spectrum.
+
+Unknown speaker 06:06 
+And when we have things like this, it is not going to be feasible to uh start issuing some sort of proof of humanity certificates to figure out if he's got more or less than 50% of uh engineered components in here, because life is highly interoperable at every level of organization you can introduce quote unquote machine like parts.
+
+Unknown speaker 06:19 
+And so this is another distinction that I think is going to um disappear.
+
+Unknown speaker 06:35 
+So, uh, I I've been working on a framework uh whose job it is to to enable us to recognize, create, and ethically relate to truly diverse intelligences.
+
+Unknown speaker 06:45 
+And this means not just the primates and birds and things that and and maybe a whale or an octopus or the kinds of things that people often think about, but also on at on the on the exact same scale, I want to be thinking about um all kinds of weird creatures such as colonies and swarms,
+
+Unknown speaker 06:53 
+synthetic engineered new life forms, AIs, whether purely software or with some sort of robotic embodiment, potentially someday exo-biological agents, uh, and some very exotic things that I won't have time to talk about today, including uh patterns within media and and some even stranger things that um that I've talked about in other places.
+
+Unknown speaker 07:03 
+So, uh, what I'd like to do is to develop a framework that allows us to think about what what do all of these things have in common, and very, very critically, it has to move experimental work forward.
+
+Unknown speaker 07:10 
+It has to give us new capabilities uh at the bench and it has to enable better ethical frameworks.
+
+Unknown speaker 07:20 
+And of course, I'm not the first person to try for something like this, so here's um Rosen Bluthner and Pigalo who tried uh kind of a cybernetic uh cybernetic scale all the way from passive matter to uh human metacognition.
+
+Unknown speaker 07:35 
+Uh, but uh but this is this is this is the sort of thing that I've been trying to flesh out with newer data that uh that these guys didn't have access to and all the details are here if you want to see um all the all the details they're on they're they're in this paper.
+
+Unknown speaker 08:00 
+So, so the first thing, the first thing to note, so let's just talk about the biological material that that underlies um uh examples of uh of of cognition and consciousness that that of which we are aware.
+
+Unknown speaker 08:07 
+Uh, this is this is where it comes from.
+
+Unknown speaker 08:15 
+We all start life as a single cell.
+
+Unknown speaker 08:23 
+This thing people with the the unfertilized oocyte that people will look at and say, okay, well, this is subject to the laws of physics and chemistry.
+
+Unknown speaker 08:33 
+And then gradually and slowly, it becomes something that is subject to uh the the rules of behavioral science or even psychoanalysis and and things like that.
+
+Unknown speaker 08:44 
+So, uh, one thing developmental biology tells you quite clearly is that there is no magical uh place to draw a bright line where you can say, okay, you were physics before, but now you're a mind, okay?
+
+Unknown speaker 08:54 
+And and actually there's a few interesting things that can happen even after that that we can talk about.
+
+Unknown speaker 09:08 
+Okay.
+
+Unknown speaker 09:30 
+But um, but at least some some people will say, okay, sure, you can talk about ants and beehives as some sort of a collective intelligence, but maybe that's just metaphorical talk.
+
+Unknown speaker 09:54 
+Surely we are a true unified intelligence.
+
+Unknown speaker 10:09 
+into that.
+
+Unknown speaker 10:10 
+that is simply not divisible into into other parts.
+
+Unknown speaker 10:13 
+that does what it needs to do sort of in some sort of monadic form.
+
+Unknown speaker 10:16 
+And so this is the kind of thing that we are all made of.
+
+Unknown speaker 10:28 
+So this is a free living lacrymaria, but but you get the idea.
+
+Unknown speaker 10:30 
+It's a single cell, uh, no brain, no nervous system, handles all of its needs uh in ways that make uh, you know, soft matter, um, physicists and roboticists very jealous.
+
+Unknown speaker 10:36 
+uh the degree of of control it has over its body as it pursues its tiny local little um little goals.
+
+Unknown speaker 10:40 
+And if if we want to say things about our own uh consciousness and that of even weirder uh kinds of novel engineered constructs,
+
+Unknown speaker 10:46 
+we need to be able to say something about this kind of creature and what happened to it when it joined into networks to enable it to uh become the kind of thing that we are.
+
+Unknown speaker 10:53 
+And uh Nick and I uh try to uh make those questions very sharp in the form of a of a flowchart in this in this paper.Now, the interesting thing is that while this this this little guy has all kinds of interesting behavioral properties,
+
+Unknown speaker 10:59 
+In fact, it is even made of uh material that already has some of those properties.
+
+Unknown speaker 11:04 
+So, for example, it turns out that molecular networks, never mind cells, the nucleus, synapses, never mind any of that, just molecular networks, so represented by a small set of ordinary differential equations that describe how each chemical turns other chemicals on and off, so it's just a little a little network.
+
+Unknown speaker 11:21 
+Even these things are capable of six different kinds of learning, including Pavlovian conditioning.
+
+Unknown speaker 11:27 
+And we are using this we are taking advantage of this in a lab for all kinds of medical purposes such as drug conditioning and so on.
+
+Unknown speaker 11:36 
+You can train the material inside the cells.
+
+Unknown speaker 11:36 
+So, so when we think about uh ingredients to to cognition and the kinds of things that go along with significant consciousness such as memory and learning and so on,
+
+Unknown speaker 11:44 
+we have to understand this did not wait for brains and synapses to to be formed.
+
+Unknown speaker 11:52 
+This was this was in many ways a free gift from uh from from mathematics.
+
+Unknown speaker 11:53 
+because uh the properties of these networks are actually to to learn and the the ability to uh to to to learn from experience in precisely ways that are recognized by behavioral science in terms of habituation, sensitization, uh anticipation, associative conditioning, all of those things.
+
+Unknown speaker 12:09 
+Those things emerge from the mathematics of these networks.
+
+Unknown speaker 12:15 
+They are not dependent on uh evolution of uh of the substrate.
+
+Unknown speaker 12:21 
+In fact, something else that we discovered quite quite recently and this this paper is is going to come out I think next next week or something.
+
+Unknown speaker 12:22 
+that that we actually found that if you if you compute causal emergence and in particular, I I know there's many metrics of it where we're we're using this one called phi.
+
+Unknown speaker 12:30 
+Um, if
+
+Unknown speaker 12:31 
+if you actually compute causal emergence uh of these
+
+Unknown speaker 12:34 
+networks during the training process, what you find, not in all of them, but in many of them, what you find is that actually the process of being trained uh causes their um uh their their PhiD to go up, that is uh instances of training and then and then uh testing actually reifies the network as be more and more as being more than the sum of its parts.
+
+Unknown speaker 12:55 
+So this idea of being able to use um causal emergence metrics to understand what kind of system, how, you know, how how much causality is in the higher level system versus its parts.
+
+Unknown speaker 13:05 
+Again, that is not a brain specific thing.
+
+Unknown speaker 13:13 
+You can find these kind of phenomena very early on and I could say much more about this, but um I I need to move on.
+
+Unknown speaker 13:13 
+Um,
+
+Unknown speaker 13:14 
+but but one of the one of the most important things to realize about these kinds of systems is that they remind us that as as humans given our own evolutionary history, we are obsessed with the three-dimensional world.
+
+Unknown speaker 13:20 
+In other words, when we say behavior or more importantly, when we say embodiment, what we typically mean are medium-sized objects moving through uh through three-dimensional space at medium speeds.
+
+Unknown speaker 13:29 
+Those are the things we are primed to recognize as intelligent.
+
+Unknown speaker 13:39 
+And uh this is this is a problem for for for this field because we find it very difficult to visualize things that biology has been doing long before brains and motility came on the scene.
+
+Unknown speaker 13:50 
+Biology has been navigating all kinds of other problem spaces.
+
+Unknown speaker 13:57 
+So this the what what I think is the most important thing about quote unquote embodiment, I think embodiment is really critical, but embodiment is not what we think it is.
+
+Unknown speaker 14:06 
+It is not the ability to not not just the ability to move around through three-dimensional space.
+
+Unknown speaker 14:07 
+Because this kind of loop, this perception decision action loop, happens in all kinds of spaces.
+
+Unknown speaker 14:11 
+Living things navigate the space of gene expression states, they navigate the state the space of physiological states, um and what we'll talk about the most today is anatomical morpho space.
+
+Unknown speaker 14:24 
+They they navigate the space of possible shapes.
+
+Unknown speaker 14:24 
+And in all of these cases, um you can uh you can you it turns out you can use the tools of cognitive and behavioral science to understand how they navigate these spaces and the degree of ingenuity they deploy and I think that if we had some sort of inner sense where we could directly sense the way we do with taste and and so on, either gene expression let states or uh physiological um parameters in our blood, I think we would have no trouble realizing that the our liver and our kidneys are these amazing symbionts that intelligently navigate these other spaces to keep us alive every day.
+
+Unknown speaker 14:57 
+So we need to widen this notion of of what embodiment really means.
+
+Unknown speaker 15:00 
+and um,
+
+Unknown speaker 15:01 
+be, be, be broader about what kind of spaces intelligence exerts itself in.
+
+Unknown speaker 15:08 
+Now, uh, just uh the last, the last thing I'll say about my sort of philosophical cards on the table is that uh what I think, I think cognitive claims are basically interaction protocol claims.
+
+Unknown speaker 15:18 
+In other words, when somebody says the system has a particular degree of cognition, intelligence, whatever, I don't think we're talking about what it really is in its essence as some sort of ground truth that we can argue about for a bit and then eventually settle on the correct answer.
+
+Unknown speaker 15:38 
+I don't think that's what's going on here.
+I think what what you're really saying when you make those claims is that here is a set of tools that I bring to interacting with the system, and those can be hardware modification, it might be cybernetics and control theory, it might be behavioral science, it might be uh psychoanalysis and love and friendship and and whatever you know, way it happens at this end.
+
+Unknown speaker 15:52 
+But what you're saying is I'm going to bring this bag of tools and then I'm going to interact with the system and then all of us as a matter of empirical discovery can find out how well that worked out for me.
+
+Unknown speaker 16:01 
+So if you assume that cells and tissues as as modern molecular medicine does, are somewhere down here, they're mechanical machines that need to be rewired with genomic editing and things like this, you're going to leave a lot on the table because actually uh testing the applicability of some of these tools uh makes many discoveries that are not accessible um at this level.
+
+Unknown speaker 16:20 
+So, I think the I I think all of these things are uh empirical questions.
+I don't think they can be settled from a philosophical armchair.
+
+Unknown speaker 16:26 
+We cannot just decide, we we should not be tied to um categories, ancient philosophical categories, those kinds of things have to advance with the science and the question simply is this, uh if we if we assume a continuum hypothesis, then we are open to testing tools from other disciplines typically reserved for minds and and and especially humans, in other cases and see what happens and and see what what kind of empirical purchase we get on this.
+
+Unknown speaker 16:53 
+Okay, so, so at this point uh I'm going to uh talk about some some very specific examples using a model system.
+The model system is the collective intelligence of cells, making decisions, uh learning and uh meeting goals and failing to meet other goals in the process we call morphogenesis.
+
+Unknown speaker 17:09 
+Now I preface this by saying that uh actually I think I think Turing was onto this.
+I think I think he he didn't write about this directly to my knowledge, but I I think he saw clearly a deep symmetry between the uh self-assembly of bodies and the self-assembly of minds because he not only talked a lot about uh different embodiments of of mind and and reprogrammability and
+
+Unknown speaker 17:30 
+intelligence in in diverse implementations and so on.
+
+Unknown speaker 17:33 
+But he also wrote uh this this really interesting paper on the chemical basis of morphogenesis.
+
+Unknown speaker 17:37 
+And why would why would somebody interested in intelligence uh be be be looking at chemicals in early development because I think he realized this is fundamentally the same problem.
+
+Unknown speaker 17:43 
+And there's something something interesting.
+
+Unknown speaker 17:48 
+Um I we used to I used to have my students do this by hand and then and then we develop the tool uh to uh to do to to do this that you can all play with.
+
+Unknown speaker 17:56 
+The the game is this, you take a paper in neuroscience, you throw it into Microsoft Word.
+
+Unknown speaker 18:00 
+And you just do a find replace, anywhere it says neuron, you say cell, anywhere it says milliseconds, you say minutes, anywhere it says something about three-dimensional space, you say anatomical morph space and that's it.
+
+Unknown speaker 18:12 
+And you usually end up with a very interesting developmental biology paper, the symmetries are are quite striking and and you can you can try this yourself and it's described here.
+
+Unknown speaker 18:20 
+So, so what I'm going to talk about next is to give you some specific examples and then show you some discoveries that this that this idea has led to.
+
+Unknown speaker 18:28 
+So the first idea is that morphogenesis is not hardwired.
+
+Unknown speaker 18:31 
+It is simply not the case that you start with an egg, then eventually then then you just follow some some rules that the DNA laid out and then by emergence, you get some kind of complex thing, this this sort of feed forward process that that is not actually what happens.
+
+Unknown speaker 18:44 
+Uh what does happen is a goal-directed navigation of problem space.
+
+Unknown speaker 18:48 
+So, so here's an example.
+
+Unknown speaker 18:50 
+Uh this this is an axolotl, and axolotls are are very good at at uh anatomical homeostasis, which means that if you amputate some part of their body, for example, the limb, you can amputate anywhere you want.
+
+Unknown speaker 18:57 
+The cells immediately can detect that they've been deviated from their correct position in anatomical space and anatomical space is has you know, many dimensions, I can't really draw it.
+
+Unknown speaker 19:02 
+But but you get the idea.
+
+Unknown speaker 19:14 
+The cells will very quickly uh try to reduce that error and then the most amazing thing about regeneration happens, then they stop.
+
+Unknown speaker 19:21 
+How do they know when to stop?
+
+Unknown speaker 19:26 
+Well, they stop when the correct uh structure has been completed.
+
+Unknown speaker 19:31 
+Now, uh this is uh this is an example of anatomical homeostasis.
+
+Unknown speaker 19:31 
+It it the system tries to reduce the delta between where you where it is now and where it wants to be.
+
+Unknown speaker 19:36 
+This means that um it has to store a set point, which I'll show you exactly how that's stored.
+
+Unknown speaker 19:44 
+So it has to store a memory of what is the correct um shape, and the other thing is that you can do this again and again uh and it will keep doing it.
+
+Unknown speaker 19:54 
+Um about five or six times actually, eventually it uh it it it stops it just stops and and whether that's a true instance of learning, we we don't know yet, but it may well be that eventually.
+
+Unknown speaker 20:00 
+uh,
+
+Unknown speaker 20:00 
+it just gives up and and and no longer wants to wants to do this anymore.
+
+Unknown speaker 20:03 
+But one, one important thing is that
+
+Unknown speaker 20:04 
+this whole process of anatomical homeostasis is not about repairing damage.
+
+Unknown speaker 20:09 
+It's actually much more interesting than that.
+
+Unknown speaker 20:11 
+If we take a tail, and this is old work, uh, from from the 50s,
+
+Unknown speaker 20:15 
+if you take a tail and surgically attach it to the flank here of the of the salamander, let's say, let's say um between the two limbs,
+
+Unknown speaker 20:23 
+what will happen is that over uh over time it will get remodeled into a limb.
+
+Unknown speaker 20:27 
+Now, think about what that means, that the cells sitting up here at the tip of the tail are fine, they're tail tip cells sitting at the end of the tail, there's nothing locally wrong with them, but they turn into fingers.
+
+Unknown speaker 20:37 
+Because what the system is doing is not only does it uh does it have a a stored set point of what a correct layout should be, it should have a limb in the middle, not not a tail,
+
+Unknown speaker 20:45 
+but it's able to, it's got this interesting um kind of top-down causation where all the molecular uh steps that need to happen in order to turn tails tail structures into limb structures are in the service of a larger scale goal of which they probably know nothing about, but the system as a whole filters down, this very high level design spec of having a a limb instead of a tail,
+
+Unknown speaker 20:59 
+filters that down to the behavior of cells and molecules, exactly as happens in cognitive systems where your uh very abstract social and financial goals have to be actually transduced down into moving ions across your muscle membrane so that you can actually move around and and execute on on those goals.
+
+Unknown speaker 21:14 
+So this idea of local, local order obeying a global plan is is is very interesting.
+
+Unknown speaker 21:35 
+There are, you know, if you if you ask why the cells are doing what they do, you run into the same kind of thing as with explaining instances of behavior.
+
+Unknown speaker 21:54 
+You can you can try to give molecular explanations, while it's because this molecule signal to that receptor and so on.
+
+Unknown speaker 22:00 
+But actually that's not the deeper answer as to why it's happening.
+
+Unknown speaker 22:03 
+The real answer as to why it's happening has to do with the target state that it's that it's trying to to uh to achieve.
+
+Unknown speaker 22:10 
+And what you'll see eight to 10 cells are making this kind of structure.
+
+Unknown speaker 22:14 
+One thing you can do is make polyploid nutes that have extra copies of their chromosome.
+
+Unknown speaker 22:20 
+If you do that, the cells get bigger.
+
+Unknown speaker 22:30 
+As the cells get bigger, uh, you find that the amazing thing is that it still makes an animal of exactly the same size.
+
+Unknown speaker 22:35 
+Well, how can that be?
+
+Unknown speaker 22:48 
+Because it scaled the number of cells to the new cell size.
+
+Unknown speaker 23:04 
+And if you make uh truly gigantic cells and these are like 6N polyploid nutes, only one cell will bend around itself, abandoning the the molecular mechanisms used here, cell to cell communication, and use cytoskeletal bending to bend around itself to uh solve the problem and create the same structure.
+
+Unknown speaker 23:14 
+So that same journey in anatomical space, the system is using different tools in its genetically specified set of uh fordances to get to where it needs to go.
+
+Unknown speaker 23:34 
+Now, this is a standard component of many IQ tests, here's a bunch of objects that you have used them to solve this problem, you haven't seen before.
+
+Unknown speaker 23:54 
+And so think about the plasticity here.
+
+Unknown speaker 24:00 
+If you're a uh a nude coming into the world, never mind uncertainty about your environment, you can't even trust your own parts.
+
+Unknown speaker 24:07 
+You don't know how many copies of your genetic material you're going to have, you don't know um how big your cells are going to be.
+
+Unknown speaker 24:14 
+You have to use whatever tools you have creatively to solve the problem that you have, which is to get from point A to point B, from from from where you are in the anatomical space as an egg to where you're going to be um as a as a good nude.
+
+Unknown speaker 24:34 
+And there are many examples, we could we could do this for for hours, there are there are just remarkable examples of this.
+
+Unknown speaker 24:38 
+So, so actually morphogenesis does exactly the kind of creative confabulation that I think goes on in in cognition where at any given time slice as an agent doesn't have access to the past, what you have access to are the memory engrams, the messages left by your past self, and at that point you have to interpret, like all messages, your memories have to be interpreted, they don't need to be taken literally, they need to be interpreted, and there's some examples that show you that they can't be taken literally, for example, memories that pass from a caterpillar to butterfly and they get remapped into a novel um embodiment.
+
+Unknown speaker 25:00 
+and what you'll notice is that we
+
+Unknown speaker 25:01 
+prevented the primary eyes from forming, but we put an eye on its tail.
+
+Unknown speaker 25:05 
+I'll show you in a minute how we do that.
+
+Unknown speaker 25:06 
+Turns out these animals can see perfectly well.
+
+Unknown speaker 25:09 
+How do we know?
+
+Unknown speaker 25:12 
+We built a device that trains them on visual cues.
+
+Unknown speaker 25:13 
+And it turns out that um yeah, so so these eyes form, they make an optic nerve.
+
+Unknown speaker 25:16 
+It does not go to the brain, it goes sometimes to the spinal cord, sometimes to the gut, sometimes nowhere at all.
+
+Unknown speaker 25:23 
+And these animals can see.
+
+Unknown speaker 25:24 
+It does not take new rounds of mutation, selection, adaptation, this works out of the box.
+
+Unknown speaker 25:28 
+You've changed drastically the sensory motor architecture of this animal, no problem, uh it it it works it works right out of the box.
+
+Unknown speaker 25:35 
+And I think that's because of this incredible
+
+Unknown speaker 25:39 
+uh it's because of this uh incredible plasticity that the
+
+Unknown speaker 25:42 
+tissue has that uh it it it interprets uh its uh its local situation to tell the best story that it can.
+
+Unknown speaker 25:49 
+It is not uh committed to whatever its ancestors were doing to uh with with that information.
+
+Unknown speaker 25:54 
+And so before I show you how all of this works, um I just want to give you one simple example to remind us of of uh the idea of the of the importance of storing pattern memories.
+
+Unknown speaker 26:04 
+And that this is a
+
+Unknown speaker 26:05 
+this is something we discovered a few years ago that uh these tadpoles
+
+Unknown speaker 26:09 
+in order to become a frog, they have to rearrange their face.
+
+Unknown speaker 26:15 
+So this is metamorphosis, the eyes have to move, the nostrils, the mouth, everything has to move.
+
+Unknown speaker 26:16 
+And the standard assumption in the field was that this is a hardwired process that the genetics somehow tells every uh structure which way to go and how much.
+
+Unknown speaker 26:24 
+Well, as I said, this is you you can't just assume these things, you have to do perturbative experiments to find out how much competency the system has at problem solving.
+
+Unknown speaker 26:32 
+And so what did we do?
+
+Unknown speaker 26:44 
+We we created these so-called Picasso tadpoles.
+
+Unknown speaker 26:45 
+So they're scramble, we scrambled all the craniofacial organs.
+
+Unknown speaker 26:46 
+The eyes on top of the head, the mouth is off to the side, the whole it's like a like a Mr.
+
+Unknown speaker 26:47 
+Potato head after you scramble all the all the parts.
+
+Unknown speaker 26:54 
+Well, it turns out that those tadpoles make largely perfectly normal frogs because the genetics does not give you a hardwired set of rearrangements, what it actually gives you is a system that can execute error minimization and all of these things will move through novel paths to get to where they're going uh despite the fact that uh they're starting off from weird positions and actually sometimes they go too far and they have to come back.
+
+Unknown speaker 27:06 
+So this this tells us several things.
+
+Unknown speaker 27:09 
+The system has to have a mechanism for knowing what is the correct position.
+
+Unknown speaker 27:14 
+How do you know you've gotten to the right place and it has to have mechanisms for actually computing the the means ends analysis of how do I reduce error, what am I going to do to to reduce this error.
+
+Unknown speaker 27:23 
+And so uh over well over 25 years ago now, what I did was to simply say, okay, well, uh what what is
+
+Unknown speaker 28:00 
+the one example that we we know of where uh groups of cells store uh goal states and try to uh execute towards those goal states and that of course is is the brain.
+
+Unknown speaker 28:10 
+And so I I don't need to uh in this audience, I don't need to go into all of this, but just to say that there's ion channel uh and and gap junction hardware that underlies this electrical network, of course also neurotransmitters and many other things.
+
+Unknown speaker 28:23 
+And uh and there's this there's this process of um project of neural decoding, this idea that if we could just read out the electrophysiology and if we knew how to decode it, we would be able to read out the cognitive content, the mental content of the animal.
+
+Unknown speaker 28:43 
+We would know the goals, the preferences, the competencies if if if only we knew how to read out this kind of electrical activity.
+
+Unknown speaker 28:47 
+So, it turns out that um and and and probably shouldn't shouldn't have been too much of a surprise looking at it now, this idea that actually this this the the ability of this kind of hardware to do these amazing things is absolutely ancient.
+
+Unknown speaker 29:06 
+Evolution discovered the benefits of electrical networks for integrating and processing information long before neurons, in fact, long before multicellularity showed up.
+
+Unknown speaker 29:16 
+around the time of bacterial biofilms, this was already a bioelectric networks were already being used to create proto individuals that were more than the sum of their parts.
+
+Unknown speaker 29:20 
+And every cell in your body has ion channels, every uh most cells have these electrical synapses known as gap junctions, uh lots of neurotransmitters uh being part of this network outside the brain.
+
+Unknown speaker 29:27 
+And so, so this is this is critical uh to my claim that that if, you know, if you think consciousness is associated with brains because of the amazing hardware that the brain has, that hardware is ancient, it long predates neurons and brains and uh it is throughout it is present throughout um biological bodies.
+
+Unknown speaker 29:46 
+And so that raises the interesting question, we we know what these networks think about, what do these networks think about before, before there were brains and before there's a brain in the in the um in the in the embryo, um what uh uh, you know, what what are they think about?
+
+Unknown speaker 30:00 
+And so, basically, we undertook the process of uh stealing as many tools and uh concepts from uh from neuroscience to ask very similar questions.
+
+Unknown speaker 30:00 
+Could we do a kind of uh decoding here to ask in these embryonic examples, what what what are these networks uh what are these networks doing?
+
+Unknown speaker 30:00 
+there was some uh
+
+Unknown speaker 30:01 
+explant itself to look at the
+
+Unknown speaker 30:03 
+be able to read out all the different voltage patterns that in all the conversations that these cells are having with each other.
+
+Unknown speaker 30:08 
+And then uh use all kinds of modeling integrated with the molecular biology of what ion channels uh underlie these these gradients and then of course tissue level dynamics of what's happening with uh with a voltage gradients as a function of time.
+
+Unknown speaker 30:22 
+And then continue scaling up so that we can uh integrate that with some ideas in dynamical systems theory and uh
+
+Unknown speaker 30:29 
+connectionist ideas around uh networks that store memories and can do pattern completion, right?
+
+Unknown speaker 30:35 
+So that regenerating uh a limb that I showed you is an example of pattern completion.
+
+Unknown speaker 30:44 
+And so, so we can we can sort of integrate across the levels of organization here.
+
+Unknown speaker 30:45 
+Okay, but but but that's that's just reading the patterns.
+
+Unknown speaker 30:47 
+Um more importantly than that, you want to be able to write patterns because it's not enough to just do observations, you have to do perturbative experiments.
+
+Unknown speaker 30:54 
+So how do we uh how do we communicate with and I really think that uh what we're doing here and I'm about to show you some examples of this is is not uh uh simply trying to micromanage uh physiological states on some kind of machine.
+
+Unknown speaker 31:13 
+I think we're actually communicating with an unconventional uh decision-making memory forming intelligence here.
+
+Unknown speaker 31:16 
+And in order to do that, we use, again, not surprisingly, the uh electrical interface.
+
+Unknown speaker 31:18 
+In other words, uh no no no no magnets, no electromagnetics, no applied fields, no frequencies.
+
+Unknown speaker 31:23 
+What we do is we hack the interface that the cells use to become a larger uh level entity.
+
+Unknown speaker 31:30 
+In other words, the cognitive glue, this is this this just like in our brain, the the the electrophysiological processes are the cognitive glue that make us more than a pile of neurons.
+
+Unknown speaker 31:40 
+And so what we can do is we can open and close these channels, we can open and close these gap junctions and so we can we can manipulate the synaptic and the intrinsic plasticity of any tissues in the body.
+
+Unknown speaker 31:50 
+And then we can ask what happens when we write new memories of new new voltage patterns into the uh into the into the system.
+
+Unknown speaker 31:57 
+So I'll show you one of my favorite examples.
+
+Unknown speaker 32:00 
+Uh, we we have a particular voltage state that we can induce by injecting RNA encoding certain ion channels.
+
+Unknown speaker 32:06 
+If we inject that uh those RNA into the early uh embryo, this is early frog embryo, uh into a bunch of cells that are going to become uh this gut region.
+
+Unknown speaker 32:16 
+What we can do is set up of um an eye specific voltage pattern and sure enough those cells get the message they make an eye.
+
+Unknown speaker 32:28 
+If you section those eyes, you get the same lens, retina, optic nerve, all the all the stuff that eyes are supposed to have, so it's a proper eye.
+
+Unknown speaker 32:28 
+And this teaches us a few things.
+
+Unknown speaker 32:29 
+First,
+
+Unknown speaker 32:30 
+all that these bioelectric patterns that we're putting in are instructive for behavior.
+
+Unknown speaker 32:34 
+In other words, uh we can communicate a message that will guide the the the way that the collective navigates morpho space.
+
+Unknown speaker 32:42 
+Again, remember the the claim, the claim is that groups of cells are a collective intelligence, they use electrical networks just like our brains do to be the cognitive glue of that larger scale intelligence and the decisions they make are about movements in anatomical space.
+
+Unknown speaker 32:57 
+And so here, we can provide a message that causes them to go somewhere else and build uh build an eye in instead of a gut.
+
+Unknown speaker 33:03 
+It also tells us that much like when I'm communicating with you now, I don't need to worry about adjusting the synaptic uh proteins in your brain, I'm giving you a very thin information signal through language and then I I rely on you to to adjust the the the molecular biology and biochemistry in your brain to to make it make sense.
+
+Unknown speaker 33:22 
+Same thing here.
+Uh we're not communicating with the with the genes, we're not telling the individual stem cells what to do, we're providing a very high level abstract uh signal that that means, it's an it's a it's actually an arbitrary symbol that means to because that's how the cells interpret it, it means make an eye here, that is all that we said, the rest the the material takes takes care of the rest.
+
+Unknown speaker 33:41 
+And then I want to show you, I want to show you something interesting that happens here.
+
+Unknown speaker 33:44 
+which again, uh I think has has interesting uh parallels to what happens in the in the brain.
+
+Unknown speaker 33:50 
+Uh if we take a cross section through one of these eyes, what you'll see is that the the blue cells are the ones that we injected, but all this other stuff, we never touched it.
+Why why are they participating?
+And so what actually is happening here is that uh the cells that we inject are recruiting their neighbor cells, the way that other collective intelligence is like ants and termites recruit their their nestmates when they find something too heavy to lift.
+
+Unknown speaker 34:14 
+Uh they recruit them to build this uh to build this eye.
+
+Unknown speaker 34:17 
+and we didn't teach them to do that, of course they already know how to do that.
+
+Unknown speaker 34:20 
+But here's but here's something interesting that happens.
+Um if if we if we do this, we inject we inject this this message and then we look in the early embryo, this is a much earlier stage embryo than this one.
+What you see is you see four or five nascent ectopic eye fields.
+These are the cells uh that that got the message and are just starting to sort of flirt with the idea of making an eye, they're starting to express early eye markers like Rex one.
+But when you let this embryo grow up, one of the things you'll notice is that almost always most of these resolve and don't actually become eye, only some of them do.
+And that's because what's actually going on here is a battle of uh patterns for the future.
+These cells, the ones we injected, are saying to their neighbors, you should be an eye with us.
+
+Unknown speaker 35:00 
+You should you should help us become an eye.
+
+Unknown speaker 35:02 
+But there's a cancer suppression mechanism at play here where the cells with with abnormal neighbors, the first thing they do is try to tell them to to uh normalize and be like them in terms of voltage.
+
+Unknown speaker 35:18 
+It's a and and this is a whole thing I won't talk about, but we have a whole um oncology program center around that mechanism where the local cells are saying, no, no, you shouldn't be an eye, you should be skin or gut or or whatever it is, like us.
+
+Unknown speaker 35:40 
+And
+
+Unknown speaker 35:40 
+what
+
+Unknown speaker 35:40 
+you
+
+Unknown speaker 35:40 
+have
+
+Unknown speaker 35:40 
+there
+
+Unknown speaker 35:40 
+is
+
+Unknown speaker 35:40 
+a
+
+Unknown speaker 35:40 
+battle
+
+Unknown speaker 35:40 
+of
+
+Unknown speaker 35:40 
+patterns
+
+Unknown speaker 35:40 
+of
+
+Unknown speaker 35:40 
+who
+
+Unknown speaker 35:40 
+is
+
+Unknown speaker 35:40 
+going
+
+Unknown speaker 35:40 
+to
+
+Unknown speaker 35:40 
+dominate
+
+Unknown speaker 35:40 
+the
+
+Unknown speaker 35:40 
+future,
+
+Unknown speaker 35:40 
+which
+
+Unknown speaker 35:40 
+pattern.
+
+Unknown speaker 35:40 
+Are
+
+Unknown speaker 35:40 
+we
+
+Unknown speaker 35:40 
+really
+
+Unknown speaker 35:40 
+going
+
+Unknown speaker 35:40 
+to
+
+Unknown speaker 35:40 
+give
+
+Unknown speaker 35:40 
+into
+
+Unknown speaker 35:40 
+this
+
+Unknown speaker 35:40 
+new
+
+Unknown speaker 35:40 
+message
+
+Unknown speaker 35:40 
+and
+
+Unknown speaker 35:40 
+become
+
+Unknown speaker 35:40 
+an
+
+Unknown speaker 35:40 
+eye
+
+Unknown speaker 35:40 
+or
+
+Unknown speaker 35:40 
+are
+
+Unknown speaker 35:40 
+we
+
+Unknown speaker 35:40 
+going
+
+Unknown speaker 35:40 
+to
+
+Unknown speaker 35:40 
+stick
+
+Unknown speaker 35:40 
+with
+
+Unknown speaker 35:40 
+this
+
+Unknown speaker 35:40 
+with
+
+Unknown speaker 35:40 
+our
+
+Unknown speaker 35:40 
+priors
+
+Unknown speaker 35:40 
+and
+
+Unknown speaker 35:40 
+be
+
+Unknown speaker 35:40 
+a,
+
+Unknown speaker 35:40 
+you
+
+Unknown speaker 35:40 
+know,
+
+Unknown speaker 35:40 
+be
+
+Unknown speaker 35:40 
+a
+
+Unknown speaker 35:40 
+skin
+
+Unknown speaker 35:40 
+or
+
+Unknown speaker 35:40 
+gut.
+
+Unknown speaker 35:40 
+And
+
+Unknown speaker 35:40 
+so,
+
+Unknown speaker 35:40 
+and
+
+Unknown speaker 35:40 
+so
+
+Unknown speaker 35:40 
+we
+
+Unknown speaker 35:40 
+can
+
+Unknown speaker 35:40 
+actually
+
+Unknown speaker 35:40 
+watch
+
+Unknown speaker 35:40 
+this
+
+Unknown speaker 35:40 
+happen.
+
+Unknown speaker 35:41 
+Now,
+
+Unknown speaker 35:41 
+here
+
+Unknown speaker 35:41 
+I
+
+Unknown speaker 35:41 
+want
+
+Unknown speaker 35:41 
+to
+
+Unknown speaker 35:41 
+show
+
+Unknown speaker 35:41 
+you
+
+Unknown speaker 35:41 
+what
+
+Unknown speaker 35:41 
+it
+
+Unknown speaker 35:41 
+looks
+
+Unknown speaker 35:41 
+like
+
+Unknown speaker 35:41 
+at
+
+Unknown speaker 35:41 
+the
+
+Unknown speaker 35:41 
+single
+
+Unknown speaker 35:41 
+cell
+
+Unknown speaker 35:41 
+level
+
+Unknown speaker 35:41 
+for
+
+Unknown speaker 35:41 
+a
+
+Unknown speaker 35:41 
+convincing
+
+Unknown speaker 35:41 
+message
+
+Unknown speaker 35:41 
+to
+
+Unknown speaker 35:41 
+be
+
+Unknown speaker 35:41 
+passed
+
+Unknown speaker 35:41 
+along
+
+Unknown speaker 35:41 
+from
+
+Unknown speaker 35:41 
+one
+
+Unknown speaker 35:41 
+sub
+
+Unknown speaker 35:41 
+unit
+
+Unknown speaker 35:41 
+to
+
+Unknown speaker 35:41 
+another.
+
+Unknown speaker 35:47 
+So,
+
+Unknown speaker 35:47 
+I'mgoingtoplaythisvideointhemoment.
+
+Unknown speaker 35:50 
+what
+
+Unknown speaker 35:50 
+you're
+
+Unknown speaker 35:50 
+going
+
+Unknown speaker 35:50 
+to
+
+Unknown speaker 35:50 
+see
+
+Unknown speaker 35:50 
+is
+
+Unknown speaker 35:50 
+this
+
+Unknown speaker 35:50 
+cell,
+
+Unknown speaker 35:50 
+uh,
+
+Unknown speaker 35:50 
+which
+
+Unknown speaker 35:50 
+migrates
+
+Unknown speaker 35:50 
+around
+
+Unknown speaker 35:50 
+here.
+
+Unknown speaker 35:50 
+You
+
+Unknown speaker 35:50 
+can
+
+Unknown speaker 35:50 
+see
+
+Unknown speaker 35:50 
+that
+
+Unknown speaker 35:50 
+the
+
+Unknown speaker 35:50 
+voltage,
+
+Unknown speaker 35:55 
+the
+
+Unknown speaker 35:55 
+color
+
+Unknown speaker 35:55 
+here
+
+Unknown speaker 35:55 
+indicates
+
+Unknown speaker 35:55 
+the
+
+Unknown speaker 35:55 
+voltage.
+
+Unknown speaker 35:55 
+So,
+
+Unknown speaker 35:55 
+so
+
+Unknown speaker 35:55 
+the
+
+Unknown speaker 35:55 
+voltage
+
+Unknown speaker 35:57 
+herebeforeitencountersthiswholemassisdifferent
+
+Unknown speaker 36:04 
+than
+
+Unknown speaker 36:04 
+the
+
+Unknown speaker 36:04 
+rest.
+
+Unknown speaker 36:04 
+So
+
+Unknown speaker 36:04 
+it
+
+Unknown speaker 36:04 
+has
+
+Unknown speaker 36:04 
+a
+
+Unknown speaker 36:04 
+more
+
+Unknown speaker 36:04 
+depolarized
+
+Unknown speaker 36:04 
+voltage,
+
+Unknown speaker 36:04 
+but
+
+Unknown speaker 36:04 
+as
+
+Unknown speaker 36:04 
+soon
+
+Unknown speaker 36:04 
+as
+
+Unknown speaker 36:04 
+it
+
+Unknown speaker 36:04 
+touches,
+
+Unknown speaker 36:04 
+and
+
+Unknown speaker 36:04 
+this
+
+Unknown speaker 36:04 
+is
+
+Unknown speaker 36:04 
+all
+
+Unknown speaker 36:04 
+it
+
+Unknown speaker 36:04 
+takes
+
+Unknown speaker 36:04 
+is
+
+Unknown speaker 36:04 
+a
+
+Unknown speaker 36:04 
+tiny
+
+Unknown speaker 36:04 
+little
+
+Unknown speaker 36:04 
+touch.
+
+Unknown speaker 36:07 
+Assoonasittouches,ituhfeelsthevoltageofthiscellandthatvoltagetakesover.Thecellbasicallybecomeshacked
+
+Unknown speaker 36:18 
+bytheumbythebioelectricinformationthatispresentinthiscollective
+
+Unknown speaker 36:21 
+andafterthatitbecomesthesameandyou'llseeitjoins.
+
+Unknown speaker 36:31 
+So,whatyou'reseeinghereisauhaveryconvincingbioelectricstatetakingoverthissubunitwhichthenjoinsacollectivewithalargercognitivelikecone.Thisthisnetworkhasgreatercapacitytoumtopursuemorphogeneticgoalsthanthansinglecellsdo.
+
+Unknown speaker 36:47 
+And
+
+Unknown speaker 36:47 
+so
+
+Unknown speaker 36:47 
+this
+
+Unknown speaker 36:47 
+is
+
+Unknown speaker 36:47 
+this
+
+Unknown speaker 36:47 
+is
+
+Unknown speaker 36:47 
+what
+
+Unknown speaker 36:47 
+it
+
+Unknown speaker 36:47 
+looks
+
+Unknown speaker 36:47 
+like
+
+Unknown speaker 36:47 
+at
+
+Unknown speaker 36:47 
+a
+
+Unknown speaker 36:47 
+single
+
+Unknown speaker 36:47 
+cell.
+
+Unknown speaker 36:49 
+Butthesekindofpatternuhmemories,thesebioelectricpatternmemoriesreallycomeintotheirowninthemulticellular
+
+Unknown speaker 36:56 
+context.AndwhatIwanttoshowyouisuhhowwereadandthenrewritetheuhthethegoalstates,thetheanatomicalsetpointsforthistissueagainasanexampleofacollectiveintelligence.
+
+Unknown speaker 37:25 
+So,
+
+Unknown speaker 37:25 
+the
+
+Unknown speaker 37:25 
+whole
+
+Unknown speaker 37:25 
+point
+
+Unknown speaker 37:25 
+of
+
+Unknown speaker 37:25 
+collective
+
+Unknown speaker 37:25 
+intelligence
+
+Unknown speaker 37:25 
+is
+
+Unknown speaker 37:25 
+that
+
+Unknown speaker 37:25 
+you
+
+Unknown speaker 37:25 
+make
+
+Unknown speaker 37:25 
+you
+
+Unknown speaker 37:25 
+make
+
+Unknown speaker 37:25 
+individuals
+
+Unknown speaker 37:25 
+that
+
+Unknown speaker 37:25 
+are
+
+Unknown speaker 37:25 
+composed
+
+Unknown speaker 37:25 
+of
+
+Unknown speaker 37:25 
+parts
+
+Unknown speaker 37:25 
+where
+
+Unknown speaker 37:25 
+the
+
+Unknown speaker 37:25 
+higher
+
+Unknown speaker 37:25 
+level
+
+Unknown speaker 37:25 
+individual
+
+Unknown speaker 37:25 
+knows
+
+Unknown speaker 37:25 
+things
+
+Unknown speaker 37:25 
+and
+
+Unknown speaker 37:25 
+can
+
+Unknown speaker 37:25 
+do
+
+Unknown speaker 37:25 
+things
+
+Unknown speaker 37:25 
+and
+
+Unknown speaker 37:25 
+can
+
+Unknown speaker 37:25 
+pursue
+
+Unknown speaker 37:25 
+goals,
+
+Unknown speaker 37:25 
+larger
+
+Unknown speaker 37:25 
+goals
+
+Unknown speaker 37:25 
+than
+
+Unknown speaker 37:25 
+any
+
+Unknown speaker 37:25 
+of
+
+Unknown speaker 37:25 
+the
+
+Unknown speaker 37:25 
+parts
+
+Unknown speaker 37:25 
+can.
+
+Unknown speaker 37:25 
+And
+
+Unknown speaker 37:25 
+so
+
+Unknown speaker 37:25 
+what
+
+Unknown speaker 37:25 
+we
+
+Unknown speaker 37:25 
+see
+
+Unknown speaker 37:25 
+here
+
+Unknown speaker 37:25 
+is
+
+Unknown speaker 37:25 
+an
+
+Unknown speaker 37:25 
+experiment
+
+Unknown speaker 37:25 
+well
+
+Unknown speaker 37:25 
+a
+
+Unknown speaker 37:25 
+set
+
+Unknown speaker 37:25 
+of
+
+Unknown speaker 37:30 
+experiments
+
+Unknown speaker 37:30 
+that we did over about a decade with these flatworms, these are called planaria, and
+
+Unknown speaker 37:34 
+they have a number of amazing features, but one of the features is that if you cut them into pieces, each piece regenerates exactly what's missing and then it stops.
+
+Unknown speaker 37:42 
+In other words, every every fragment of this of this body knows exactly what a correct planarian is supposed to look like, and it does what it needs to do to reduce the delta between the injured state and the final goal state and then it stops.
+
+Unknown speaker 37:54 
+So what you see here is that a single normal planarian, uh, it will have a molecular marker expression of anterior state up at the head, uh, not at the tail, and when you amputate the head and the tail, the middle fragment uh extremely reliably generates a worm like this, one head, one tail.
+
+Unknown speaker 38:13 
+So this happens basically every single time correctly.
+
+Unknown speaker 38:14 
+And one wonders how does it know how many heads to have and where to put those heads because this piece grows ahead,
+
+Unknown speaker 38:19 
+uh this this region of this piece here grows ahead, but so does this one, uh back here, the the the anterior portion of the of the tail is also going to grow ahead,
+
+Unknown speaker 38:28 
+but the posterior portion of the mid fragment is not, it's going to grow a tail, and yet all of these cells were direct neighbors uh to each other,
+
+Unknown speaker 38:37 
+meaning that the positional information is the same, but the fates are are quite different, the anatomical fates are quite different.
+
+Unknown speaker 38:42 
+So you see here this this this decision is made holistically, it cannot be made locally based on just the position, it has to be made in the context of what else is here, which way is the wound facing, that that kind of information.
+
+Unknown speaker 38:53 
+And so one way that these fragments know how many heads is that they have this bioelectrical pattern, and this is again voltage sensitive fluorescent dyes that we used to determine that there's one region here that says one head and one tail.
+
+Unknown speaker 39:06 
+And and so what we were able to do and and the technology is still pretty messy, it's still being worked out.
+
+Unknown speaker 39:12 
+But what we were able to do is to change that pattern by exposing uh these these animals to um ionophores which allow uh specific ions to enter the cells, changing the voltage in a uh in a predictable way, and this it only takes three hours.
+
+Unknown speaker 39:24 
+The the regeneration process takes about eight days, the um the voltage change can happen in three hours and I just showed you in a single cell, it can happen very quickly, right?
+
+Unknown speaker 39:35 
+In this uh in this kind of uh context, it happens literally in in in in a matter of minutes, you you touch and that's it.
+
+Unknown speaker 39:41 
+But in this in this context uh it takes it takes about three hours minimum, but when you do this, we can establish a pattern that looks like this, and while this pattern is interpreted by the regenerating system as build one head, build one tail, this pattern is interpreted as build two heads.
+
+Unknown speaker 39:59 
+And so if we do that to this
+
+Unknown speaker 40:00 
+animal and then amputate the head.
+
+Unknown speaker 40:01 
+Let's say this middle fragment will build two heads.
+
+Unknown speaker 40:04 
+So this is not Photoshop or AI or anything like that, these are these are real animals.
+
+Unknown speaker 40:08 
+And uh what's what's really critical here is that this bioelectric
+
+Unknown speaker 40:10 
+pattern is not a map of this uh of this two-headed animal, okay?
+
+Unknown speaker 40:17 
+You see, you see two-headed bioelectric, but that is not a map of this animal, it is a map of this perfectly normal, anatomically normal, uh planarian.
+
+Unknown speaker 40:26 
+It has one head, one tail.
+
+Unknown speaker 40:32 
+If you look at the molecular markers, there they are, anterior markers in the head, no anterior gene expression in the tail.
+
+Unknown speaker 40:33 
+So what you're looking at here is a latent memory.
+
+Unknown speaker 40:40 
+This is a bioelectrical memory of what a correct planarian is supposed to look like, but it's latent.
+
+Unknown speaker 40:43 
+The the tissue doesn't do anything with it until it gets injured.
+
+Unknown speaker 40:52 
+Only if it gets injured does it uh consult to this this internal map of the goal state and then it builds what it needs to build here.
+
+Unknown speaker 40:53 
+And so you can think of this as a primitive uh sort of evolutionary uh ancestor of the brain's amazing ability to do mental time travel, that is to uh imagine um and remember circumstances that are not true right now.
+
+Unknown speaker 41:02 
+So again, this is a a counterfactual memory.
+
+Unknown speaker 41:13 
+It is what I would do if I got injured in the future.
+
+Unknown speaker 41:21 
+And I think again, this is this is telling us that these same exact mechanisms that are exploited by brains and nervous systems to uh to do memory and prediction, uh we're already doing this kind of thing but in anatomical space um long before, you know, brainy uh brainy kinds of uh behaviors and in three-dimensional space.
+
+Unknown speaker 41:30 
+So, um, so again, yeah, this is this is how we read and rewrite the uh the content of the of the mind of the collective intelligence, which is using these patterns to help it navigate anatomical space.
+
+Unknown speaker 41:42 
+Now, I keep calling it a memory and one way to show that it really is a memory is to uh point out that that bioelectrical state, once we induce it, it holds.
+
+Unknown speaker 41:52 
+It's it's uh it's permanent.
+
+Unknown speaker 42:03 
+So when we take these two-headed animals and we cut them again and again and again, as far as we can tell indefinitely, no no more no more exposure to any drugs, just in plain water, we we keep cutting it or in fact, we let them fission on their own.
+
+Unknown speaker 42:14 
+The normal reproductive mode of this animal is they tear themselves in half.
+
+Unknown speaker 42:15 
+Uh and that's fine.
+
+Unknown speaker 42:16 
+This this this this propagates.
+
+Unknown speaker 42:23 
+Basically, once you're two-headed, uh the fragments will be two-headed uh in perpetuity.
+
+Unknown speaker 42:24 
+I'm here, you can see by the way, um these animals moving around.
+
+Unknown speaker 42:33 
+Uh the first time I showed this at a conference somewhere, somebody stood up and said those those animals can't exist.
+
+Unknown speaker 42:42 
+And so uh so I I make sure to bring these videos so you can see they absolutely do exist and these are from the third or fourth generation and you can keep doing this, it's it's permanent because these um until we set it back and we can we can reverse the bioelectric memory and and set them back to one-headed.
+
+Unknown speaker 42:51 
+But but this has all the properties of memory.
+
+Unknown speaker 43:03 
+It's long-term stable, but it's rewritable, so it has some liability to it.
+
+Unknown speaker 43:03 
+Once we know how to do it, we we can rewrite it.
+
+Unknown speaker 43:13 
+It has latency or conditional recall, meaning that these memories can be can be latent and not expressed until certain conditions are met.
+
+Unknown speaker 43:13 
+For example, injury stimulus triggers the recall of that memory.
+
+Unknown speaker 43:16 
+And there are some discrete behaviors, one head, two head and so on.
+
+Unknown speaker 43:24 
+However, uh it should be pointed out that this system is is not just for head number.
+
+Unknown speaker 43:26 
+And while it is the case that a single planarian body here can store at least two different uh internal representations of what a correct planarian looks like, probably more, but we you know, we've nailed down these two.
+
+Unknown speaker 43:30 
+It's actually not about head number at all.
+
+Unknown speaker 43:33 
+There's much more here, for example, head shape.
+
+Unknown speaker 43:37 
+So we can take a planarian that has this nice triangular head shape and uh cut off uh cut off the head, uh perturb the bioelectrical
+
+Unknown speaker 43:42 
+network that allows it to remember what kind of head it's supposed to make, and then you can get things like this, you can get this flat head like a P. felina, you can get round heads like an S. media, of course, you can also get the normal heads.
+
+Unknown speaker 43:52 
+And remember, there is no genetic change anywhere here.
+
+Unknown speaker 44:00 
+There's no genetic change in the two-headed worms, there's no genetic change here.
+
+Unknown speaker 44:03 
+Much like every cognitive system that we are familiar with, the whole point is to learn without needing to radically change the hardware.
+
+Unknown speaker 44:16 
+You don't need to mutate your DNA to learn new things or to express the um the memories that you have.
+
+Unknown speaker 44:27 
+And uh however, it is it is perfectly willing to visit other regions here if it gets confused.
+
+Unknown speaker 44:30 
+And the way it gets confused is the bioelectrics that help it navigate that space towards a specific location.
+
+Unknown speaker 44:32 
+We now have the ability to to alter those and then they will end up in these other um some of these other attractors.
+
+Unknown speaker 44:51 
+So you can see again how how they're navigating anatomical morph space using some of the same mechanisms that uh that that we see in in the brain.
+
+Unknown speaker 44:52 
+Okay, so so here basically we come to this uh this this next to last section because what I've shown you up until now are in dog.
+
+Unknown speaker 45:00 
+in this examples,
+
+Unknown speaker 45:01 
+meaning, natural evolved, uh,
+
+Unknown speaker 45:02 
+early ways that uh, that uh, biology
+
+Unknown speaker 45:04 
+uses representation, memory, and uh, and the bioelectrical interface to store gold directed uh, set points that then uh, with with various degrees of ingenuity, the collective intelligence of cells can um, can follow.
+
+Unknown speaker 45:23 
+And what we want to do now is ask the following question.
+
+Unknown speaker 45:26 
+Um, in the in these natural, uh, natural examples, uh, when when one asks where does the uh, where do the goal states come from?
+
+Unknown speaker 45:34 
+Usually we say, well, it comes from a combination of heredity, so a um, a long history of selection for a particular pattern memory with with with certain environments and there are some things that are um, constraints of physics and and and so on.
+
+Unknown speaker 45:47 
+But what we wanted to ask is is more broadly uh, in these in in novel cognitive systems, where do goals and and memories come from?
+
+Unknown speaker 45:55 
+That is, when we deploy the certain genetic hardware in a completely new lifestyle that has never faced selection in that configuration, what what actually happens?
+
+Unknown speaker 46:05 
+And so, so here we turn to synthetic morphology.
+
+Unknown speaker 46:07 
+and I'm going to show you uh first this particular example.
+
+Unknown speaker 46:10 
+These are called um, xenobots.
+
+Unknown speaker 46:12 
+And the way they form is we take early frog embryos and uh, we uh, take some some of the uh, epithelial cells at this at this early blastula stage from their uh, from their um,
+
+Unknown speaker 46:24 
+uh, the the apical end of the embryo and we dissociate them and we put them in in a dish.
+
+Unknown speaker 46:29 
+Now, there's many things they could have done.
+
+Unknown speaker 46:30 
+They could have died, they could have spread out and moved away from each other, they could have formed a nice two-dimensional monolayer like cell culture, but instead what they do is they sort of coalesce into this little little mass.
+
+Unknown speaker 46:40 
+we'll get to that flashing in a in a minute.
+
+Unknown speaker 46:43 
+It's uh, the uh, the flashing is a calcium signaling, but you can see these cells uh sort of sort of coming together.
+
+Unknown speaker 46:48 
+Um, and actually if you look closer, some amazing things that they do when they do come together.
+
+Unknown speaker 46:52 
+Um, and then the whole thing because it is ciliated, it's covered in these cilia, whose job normally is to uh, distribute mucus down the side of the animal.
+
+Unknown speaker 46:59 
+In this case, what it does is it rows against the water, so they're able to move.
+
+Unknown speaker 47:03 
+And so they can go in circles, they can patrol back and forth like this, they can have collective behaviors.
+
+Unknown speaker 47:06 
+So here's two of them interacting, uh, these are are sort of resting in place.
+
+Unknown speaker 47:15 
+This one's going on some sort of very lengthy journey.
+
+Unknown speaker 47:19 
+It's all sorts of behaviors.
+
+Unknown speaker 47:21 
+You can see it here, uh, traversing this uh, this this maze.
+
+Unknown speaker 47:24 
+The still water, the water is not moving, and also there's no gradient, there's no, there's nothing in there besides water.
+
+Unknown speaker 47:25 
+You can see what happens.
+
+Unknown speaker 47:30 
+It uh, it takes the corner without having to bump into the opposite wall.
+
+Unknown speaker 47:36 
+So here it comes, uh, it's moving along straight and uh, without having to hit anything, it uh, it takes the corner.
+
+Unknown speaker 47:41 
+And then here spontaneously, uh, it turns around and and starts to go back where it came from.
+
+Unknown speaker 47:42 
+Okay, so all of this is completely internally driven, it's autonomous.
+
+Unknown speaker 47:44 
+We are not pacing this, we're not controlling the movement, the way that the people do with some um, uh, engineered biobots.
+
+Unknown speaker 47:47 
+So this is this is completely um, autonomous.
+
+Unknown speaker 47:50 
+And they have all kinds of unusual behaviors that were not uh, predicted in advance.
+
+Unknown speaker 47:59 
+For example, one of the things that it turns out they can do, and this was uh, uh, this this actually was was found in some, in the first, it was found in some simulations that uh, our collaborator Josh Bongard and Sam Kriegman did, uh, that basically, if you provide uh, loose epithelial cells uh, to the the bots, what they'll do both on a on a on a collective population level and on individual level, they will sort of polish them into these balls, they collect them and polish them, they collect them into little piles and then they polish them into little balls.
+
+Unknown speaker 48:00 
+And because they're dealing with any gentual material themselves, in other words, these are not passive particles, these are cells, these balls then mature and become the next generation of xenobots.
+
+Unknown speaker 48:03 
+And guess what they do, they run around and do exactly the same thing and they make the next generation and the next.
+
+Unknown speaker 48:05 
+So we call this kinematic self-replication.
+
+Unknown speaker 48:07 
+It's kind of von Neuman's um, dream of uh, a robot that can go out and make copies of itself from material it finds in the environment.
+
+Unknown speaker 48:53 
+Uh, as far as we know, no other creature on earth does or had reproduced by kinematic replication.
+
+Unknown speaker 48:59 
+This is entirely new.
+
+Unknown speaker 49:00 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:07 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:08 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:10 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:11 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:12 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:13 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:14 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:15 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:16 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:17 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:18 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:19 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:20 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:21 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:22 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:23 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:24 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:25 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:26 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:27 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:28 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:29 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:30 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:31 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:32 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:33 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:34 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:35 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:36 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:37 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:38 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:39 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:40 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:41 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:42 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:43 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:44 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:45 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:46 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:47 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:48 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:49 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:50 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:51 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:52 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:53 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:54 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:55 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:56 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:57 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:58 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 49:59 
+And so, uh, you know, when when we make it impossible for them to reproduce in the normal frog-like fashion, they are able to do this.
+
+Unknown speaker 50:00 
+keep out bacteria and things like that.
+
+Unknown speaker 50:01 
+In the absence of those signals, you get to find out what these cells really want to do.
+
+Unknown speaker 50:04 
+And what they want to do when when uh shielded from the instructive influence of other cells is this.
+
+Unknown speaker 50:09 
+They become uh xenobots.
+
+Unknown speaker 50:11 
+Uh this is this is an I think an 84 day old xenobot, it's turning into something, we have no idea what this is, so it's got some sort of weird developmental sequence of its own.
+
+Unknown speaker 50:16 
+It has different behaviors than these tadpoles too.
+
+Unknown speaker 50:23 
+And probably uh this is just the tip of the iceberg.
+
+Unknown speaker 50:30 
+My guess is these things can do many different things under many different circumstances.
+
+Unknown speaker 50:30 
+So it's very interesting because because there has been no selection to be a good xenobot.
+
+Unknown speaker 50:44 
+There's never there's never been any xenobots, there's never been any selection to uh to do kinematic self replication or to have these kind of uh, you know, these kind of patterns and and behaviors and so on.
+
+Unknown speaker 50:50 
+Um, so, so that really leads us to to ask in as a as a model system for what I'm going to talk about momentarily, which is the kind of diversity of embodied minds that we're going to be dealing with.
+
+Unknown speaker 50:57 
+This is this is a model system for that.
+
+Unknown speaker 51:04 
+Now, um, I'm I'm not yet making any claims about their level of intelligence, specific goals, or consciousness, uh some of this work is is ongoing, we should probably have some some some things on this later this year as far as what they can learn and and so on.
+
+Unknown speaker 51:12 
+Um, but certainly you can't uh you can't say any of these things just from observing this this kind of behavior.
+
+Unknown speaker 51:20 
+So so you have to do perturbative experiments, which is what we're doing.
+
+Unknown speaker 51:22 
+But one of the interesting things we found is that uh if we look at the gene expression in these xenobots, turns out that they express hundreds of genes differently than uh than the age-matched tissue in their normal context.
+
+Unknown speaker 51:34 
+They turn on, we're not worried about genes that that are not expressed because of course it's obvious xenobots are missing all kinds of, you know, all kinds of tissues, they're missing endoderm and so on.
+
+Unknown speaker 51:42 
+So, so we're not we're not worried about that.
+
+Unknown speaker 51:44 
+But but much more interesting are what are the genes that they upregulate and there are hundreds of new genes that they upregulate, which are very interesting.
+
+Unknown speaker 51:51 
+And again, we didn't touch the genome, we didn't um uh give them any new synthetic biology circuits.
+
+Unknown speaker 52:00 
+So all of these gene inductions are because of their new lifestyle.
+
+Unknown speaker 52:07 
+Uh they're dipping into the genome to express new genes that are relevant to their new lifestyle.
+
+Unknown speaker 52:13 
+And one of the clusters we identified is a set of genes that are known to be related to sensory perception of sound and we thought that was that was really weird.
+
+Unknown speaker 52:20 
+Could it be that these that these xenobots are are are able to uh to hear.
+
+Unknown speaker 52:22 
+And so, we did this this kind of experiment where we put speakers underneath the the dish and so what you can see um what you can see here in this video is that uh this particular bot, for example, moves in in uh in a particular pattern.
+
+Unknown speaker 52:28 
+Then we turn on the sound and so this is this is one particular frequency that we've been playing with.
+
+Unknown speaker 52:33 
+Um, you turn on the uh the the sound and you can see the behavior change radically and as soon as you turn it off, it goes back to what it's doing, not exactly the same, so there is a little bit of memory here, but uh but it does go it does return to its behavior.
+
+Unknown speaker 52:43 
+So, so we can in fact uh uh signal to them via sound and change their behavior in observable ways.
+
+Unknown speaker 52:57 
+So again, you know, this question of what does the transcriptome look like of an entirely novel organism that's uh that's uh, you know, never existed before.
+
+Unknown speaker 53:03 
+Uh this this is it and it has I'm sure again, this is was probably just the uh, you know, kind of one one of many, many interesting things uh that uh that that we can discover about these.
+
+Unknown speaker 53:13 
+Now, uh here here's something else that is that that we're just beginning and this this uh we'll perhaps have even more uh relevance to uh some of to to this audience who is interested in consciousness and and various metrics thereof.
+
+Unknown speaker 53:26 
+So, what we've got are xenobots that express calcium uh reporter uh proteins.
+
+Unknown speaker 53:32 
+So this is Gcamp that is flashing anywhere that you see calcium signaling.
+
+Unknown speaker 53:35 
+And of course, uh people use this in brains all the time, so neuroscientists use this exact construct to track computational activity in the brain.
+
+Unknown speaker 53:43 
+And then once you do that, you can apply a couple of different sets of metrics to them.
+
+Unknown speaker 53:53 
+So first you can you can do uh various connectivity metrics and this is a collaboration with uh uh Sarah Walker's lab and uh Josh Bongard's lab.
+
+Unknown speaker 54:00 
+and uh and Olaf Spore's and and all the all the people who who worked on this.
+
+Unknown speaker 54:03 
+Basically looking at like information structures in the connectivity that you find in these these these kinds of tissues and comparing them to what you find in nervous systems.
+
+Unknown speaker 54:13 
+So, this is one particular uh metric.
+
+Unknown speaker 54:15 
+This is called uh phi R, uh which is basically um uh it's a measure of integrated information, it's based on phi 2.0 by Balduzzi and Tononi, and so this this was done by Thomas Varley and Bongard and the Bongard lab, which uh they analyzed the the phi R of calcium signaling in these bots, uh compared to null models.
+
+Unknown speaker 55:00 
+and they found that just like uh in
+
+Unknown speaker 55:01 
+FMRI where you can see a clear a clear difference of FMRI of brains.
+
+Unknown speaker 55:07 
+So so you see this causal emergence is quite different in the brain versus versus the null model.
+
+Unknown speaker 55:12 
+The same thing is true here.
+
+Unknown speaker 55:13 
+Okay, so there is there is a higher in there is a a considerable amount of integrated information.
+
+Unknown speaker 55:18 
+So I'm not going to make any claims about um consciousness here.
+
+Unknown speaker 55:32 
+Um there are plenty of people who have discussed the um relationship between consciousness and and and measures of integrated information and so on.
+
+Unknown speaker 55:33 
+So you can sort of interpret that how you want.
+
+Unknown speaker 55:35 
+Except that if with with just one thing that that that if you if you like measures of integrated information uh apply to brains as a sign of uh some sort of integrated consciousness, you're going to need to deal with the same issue here because even though there is no neural tissue here, you're finding the same kind of kind of structure.
+
+Unknown speaker 55:50 
+So uh in terms of the in terms of the the signaling.
+
+Unknown speaker 55:53 
+So uh you can uh you can you know make of that what you will and we have we have much more much more on this uh coming but it's but it's quite clear that these that these kind of metrics which are being used in uh in neuroscience to look for uh you know, measurable correlates of consciousness and things like that are very applicable to uh these kind of non-neural um systems.
+
+Unknown speaker 56:11 
+Okay.
+
+Unknown speaker 56:12 
+So um in the last in last couple of minutes uh I want to uh say some other some other things that might be in particular relevant to this uh to this to this particular audience uh having to do with um what what what I think this all means.
+
+Unknown speaker 56:25 
+So first first of all, because of the plasticity of uh of life, uh
+
+Unknown speaker 56:30 
+uh pretty much uh every combination of evolved material, engineered material, software and the ingressing patterns of of mathematics, which are in some sense not in the physical world, um are pretty much any combination of this is some sort of viable agent.
+
+Unknown speaker 56:49 
+So all the biologicals, all the endless forms most beautiful that Darwin was so impressed by are like a tiny little little corner of this enormous space of embodied minds.
+
+Unknown speaker 56:59 
+And so when people when people think about uh what's going on in whales and and octopuses with their semi-autonomous limbs and and some of those things, that's just that's just the tiny uh piece of this whole question.
+
+Unknown speaker 57:00 
+I mean, high broads, cyborgs, uh all kinds of chimeras, every possible version of this material is going to uh be living with us in the next few decades and I think that having a theory of of of mind about these things and uh uh a theory of of consciousness that goes beyond uh evolution and beyond the N of one uh example that that we have in the evolutionary tree here on earth and understanding it more broadly in very diverse embodiments that are very different from ours is going to be essential to enabling us to reach some kind of ethical symbiosis with these beings with whom we're going to share our world.
+
+Unknown speaker 57:50 
+And uh just to uh say a couple of uh you know, somewhat somewhat more um uh wild things towards the end of this talks this is a this is a meeting about consciousness.
+
+Unknown speaker 58:01 
+Uh I want to say two things and then if people want to dig in, we can we can discuss them.
+
+Unknown speaker 58:02 
+First of all, my view of where do the specific goals, competencies and behavioral propensities come from if it's not selection.
+
+Unknown speaker 58:13 
+So in novel beings such as the bots that I showed you, um of course we also have antrobots which are by about made of adult human cells and all of the different cyborgs and hybrids and and and all of these different things, where do their goals and competencies uh and and type kinds of minds come from if you can't uh pin it on a long history of selection.
+
+Unknown speaker 58:33 
+And all I will say here because I'm running out of time is basically that I think they come from the same place where the truths of mathematics come from.
+
+Unknown speaker 58:40 
+So uh platonist mathematicians believe that they are exploring, not creating, but exploring an existing and ordered space of truths, these truths, you know, the properties of of prime numbers and the facts of number theory and and all of these things.
+
+Unknown speaker 58:57 
+Um, they they are not determined by anything in the physical world.
+
+Unknown speaker 59:02 
+Uh, however, they matter greatly to physics and I'm going to claim to biology as well.
+
+Unknown speaker 59:06 
+Uh, and they uh, they occupy an ordered structured space.
+
+Unknown speaker 59:07 
+They're not merely a grab bag of emergent phenomena that just happen to hold in our world for some for some weird reason.
+
+Unknown speaker 59:10 
+A lot of people like that model better because it's sort of a sparse ontology.
+
+Unknown speaker 59:11 
+You don't need to think about a platonic space of of of of truths besides the physical space, but I think I think it's a very mysterious position.
+
+Unknown speaker 59:12 
+I I I don't think it's helpful for future research to assume that that these emergent things are just kind of randomly uh to be encountered and and written down in our big book of surprises.
+
+Unknown speaker 59:37 
+I I actually think the research program here is to map out this space because this space for lack of a better word, this platonic space uh contains not only these very low agency kinds of um true you facts of mathematics and and so on.
+
+Unknown speaker 59:55 
+I think they also contain behavioral patterns that we would recognize as kinds of minds.
+
+Unknown speaker 59:59 
+Okay, and some of these patterns are are behavioral patterns of cells and
+
+Unknown speaker 01:01:00 
+issues, meaning they come out as morphologies or anatomy and other other patterns are ones that drive behavior in the three-dimensional world, which we recognize as as conventional behavior.
+
+Unknown speaker 01:01:10 
+So I think that all uh bodies, be they uh simple simple machines, embryos, biobots, AIs, humans, you know, embryos, whatever, uh all of these things are basically uh interfaces, they are um pointers toward but they are pointers through which uh
+
+Unknown speaker 01:01:28 
+a very specific uh patterns ingress into the physical world from a kind of platonic space and that understanding uh this physical interface is only the first part of what we need to do.
+
+Unknown speaker 01:01:34 
+We also need to understand uh what kinds of behavioral patterns uh affect uh affect and manifest through these physical interfaces, just as we tried to understand how symmetries and and and truths about very abstract objects control uh various aspects of physics uh at the from the from the lowest level uh on up.
+
+Unknown speaker 01:01:59 
+And I think that uh synthetic morphology uh beings such as xenobots, and and all of those things, are basically vehicles for exploring this latent space.
+
+Unknown speaker 01:02:01 
+And I think they are an indispensable uh tool for consciousness research as we try to understand what uh what what kinds of patterns are important for uh for for for for human consciousness and what else what else is in this space.
+
+Unknown speaker 01:02:13 
+I think I think we're going to have to uh map out map out this space to have a proper understanding of the um of the of the mind brain relationship.
+
+Unknown speaker 01:02:18 
+And uh the final thing I want to I want to say is this.
+
+Unknown speaker 01:02:20 
+Now, it's often thought that uh there's some some essential relationship between complexity and consciousness.
+
+Unknown speaker 01:02:39 
+that in order to have consciousness, you need to reach a certain level of complexity of organization, and whether it's emergent or as I think it's actually uh a view from this platonic space of uh of kinds of minds.
+
+Unknown speaker 01:02:41 
+Either way, uh it's it's very common to think that not only do you need biology for that to happen, but you actually need very complex biology, for example, brains.
+
+Unknown speaker 01:02:47 
+And we are looking at some extremely minimal systems.
+
+Unknown speaker 01:02:50 
+Um, I will just again, running out of time, so I'm I'm only going to just just point people to this uh to this one paper.
+
+Unknown speaker 01:02:51 
+where we studied uh sorting algorithms, like bubble sort and things like that.
+
+Unknown speaker 01:02:57 
+And uh these things are very simple algorithms, uh completely transparent, deterministic, people have been studying them for many decades, and yet they have features that have never been noticed before.
+
+Unknown speaker 01:03:07 
+What we found is that they have all kinds of interesting, not only interesting competencies that are not obvious from the algorithm at all, such as delayed gratification and other kinds of uh behavioral um uh tricks.
+
+Unknown speaker 01:03:14 
+But they also do these weird side quests uh in addition to the sorting that they do.
+
+Unknown speaker 01:03:17 
+So, so, you know, this this is the this is the sorting of the of the random string of numbers and certainly they do the sorting.
+
+Unknown speaker 01:03:20 
+But in the meantime, they do this other interesting thing called clustering, which is it's it's it's nowhere in the algorithm.
+
+Unknown speaker 01:03:36 
+It is uh it is something that is not uh forbidden by the physics of their world, but neither is it prescribed, so it's an interesting new kind of freedom that is neither um determined nor uh nor randomness.
+
+Unknown speaker 01:03:55 
+I think I think ultimately this this this kind of thing will have will have impact on the kind of the free will problem and things like that.
+
+Unknown speaker 01:04:00 
+But but basically what what we're finding, long long story short, what we're finding is that even extremely simple systems that are uh that are that are not like biology whatsoever, that don't have a history of selection and so on.
+
+Unknown speaker 01:04:05 
+Even very simple deterministic uh kinds of systems have behavioral competencies that are not directly encoded in the algorithm.
+
+Unknown speaker 01:04:19 
+You do not have to be a complex life form with a brain to do things that are uh, you know, that are not obvious from your construction.
+
+Unknown speaker 01:04:20 
+And I think that for the exact same reasons, we understand that the laws of chemistry do not tell you everything you want to know about the human mind.
+
+Unknown speaker 01:04:55 
+For those exact same reasons, uh, we should we should cultivate some uh some humility and realize that uh the algorithm and the materials of which quote unquote machines, including very simple machines are made, uh, does not tell the whole story about them either.
+
+Unknown speaker 01:04:56 
+In other words, they too are subject to interesting ingressions from this platonic space of forms that we did not uh see coming and that are not fully circumscribed by our stories of the material in the algorithm.
+
+Unknown speaker 01:05:00 
+are sufficient.
+
+Unknown speaker 01:05:01 
+Uh, my point is,
+
+Unknown speaker 01:05:02 
+not only are they not sufficient for brains and living things,
+
+Unknown speaker 01:05:05 
+they're not even sufficient for the things that they were supposed to describe, which is quote unquote machines.
+
+Unknown speaker 01:05:10 
+All all of these are are just formal models, they capture some aspects of what's going on,
+
+Unknown speaker 01:05:14 
+but as we're seeing now, they do they don't capture everything.
+
+Unknown speaker 01:05:18 
+And it's I I think again, that come back to my fundamental notion of of uh uh of a continuum of of cognition,
+
+Unknown speaker 01:05:25 
+uh, and it is not that uh you have to be somewhere on the far right of that continuum and be a complex brain in order to uh have some sort of uh freedom from uh.
+
+Unknown speaker 01:05:37 
+being fully encompassed by models of your parts, such as the laws of chemistry and physics, that
+
+Unknown speaker 01:05:37 
+that already begins at a very low level, at the level of uh of of very simple machines, already, computationalism fails there.
+
+Unknown speaker 01:05:37 
+As as all formal models do, there's nothing wrong with computationalism per se.
+
+Unknown speaker 01:05:37 
+It's just uh we we just have to remember that none of our formal models fully capture what's what's going on here.
+
+Unknown speaker 01:05:37 
+Um, and so, um,
+
+Unknown speaker 01:05:37 
+and so I just think it's critical that whatever their embodiment, whatever their origin story, uh, even even very simple minds are not fully defined by our models of them, neither for their limitations nor for their competencies.
+
+Unknown speaker 01:05:37 
+And so ultimately, I think the Garden of Eden is going to look like this.
+
+Unknown speaker 01:05:37 
+It's going to look.
+
+Unknown speaker 01:06:30 
+look like it's
+
+Unknown speaker 01:06:31 
+it's going to be a very weird place with all kinds of all kinds of things that we are absolutely going to have to name in the sense of understanding their true inner nature, which is not easy.
+
+Unknown speaker 01:06:39 
+We're bad at it, we do not have uh the native uh kind of um uh skill or talent at recognizing uh diverse minds, we are going to need tools for it.
+
+Unknown speaker 01:06:49 
+And uh
+
+Unknown speaker 01:06:51 
+I I I give I give sometimes a different kind of talk where I where I go through this this uh this this ladder where we get progressively weirder and weirder kinds of systems that I think are actually um cognitive kin.
+
+Unknown speaker 01:07:02 
+And it's sort of it's sort of similar to what happened in mathematics where we progressively um found stranger and stranger kinds of of objects that mathematics is going to have to deal with and each of these transitions was painful uh for the community, you know, people people really freaked out about um about irrationals and and and things like that.
+
+Unknown speaker 01:07:14 
+I mean people are killed over it uh back in the day and so uh each of these each of these transitions across uh different kinds of systems in order to understand what the level of cognition and and and perhaps uh consciousness is in any of these things, we are going to have to break all kinds of uh prior assumptions and prior categories just like was done in in mathematics to uh to to get to new kinds of um new kinds of um new kinds of numbers.
+
+Unknown speaker 01:08:00 
+and uh this is
+
+Unknown speaker 01:08:01 
+this is this is something that we're we're working very hard on in our group is to try to uh try to see what's what what do all these things have in common.And so basically here's the summary of everything I've said today.
+
+Unknown speaker 01:07:30 
+I I'm I'm I'm pretty confident that uh
+
+Unknown speaker 01:07:30 
+most useful concepts in this field are continuum models, they are not binaries, crisp categories, uh we need models of scaling and transformation of minds and consciousness, not trying to prop up ancient categories.
+
+Unknown speaker 01:07:30 
+I I'm very certain that none of this is about brains per se or embodiment in three-dimensional space, the most interesting thing about cognition and consciousness is how it explores very different spaces of
+
+Unknown speaker 01:08:14 
+We have a hard time, a hard time seeing.
+
+Unknown speaker 01:08:16 
+And uh, and I and I would claim that our formal models do not tell the whole story, either for uh life or for machines or for any of these things.
+
+Unknown speaker 01:08:24 
+And uh, because we have these uh these cognitive patterns that show up that are not just complexity or unpredictability, they're actually new uh new behavioral skills.And so uh this is this is this is stuff that that we're actively working on, that is that is what what aspects of the embodied architecture, be it engineered or evolved, matter for determining what kind of ingression.
+
+Unknown speaker 01:08:45 
+from that platonic space, uh, you know,
+
+Unknown speaker 01:08:50 
+I I I would claim that evolution has no monopoly on making minds that engineering is just as potentially just as good.
+
+Unknown speaker 01:08:55 
+Of also because engineering can use evolutionary uh computation and so on.
+
+Unknown speaker 01:08:56 
+Now, Richard Watson has some arguments against this, his are probably the best the typical um assumption that that this is that this is the case.
+
+Unknown speaker 01:09:02 
+I think I think it doesn't hold any water, but but Richard has some.
+
+Unknown speaker 01:09:04 
+Interesting ideas that I encourage you to to check out.
+
+Unknown speaker 01:09:06 
+And we're trying to uh improve our tools for exploring this platonic space and for understanding the mapping between the pointers, meaning the embodiments that we create and the patterns that ingress through these interfaces.
+
+Unknown speaker 01:09:44 
+And the things that uh I
+
+Unknown speaker 01:09:45 
+really don't know uh what to say about it at this point.
+
+Unknown speaker 01:09:48 
+I think we need to do a lot more here before we can say any of this.
+
+Unknown speaker 01:09:51 
+Our questions like this, you know, how how well does consciousness actually track intelligence.
+
+Unknown speaker 01:09:55 
+I think um Anil Seth's view that that these are orthogonal is probably right, but but I'm not sure they're completely independent.I suspect there's some some relationship but but but we don't know.
+
+Unknown speaker 01:09:22 
+Uh I also don't know if there are any so-called phase transitions, I know it's very popular that to to say that that there are specific uh distinct kinds of minds.
+
+Unknown speaker 01:09:22 
+And and there may well be and the patterns in the platonic space may in fact uh have distinct categories.
+
+Unknown speaker 01:10:00 
+for uh some mathematical objects like integers, but but it's unclear to me whether that space is truly smooth and continuous or whether there are some discontinuities there.
+
+Unknown speaker 01:10:09 
+And uh, you know, uh what what prospects do we really have while remaining more or less human, uh for understanding uh very, very diverse minds.
+
+Unknown speaker 01:10:15 
+And I'm not clear to me how far we can get without changing ourselves, which is which is fine and I think that's probably part of part of our future for sure, uh is to uh change ourselves to gain a better first person understanding of uh very exotic minds and be able to uh enlarge our own um cone of of of concern and compassion to these other to these other beings.
+
+Unknown speaker 01:10:38 
+So, uh that's it.
+
+Unknown speaker 01:10:39 
+I'll I'll stop here.
+
+Unknown speaker 01:10:40 
+If you want uh more details, um lots of these uh lots of these papers here uh drill down into into all all this kind of stuff.
+
+Unknown speaker 01:10:47 
+And the most important thing is to thank the people who did um most of the work that I showed you today, so these are the various uh postdocs and uh graduate students.
+
+Unknown speaker 01:10:55 
+students that contributed to all the results I showed you.
+
+Unknown speaker 01:10:55 
+Uh and um I want to thank many of our amazing collaborators.
+
+Unknown speaker 01:10:55 
+And uh funding support from uh that that you know, various various agencies and foundations that have supported us over the last uh 30 years.
+
+Unknown speaker 01:10:55 
+And um uh three disclosures because there are there are three companies that have spun out of uh our work.
+
+Unknown speaker 01:10:55 
+Uh that are that are supporting us to some extent and so uh, you know, this is this is part of the claim I made at the beginning that that it is possible to transition some of these deep um philosophical ideas into specific applications that make a that make a difference in the in the practical world.
+
+Unknown speaker 01:10:55 
+And and most of all, uh I'm I'm grateful to the biologicals and and the non-biologicals uh that are teaching us about these really fundamental and and then important questions, not only ancient questions, but I think critical for the flourishing of of of minds on earth and and beyond.
+
+Unknown speaker 01:10:55 
+So thank you so much.
+
+Unknown speaker 01:10:55 
+I'll stop here.

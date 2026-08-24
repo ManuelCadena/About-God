@@ -1,0 +1,137 @@
+# ¿CÓMO PODRÍAMOS TOMAR DEL ALMA PARA TRASCENDER LO QUE EL DEFECTO DEL OTRO, CAUSA EN NUESTRA PSIQUIS?
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=LkTu6HYIXpU
+- **Duración:** 15.8min
+- **Idioma de subtítulos:** es
+- **Nota:** 
+
+## Transcripción
+
+hermanitos.
+
+Hola hermanitos, buen día. Hola.
+
+Bueno, estamos juntitos otra vez, otro momentito de Dios, otro ratito que nos tomamos para estar juntos.
+
+eh un poco más arriba de este mundo, así como dice esa canción, ya no me acuerdo cómo iba, pero este más arriba de las chimeneas, eh este volando en algún sitio en donde me pueda unir a todos y a todo, donde pueda sentir que la nube entra dentro de mí y ah, qué frescura.
+
+Si por ejemplo estoy en un lugar que hace demasiado calor o este el suavecito entra dentro de mí y ay calentito. Si estoy en un lugar que hace demasiado frío, todo me complementa. Todo me completa. Yo complemento, yo completo.
+
+Los demás descansan en mí, yo descanso en los otros. Todo es hermoso en ese punto de unión. Punto de unión en la mente de Dios. punto de amor en el corazón de Dios en donde está dentro nuestro.
+
+Pero es hermoso que la siquis lo imagine como un lugar más arriba de las chimeneas, cerca de las nubes y y ahí pueda cantar, ¿saben? Es hermoso. Al menos yo descubrí eso. No sé si ustedes lo sienten igual.
+
+Tomo canciones populares y canto a mi mamá, a mi papá, a mis hermanos, a mis amiguitos, a mis amiguitas, alguien enfermo le canto. Encuentro este así como una melodía que me gusta y le invento la letra.
+
+Entonces, por ejemplo, ahora me sale una, a ver si que me llega a salir, eh, 2025.
+
+Año mágico, solo siguiendo a Dios en un estado de este mundo. En mis ojos hay solo intención de amar otro año, otra aventura más.
+
+2025. Año mágico, solo siguiendo a Dios bajo el cielo de un estado de este mundo.
+
+En mis ojos hay solo intención de amar otro año, otra aventura más. Así y entonces ya concibo el año, otra aventura. ¿Qué aventura quiero tener?
+
+Entonces ahí se mete el almita y vamos porque si no plasmo solo gustos y deseos del hemisferio izquierdo de mis Xis y solo emociones. Ay, esto me gusta. Ah, esto no, esto me dista. Ay, esta comida la aproximo porque me encanta. Esto, ¿sabes qué? No. O cuando comí todo, estoy comiendo, lo acerco y ya. Me llené, lo separo, eh, así obra cerebrito, pero el alma no separa nadie, no usa a las personas ama, complementa, se deja complementar, da y recibe.
+
+Esa es su respiración, dar y recibir.
+
+Entonces, eh así mi almita está viva. ¿Por qué? Porque digo, concientizo 2025, eh, un año que lo quiero hacer nuevo, distinto y para eso tengo que hacerme de nuevo en todos los roles que tengo.
+
+Puedo escribirlo.
+
+Pero, ¿qué es la magia? Es la transformación.
+
+Es cuando todos esperan a alguien nervioso porque suponiendo que así uno nació y o sorpresa llego y transmito calma, transmito paz.
+
+Todos esperan alguien ansioso que ya está eh dos pasos más adelante del paso donde va y oh sorpresa, encuentran a alguien en su ritmo inhalando y exhalando profundo, sabiendo esperar el ritmo de los otros.
+
+Eso es magia, la transformación personal.
+
+Los magos pitagóricos le llamaban antes eh a los pitagóricos porque en realidad Pitágoras decía, este, no se trata de aprender, es aprender, ¿se acuerdan? que ya lo dijimos en una charla, aprender para bajarlo al corazón y sentirlo y de inmediato hacerlo vida y recién después convertirlo nuevamente en idea y ya le puedo hablar, pero a esto le llama ser el huevo.
+
+Y entonces este, hermanitos queridos, qué hermosura es buscar esa magia de la transformación. Venimos a hacer un proceso de transmutación de genes.
+
+Nacemos con eh genes con determinados defectos, también con determinadas virtudes que al ser heredadas ya les llama cualidades. Se acuerdan que la virtud está en el justo medio, entre lo mucho y lo poco de entre dos fuentes virtuosas, pero la cualidad está de un solo lado, o del yin o del yan. y tengo que incorporar del otro lado para que quede sea virtuoso y quede en el medio en el punto de equilibrio que es la virtud res bis le llama la virtud Pitágoras, o sea, en latín la doble cosa es una energía doble. Es más, dice que el cosmos e el aire, el agua, la tierra, el sol, eh no se destruye con la acción del ser humano, no se destruye la naturaleza porque eh está equilibrado el yin y el yan.
+
+Entonces dice, "Si no quieres que se destruya tu siquis." Y entonces cuando se destruye, ¿qué hace uno? Entrega su voluntad, una pastilla.
+
+Si no quieres que se destruya tuis, equilibra el yin con el yin.
+
+Eh, haz el equilibrio. Si naciste más yan, ponle un poco de yin. Si naciste más y ponle un poco de yan.
+
+Entonces, e la magia, eh, así como dije, año mágico, día mágico, amanezco y digo, día mágico, solo siguiendo a Dios bajo el cielo de un estado de este mundo. Ahí puedo decir el nombre del estado en el que estoy.
+
+En mis ojos hay solo intención de amar.
+
+Entonces, ¿qué puede pasar?
+
+Y puede pasar lo bueno, porque tengo solo la intención de amar y la magia de mi transformación, que con ella es que se transforma al mundo y se transforma a los otros.
+
+Entonces este y yo lo siento así, pero bueno, cada uno lo tendrá que experimentar. Creo que la oración es mucho más fuerte cuando uno la canta.
+
+Es como la melodía, este, y es lindo inventar lo que yo le quiero decir al otro y se lo digo tomando una canción popular, una melodía que me guste, que me acuerde hoy. Eh, generalmente se nos aparece así alguna melodía y y ahí le digo este al que amo, te quiero decir esto, gracias por regalarme esto en mi vida, ¿eh?
+
+Si a ustedes les parece eh sería interesante razonar que para poder hablar del defecto de alguien, yo tengo que garantizar al otro y a mí que ese defecto no me molesta.
+
+¿Quisieran reflexionar eso?
+
+Porque si yo a alguien le digo, "Mira, sería interesante que cambies tu forma crítica de hablar, por ejemplo." Y su forma crítica de hablar me molesta.
+
+¿A quién estoy cuidando? ¿Altr o a mí? A mí. Entonces, te dice la filosofía pitagórica, ahí todavía no estás en condiciones de hablarlo. Lo tenés que hablar cuando no te molesta.
+
+y lo hablás por amor al otro para ayudarlo a ver la verdad.
+
+Entonces, ese es todo un trabajito que uno puede ir haciendo, eh, este, hasta que se da cuenta, realmente ahora no me molesta, entonces sí estuvo en condiciones de hablarlo.
+
+Digo, y cuando lo voy a hablar te dice Pitágoras otra cosa.
+
+Si tú hablas del defecto de otro, a veces es como natural que lo hagas.
+
+desde el defecto que su defecto atrajo te atrajo de de vos.
+
+Entonces, eh por ejemplo, el defecto de alguien, por ejemplo, de irresponsabilidad no se hace cargo de nada, nada, nada y que saca la impaciencia y la intolerancia.
+
+Entonces, eh yo le digo, o sea, sabe que eh podrás hacerte cargo de tus cosas, no de otro, sino de lo tuyo.
+
+Pero lo digo desde mi impaciencia e intolerancia, eh, el otro queda ahí abajo, no tiene energía para curarse ni para verse siquiera.
+
+Entonces, ¿vieron que primero dije que antes de hablar del defecto de alguien, hay que garantizarse que a uno no le molesta? Sí, pero por ahí uno dice, "Ay, ya no me molesta." Y todavía molesta.
+
+Entonces, ¿qué es lo que hay que hacer?
+
+Primero de todo, es agradecer su virtud.
+
+Si yo voy a hablarle de un defecto para que lo vea, para que vea la verdad y que quiera cambiar, primero agradezco su virtud. Cuando yo agradezco su virtud, lo hago desde ¿dónde? Desde una virtud que es el agradecimiento.
+
+Es una preciosa virtud.
+
+Lo hago desde la admiración. preciosa virtud propia del amor.
+
+Entonces, desde mi virtud con una frecuencia vibratoria alta, ¿qué atraigo?
+
+La virtud del otro. Y no dice, "Ay, qué hermosura. Desde ahí, como en la cima de la montaña sagrada, estoy en condiciones de ver lo que está abajo.
+
+Y entonces ahí sí puedo ver y decir, "Ah, pero está aquello que no está tan bueno. Sería bueno verlo para algún día tratar de corregirlo, pero se lo hace desde lo alto, la frecuencia vibratoria alta. ¿Les parece bien?
+
+Entonces, dos cosas.
+
+Primero, no hablar de lo malo de alguien, aunque la persona te diga, "A ver, decime. Yo quiero la verdad." Parece valiente. Mm. Vamos a decir, "M, no sé, por si acaso.
+
+Primero dijo, no me molestes el defecto que le estoy por decir, porque si me molesta lo voy a hacer para cuidarme yo.
+
+No lo va a captar. o si no lo va a tomar muy mal, porque hay cosas que pueden enojarme y otras cosas que solamente me molestan, pero ya pero me molestan.
+
+Entonces, tengo que asegurarme que no me moleste.
+
+Eh, cuando creo que no me molesta, igual por si acaso, lo primero que hago es elevarlo a la verdad positiva. No invento una virtud, por supuesto, que el otro no tiene. No, no, no. La verdad positiva.
+
+¿Sabes qué? Te quiero decir algo, que yo admiro de vos esto, esto y esto. Y sabes cuándo te lo vi, cuando hiciste esto, aquello, aquello. Ah, es como que lo me vio. Sí, no solo te vi, te admiré. Ah, bueno, eso tengo para aprender y para agradecerte.
+
+Ahora, si vos querés que yo hable de la verdad, de algo que creo que viniste a trabajar y en lo que a lo mejor estoy en condiciones de ayudar, es tal cosa.
+
+Entonces, eh ahí sí está de arriba, vibratoriamente elevado. Entonces, mira lo objetivamente eh este desarmónico que tiene.
+
+¿Les parece bien?
+
+Entonces, si quieren eh tratamos de probarlo en estos días, tratamos de hacerlo. Eh bueno, hermanitos queridos, el abrazo del corazón, del alma con todito mi ser y me sale decir siempre juntitos, aunque no nos conozcamos personalmente, siempre juntitos. Eh, bueno, hasta la próxima.

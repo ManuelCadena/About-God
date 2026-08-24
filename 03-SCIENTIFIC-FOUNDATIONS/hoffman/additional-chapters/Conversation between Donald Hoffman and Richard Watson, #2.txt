@@ -1,0 +1,1455 @@
+Complete Interview Summary: Consciousness, Reality, and Scientific Theory 
+This interview presents a comprehensive discussion between multiple participants exploring fundamental questions about the nature of reality, consciousness, and scientific theory. The conversation centers around interface theory, the relationship between perception and reality, and the implications of moving beyond spacetime-based models of understanding. 
+Core Theoretical Framework 
+Interface Theory and Virtual Reality Analogy 
+The discussion begins with an exploration of interface theory using a virtual reality game analogy. The speaker explains that just as a red Ferrari in Grand Theft Auto exists only when rendered, despite the underlying supercomputer containing no actual Ferrari, our perceptions of objects like the moon may similarly be interface representations of deeper realities ‎‎ 00:01:36
+. The key insight is that while we can use Newtonian physics intuitions to predict where objects will appear next, this predictive utility doesn't validate the fundamental reality of spacetime objects ‎‎ 00:02:13
+. 
+The Living vs Non-Living Distinction 
+A significant philosophical point emerges regarding the distinction between living and non-living entities. The speaker argues that if one takes idealism and interface theory seriously, the distinction between living and non-living is merely an artifact of the limitations of our perceptual dashboard or interface ‎‎ 00:04:01
+. This distinction remains useful within the "game" of our experienced reality but doesn't reflect fundamental ontological categories ‎‎ 00:04:12
+. 
+Scientific Theory and the Infinite Regress Problem 
+The Nature of Scientific Explanation 
+The conversation delves into fundamental questions about scientific theories and their relationship to ultimate truth. The speaker emphasizes that scientific theories always begin with assumptions that serve as "miracles" for the theory - unexplained starting points that enable explanation of other phenomena ‎‎ 00:05:21
+. This creates an infinite regress where each deeper theory introduces new assumptions, placing science infinitely far from a complete theory of everything ‎‎ 00:06:03
+. 
+Spacetime as Non-Fundamental 
+A crucial point emerges about the psychological attachment to spacetime as fundamental reality. The speaker notes that high-energy theoretical physicists are declaring that "spacetime is doomed," requiring us to learn to think entirely outside of spacetime itself ‎‎ 00:07:00
+. This challenges our intuitive belief that spacetime represents ultimate truth rather than just another theoretical assumption ‎‎ 00:06:50
+. 
+Scientific Progress as Perspective Refinement 
+Rather than approaching ultimate truth, scientific progress is characterized as providing better descriptions of particular perspectives on reality - one perspective among an infinite number of possible viewpoints ‎‎ 00:08:06
+. The speaker suggests that our four-dimensional spacetime perspective may be among the more trivial "headsets" available, questioning why we limit ourselves to four dimensions when 10, 50,000, or entirely non-dimensional frameworks might be possible ‎‎ 00:08:33
+. 
+Markovian Dynamics and Timeless Reality 
+Stationary Markovian Systems 
+The discussion introduces a mathematical model involving stationary Markovian dynamics where entropy remains constant across time steps, eliminating any entropic arrow of time ‎‎ 00:19:10
+. This creates a timeless reality that "always was and always will be" - a static shape rather than a temporal process ‎‎ 00:19:17
+. 
+Projection and the Emergence of Time 
+A key theorem demonstrates that taking perspectives or projections of this timeless system necessarily creates new Markovian dynamics with increasing entropy due to information loss in the projection ‎‎ 00:19:30
+. This suggests that our experience of time, causation, and evolution may be artifacts of our particular perspective on a deeper synchronistic reality ‎‎ 00:20:49
+. 
+Evolutionary Theory as Spacetime Artifact 
+The speaker presents a provocative thesis that Darwin's evolutionary theory, while perfectly suited for describing biological organisms within spacetime, represents an artifact of spacetime projection rather than deep insight into reality's nature ‎‎ 00:20:49
+. Time emerges as the fundamental limited resource in evolutionary theory, but if time itself is an artifact, then all of evolutionary dynamics becomes a perspective-dependent phenomenon ‎‎ 00:20:36
+. 
+Consciousness and First-Person Experience 
+The Eternal Now 
+The discussion touches on the nature of first-person consciousness, emphasizing that experience always occurs "now" and nothing happens except in the present moment ‎‎ 00:24:11
+. This connects with the mathematical model's timeless nature, suggesting that since there's no arrow of time in the deeper reality, it's "always now" ‎‎ 00:25:34
+. 
+Non-Conceptual Knowledge 
+A distinction emerges between conceptual and non-conceptual knowledge, where non-conceptual knowledge transcends all predicates and descriptions ‎‎ 00:17:03
+. This echoes the Tao Te Ching's opening line: "The Tao that can be spoken is not the true Tao" ‎‎ 00:17:24
+. The speaker suggests that ultimate reality transcends concepts entirely, requiring a non-conceptual approach to knowledge ‎‎ 00:16:43
+. 
+Positive Geometries and Post-Spacetime Physics 
+Universe Plus Initiative 
+The conversation introduces cutting-edge work from the European Research Council's Universe Plus initiative, which has discovered timeless structures called positive geometries existing outside spacetime ‎‎ 00:28:45
+. These include the amplituhedron, cosmological polytopes, and other mathematical objects that generate correct predictions for particle interactions without requiring spacetime or quantum field theory calculations ‎‎ 00:29:00
+. 
+Computational Advantages 
+These positive geometries offer dramatic computational advantages over traditional spacetime-based calculations. Where quantum field theory requires hundreds of pages of algebra with millions of terms for a single particle interaction, the positive geometry approach yields the same results with three to five terms that can be written by hand ‎‎ 00:30:00
+. Additionally, these structures reveal new symmetries invisible within spacetime, such as infinite Yangian symmetry ‎‎ 00:30:13
+. 
+The M=4 Universe 
+A particularly striking insight concerns the amplituhedron's parameter M, which equals 4 for our spacetime universe but can theoretically take any positive integer value ‎‎ 00:31:21
+. This suggests our four-dimensional reality represents one of the more trivial examples of possible universes, leading to the speaker's feeling that "we got cheated" with the "cheap version" ‎‎ 00:31:42
+. 
+Scientific Theory Scope and Limitations 
+Every Theory Has Limited Scope 
+The discussion emphasizes that no scientific theory can be a theory of everything because theories cannot explain their own assumptions ‎‎ 00:33:30
+. Einstein's general relativity exemplifies this principle - it assumes spacetime is fundamental, which works excellently until reaching the Planck scale (10^-33 centimeters, 10^-43 seconds), where spacetime loses operational meaning ‎‎ 00:34:01
+. 
+Self-Limiting Theories as Scientific Progress 
+A crucial insight emerges about how science progresses: great theories provide the mathematical tools to discover their own limitations ‎‎ 00:34:16
+. This isn't a flaw but rather the essence of scientific advancement - theories that can precisely identify where they break down enable the development of successor theories ‎‎ 00:36:25
+. 
+Philosophical Objections and Responses 
+The speaker addresses published philosophical criticisms arguing that using evolutionary game theory to challenge the fundamental reality of organisms and resources represents a logical contradiction ‎‎ 00:35:23
+. The response emphasizes that this criticism misunderstands how science works - mathematical models of theories often reveal the limitations of the theory's basic concepts, as demonstrated by incompleteness theorems in logic ‎‎ 00:36:55
+. 
+Technological Implications and Future Directions 
+Control Knobs and Meta-Parameters 
+The discussion explores what new "control knobs" might become available as we move beyond spacetime-based physics. Current physics provides control over mass, momentum, and energy, but positive geometries suggest new parameters related to face structures and volumes of geometric objects ‎‎ 00:43:22
+. These could potentially allow manipulation of fundamental properties that current physics must input by hand, such as particle masses ‎‎ 00:45:03
+. 
+Video Game Cheat Codes Analogy 
+An intriguing analogy emerges comparing future technological capabilities to video game cheat codes - combinations of actions that have no meaning within the game's reality but unlock meta-level control over the system ‎‎ 00:46:07
+. This suggests that future technologies might involve sequences of conventional actions that only make sense from higher-level perspectives, potentially allowing manipulation of reality's "software" ‎‎ 00:47:01
+. 
+Spacetime Travel vs. Around Spacetime 
+The speaker speculates about revolutionary transportation possibilities once we understand the "software" controlling our spacetime interface. Rather than traveling through spacetime to distant galaxies like Andromeda (2.4 million light years away), we might learn to travel "around" spacetime by manipulating our position within the larger geometric structure ‎‎ 00:41:40
+. 
+Temporal Circularity and Oscillatory Reality 
+Everything as Vibration 
+The final section introduces ideas about reality as fundamentally oscillatory, where apparent objects are combinations of harmonics creating higher-dimensional curves that appear as simple circles in higher-dimensional space ‎‎ 00:51:00
+. When projected to lower dimensions, these circles lose their uniform curvature, creating the appearance of complex, non-circular orbits ‎‎ 00:51:18
+. 
+Frequency-Based Perception 
+A fascinating hypothesis emerges that perception depends on oscillatory frequency matching - entities can perceive each other when oscillating at the same frequency or harmonic relationships ‎‎ 00:52:14
+. This creates the possibility that slightly different frequencies would render entities invisible to each other, appearing as blurs ‎‎ 00:52:28
+. 
+Agency and Temporal Circularity 
+The discussion concludes with a profound insight about agency and causation in circular time. If time is circular, then actions taken for future consequences become indistinguishable from responses to past events when viewed at the appropriate temporal resolution ‎‎ 00:53:14
+. This suggests that what appears as forward-looking agency might actually be precisely-timed responses to past events, with the "right amount of lateness" making reactions appear as predictions ‎‎ 00:54:00
+. 
+Research Applications and Predictions 
+Proton Structure Predictions 
+The theoretical framework is being applied to make concrete predictions about proton structure at different temporal and spatial resolutions. The model suggests that as resolution increases, the apparent transition from three valence quarks to quark-antiquark pairs to a pure gluon sea represents statistical noise rather than deeper reality ‎‎ 00:58:05
+. The finest resolution observations may be seeing sampling artifacts rather than fundamental constituents ‎‎ 00:58:18
+. 
+Consciousness and Temporal Windows 
+The work connects temporal resolution with consciousness studies, suggesting that different sampling windows on Markovian chains might explain various aspects of conscious experience and agency ‎‎ 00:56:32
+. This provides a mathematical framework for understanding how consciousness might emerge from underlying oscillatory dynamics ‎‎ 00:55:49
+. 
+This comprehensive summary captures the interview's exploration of fundamental questions about reality, consciousness, and scientific knowledge, providing detailed documentation of the theoretical frameworks, mathematical models, and philosophical implications discussed throughout the conversation. 
+ 
+
+Unknown speaker 00:00 
+So,
+
+Unknown speaker 00:01 
+um, one thing, um, Don, I was listening to uh, to a conversation you had with somebody else and and you were talking about uh, uh, realism and the moon, you know, and this idea that the, you know, the kind of the whole interface theory and all that, and this idea that what's, what's, what's happening to the moon when we're not looking at it, right?
+
+Unknown speaker 00:19 
+And and it's not being rendered and all of that.
+
+Unknown speaker 00:20 
+So, I'm interested in you talking about what, what on your model, what does it mean that the next appearance, so, so let's say, you know, the moon goes, you know, behind some occlusion or something, and then the next place you're going to see it is you, you could actually guess where it's going to come out next by with a model that assumes that it actually does exist and it's tracing out a particular path, right?So there's some, there's some explanatory value that you get from from a model that does think that even when you're not looking at it, it's doing a set of steps that will lead it to be where when when you do look at it, here's where it's going to be.
+
+Unknown speaker 00:54 
+So I was curious about um, hearing you talk about that and then, you know, kind of Richard's side on uh, the his take on the realism of it and what the delta is between what we do, what we do see and what's actually going on behind the scenes.
+
+Unknown speaker 01:08 
+Well, that's a great question, Mike, and I get it all the time in emails.
+
+Unknown speaker 01:10 
+usually with the kind of gotcha kind of uh, attitude toward, you know, clearly you you haven't thought about this one.
+
+Unknown speaker 01:17 
+And and so it's actually quite easy, just
+
+Unknown speaker 01:20 
+as long as you think about virtual reality and a VR multiplayer game, you'll get the right answer.
+
+Unknown speaker 01:29 
+So, so let's instead of the moon, let's let's talk about I'm doing Grand Theft Auto virtual reality with a bunch of people and I see a red Ferrari.
+
+Unknown speaker 01:36 
+Well, in this example, the the the reality I'll I'll I'll assume is some supercomputer, right?
+
+Unknown speaker 01:44 
+Just for the sake of argument, right?
+Um, and if you looked inside that supercomputer, you would never find a red Ferrari.
+
+Unknown speaker 01:54 
+So there's there's no, there's only a Ferrari when you when you render it.
+
+Unknown speaker 02:02 
+Now, however, there's something going on in the supercomputer that's not a red Ferrari, and because what's going on in there is it's lawful and so forth, I can use Newtonian physics intuitions to guess if I look back, where the red Ferrari is going to be next based on the speed I saw it and the direction it was going, I can I can predict.
+
+Unknown speaker 02:13 
+So, so, in other words, we can use all of our space-time intuitions as as we should to to predict where things are and none of that affects the the realist realism claim.
+
+Unknown speaker 02:23 
+But but we're we're so used to thinking that way that that we we miss the the logical leap that we're making.
+
+Unknown speaker 02:40 
+Just because it's a useful way to do things, doesn't mean it's true.
+
+Unknown speaker 02:53 
+And the VR, the VR game really sort of brings that home.
+
+Unknown speaker 02:56 
+And and by the way, my guess is that these questions are going to go away in about less than a generation because a generation raised on VR games are just going to go duh.
+
+Unknown speaker 03:00 
+Mhm.
+
+Unknown speaker 03:00 
+Mhm.
+
+Unknown speaker 03:01 
+I'll bring up one one thing here that that that I heard you talk about before and I think is interesting as well.
+
+Unknown speaker 03:23 
+We in the same lines of um, what's real and what's not, and that is the distinction between living and non-living.
+
+Unknown speaker 03:27 
+I I know you were talking with Bernardo about that and the two of you disagreed a little bit and usually I agree with Bernardo, but in this, this is one case where I disagreed with Bernardo.
+
+Unknown speaker 03:33 
+Um, so it's it's and it'll be fun to talk with him at some point about it.
+
+Unknown speaker 03:50 
+But I think there's no principal distinction between living and non-living.
+
+Unknown speaker 03:55 
+If you really take uh, idealism seriously, as Bernardo does, and you take the dashboard or interface theory seriously, then
+
+Unknown speaker 04:01 
+the distinction that we make between living and non-living is merely an artifact of the limitations of that dashboard or or or that interface.
+
+Unknown speaker 04:12 
+And it's it's a use again, it's a useful distinction to make inside the game.
+
+Unknown speaker 04:21 
+Yeah.
+
+Unknown speaker 04:21 
+Do you think that so, um,
+
+Unknown speaker 04:21 
+okay, so in moving from, let's say, Newtonian paradigm to say the relativistic paradigm, do you think that that entails in any sense getting closer to the actual dynamics going on on the on the supercomputer behind the scenes or like like is there, you know, are are we in fact getting closer to that at all or is like what what is the arrow if there is one there?That that's another very great and important question, and and it gets to the very heart of what it means to have a scientific theory.
+
+Unknown speaker 05:00 
+So,
+
+Unknown speaker 05:01 
+so a scientific theory, and this is just like the ABCs, so it's very, very simple stuff.
+
+Unknown speaker 05:06 
+We always start with assumptions and we say if you grant me these assumptions, I'll explain all this other wonderful stuff.
+
+Unknown speaker 05:13 
+Now, clearly, a scientific theory cannot be a theory of everything because it's not a theory of its assumptions.
+
+Unknown speaker 05:21 
+It's assumptions are miracles for the theory.
+
+Unknown speaker 05:23 
+Now you can say, well, I'll give you a deeper scientific theory that explains those assumptions, indeed.
+
+Unknown speaker 05:28 
+That's what we do, but your new theory will have its own assumptions, which are your new set of miracles, and this goes on ad infinitum.
+
+Unknown speaker 05:35 
+Now, so that that's I think just, you know, standard, you know, elementary philosophy of science kind of stuff.
+
+Unknown speaker 05:44 
+It has important implications, but here's where I take it.
+
+Unknown speaker 05:54 
+I think that that entails the ad infinitum, I take seriously.
+
+Unknown speaker 06:03 
+That means that our science is infinitely far.
+
+Unknown speaker 06:04 
+Always from a complete theory of everything, infinitely far, because this, you know, it's like your, your kids when you're, when they're growing up, they say, but why is that?
+
+Unknown speaker 06:17 
+Why is the sky blue?
+
+Unknown speaker 06:20 
+And you say, well, it's because of this.
+
+Unknown speaker 06:23 
+But why, why do photons have that, that wavelength?
+
+Unknown speaker 06:24 
+Yeah, at some point you just say they do, that's that's just the way it is and you shut up.
+
+Unknown speaker 06:29 
+And and and so the the game the kids play, which is why, why, why, always questioning the assumptions is something that I think we can go on ad infinitum and and in principle, we should take it seriously that we go on ad infinitum.
+
+Unknown speaker 06:32 
+Now, one thing that gets us psychologically on this,
+
+Unknown speaker 06:35 
+is that we think that of course, spacetime is fundamental.
+
+Unknown speaker 06:43 
+So there is some assumption, it is an assumption, but it's it's the truth.
+
+Unknown speaker 06:50 
+And so we think, okay, spacetime is, you know, we have that psychological feeling that spacetime is the truth and not, you know,
+
+Unknown speaker 06:54 
+but science has moved on, spacetime is doomed, high energy theoretical physicists are saying that.
+
+Unknown speaker 07:00 
+And so we actually have to learn how to think entirely outside of spacetime itself.
+
+Unknown speaker 07:03 
+So, so the one thing that I think has sort of kept us from really grasping how important it is that um, there's an infinite regress of scientific theories ahead of us.
+
+Unknown speaker 07:13 
+And and so, so that's is horrible for those who want a theory of everything, that's bad news.
+
+Unknown speaker 07:26 
+It's great for um, you know, job security for scientists, that's an infinite.
+
+Unknown speaker 07:28 
+But but in terms now to get to your question, like, I think it means
+
+Unknown speaker 07:30 
+that
+
+Unknown speaker 07:31 
+um
+
+Unknown speaker 07:34 
+there is a sense in which Newton is not as useful in many cases as Einstein and quantum theory.
+
+Unknown speaker 07:42 
+But uh that I don't think means is getting closer to the ultimate truth in any in any sense.
+
+Unknown speaker 07:48 
+I think at best what science is doing is giving us a description of a perspective on reality, one of an infinite number of different possible perspectives.
+
+Unknown speaker 08:06 
+So, so this is just the opposite of the theory of everything kind of attitude.
+
+Unknown speaker 08:15 
+Uh you have a theory of a trivial perspective, the one that homo sapiens happens to take out of out of the infinity.
+
+Unknown speaker 08:24 
+And my own feeling is that that the one we take, which is a four-dimensional space-time kind of view of of things, is probably one of the more trivial headsets.
+
+Unknown speaker 08:33 
+I mean, why mean four dimensions is is about as minimal as you can do and have it be functional.
+
+Unknown speaker 08:34 
+Why not have 10?
+
+Unknown speaker 08:35 
+50,000.
+
+Unknown speaker 08:36 
+Why not go to something more general than dimensions?
+
+Unknown speaker 08:37 
+So it's it's my guess is uh, you know, we're we're we're on the dimmer part of the hierarchy of of of headsets that are being used, um, perspectives on on on reality.
+
+Unknown speaker 08:45 
+So, so my attitude, Mike and I would love for pushback is that um,
+
+Unknown speaker 08:52 
+of course I as a scientist, I want us to get better and better scientific theories, but that doesn't mean that they're getting closer and closer to the ultimate truth.
+
+Unknown speaker 09:00 
+That just means that they're better and better descriptions of the particular perspective we happen to be looking at reality from and making useful um insights into that particular perspective, which is just one of an infinity of perspectives.
+
+Unknown speaker 09:15 
+So it's it's very uh I'd say it's a very humbling point of view on on all this.
+
+Unknown speaker 09:25 
+I can't help noticing Don that when you wave your hand with your fingers spread, we get a little glimpse of a reality behind the dashboard that Zoom creates there.
+
+Unknown speaker 09:37 
+the background blurring doesn't, you know, like, oh, I just I can see the room is in for a minute.
+
+Unknown speaker 09:40 
+doesn't have an orchid in it.
+
+Unknown speaker 09:50 
+Uh so obviously we the the the sort of standard way of of assessing whether one scientific theory is better than another is because the
+
+Unknown speaker 10:00 
+number of assumptions that it makes is less.
+
+Unknown speaker 10:02 
+Yeah, Occam.
+
+Unknown speaker 10:05 
+Occam's razor, absolutely.
+
+Unknown speaker 10:06 
+Uh, and the the dream of a grand unifying theory is almost as though, you know, we're just reduce the number of fundamental forces or fundamental constants or fundamental assumptions we need to make until they almost aren't any, as though it's always just like it's just just, you know, assume that true is true and false is false and everything else will follow from that, you know.
+
+Unknown speaker 10:26 
+That that's the goal we want as few miracles as possible.
+
+Unknown speaker 10:30 
+Yeah.
+
+Unknown speaker 10:32 
+scientific theory.
+
+Unknown speaker 10:35 
+Ideally, I'm sure most in their heart of hearts would like no miracles at all, but but that's when you look at the nature of scientific explanation, you always have to start with with some miracles.
+
+Unknown speaker 10:41 
+Occam just says, use as few miracles as as possible.
+
+Unknown speaker 10:45 
+And and by the way, this has a really important implication for how we progress from theory to to theory.
+
+Unknown speaker 10:52 
+So so your suggestion is that the uh,
+
+Unknown speaker 10:56 
+spacetime perspective might have uh, a grand unifying theory with less miracles than those we have so far and we can we can assess the value of one theoretical framework with respect to another within that perspective of the quality.
+
+Unknown speaker 11:15 
+But we
+
+Unknown speaker 11:19 
+could have taken another perspective in which the same things might have been explained with a lot of miracles or with a little with a little number of miracles and there's an infinite number of perspectives we could have taken and how many miracles we're using to explain our predictions doesn't tell us which one of those perspectives was true.
+
+Unknown speaker 11:40 
+That that's that's correct or or or if if not true, um, useful from our our particular headset perspective on reality.
+
+Unknown speaker 11:52 
+And can I come back to the VR and the red Ferrari for a minute?
+
+Unknown speaker 11:58 
+So you suggested that the answer to
+
+Unknown speaker 12:00 
+I'm not looking at the Ferrari, but my model that assumes that there is a Ferrari uh, gets a reasonably good prediction about where it's going to be next time I look, perhaps it hasn't moved actually, perhaps it's still there next time I look, that's a model of where the Ferrari is.
+
+Unknown speaker 12:17 
+Uh, and you said, well, that's because the supercomputer has a law like um, a law like physics for want of a better word for it.
+
+Unknown speaker 12:30 
+even though there isn't a Ferrari and there isn't any redness and there isn't any rendering happening until I look at it.
+
+Unknown speaker 12:38 
+I guess it feels like there's a bit of a um something a little bit slippery about, well, when I model the Ferrari being in a new position at a particular time,
+
+Unknown speaker 12:53 
+was I making the assumption that it was a that it had object permanence and that it was moving through space, or was I simply making the assumption that it was that its behavior was law like.
+
+Unknown speaker 13:06 
+So it's it's about the what what am I what am I perceiving when I perceive spacetime, am I perceiving spacetime or I or I perceiving law like stuff which is consistent with spacetime.
+
+Unknown speaker 13:24 
+And of course the inclination of most of us, including smart scientists, is to take our perceptions of spacetime as real.
+
+Unknown speaker 13:39 
+as you know, object permanence, the moon really is there when no one looks.
+
+Unknown speaker 13:49 
+I mean, someone as bright as Einstein believed that.
+
+Unknown speaker 14:05 
+Right.
+
+Unknown speaker 14:05 
+So, so yeah, so I agree that we that's a good question.
+
+Unknown speaker 14:05 
+I think most of us uh just pre theoretically and even theoretically, um assume the moon is there when no one looks and and that is that is real and it's a real shock.
+
+Unknown speaker 14:28 
+That's why idealism is such a shock to most people's sensibilities.
+
+Unknown speaker 14:28 
+Um.
+
+Unknown speaker 14:30 
+So, um, let me extend the uh, Occam's number of miracles thing to is it is it possible to um go meta on that and say, well, let's use a similar principle to uh assess the quality of taking one perspective or another.
+
+Unknown speaker 15:00 
+we have a grand unifying theory with it gets down to a small number of miracles.
+
+Unknown speaker 15:01 
+But in another perspective, um, would be equally, it might be equally, um, explanatory and might have the same number of miracles or it might have less.
+
+Unknown speaker 15:17 
+But if there was, if there was, is there really a difference between saying this theory is better than that theory within this perspective and saying this perspective is better than that perspective.
+
+Unknown speaker 15:36 
+Um, because, you know, a theory is just taking a perspective anyway, isn't it?
+
+Unknown speaker 15:42 
+Yes, and and so yeah, the distinction between a perspective and a theory of a perspective is an interesting one because it's it's hard to even talk about a perspective without sort of already having a theoretical idea what you're talking about.
+
+Unknown speaker 15:59 
+And and there is a deep point, which is, uh, if I'm saying that no scientific theory is the final word and we have we're going to have an infinite sequence of theories and an infinite number of perspectives, what is the ultimate nature of the reality that we're taking perspectives on.
+
+Unknown speaker 16:15 
+And and my my own view is, we have to think of it like in in terms of like incompleteness results like girdle and others, that that the reality, whatever it is, transcends concepts.
+
+Unknown speaker 16:30 
+that it's so, so those who tell us, if you want to know the truth, you have to be the truth by letting go of all concepts and face it head on.
+
+Unknown speaker 16:39 
+I think there's something there that that's but that's not a conceptual knowledge.
+
+Unknown speaker 16:43 
+That's that's entirely a non-conceptual knowledge.
+
+Unknown speaker 16:47 
+And and so that that starts to get to sound mystical, but but I it seems to me like a direct shot from what is a scientific theory.
+
+Unknown speaker 16:56 
+Can you tell me more about the difference between conceptual and non-conceptual knowledge?
+
+Unknown speaker 17:01 
+Well, yeah, um, non-conceptual knowledge would be any words you use to describe it.
+
+Unknown speaker 17:03 
+Any predicates, um, are necessarily wrong.
+
+Unknown speaker 17:10 
+Or so, so if if you it's like the the Tao of Ching basically at the very the very first line of the Tao of Ching is, um, the Tao that can be spoken is not the true Tao.
+
+Unknown speaker 17:24 
+In other words, if you can talk about it, that's not it.
+
+Unknown speaker 17:29 
+And that's that's sort of the the attitude I have.
+
+Unknown speaker 17:30 
+have no looking at the nature of scientific theories is reality is whatever it is.
+
+Unknown speaker 17:35 
+And we've conflated our little theories for true descriptions of reality and I I think that that's immodest and actually not understanding what we're doing.
+
+Unknown speaker 17:45 
+It's I think a more modest position is to say theories are theories and concepts are concepts, they're human concepts and that's not the truth.
+
+Unknown speaker 17:56 
+So is it is that a bit like a Gestalt perception, right?
+
+Unknown speaker 18:10 
+that's it's all there all at once.
+
+Unknown speaker 18:11 
+And anything that you do to try and cut it up, categorize it, describe its parts, that that's not it.
+
+Unknown speaker 18:11 
+Yes, and and and in fact, now this might sound contradictory, but I'm trying to do a mathematical model to to capture that kind of thing, right?
+
+Unknown speaker 18:19 
+So but I'm going to be doing it in the spirit of humility that's saying this is just a model that tries to capture that idea that that there's some kind of deeper synchronicity that that is non- causal and so forth, but from a perspective it looks like there's causality and and and so forth.
+
+Unknown speaker 18:37 
+And so so immediately I'll say right up front that that what I'm about to say, I'm I'm not saying it's anywhere near the truth.
+
+Unknown speaker 18:40 
+It's just that it's an interesting mathematical model, it helps us think out of that little in other words, it helps us get out of a little box that we might be been stuck in.
+
+Unknown speaker 18:54 
+And so so the idea is that there are these Markovian dynamics that are stationary.
+
+Unknown speaker 19:07 
+And that means that the um, the entropy doesn't increase from step to step.
+
+Unknown speaker 19:10 
+It's the same entropy at every step.
+
+Unknown speaker 19:11 
+So there's no entropic arrow of time.
+
+Unknown speaker 19:11 
+But it's a it's a bit like saying it'll it'll always it always was and it always will be.
+
+Unknown speaker 19:12 
+It's just what it is, right?
+
+Unknown speaker 19:17 
+It is what it is and you can It's just a shape, it's not a process.
+
+Unknown speaker 19:21 
+Run it forwards or backwards, you you you see the same thing.
+
+Unknown speaker 19:25 
+Um, you know, long term.
+
+Unknown speaker 19:28 
+And but it's a theorem that if you take a perspective, you take a projection, like conditional, you know, conditional probability on this.
+
+Unknown speaker 19:30 
+So the three line proof really trivial, you get a new new dynamics, a new Markovian dynamics and the entropy will will be increasing as a result of the loss of information in the projection.
+
+Unknown speaker 19:38 
+And and so my my own take is that our view from from inside spacetime, so for example, of evolution of organism.
+
+Unknown speaker 20:00 
+um, fighting for resources and competing and uh the the fundamental
+
+Unknown speaker 20:04 
+resource that's limited is time.
+
+Unknown speaker 20:07 
+If you don't breathe in time, you die.
+
+Unknown speaker 20:09 
+If you don't mate in time, you don't reproduce.
+
+Unknown speaker 20:12 
+If you don't eat in time, you die.
+
+Unknown speaker 20:15 
+Time is the fundamental limited resource.
+
+Unknown speaker 20:16 
+And and as you probably know, I've done a lot of work on evolution.
+
+Unknown speaker 20:27 
+I love it.
+
+Unknown speaker 20:28 
+It's a wonderful, wonderful theory.
+
+Unknown speaker 20:30 
+There's no better theory of biological organisms inside spacetime than Darwin's theory and evolutionary game theory.
+
+Unknown speaker 20:30 
+Having said that,
+
+Unknown speaker 20:31 
+I think that time is an artifact and it's the fundamental limited resource in evolutionary theory.
+
+Unknown speaker 20:36 
+So I think that all of Darwin's theory, as beautiful as it is and as perfectly suited to description inside spacetime, all of it is an artifact of the spacetime projection.
+
+Unknown speaker 20:49 
+None of it is a deep insight into the nature of reality.
+
+Unknown speaker 20:50 
+We could have this deeper reality, and again, I'm not saying my Mark Cuban model is is reality.
+
+Unknown speaker 20:59 
+I'm just saying it's there as a way to help us think outside of a box.
+
+Unknown speaker 21:00 
+So this model shows how you could have a synchronistic, you know, in the union sense of a synchronistic system, the entropy is not increasing, no limited resources, no nature red and truth and claw, but when you take a perspective on it, all of a sudden,
+
+Unknown speaker 21:08 
+you get nature red and truth and claw, you get um organisms fighting, you get entropy increasing, you get Markov blankets, you get predictive processing, you get all that stuff.
+
+Unknown speaker 21:17 
+So what I'm saying is predictive processing, Markov blankets and that whole way of thing, absolutely brilliant.
+
+Unknown speaker 21:28 
+I'm not putting it down, it's absolutely brilliant.
+
+Unknown speaker 21:38 
+It works really well inside spacetime and every bit of it is an artifact of projection of a deeper
+
+Unknown speaker 21:40 
+system that's synchronistic and doesn't have doesn't need predictive processing and so forth.
+
+Unknown speaker 21:49 
+It has no arrow of time.
+
+Unknown speaker 21:50 
+So, so I'm I'm saying that again, not to say I'm right, just to say here's some a mathematical model that can help us blow open some boxes that we might have, you know, in our conceptual system.
+
+Unknown speaker 22:01 
+So there will be a deep connection then between uh
+
+Unknown speaker 22:06 
+time, entropy, causation, right?
+
+Unknown speaker 22:18 
+If there isn't any time, then there isn't any cause, right?
+
+Unknown speaker 22:21 
+There's it's just it's just what it is.
+
+Unknown speaker 22:22 
+And nothing's causing anything, there aren't any events if there isn't any time.
+
+Unknown speaker 22:23 
+And there'll be a deep connection between that and uh where you are, where you are in time, where you are on this shape, taking a perspective and having a first-person experience of it, right?
+
+Unknown speaker 22:31 
+They'll be some some deep connection between taking a first-person perspective, having a first-person perspective and
+
+Unknown speaker 22:32 
+experiencing a ride on this shape, right?
+
+Unknown speaker 22:42 
+I imagine the kind of shape you're talking about, like a high-dimensional curve that by the way, I'm thinking is probably a knot.
+
+Unknown speaker 22:43 
+Uh and the the the primary um I don't know what to call it because I've all the words use spacetime analogies, right?
+
+Unknown speaker 22:52 
+The primary thing.
+
+Unknown speaker 22:53 
+Uh, there must be some deep connection between that assumption and the and this idea of um taking perspectives in a way that have a particular point in time or see time as as a real thing rather than a non-thing.
+
+Unknown speaker 24:01 
+Yes, and I think that, you know, there is the question that that comes out of your your discussion there that,
+
+Unknown speaker 24:04 
+you know, we experience things in space and time, but there is you said this first-person perspective and that just I am.
+
+Unknown speaker 24:10 
+And
+
+Unknown speaker 24:11 
+it's striking that I am always only now.
+
+Unknown speaker 24:12 
+Nothing happens except now.
+
+Unknown speaker 25:00 
+in this area right now.
+
+Unknown speaker 25:01 
+I I don't have a mathematical model of the now and and and and that kind of thing.
+
+Unknown speaker 25:06 
+So it's um but but from a first person perspective and also when you look at, you know, various spiritual traditions that that that talk about this kind of thing, there is pretty good intuitive evidence that now is all there is, whatever that might mean.
+
+Unknown speaker 25:19 
+And and it does seem to to
+
+Unknown speaker 25:26 
+interface nicely with the ideas that we were just talking about that that there could be a deeper synchronistic model that we could give a mathematics for that has no arrow of time.
+
+Unknown speaker 25:34 
+And and in in in some sense, since there is no arrow of time, it's always now.
+
+Unknown speaker 25:41 
+Um, but the if I imagine this complex high-dimensional shape or curve, which represents everything that always was and always will be and that isn't moving through time, it just is.
+
+Unknown speaker 25:54 
+Um, I can imagine projecting it like projecting 3D to 2D, but I can also imagine a projection that is a bit um, bit more interesting, that a projection that is uh,
+
+Unknown speaker 26:09 
+because the object that we're talking about is going to be fractal.
+
+Unknown speaker 26:13 
+So there's a there's a possibility of a projection that's something to do with uh,
+
+Unknown speaker 26:21 
+taking every other dimension from it or uh taking every like I'm thinking about viewing it at different frame rates instead of viewing it at different viewing it in different um spatial projections.
+
+Unknown speaker 26:38 
+uh, which is a strange thing to say since we just decided that it isn't moving and there isn't any time.
+
+Unknown speaker 26:44 
+Uh, but if um, if I imagine myself moving on a on a complex high-dimensional curve, then my experience of that curve as I move around it is going to be varying that I can see.
+
+Unknown speaker 27:03 
+I'm riding on a subway train and I can see that the the carriages in front of me are doing this or they're not doing that depending on whether I'm going around a sharp curve or I'm going along a straight.
+
+Unknown speaker 27:14 
+Uh, it doesn't that doesn't feel like moving, but it feels like the future and the past are waving around in front of me, right?
+
+Unknown speaker 27:29 
+If I change
+
+Unknown speaker 27:30 
+the frame rate, they change the speed at which the train is moving.
+
+Unknown speaker 27:34 
+I could hit the same part of the curve with the same curvature again a moment later and it would look like it wasn't waving around in front of me, it would look like it was stationary again because I'd hit a harmonic of that curve.
+
+Unknown speaker 27:46 
+uh that made everything look stationary again, right?
+
+Unknown speaker 27:50 
+So there would be multiple speeds I could travel that would make the world look non-eventful.
+
+Unknown speaker 27:56 
+and
+
+Unknown speaker 28:08 
+I'm I'm reaching for something to make the
+
+Unknown speaker 28:10 
+the projections you talk about that that when you take a projection of this shape, it it it looks like it has time and it looks like it has events and it looks it has causes and a and a furthest person way of thinking about it and uh a way to make time fractal.
+
+Unknown speaker 28:28 
+Do that.
+
+Unknown speaker 28:30 
+Do that and give it back to me.
+
+Unknown speaker 28:31 
+Well, so that's it's I think that's a a great project and it's quite interesting.
+
+Unknown speaker 28:35 
+but there's uh some work.
+
+Unknown speaker 28:45 
+Have you heard of the Universe Plus um initiative from the European Research Council?
+
+Unknown speaker 28:45 
+It's got
+
+Unknown speaker 28:45 
+Oh yeah, I think you mentioned it before, yeah.
+
+Unknown speaker 28:45 
+Yeah, Universe Plus.
+
+Unknown speaker 28:46 
+And uh it's they're what they're doing is they're finding these new timeless structures outside of spacetime called positive geometries.
+
+Unknown speaker 29:00 
+uh among them the more of the amplituhedron, cosmological polytopes, asyhedron and so forth and and then some combinatorial objects called decorated permutations that classify these structures.
+
+Unknown speaker 29:04 
+So here the here these they're not dynamical, they're they're these platonic solids that so if you will, although in some cases they're not polytopes like the amplituhedron need not be a polytope.
+
+Unknown speaker 29:17 
+So it's so just so a little more complicated than just, you know, polytopes out there.
+
+Unknown speaker 29:31 
+But these structures give rise to the correct predictions of scattering amplitudes for particle processes inside spacetime, like two gluons smashing into each other and six gluons spraying out at, you know, at some big collider.
+
+Unknown speaker 29:47 
+Uh if you if you do that computation inside spacetime using quantum field theory and find diagrams, it's hundreds of pages of algebra, millions of terms for one one interaction.
+
+Unknown speaker 30:00 
+objects outside of spacetime.
+
+Unknown speaker 30:02 
+Um, three or four or five terms, you can write down by hand.
+
+Unknown speaker 30:05 
+You get the you get the right answer without all the mess.
+
+Unknown speaker 30:08 
+And you see new symmetry, something called the infinite Yangian symmetry that you can't see inside spacetime.
+
+Unknown speaker 30:13 
+So already in and this is only in the last 10, 12 years that the high energy theoretical physicists have have discovered these structures.
+
+Unknown speaker 30:22 
+Um, published in 2013 in archive and 2014 in in uh the journal, the the first of these positive geometries.
+
+Unknown speaker 30:30 
+So, so it's 10 years old, basically.
+
+Unknown speaker 30:32 
+And so it's a brand new field, but they're doing exactly what you are asking, uh, Richard.
+
+Unknown speaker 30:37 
+They're they're asking they're they're start I mean it's not the final word, but it's like they've taken a step outside of spacetime.
+
+Unknown speaker 30:43 
+And by the way, outside of quantum theory.
+
+Unknown speaker 30:46 
+There are no Hilbert spaces in these structures.
+
+Unknown speaker 30:49 
+But what they're showing is that you get spacetime and quantum theory, both, uh, joined at the hip as a projection.
+
+Unknown speaker 30:54 
+And a fairly trivial projection.
+
+Unknown speaker 31:00 
+Um, with the with the amplitudehedron, there are these it's it's a geometric object that has um,
+
+Unknown speaker 31:07 
+three parameters, N, K, and M.
+
+Unknown speaker 31:10 
+And and then a matrix that you need called Z that and M,
+
+Unknown speaker 31:16 
+for our little universe, you know, spacetime, M is four.
+
+Unknown speaker 31:21 
+But but this positive geometry allows M to be any any positive number that you want.
+
+Unknown speaker 31:26 
+So, what we call our universe is just the M equals four trivial example, one of the more trivial examples of an amplitudehedron.
+
+Unknown speaker 31:30 
+Um, you know,
+
+Unknown speaker 31:32 
+that that can go off to M, you know, M M could be a billion.
+
+Unknown speaker 31:40 
+Uh, so we're stuck with M equals four.
+
+Unknown speaker 31:42 
+That's why when I say, you know, I feel like we we got cheated, we got the the cheap version.
+
+Unknown speaker 31:49 
+Yeah, we we we got the M equals four version of the amplitudehedron.
+
+Unknown speaker 31:50 
+And but the amplitudehedron itself, in the very definition of it says M could be any positive integer you want.
+
+Unknown speaker 31:57 
+Um, you know, and and four is about as small as you can be and and have the thing just not be trivial.
+
+Unknown speaker 32:03 
+So, so there is efforts in the direction you're talking about in the positive geometries, I think are a really good thing to to to look at there.
+
+Unknown speaker 32:19 
+But but but I should say one one other thing maybe is slightly off the track, but but I think it's importantly related because it it given that we're doing all these different scientific
+
+Unknown speaker 33:00 
+theories, right?
+
+Unknown speaker 33:01 
+And now I'm I'm not saying none of them are the truth, all of them are perspectives and so forth.
+
+Unknown speaker 33:06 
+How do we as scientists actually go from one theory to another?
+
+Unknown speaker 33:11 
+Well, if if we have a good mathematically precise theory, then that theory will give us the tools to explore the scope of that theory.
+
+Unknown speaker 33:22 
+And and the point is every theory, because it's not a theory of everything, there is no scientific theory of everything, because you have assumptions.
+
+Unknown speaker 33:30 
+Your your theory, any theory will have a limited scope.
+
+Unknown speaker 33:34 
+Period.
+So there is no theory of everything, that means every theory, no exception, Einstein's theory of gravity, everything, as a limited scope.
+
+Unknown speaker 33:45 
+when you bring it into say quantum field theory.
+
+Unknown speaker 33:48 
+You get Einstein's theory, who assumes that space and time are fundamental, and that's a great assumption until you get to 10 to the minus 33 centimeters.
+
+Unknown speaker 34:01 
+And at 10 to the minus 33 centimeters,
+
+Unknown speaker 34:03 
+10 to the minus 43 seconds, game over for spacetime.
+
+Unknown speaker 34:04 
+It has no operational meaning.
+
+Unknown speaker 34:06 
+So, Einstein's theory together with quantum theory is a great theory because it gives us the mathematical tools to actually find precisely what its limits are.
+
+Unknown speaker 34:16 
+And that's how science works.
+
+Unknown speaker 34:19 
+And and the reason I bring this up is
+
+Unknown speaker 34:23 
+there are many philosophers who think otherwise.
+
+Unknown speaker 34:27 
+There are many philosophers who who would say that what I've just said is um is is actually illogical, that I'm shooting myself in the foot, I'm making a logical mistake.
+
+Unknown speaker 34:38 
+And and and the argument and by the way, I'm saying this because they've actually published this, so so these are published, this is not just informal discussions over beer.
+
+Unknown speaker 34:50 
+published and so they'll they'll say, look, for example, I I published with with my, you know, Chetan Prakash and and Manish Singh and and and.
+
+Unknown speaker 35:00 
+number of other graduate students and so forth, some work.
+
+Unknown speaker 35:01 
+showing that evolutionary game theory entails that uh physical objects like organisms and resources.
+
+Unknown speaker 35:12 
+cannot be fundamental.
+
+Unknown speaker 35:15 
+And and so several philosophers have published articles saying, well, Hoffman, you know, poor guy, he he shot himself in the foot.
+
+Unknown speaker 35:23 
+I mean, and the argument goes like this, either evolutionary game theory faithfully represents Darwin's ideas or it doesn't.
+
+Unknown speaker 35:31 
+If it doesn't, Hoffman couldn't use it for what he's doing.
+
+Unknown speaker 35:35 
+And if it does, evolutionary game theory couldn't possibly contradict the fundamental concepts that Darwin used in his theory, namely organisms in space and time competing for resources in space and time.
+
+Unknown speaker 35:48 
+And and that last claim is where they go astray.
+
+Unknown speaker 35:53 
+They they think that a mathematical model will never for a good scientific theory, will never contradict the fundamental conceptual entities at at the heart of the theory.
+
+Unknown speaker 36:04 
+And and what I just said earlier was, no, that's how science progresses.
+
+Unknown speaker 36:15 
+A great theory actually gives you the tools to find the necessary limits because they will be limited and that's the point.
+
+Unknown speaker 36:21 
+This is not optional.
+
+Unknown speaker 36:23 
+Your theory's basic concepts are not true.
+
+Unknown speaker 36:24 
+They have a limited scope.
+
+Unknown speaker 36:25 
+And what science does that we haven't had before is the ability to have a theory that tells you the limits of its own concepts.
+
+Unknown speaker 36:33 
+So, so this is not a minor point.
+
+Unknown speaker 36:35 
+It and and apparently it's um non-trivial enough that a lot of brilliant actually very, very smart philosophers have have made the same the same argument in print that I you you necessarily are shooting yourself in the foot if you make this kind of argument.
+
+Unknown speaker 36:52 
+And but so incompleteness is just such a theory, isn't not, right?
+
+Unknown speaker 36:55 
+So incompleteness says, I'm going to give you a really nice logical argument that proves that really nice logical arguments can't tell you the whole truth.
+
+Unknown speaker 37:05 
+And that's beautiful.
+
+Unknown speaker 37:06 
+That's really what is so great about scientific theories as opposed to just verbal theories, right?
+
+Unknown speaker 37:15 
+Well, before science, we had verbal theories and you could wishy-washy, move around, evade, you know, avoid getting in scientific theories, that's really is mathematically precise.
+
+Unknown speaker 37:24 
+And a good theory, you can say, aha, Einstein, your stuff stops at 10 to the minus 33 centimeters.
+
+Unknown speaker 37:30 
+Aha, it doesn't work.
+
+Unknown speaker 37:35 
+And and what can he say?
+
+Unknown speaker 37:43 
+In fact, Einstein didn't know that there were black holes.
+
+Unknown speaker 37:46 
+you know, Schwarzschild came back in 1916 and and told Einstein, hey, your theory has predicts black holes.
+
+Unknown speaker 37:50 
+Einstein didn't know that and and of course black holes are the thing that ultimately are the doom of the scope of spacetime.
+
+Unknown speaker 39:56 
+that as you know, I think it was Plank.
+
+Unknown speaker 40:00 
+who said that science progresses one funeral at a time.
+
+Unknown speaker 40:03 
+And and ultimately that's that may be why science is not dogmatic because the younger generation will be very happy to show that the older generation um didn't know what they were talking about.
+
+Unknown speaker 40:12 
+Well, and you know, Chris Chris Fields has a slightly more positive aversion of that where he says that uh only technologies settle arguments, right?
+
+Unknown speaker 40:20 
+So at some point, presumably there will be something that's uh is irresistible because of its utility that rests on some other, you know, on spacetime, whatever.
+
+Unknown speaker 40:32 
+And then the new generation will put it into their little, you know, whatever and then that's it, that's the end of that.
+
+Unknown speaker 40:39 
+I I I agree with that.
+
+Unknown speaker 40:40 
+Chris is a very deep thinker and then my my own guess is that these positive geometries are a first step outside of spacetime.
+
+Unknown speaker 40:49 
+As we, as we really, I think if spacetime is just our headset, it's our little VR headset that we use, in reality whatever it is is outside the headset.
+
+Unknown speaker 40:58 
+We're getting in some sense, you can think of it as like the first layer of software outside the headset that's controlling our headset.
+
+Unknown speaker 41:06 
+Once we understand that software, we can play with the headset.
+
+Unknown speaker 41:11 
+I mean, if I know the software in Grand Theft Auto, I can do things that the wizard inside the game would be blown away.
+
+Unknown speaker 41:18 
+I could I could take I could take all those tires off, I can take out of his gap, I can take the the geometry of this whole space and change it however I wish because I I control the software.
+
+Unknown speaker 41:28 
+So my guess is that one killer app technology will be once we understand the software outside of spacetime.
+
+Unknown speaker 41:36 
+We won't have to travel through spacetime, we can travel around spacetime.
+
+Unknown speaker 41:40 
+Right, the nearest galaxy Andromeda is like 2.4 million light years.
+
+Unknown speaker 41:45 
+That's our nearest galaxy.
+
+Unknown speaker 41:49 
+Well, good luck, I mean, your great, great grandkids won't get there on a ship.
+
+Unknown speaker 41:52 
+But what if we don't have to go through spacetime, what if we realize spacetime is just the M equals four amplitudehedron and now we know, you know, that's a pretty trivial little M equals four trivial case.
+
+Unknown speaker 41:56 
+We now know a little bit of the software outside and we can now actually just change your position inside that little headset from here from Earth to Andromeda galaxy, just just change your pointer.
+
+Unknown speaker 42:04 
+But but that's very interesting, right?
+
+Unknown speaker 42:15 
+Because um, you know, uh, the conventional theory also points out what the what the what the actionable control knobs are.
+
+Unknown speaker 42:27 
+So, right, so, so within the spacetime, we know, you know, there's mass and there's some other stuff uh that those are our experimental control knobs.
+
+Unknown speaker 42:36 
+Uh, do we know, you know, if if we're dumping all that, what what are what's the next set of practical control knobs that we get to that we get to twist.
+
+Unknown speaker 42:46 
+Well, and that now gets into the like to the nitty gritty of these new positive geometries.
+
+Unknown speaker 42:53 
+And and that's only going to be a first step because there's no they have no dynamical systems here.
+
+Unknown speaker 43:00 
+This is these are just like static geometries.
+
+Unknown speaker 43:06 
+And so, so in some sense and and no surprise, it's only been 10 years.
+
+Unknown speaker 43:11 
+So, so I'm, you know, I think that they'll they'll want to go there.
+
+Unknown speaker 43:15 
+But they are giving you some different knobs, the knobs now are the the the face structures of these geometries and the volumes of the various sub parts of these geometries.
+
+Unknown speaker 43:22 
+So those are sort of the new kind of knobs and and you you get things like um the unitarity underlying quantum theory comes out of sort of again the way the the um faces divide into smaller faces.
+
+Unknown speaker 43:29 
+And and you also get uh now I forget how this happens, you also get um locality also coming out from the geometry.
+
+Unknown speaker 44:00 
+So you you locality and unitarity are are are something that you get you see directly in spacetime.
+
+Unknown speaker 44:03 
+But they're they're sort of artifacts of the geometry of these objects beyond spacetime.
+
+Unknown speaker 44:15 
+So we're going to see that kind of of thing.
+
+Unknown speaker 44:19 
+The the what are the explicit knobs for us are now just part of the geometry and there's something else that's more interesting about these bigger geometries.
+
+Unknown speaker 44:22 
+And what I'm trying to to work on with my team is trying to get a Markovian dynamics that would give rise to these positive geometries.
+
+Unknown speaker 44:30 
+where we could then really start to have to to really get to your question, Michael, you know, we have different kinds of knobs that we could turn.
+
+Unknown speaker 44:39 
+that would be much more interesting.
+
+Unknown speaker 44:59 
+And actually be able to play with things like mass and momentum and energy because we we would know what those are.
+
+Unknown speaker 45:00 
+Particle physics has to put the masses in by hand.
+
+Unknown speaker 45:03 
+But if our theory says um the entropy rate of a communicating class is going to project to what you call the mass, then all of a sudden we can make predictions about masses from first principles in in this theory.
+
+Unknown speaker 45:20 
+So we will have new kinds of knobs that are predictive, whereas before we had to just put them in by hand.
+
+Unknown speaker 45:27 
+We'll see.
+
+Unknown speaker 45:27 
+I mean,
+
+Unknown speaker 45:27 
+This is where we're headed.
+
+Unknown speaker 45:28 
+I'm not saying we've done it.
+
+Unknown speaker 45:28 
+I you know, I I I have I have a wacky uh analogy.
+
+Unknown speaker 45:30 
+And so so this is probably pushing pushing your um video game analogy too far, but uh in my search for control knobs, you know, one interesting thing about video games is that often there is there are combinations of key presses that unlock meta properties of the system that are not about, so you know, so you've got your control that makes the Ferrari go faster or slower, but there's a combination of button presses that mean that does not mean anything within the game, it's completely it it's you know, it's nonsense with within the game, you know, the five times to the left and then really quickly right, you know, that kind of stuff.
+
+Unknown speaker 46:07 
+It doesn't doesn't do anything really in the game, but what it does do is unlock a meta uh debugger or something for the, you know, that that was put in by the, you know, by the designers, that let you tweak things for the purposes of of you know, improving gameplay.
+
+Unknown speaker 46:22 
+So it's like, you know, you can go in and you can change the mass or you can whatever, right?
+
+Unknown speaker 46:29 
+And then you and you unlock it with these things and have no meaning within.
+
+Unknown speaker 46:30 
+So, so I wonder if we're going to find that if we take this this this whole thing seriously, uh I wonder if in the future you're going to find there's some that the control knobs are some kind of sequence of some kind of action that under the old model doesn't do anything, but actually then somehow you know, in a in a meta way changes lets you, you know, that that that's that's my conjecture, right?
+
+Unknown speaker 46:59 
+is that there are going to be knobs that are they're made of conventional actions and yet they only make sense from the next level up, you know, they don't make any sense at the level that you're looking at.
+
+Unknown speaker 47:01 
+So maybe that's another way of of looking at, you know, the control knobs may look if you zoom in, they look, well, that's just the conventional, you know, magnetic fields that we've been.
+
+Unknown speaker 47:01 
+Ah, but if you do this or that, suddenly it like, you know, cracks some kind of some some aspect of the simulation, you know, that that kind of thing.
+
+Unknown speaker 47:29 
+I think that's very likely, Mike.
+
+Unknown speaker 47:31 
+I think that that's um and that again would be part of the new technology that would probably, you know, Yeah.
+
+Unknown speaker 47:32 
+persuade everybody that uh yeah, we we need to move beyond spacetime.
+
+Unknown speaker 47:40 
+I mean, one one little hint in that direction is, you know, I mentioned the the M equals four aspect of the amplitudehedron.
+
+Unknown speaker 47:41 
+And M equals four is just the meta parameter for our little four-dimensional spacetime, but there's already a parameter they found outside of spacetime that you can crank it up and and have a better headset.
+
+Unknown speaker 47:47 
+So why not an M equals eight headset, right?
+
+Unknown speaker 47:49 
+that the the question is what's the like like what's the actual crank, right?
+
+Unknown speaker 47:50 
+And and and there are examples of this.
+
+Unknown speaker 47:51 
+So, so I'm you know, here's one silly example like I well, I don't know if it's silly.
+
+Unknown speaker 47:51 
+I'm I'm not the the the something like Fung, right?
+
+Unknown speaker 47:52 
+So, so so somebody says, oh, you've got to have a corridor that looks like this and then you'll have, you know, financial.
+
+Unknown speaker 47:53 
+And say, what the hell is the connection between the, you know, this the the the the the angularity of my corridor and the and the finance system that's going to bring in more.
+
+Unknown speaker 47:54 
+And say, don't worry about it.
+
+Unknown speaker 47:58 
+That's you know, this this is this is what it is.
+
+Unknown speaker 49:00 
+And right?
+
+Unknown speaker 49:00 
+So, but but I think that the um the problem is our brains have a hard time thinking out of their old boxes.
+
+Unknown speaker 49:05 
+Uh even a brain
+
+Unknown speaker 50:00 
+like Einstein's.
+
+Unknown speaker 50:01 
+I mean, he he pointed out entanglement,
+
+Unknown speaker 50:04 
+that in some sense because he thought that there was wrong.
+
+Unknown speaker 50:15 
+Richard, do you want to um, say anything about the uh,
+
+Unknown speaker 50:19 
+uh, the circularity of time sort of thing, right?
+
+Unknown speaker 50:26 
+We've talked about a little bit before.
+
+Unknown speaker 50:28 
+Uh,
+
+Unknown speaker 50:30 
+yeah.
+
+Unknown speaker 50:30 
+Um,
+
+Unknown speaker 50:36 
+So, uh, I've been thinking about, um,
+
+Unknown speaker 50:42 
+you know, everything is a, everything is a vibration, everything is an oscillation, and uh, things which appear to be objects are just uh, oscillations of particular combinations of harmonics that create higher dimensional, um, uh, higher dimensional curves.
+
+Unknown speaker 51:00 
+Uh, but um, really or all of it is just a, is just an ordinary equal curvature circle in a higher dimensional space.
+
+Unknown speaker 51:05 
+There's no special kinks or anything in in this um, orbit.
+
+Unknown speaker 51:10 
+It's just that when you project that orbit down into lower dimensional spaces, it doesn't look like a circle anymore.
+
+Unknown speaker 51:18 
+So, for example, when you um, uh, you project it down um, from one dimensionality to another, then it looks like it doesn't have equal curvature all over.
+
+Unknown speaker 51:25 
+Uh, and you regain something that looks like uh, an ordinary regular orbit that's circular again when you find a harmonic projection that's it's taking a particular um, time slice through that temporal thing.
+
+Unknown speaker 52:05 
+Uh, and if if the reason that I can see you is because
+
+Unknown speaker 52:14 
+I'm an oscillation that's at the same frequency as you, and that um, if we were at slightly different frequencies, you would just look like a blur to me, and that I would look like a blur to you, but if we were at the same frequency, we can see each other.
+
+Unknown speaker 52:28 
+Uh, but I
+
+Unknown speaker 52:30 
+It also see you if I was at twice the frequency or half the frequency, you know, if I was at a harmonic of you, I would also be able to see you would look stationary in those as well, right?
+
+Unknown speaker 52:40 
+Um, and then, uh, the thing that's useful about that, um, potentially, is that if I was reacting to things that you do,
+
+Unknown speaker 52:53 
+um, if I, uh, if everything that you are is a, is an oscillation and everything that I am is an oscillation, then when I react to things that you do, uh, that'll look like my reactions come after the stimulus.
+
+Unknown speaker 53:14 
+But if I do it the right amount of late, then it's as though it appears to be just before the stimulus, like wagon wheels going backwards in the strobe of the TV, right?
+
+Unknown speaker 53:30 
+So by doing a, if everything is cyclic, then by doing a reaction that's just the right amount of late, reaction becomes a prediction.
+
+Unknown speaker 54:00 
+And what I'm reaching for there is that when we act on, uh, future consequences that we would like to have, right?
+
+Unknown speaker 54:20 
+But when agents appear to act, when an organism appears to act with agency, it appears to do something because it wants a particular future outcome.
+
+Unknown speaker 54:44 
+But what it's really doing is responding to something that has already happened in the past with just the right amount of late for it to appear to be coming just in in advance of it occurring again.
+
+Unknown speaker 55:00 
+you get a self inside yourself, that sort of thing.
+
+Unknown speaker 55:03 
+Yes.
+
+Unknown speaker 55:04 
+I I don't know what you're supposed to make of that, but um, that's what I've been thinking about.
+
+Unknown speaker 55:08 
+Well, I I I think that that's we're on the same page.
+
+Unknown speaker 55:12 
+I we're we're doing exactly that kind of we're we're attempting exactly that kind of thing.
+
+Unknown speaker 55:18 
+We're the mark of dynamics when you when you look at the the asymptotic behaviors is it's um characterized by the eigen functions of these kernels.
+
+Unknown speaker 55:29 
+And when you look at what they are, they in many cases they're identical to like the wave function of free particles in in in quantum theory.
+
+Unknown speaker 55:38 
+So they're all about waves.
+
+Unknown speaker 55:40 
+The the whole thing, in some sense, everything we're doing with the mark of dynamics of conscious agents theory is is all all about um
+
+Unknown speaker 55:49 
+vibes, harmonics and ones that are compatible, ones that are not.
+
+Unknown speaker 55:54 
+We talked I think last time a little bit about this trace logic that we've discovered and we're continuing to work on, you know, the paper to to publish on that, but that that gives us a way of combining um and and and also disunifying, you know, so dissociating consciousness based on um their compatibilities or incompatibilities.
+
+Unknown speaker 56:16 
+It's a non-boolean logic of of of consciousness.
+
+Unknown speaker 56:19 
+And it also gets at something that that you talked about earlier, which is in some sense um, you you talked about like temporal windows, could we have some kind of notion of temporal windows and and we're we're actually looking at that in two different ways in this.
+
+Unknown speaker 56:32 
+We we can actually take sampled chains.
+
+Unknown speaker 56:41 
+So we can and and so we can have different temporal windows of the sampling.
+
+Unknown speaker 56:52 
+And and that will and we actually are hoping that that will actually help us in predicting, for example, the inner momentum distributions of the proton.
+
+Unknown speaker 56:55 
+So, so inside the proton, when you're at the the
+
+Unknown speaker 56:59 
+the most low resolution, what they call Bjorken's and Q squared, which is the temporal and spatial resolutions that that are inside the proton, you'll see three dominant valence quarks.
+
+Unknown speaker 57:12 
+As you increase your temporal and spatial resolution, you start to see yeah, quark anti-quark pairs appearing and and bunch of gluons.
+
+Unknown speaker 57:20 
+And at the highest resolution, it's basically just a gluon sea.
+
+Unknown speaker 57:23 
+You're just seeing it's all gluons, all the energy is in gluons.
+
+Unknown speaker 57:29 
+And we we think that.
+
+Unknown speaker 57:30 
+that we can get this
+
+Unknown speaker 57:31 
+by looking at smaller and smaller
+
+Unknown speaker 57:33 
+temporal windows on our Markov chains, they'll be getting the the the the better and better resolution of York and X.
+
+Unknown speaker 57:39 
+And in our model, what happens is as as you reduce the temporal window, you you bias towards particles that look like they're um massless spin one particles in in our model.
+
+Unknown speaker 57:55 
+And that's just from the the from sampling.
+
+Unknown speaker 58:03 
+It just it's all an artifact of the sampling.
+
+Unknown speaker 58:03 
+So, so what we're what we're going to propose is that as we, you know,
+
+Unknown speaker 58:05 
+from our model, when you're looking at the finest resolution inside the proton and you're seeing these the glue on C, it's not that you're getting closer and closer to reality, you're seeing noise, you're seeing statistical noise,
+
+Unknown speaker 58:18 
+and you're seeing that noise as massless spin one particles.
+
+Unknown speaker 58:22 
+So, so it's
+
+Unknown speaker 58:23 
+so there we're actually hoping to take this this temporal resolution idea
+
+Unknown speaker 58:24 
+and actually make hard nose predictions about the momentum distributions of of particles at at different York and Q squared inside the proton.
+
+Unknown speaker 58:38 
+So, so absolutely.
+
+Unknown speaker 58:43 
+And we're working on another interesting idea.
+
+Unknown speaker 58:43 
+that does that sorry, does that connect with uh a notion of,
+
+Unknown speaker 58:49 
+you know, so if if events are circular, if time is circular, then the idea of um taking actions because you had any intention to produce a particular future
+
+Unknown speaker 59:00 
+or taking actions because it's a consequence of a particular past, those things are symmetric now, like we can go forwards or backwards on this circle, it doesn't really matter.
+
+Unknown speaker 59:11 
+And if you take if I observe what's going on at a particular frame rate, it'll look like a prediction and if I observe it a little bit later, it'll look like it was a um a consequence.
+
+Unknown speaker 59:26 
+Um, so those it's uh, you know, looking at things at closer temporal resolution,
+
+Unknown speaker 59:31 
+uh, is is very close to um, you know, not just um, not just looking inside physically, but looking inside temporarily, but also it's very close to the notion of, you know, exactly the kind of thing that's weird about agency, exactly the kind of thing that feels weird about consciousness, is that this thing like I feel like uh, you know,
+
+Unknown speaker 01:00:00 
+I feel.
+
+Unknown speaker 01:00:01 
+I know that I exist now, as you say, and now is always here.

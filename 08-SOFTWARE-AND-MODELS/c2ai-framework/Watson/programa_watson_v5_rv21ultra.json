@@ -1,0 +1,2616 @@
+{
+  "ciclos": {},
+  "semanas": {
+    "1": {
+      "fecha": "2026-01-01",
+      "mes": "January",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 584.0,
+          "dias_biofix": 7,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.4,
+          "ipf": 0.0321,
+          "diametro_mm": 13.2,
+          "crecimiento_mm_dia": 0.2232,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 534.0,
+          "dias_biofix": 7,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 10.7,
+          "ipf": 0.0235,
+          "diametro_mm": 10.3,
+          "crecimiento_mm_dia": 0.2249,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 434.0,
+          "dias_biofix": 7,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 96.0,
+          "ipf": 0.0319,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "2": {
+      "fecha": "2026-01-08",
+      "mes": "January",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 668.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 25.9,
+          "ipf": 0.0321,
+          "diametro_mm": 18.0,
+          "crecimiento_mm_dia": 0.2232,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 618.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 20.2,
+          "ipf": 0.0235,
+          "diametro_mm": 15.1,
+          "crecimiento_mm_dia": 0.2249,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 518.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 8.9,
+          "ipf": 0.0187,
+          "diametro_mm": 9.4,
+          "crecimiento_mm_dia": 0.2258,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "3": {
+      "fecha": "2026-01-15",
+      "mes": "January",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 752.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.5,
+          "ipf": 0.0321,
+          "diametro_mm": 22.7,
+          "crecimiento_mm_dia": 0.2232,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 702.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 29.8,
+          "ipf": 0.0235,
+          "diametro_mm": 19.9,
+          "crecimiento_mm_dia": 0.2249,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 602.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 18.4,
+          "ipf": 0.0187,
+          "diametro_mm": 14.2,
+          "crecimiento_mm_dia": 0.2258,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "4": {
+      "fecha": "2026-01-22",
+      "mes": "January",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 836.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.0,
+          "ipf": 0.0321,
+          "diametro_mm": 27.5,
+          "crecimiento_mm_dia": 0.2232,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 786.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 39.3,
+          "ipf": 0.0235,
+          "diametro_mm": 24.7,
+          "crecimiento_mm_dia": 0.2249,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 686.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 28.0,
+          "ipf": 0.0187,
+          "diametro_mm": 19.0,
+          "crecimiento_mm_dia": 0.2258,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "5": {
+      "fecha": "2026-01-29",
+      "mes": "January",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 920.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 54.5,
+          "ipf": 0.0321,
+          "diametro_mm": 32.3,
+          "crecimiento_mm_dia": 0.2232,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 870.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 48.9,
+          "ipf": 0.0235,
+          "diametro_mm": 29.4,
+          "crecimiento_mm_dia": 0.2249,
+          "floracion_detectada": {
+            "tipo": "secundaria",
+            "gdd_target": 865,
+            "gdd_actual": 870.0,
+            "diferencia": 5.0,
+            "confianza": 0.85
+          },
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 770.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 37.5,
+          "ipf": 0.0187,
+          "diametro_mm": 23.8,
+          "crecimiento_mm_dia": 0.2258,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "6": {
+      "fecha": "2026-02-05",
+      "mes": "February",
+      "temp_promedio": 22.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1004.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.1,
+          "ipf": 0.0321,
+          "diametro_mm": 37.0,
+          "crecimiento_mm_dia": 0.2494,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 954.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 58.4,
+          "ipf": 0.0235,
+          "diametro_mm": 34.2,
+          "crecimiento_mm_dia": 0.2513,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 854.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 47.0,
+          "ipf": 0.0187,
+          "diametro_mm": 28.5,
+          "crecimiento_mm_dia": 0.2524,
+          "floracion_detectada": {
+            "tipo": "secundaria",
+            "gdd_target": 865,
+            "gdd_actual": 854.0,
+            "diferencia": 11.0,
+            "confianza": 0.85
+          },
+          "acciones": []
+        }
+      }
+    },
+    "7": {
+      "fecha": "2026-02-12",
+      "mes": "February",
+      "temp_promedio": 22.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1088.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 73.6,
+          "ipf": 0.0321,
+          "diametro_mm": 41.8,
+          "crecimiento_mm_dia": 0.2494,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1038.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 68.0,
+          "ipf": 0.0235,
+          "diametro_mm": 39.0,
+          "crecimiento_mm_dia": 0.2513,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 938.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 56.6,
+          "ipf": 0.0187,
+          "diametro_mm": 33.3,
+          "crecimiento_mm_dia": 0.2524,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "8": {
+      "fecha": "2026-02-19",
+      "mes": "February",
+      "temp_promedio": 22.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1172.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.2,
+          "ipf": 0.0321,
+          "diametro_mm": 46.6,
+          "crecimiento_mm_dia": 0.2494,
+          "floracion_detectada": {
+            "tipo": "terciaria",
+            "gdd_target": 1150,
+            "gdd_actual": 1172.0,
+            "diferencia": 22.0,
+            "confianza": 0.75
+          },
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1122.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 77.5,
+          "ipf": 0.0235,
+          "diametro_mm": 43.8,
+          "crecimiento_mm_dia": 0.2513,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1022.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 66.1,
+          "ipf": 0.0187,
+          "diametro_mm": 38.1,
+          "crecimiento_mm_dia": 0.2524,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "9": {
+      "fecha": "2026-02-26",
+      "mes": "February",
+      "temp_promedio": 22.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1256.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 92.7,
+          "ipf": 0.0321,
+          "diametro_mm": 51.4,
+          "crecimiento_mm_dia": 0.2494,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1206.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 87.0,
+          "ipf": 0.0235,
+          "diametro_mm": 48.5,
+          "crecimiento_mm_dia": 0.2513,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1106.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 75.7,
+          "ipf": 0.0187,
+          "diametro_mm": 42.8,
+          "crecimiento_mm_dia": 0.2524,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "10": {
+      "fecha": "2026-03-05",
+      "mes": "March",
+      "temp_promedio": 24.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1340.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 4.5,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2973,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1290.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 96.6,
+          "ipf": 0.0235,
+          "diametro_mm": 53.3,
+          "crecimiento_mm_dia": 0.3042,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1190.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 85.2,
+          "ipf": 0.0187,
+          "diametro_mm": 47.6,
+          "crecimiento_mm_dia": 0.3055,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "11": {
+      "fecha": "2026-03-12",
+      "mes": "March",
+      "temp_promedio": 24.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1424.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 23.6,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2973,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1374.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 12.3,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2998,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1274.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 94.8,
+          "ipf": 0.0187,
+          "diametro_mm": 52.4,
+          "crecimiento_mm_dia": 0.3055,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "12": {
+      "fecha": "2026-03-19",
+      "mes": "March",
+      "temp_promedio": 24.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1508.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 42.7,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2973,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1458.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 31.4,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2998,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1358.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 8.6,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3017,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "13": {
+      "fecha": "2026-03-26",
+      "mes": "March",
+      "temp_promedio": 24.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1592.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 61.8,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2973,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1542.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 50.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2998,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1442.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 27.7,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3017,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "14": {
+      "fecha": "2026-04-02",
+      "mes": "April",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1676.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 80.9,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3748,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1626.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 69.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.378,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1526.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 46.8,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "15": {
+      "fecha": "2026-04-09",
+      "mes": "April",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0382,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0252,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1610.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 65.9,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "16": {
+      "fecha": "2026-04-16",
+      "mes": "April",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.068,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.0525,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0333,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "17": {
+      "fecha": "2026-04-23",
+      "mes": "April",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0773,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0587,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.0875,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        }
+      }
+    },
+    "18": {
+      "fecha": "2026-04-30",
+      "mes": "April",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0536,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0339,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0783,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "19": {
+      "fecha": "2026-05-07",
+      "mes": "May",
+      "temp_promedio": 29.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0536,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0339,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0319,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "20": {
+      "fecha": "2026-05-14",
+      "mes": "May",
+      "temp_promedio": 29.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0321,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3151,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0235,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3174,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0319,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "21": {
+      "fecha": "2026-05-21",
+      "mes": "May",
+      "temp_promedio": 29.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0321,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3151,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0235,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3174,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0187,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3188,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "22": {
+      "fecha": "2026-05-28",
+      "mes": "May",
+      "temp_promedio": 29.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0321,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3151,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0235,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3174,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0187,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3188,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "23": {
+      "fecha": "2026-06-04",
+      "mes": "June",
+      "temp_promedio": 28.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0321,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3676,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0235,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3704,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0187,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3719,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "24": {
+      "fecha": "2026-06-11",
+      "mes": "June",
+      "temp_promedio": 28.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0321,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3676,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0235,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3704,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0187,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3719,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "25": {
+      "fecha": "2026-06-18",
+      "mes": "June",
+      "temp_promedio": 28.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0321,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.3676,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0235,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.3704,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0187,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3719,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "26": {
+      "fecha": "2026-06-25",
+      "mes": "June",
+      "temp_promedio": 28.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0321,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.3676,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0235,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.3704,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0187,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.3719,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "27": {
+      "fecha": "2026-07-02",
+      "mes": "July",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0321,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.3807,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0235,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.3836,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0187,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.3852,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "28": {
+      "fecha": "2026-07-09",
+      "mes": "July",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0321,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.3807,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0235,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.3836,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0187,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.3852,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "29": {
+      "fecha": "2026-07-16",
+      "mes": "July",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0321,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.3807,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0235,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.3836,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0187,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.3852,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "30": {
+      "fecha": "2026-07-23",
+      "mes": "July",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3748,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.378,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0187,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.3852,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "31": {
+      "fecha": "2026-07-30",
+      "mes": "July",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3748,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.378,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "32": {
+      "fecha": "2026-08-06",
+      "mes": "August",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3748,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.378,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "33": {
+      "fecha": "2026-08-13",
+      "mes": "August",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1596.0,
+          "dias_biofix": 133,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 62.7,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3748,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1596.0,
+          "dias_biofix": 133,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 62.7,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.378,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "34": {
+      "fecha": "2026-08-20",
+      "mes": "August",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0382,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0252,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1596.0,
+          "dias_biofix": 133,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 62.7,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.3805,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "35": {
+      "fecha": "2026-08-27",
+      "mes": "August",
+      "temp_promedio": 27.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.068,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.0525,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 84.0,
+          "dias_biofix": 7,
+          "hubo_reset": true,
+          "fenologia": "FEN-01",
+          "fase_nombre": "Latencia",
+          "fase_progreso": 70.0,
+          "ipf": 0.0333,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "36": {
+      "fecha": "2026-09-03",
+      "mes": "September",
+      "temp_promedio": 26.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0773,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0587,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 168.0,
+          "dias_biofix": 14,
+          "hubo_reset": false,
+          "fenologia": "FEN-02",
+          "fase_nombre": "Brotaci\u00f3n",
+          "fase_progreso": 60.0,
+          "ipf": 0.0875,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": {
+            "tipo": "primaria",
+            "gdd_target": 150,
+            "gdd_actual": 168.0,
+            "diferencia": 18.0,
+            "confianza": 0.95
+          },
+          "acciones": []
+        }
+      }
+    },
+    "37": {
+      "fecha": "2026-09-10",
+      "mes": "September",
+      "temp_promedio": 26.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0536,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0339,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 252.0,
+          "dias_biofix": 21,
+          "hubo_reset": false,
+          "fenologia": "FEN-03",
+          "fase_nombre": "Floraci\u00f3n",
+          "fase_progreso": 57.8,
+          "ipf": 0.0783,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "38": {
+      "fecha": "2026-09-17",
+      "mes": "September",
+      "temp_promedio": 26.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0536,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0339,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 336.0,
+          "dias_biofix": 28,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 30.7,
+          "ipf": 0.0319,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "39": {
+      "fecha": "2026-09-24",
+      "mes": "September",
+      "temp_promedio": 26.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0321,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3545,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0235,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3571,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 420.0,
+          "dias_biofix": 35,
+          "hubo_reset": false,
+          "fenologia": "FEN-04",
+          "fase_nombre": "Cuajado",
+          "fase_progreso": 86.7,
+          "ipf": 0.0319,
+          "diametro_mm": 5.0,
+          "crecimiento_mm_dia": null,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "40": {
+      "fecha": "2026-10-01",
+      "mes": "October",
+      "temp_promedio": 25.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0321,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3282,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0235,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3307,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 504.0,
+          "dias_biofix": 42,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 7.3,
+          "ipf": 0.0187,
+          "diametro_mm": 8.6,
+          "crecimiento_mm_dia": 0.3321,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "41": {
+      "fecha": "2026-10-08",
+      "mes": "October",
+      "temp_promedio": 25.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0321,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3282,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0235,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3307,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 588.0,
+          "dias_biofix": 49,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 16.8,
+          "ipf": 0.0187,
+          "diametro_mm": 13.4,
+          "crecimiento_mm_dia": 0.3321,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "42": {
+      "fecha": "2026-10-15",
+      "mes": "October",
+      "temp_promedio": 25.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0321,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3282,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0235,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3307,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 672.0,
+          "dias_biofix": 56,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 26.4,
+          "ipf": 0.0187,
+          "diametro_mm": 18.2,
+          "crecimiento_mm_dia": 0.3321,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "43": {
+      "fecha": "2026-10-22",
+      "mes": "October",
+      "temp_promedio": 25.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0321,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3282,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0235,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3307,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 756.0,
+          "dias_biofix": 63,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 35.9,
+          "ipf": 0.0187,
+          "diametro_mm": 23.0,
+          "crecimiento_mm_dia": 0.3321,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "44": {
+      "fecha": "2026-10-29",
+      "mes": "October",
+      "temp_promedio": 25.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0321,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.3282,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0235,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.3307,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 840.0,
+          "dias_biofix": 70,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 45.5,
+          "ipf": 0.0187,
+          "diametro_mm": 27.7,
+          "crecimiento_mm_dia": 0.3321,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "45": {
+      "fecha": "2026-11-05",
+      "mes": "November",
+      "temp_promedio": 23.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0321,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.2757,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0235,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.2778,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 924.0,
+          "dias_biofix": 77,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 55.0,
+          "ipf": 0.0187,
+          "diametro_mm": 32.5,
+          "crecimiento_mm_dia": 0.2789,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "46": {
+      "fecha": "2026-11-12",
+      "mes": "November",
+      "temp_promedio": 23.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0321,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.2757,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0235,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.2778,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1008.0,
+          "dias_biofix": 84,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 64.5,
+          "ipf": 0.0187,
+          "diametro_mm": 37.3,
+          "crecimiento_mm_dia": 0.2789,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "47": {
+      "fecha": "2026-11-19",
+      "mes": "November",
+      "temp_promedio": 23.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0321,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.2757,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0235,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.2778,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1092.0,
+          "dias_biofix": 91,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 74.1,
+          "ipf": 0.0187,
+          "diametro_mm": 42.0,
+          "crecimiento_mm_dia": 0.2789,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "48": {
+      "fecha": "2026-11-26",
+      "mes": "November",
+      "temp_promedio": 23.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0321,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.2757,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0235,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.2778,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1176.0,
+          "dias_biofix": 98,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 83.6,
+          "ipf": 0.0187,
+          "diametro_mm": 46.8,
+          "crecimiento_mm_dia": 0.2789,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "49": {
+      "fecha": "2026-12-03",
+      "mes": "December",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2197,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2216,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1260.0,
+          "dias_biofix": 105,
+          "hubo_reset": false,
+          "fenologia": "FEN-05",
+          "fase_nombre": "Desarrollo",
+          "fase_progreso": 93.2,
+          "ipf": 0.0187,
+          "diametro_mm": 51.6,
+          "crecimiento_mm_dia": 0.2258,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "50": {
+      "fecha": "2026-12-10",
+      "mes": "December",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2197,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2216,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1344.0,
+          "dias_biofix": 112,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 5.5,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.223,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "51": {
+      "fecha": "2026-12-17",
+      "mes": "December",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2197,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2216,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1428.0,
+          "dias_biofix": 119,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 24.5,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.223,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    },
+    "52": {
+      "fecha": "2026-12-24",
+      "mes": "December",
+      "temp_promedio": 21.0,
+      "gdd_semanal": 84.0,
+      "secciones": {
+        "S1": {
+          "gdd_acumulado": 1596.0,
+          "dias_biofix": 133,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 62.7,
+          "ipf": 0.0501,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2197,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S2": {
+          "gdd_acumulado": 1596.0,
+          "dias_biofix": 133,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 62.7,
+          "ipf": 0.0402,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.2216,
+          "floracion_detectada": null,
+          "acciones": []
+        },
+        "S3": {
+          "gdd_acumulado": 1512.0,
+          "dias_biofix": 126,
+          "hubo_reset": false,
+          "fenologia": "FEN-06",
+          "fase_nombre": "Maduraci\u00f3n",
+          "fase_progreso": 43.6,
+          "ipf": 0.0329,
+          "diametro_mm": 55.0,
+          "crecimiento_mm_dia": 0.223,
+          "floracion_detectada": null,
+          "acciones": []
+        }
+      }
+    }
+  },
+  "resumen": {
+    "total_aplicaciones": 0,
+    "costo_total_anual": 0,
+    "costo_por_ha": 0.0,
+    "ciclos_floracion": 3,
+    "gdd_por_ciclo": "0-1980 (reset a 1680)",
+    "modelo_crecimiento": "G(t) g\u2080=0.5 mm/d\u00eda",
+    "modelo_fenologico": "RV2.1+Ultra (R\u00b2=0.977)",
+    "meta_ipf": "< 0.30 (95% prob, target 0.28)",
+    "meta_calibre": "230 (50-54mm)",
+    "generado": "2026-01-05T02:18:12.196162"
+  },
+  "alertas": [
+    {
+      "semana": 5,
+      "seccion": "S2",
+      "tipo": "Floraci\u00f3n SECUNDARIA",
+      "gdd": 870.0,
+      "confianza": "85%"
+    },
+    {
+      "semana": 6,
+      "seccion": "S3",
+      "tipo": "Floraci\u00f3n SECUNDARIA",
+      "gdd": 854.0,
+      "confianza": "85%"
+    },
+    {
+      "semana": 8,
+      "seccion": "S1",
+      "tipo": "Floraci\u00f3n TERCIARIA",
+      "gdd": 1172.0,
+      "confianza": "75%"
+    },
+    {
+      "semana": 15,
+      "seccion": "S1",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 15,
+      "seccion": "S2",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 16,
+      "seccion": "S1",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    },
+    {
+      "semana": 16,
+      "seccion": "S2",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    },
+    {
+      "semana": 16,
+      "seccion": "S3",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 17,
+      "seccion": "S3",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    },
+    {
+      "semana": 34,
+      "seccion": "S1",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 34,
+      "seccion": "S2",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 35,
+      "seccion": "S1",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    },
+    {
+      "semana": 35,
+      "seccion": "S2",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    },
+    {
+      "semana": 35,
+      "seccion": "S3",
+      "tipo": "RESET BIOFIX",
+      "mensaje": "Nuevo ciclo fenol\u00f3gico iniciado"
+    },
+    {
+      "semana": 36,
+      "seccion": "S3",
+      "tipo": "Floraci\u00f3n PRIMARIA",
+      "gdd": 168.0,
+      "confianza": "95%"
+    }
+  ]
+}

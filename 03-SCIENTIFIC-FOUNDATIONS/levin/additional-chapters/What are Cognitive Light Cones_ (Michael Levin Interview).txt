@@ -1,0 +1,1940 @@
+ 
+ 
+
+Unknown speaker 00:00 
+My favorite paper of yours and maybe one of my favorite papers ever of all time is the computational boundary of a self.
+
+Unknown speaker 00:04 
+Um, paper that you wrote in 2019.
+
+Unknown speaker 00:09 
+I started to try to formalize uh the way that uh one could think about any possible uh cognitive system or any possible intelligence.
+
+Unknown speaker 00:19 
+And when I say intelligence, I mean William James's kind of definition where it's a competency to reach the same goal by different means.
+
+Unknown speaker 00:27 
+It's a very cybernetic definition, it means there's some problem space, there's some goal you're trying to reach in that problem space, it becomes a navigation task.
+
+Unknown speaker 00:34 
+And and it asks you to think about for any given system, how much competency does the system have in navigating its world to reach its goal uh despite all kinds of new things happening, various barriers and and and so on.
+
+Unknown speaker 00:47 
+So I started thinking, well, what if, you know, if we can't, if we can't rely on origin story, uh, because I don't think that matters.
+
+Unknown speaker 00:50 
+Um, if we can't rely on composition because I don't think having a brain that looks like ours makes any difference here.
+
+Unknown speaker 01:00 
+Uh, what do cognitive systems have in common, right?
+
+Unknown speaker 01:03 
+And so, and so what I settled on is this notion of a cognitive light cone.
+
+Unknown speaker 01:06 
+And the idea is this, and this is borrowed from uh, well, it's sort of upside down actually, but it's but it's borrowed from from uh the way they do um, Minkowski may have been the first to do it, but but these uh, these kind of spacetime diagrams in physics.
+
+Unknown speaker 01:18 
+So what you do is you put, you know, time is on the vertical axis, all of the dimensions of space are are on the on the horizontal axis.
+
+Unknown speaker 01:26 
+And what you can define is you can define this cognitive light cone uh as the spatiotemporal size of the biggest goal that the system can pursue.
+
+Unknown speaker 01:37 
+Michael Levin is a scientist at Tufts University.
+
+Unknown speaker 01:46 
+His lab studies anatomical and behavioral decision making at multiple scales of biological, artificial, and hybrid systems.
+
+Unknown speaker 01:53 
+He works at the intersection of developmental biology, artificial life, bioengineering, synthetic morphology, and cognitive science.
+
+Unknown speaker 01:57 
+If you got this far, please hit that subscribe button and I hope you enjoy our conversation.
+
+Unknown speaker 02:01 
+Mike, thank you for coming on.
+
+Unknown speaker 02:02 
+Yeah, thanks for having me.
+
+Unknown speaker 02:03 
+Happy to be here.
+
+Unknown speaker 02:03 
+Such a pleasure.
+
+Unknown speaker 02:04 
+I mean, I I first learned about your research a couple of years ago, you did a a podcast, your first of a few with Kurt Jaimungal.
+
+Unknown speaker 02:13 
+And that was my first um exposure to your work.
+
+Unknown speaker 02:16 
+Um, and I just thought it was absolutely incredible and uh, I agree with him when he said like your work already is like deserving of a Nobel Prize, what you've which you've already been able to accomplish.
+
+Unknown speaker 02:23 
+And even since just think of the implications of what your work um could bear out in the future.
+
+Unknown speaker 02:30 
+It's it's remarkable.
+
+Unknown speaker 02:31 
+Well, thank you.
+
+Unknown speaker 02:31 
+Um, and your lab, you're working with, is it over 40 people working in your lab?
+
+Unknown speaker 02:41 
+Oh, at the moment, there's probably around 32.
+
+Unknown speaker 02:41 
+30, okay, 30 to 40, I know yeah, it sort of varies probably over with time.
+
+Unknown speaker 02:41 
+And your work is at the intersection of all these interesting areas.
+
+Unknown speaker 02:45 
+I think um, you're going to get kicked off.
+
+Unknown speaker 02:50 
+It'd be great for uh sort of the lay audience, people who aren't familiar with your work.
+
+Unknown speaker 02:55 
+If you give them a brief overview of of what you're working on, maybe your your career a little bit, and then we can dive into uh the nitty gritty of the kind of questions I ask you about the specifics of your work too, but just give us a little high level grounding.
+
+Unknown speaker 03:05 
+Sure, yeah.
+
+Unknown speaker 03:06 
+Well, uh, our work is spread over a number of areas.
+
+Unknown speaker 03:26 
+So, so we have there are people in the lab who do very basic uh conceptual kind of uh stuff that's almost philosophy and then uh computer, there's some computer science and there's some uh bench work in developmental biophysics and uh there's some behavioral science and things like that.
+
+Unknown speaker 03:33 
+And uh we have a we have a mix of of uh biologists, physicists, bioengineers, computer scientists and so on.
+
+Unknown speaker 03:49 
+And uh there are, you know, there are there are lots of projects in in areas such as birth defects, regeneration, uh moving towards regenerative medicine, cancer, um AI, uh unconventional computing and unconventional um cognition and things like that.
+
+Unknown speaker 03:59 
+And uh this this issue of uh embodied mind, you know, this this this issue of how minds can exist in uh the universe, how uh they interact with their bodies, how minds scale from the uh primitive kinds of um metabolic and and other competencies of single cells to the emergent mind of the of the body and then of the of the whole organism in a behavioral sense.
+
+Unknown speaker 04:03 
+And uh this scaling, embodiment and uh communication is is at the root of everything.
+
+Unknown speaker 04:05 
+So it's at the root of developmental biology, it's it's the it's a way that we think about uh the task of regenerative medicine is to communicate with this collective intelligence of cells to get it to do various things.
+
+Unknown speaker 04:46 
+You must be having so much fun because it's at the intersection of all these fascinating areas, intersections on intersections, you know, um, it's it's absolutely um just mind boggling and and I recommend for people who are interested in your work, I'll I'll link in the description.
+
+Unknown speaker 05:00 
+Um,
+
+Unknown speaker 05:01 
+some of your papers, some of your uh,
+
+Unknown speaker 05:02 
+some of your presentations that you've given.
+
+Unknown speaker 05:04 
+I find um, I I I really love visuals to accompany, uh,
+
+Unknown speaker 05:07 
+sort of the explanations and uh,
+
+Unknown speaker 05:10 
+sort of regular presentation you've given in the last couple of years.
+
+Unknown speaker 05:13 
+that has everything from the planaria to um, morphogenesis and explain those kinds of things.
+
+Unknown speaker 05:19 
+It's it's really super helpful.
+
+Unknown speaker 05:20 
+So, um, that's that's really cool.
+
+Unknown speaker 05:23 
+And um,
+
+Unknown speaker 05:24 
+I should say, just as a shout out, the visuals, there there are a lot of amazing visuals both in the talks and in the papers, and most of them come from one graphic artist named Jeremy Gay and he works in his uh, Peregrine Creative is his company and he is uh, phenomenal and and and he helps bring all of our crazy ideas into a uh, a visual form that other people can participate in.
+
+Unknown speaker 05:44 
+Yeah, thanks for pointing that out.
+
+Unknown speaker 05:45 
+Yeah, I was going to mention him as well because uh,
+
+Unknown speaker 05:47 
+those are some of the one of the slides in particular that I I wanted to share in a moment because um,
+
+Unknown speaker 05:54 
+to be honest too, in preparation for this interview, I've only it's been about a dozen interviews so far, but this was by far the most difficult interview to prepare for.
+
+Unknown speaker 06:02 
+If I'm being honest because it's extremely, it can get extremely technical, especially reading a research papers and I believe you have over a couple hundred research papers, right?
+
+Unknown speaker 06:13 
+Um, you've published quite a bit.
+
+Unknown speaker 06:14 
+Um,
+
+Unknown speaker 06:15 
+in your decades of work.
+
+Unknown speaker 06:15 
+So, and that a lot of collaborators that you've worked with as well.
+
+Unknown speaker 06:19 
+So, we'll we'll become, we'll be changing scales, I think quite a bit during this conversation because, you know, I want to get um, to the details, but I think we're it's really interesting is the the biomechanics where they intersect with um, say like information theory and sort of you sort of um, jumping between levels and different scales, but they kind of uh,
+
+Unknown speaker 06:45 
+say biomechanics is implementation of say it's say a lower um, or more fundamental laws perhaps.
+
+Unknown speaker 06:50 
+But we'll I think that's something we'll sort of start to unpack as we go through this.
+
+Unknown speaker 06:56 
+And one of the papers of yours though that I think um, my favorite paper of yours and maybe one of my favorite papers ever of all time is the computational boundary of a self, um, paper that you wrote in 2019.
+
+Unknown speaker 07:09 
+And I think that'd be a great place to sort of ground the conversation.
+
+Unknown speaker 07:10 
+And because it's got a little bit of everything, a lot of your work, um, is referenced in there and we won't go to the to the paper line by line, but some of the major topics of conversation, I think, um, will be pulled out of that paper and we can we can dive into the specifics.
+
+Unknown speaker 07:28 
+So if you give me a second, I
+
+Unknown speaker 07:30 
+can I actually just share my screen here.
+
+Unknown speaker 07:32 
+Yeah, as I just mentioned, this this paper of yours that tackles so much um in one, could you possibly give us an overview of the paper and um I've a million questions to ask you in terms of specifics, but she tell us what's um this paper's about?
+
+Unknown speaker 07:46 
+Yeah, yeah.
+
+Unknown speaker 07:47 
+So, uh I've been thinking about these things for many, many years, but what what finally catalyzed me sitting down and writing this up is that um in 2018, there was a uh a conference on diverse intelligence uh put on by the Templeton Foundation.
+
+Unknown speaker 08:04 
+And we were we were challenged by our program officer, Pranav Das to uh think about frameworks where unconventional intelligences could all be thought about at the same time.
+
+Unknown speaker 08:25 
+And so there were people there working on ants and octopuses and uh you know, chimpanzees and and and things like this.
+
+Unknown speaker 08:26 
+And I I uh like with with a number of things, I sort of um tend to crank that knob all the way all the way out.
+
+Unknown speaker 09:10 
+And so,
+
+Unknown speaker 09:10 
+so I'm interested in every kind of possible cognitive system.
+
+Unknown speaker 09:10 
+So we're talking uh cells, tissues, minimal matter, uh collective intelligence of groups of organisms, uh all kinds of um uh artificial synthetic beings, uh software AIs, possible aliens, like all of it, right?
+
+Unknown speaker 09:10 
+So, so I want to know how how we how we detect, how we understand and how we relate to and maybe even create uh diverse intelligences.
+
+Unknown speaker 09:10 
+What is the space of possible minds?
+
+Unknown speaker 09:10 
+And and I'm certainly not the first person to ask that question.
+
+Unknown speaker 09:10 
+Sure.
+
+Unknown speaker 09:10 
+So,
+
+Unknown speaker 09:10 
+so we were thinking about all this and and I started to formalize uh the way that uh one could think about any possible uh cognitive system or any possible intelligence and and just to give it to give it a definition, by by intelligence, I don't mean the kind of uh second order metacognition that for example, humans have where you can sort of think about what you know and so on.
+
+Unknown speaker 09:10 
+I mean, that's one kind, but but I'm talking about when I say intelligence, I mean William James's kind of definition where it's a competency to reach the same goal by different means.
+
+Unknown speaker 09:10 
+It's a very cybernetic definition, it means there's some problem space, there's some goal you're trying to reach in that problem space, it becomes a navigation task.
+
+Unknown speaker 09:10 
+And and it asks you to think about for any given system, how much competency does the system have in navigating its
+
+Unknown speaker 10:00 
+to reach its goal uh despite all
+
+Unknown speaker 10:01 
+kinds of new things happening various barriers and and and and so on.
+
+Unknown speaker 10:06 
+And so so this this so so I like that definition because it uh it's it's independent of the origin of the system.
+
+Unknown speaker 10:13 
+It doesn't matter if you're evolved or designed or some hybrid uh it doesn't maybe I I I think I think that there are a lot of artificial distinctions that are made in in these various fields that are uh
+
+Unknown speaker 10:25 
+not facilitating progress they're they're kind of blocking it actually.
+
+Unknown speaker 10:29 
+So so I I want I want things that are that are as unified as possible.
+
+Unknown speaker 10:36 
+I really take this unification task seriously.
+
+Unknown speaker 10:36 
+So, so I started thinking about what if, you know, if we can't if we can't rely on origin story uh because I don't think that matters.
+
+Unknown speaker 10:43 
+Um, if we can't rely on composition because I don't think having a brain that looks like ours makes any difference here.
+
+Unknown speaker 10:49 
+Uh, what do cognitive systems have in common, right?
+
+Unknown speaker 10:57 
+What what what does it mean for something to have a to to have some kind of cognitive uh system.
+
+Unknown speaker 11:02 
+And um and so and so what I settled on is this notion of a cognitive light cone.
+
+Unknown speaker 11:06 
+And the idea is this and this is borrowed from uh well it's sort of upside down actually but it's but it's borrowed from from um the way they do um Minkowski may have been the first to do it but but these uh these kind of space time diagrams in physics.
+
+Unknown speaker 11:14 
+So what you do is you put, you know, time is on the vertical axis, all of the dimensions of space are are on the on the horizontal axis.
+
+Unknown speaker 11:21 
+And what you can define is you can define this cognitive light cone uh as the spatio temporal size of the biggest goal that the system can pursue.
+
+Unknown speaker 11:32 
+And I don't mean the reach of its sensors and effectors, right?
+
+Unknown speaker 11:36 
+So so the James Web telescope has this incredible uh sensory array that reaches to the edges of of of the observable universe maybe and so on.
+
+Unknown speaker 11:44 
+Uh, I that's not what I'm talking about.
+
+Unknown speaker 11:46 
+Uh, I'm talking about I'm not not what you can sense and and where you can act.
+
+Unknown speaker 11:57 
+I'm talking about the size of the goal state that you are the largest goal state that you are capable of pursuing.
+
+Unknown speaker 12:04 
+So this this frames um much like James and I think I think he was right and like Wiener uh and colleagues before that, uh it frames the tasks of of some type of cognition, whatever it is on that on that spectrum as being fundamentally about pursuing goals of of some type.
+
+Unknown speaker 12:15 
+And so and so one can sort of start with very simple and so so here it's a tick but you can think about a bacterium or something and you know, it it has a little bit of uh yeah, it has the the the cognitive light cone is quite small because it has a little memory going backwards and has a little bit of predictive power going forwards in time.
+
+Unknown speaker 12:33 
+But what it really cares about is the local concentration of whatever molecules it cares about right at that local level.
+
+Unknown speaker 12:42 
+So it's very small.
+
+Unknown speaker 12:43 
+The cognitive light cone is very small.
+
+Unknown speaker 12:44 
+And you can move up to something like a dog, so so that has has a longer uh light cone going backwards, uh it has a little bit of predictive more predictive capacity going forwards and of course, spatially it will know things like one of the goals is to is to keep intruders out of its neighborhood the the the the perimeter of the house or whatever it is that that you know that that's that's what it works on.
+
+Unknown speaker 12:53 
+But so so that's great.
+
+Unknown speaker 13:04 
+That's way bigger than the than the tick.
+
+Unknown speaker 13:04 
+But um or the bacterium, but what you're never going to get your dog to do as far as we know is to care about what happens in the town three miles over a month from now.
+
+Unknown speaker 13:19 
+It's it's just not going to happen.
+
+Unknown speaker 13:20 
+They're not capable of this as far as we know.
+
+Unknown speaker 13:21 
+And and then and then you have very large light cones like humans uh that may really be what one of the goals may be something to do with world peace and uh what's going to happen, you know, with some people are literally depressed because the sun's going to burn out and so they're working on uh these technologies to get us off the planet and and and so on.
+
+Unknown speaker 13:38 
+So, so you could and and and of course we all have limitations, right?
+
+Unknown speaker 13:41 
+So, so even though the human light cone is is huge and it does have this interesting feature maybe the first one in this evolutionary chain, maybe not, where some of those goals are guaranteed not attainable.
+
+Unknown speaker 13:53 
+Yeah, so so if you're a goldfish and you have goals that reach let's say a half an hour forward, that's absolutely attainable.
+
+Unknown speaker 14:03 
+You're very likely to live that long and so your goal most all of your goals are are attainable.
+
+Unknown speaker 14:04 
+If you're a human, it's very likely that you know that many of your goals are your your your cognitive light cone is longer than your lifespan.
+
+Unknown speaker 14:16 
+You know they're not attainable.
+
+Unknown speaker 14:17 
+And that may or may not result in some psychological pressures that are unique, but but that I don't know.
+
+Unknown speaker 15:00 
+and and and you know, you could imagine
+
+Unknown speaker 15:01 
+these sort of body self-like beings with that whose like own is large enough where
+
+Unknown speaker 15:06 
+they can actually they they can literally care about uh you know, a massive amount of of possible uh possible sentient beings.
+
+Unknown speaker 15:14 
+So anyway, so that so that's that's the point of this cognitive icon.
+
+Unknown speaker 15:17 
+And the idea behind all of this and there's a there's a follow-up paper uh from uh from last year that's kind of the um the the next version of this, which is the tame paper, the TAME, the technological approach to mind everywhere.
+
+Unknown speaker 15:31 
+which extends this and and and really goes into this uh the the the mechanics of what this what this is supposed to be.
+
+Unknown speaker 15:40 
+What this is supposed to be is um a framework that moves these kind of questions, questions of uh cognition, of sentience, of uh of um intelligence and so on.
+
+Unknown speaker 15:50 
+from the area of philosophy where people have a lot of philosophical feelings and preconceptions about um what things can do and what things can't do.
+
+Unknown speaker 15:57 
+and it really uh really stresses the idea that you you can't just have feelings about this stuff, you have to make testable claims.
+
+Unknown speaker 16:05 
+And so so every claim about a system of some level of of competency, you say this thing doesn't have this level of cognition or it does, wherever you are on the spectrum, and it has to be a spectrum, it's not binary, that's the biggest thing that trips everybody up is trying to be binary about these things.
+
+Unknown speaker 16:24 
+But wherever you are in the spectrum, that is a testable claim.
+
+Unknown speaker 16:24 
+So somebody has picked out, somebody has to pick out a problem space, uh say what you think the goal is, say what you think the system is capable of doing to reach that goal, and then you test it.
+
+Unknown speaker 16:33 
+And then you see if what you've got facilitates discovery, experiment, uh further research and so on.
+
+Unknown speaker 16:39 
+So all of these so so I, you know, for for me, the goal of all of this is to uh make make uh testable um frameworks that that advance a research program, not not just just philosophy.
+
+Unknown speaker 16:53 
+Sure, sure, so fascinating.
+
+Unknown speaker 16:54 
+And and thank you, that's a great, that's a succinct summary of the um of the paper.
+
+Unknown speaker 16:58 
+And I love to um
+
+Unknown speaker 17:00 
+at the bottom right corner here, this um collection of compound intelligences and I think it's one of the one of the points you made, uh you you made in a few podcasts is that all intelligence is collective intelligence.
+
+Unknown speaker 17:16 
+Yeah.
+
+Unknown speaker 17:17 
+Um, we are a collection of cells.
+
+Unknown speaker 17:18 
+And I think that's such a wonderful point because we do kind of get lost in the um in the philosophical debates, let's say, in terms of thinking of it as a singular kind of pointed focus.
+
+Unknown speaker 17:28 
+But this, especially this graphic in particular, where you have um, you know, the cell and then actually the components within the cell, I believe those are the um, the pink um diamonds there.
+
+Unknown speaker 17:39 
+that makes up the organism, the organism makes up the colony.
+
+Unknown speaker 17:44 
+So you can see these things are are made up, they're sort of nested.
+
+Unknown speaker 17:50 
+But one thing I would love to get your um uh
+
+Unknown speaker 17:51 
+just an explication on a little bit here is how
+
+Unknown speaker 17:54 
+I believe it's from the paper that most biological systems consist of multiple nested cells.
+
+Unknown speaker 17:57 
+And how is that different than say, one, say integrated self.
+
+Unknown speaker 18:09 
+Sure.
+
+Unknown speaker 18:10 
+Yeah.
+
+Unknown speaker 18:10 
+Um, yeah, so so so this this uh collective intelligence thing is is crucial because a lot of thought in uh in in philosophy, uh going all the way back to uh Rene Descartes and before that, you know, Descartes, which I I think he gets a bad rap for a lot of things.
+
+Unknown speaker 18:27 
+I I like him actually.
+
+Unknown speaker 18:33 
+But um, yeah, I see you're in your slide sometimes.
+
+Unknown speaker 18:33 
+Yeah.
+
+Unknown speaker 18:33 
+He's great.
+
+Unknown speaker 18:33 
+He's great.
+
+Unknown speaker 18:33 
+Well, well, right, very some some very helpful stuff there.
+
+Unknown speaker 18:33 
+What what but but but one of the things that that I think he was he was wrong about is that he was he was really interested in the pineal gland because he said there's only one of these in the brain, right?
+
+Unknown speaker 18:44 
+And so that makes sense as a kind of a uh a nexus for this this unified human human um cognition and so on.
+
+Unknown speaker 18:51 
+But but actually if he had had access to uh some some good microscopy, he would have found out there's not one of anything.
+
+Unknown speaker 18:57 
+If you look into this pineal gland, what you see is a whole bunch of cells, and when you look into those cells, you see a whole bunch of molecular networks and down it goes.
+
+Unknown speaker 19:07 
+There isn't really one of anything.
+
+Unknown speaker 19:10 
+And so
+
+Unknown speaker 19:10 
+what we have to ask ourselves is uh where does this large scale, because we we certainly as as as an organism, you certainly have a that does not belong to any of your pieces.
+
+Unknown speaker 19:20 
+So you have goals and preferences and hopes and dreams in uh spaces that do not belong to your individual cells and tissues and organs.
+
+Unknown speaker 19:29 
+They work in in uh physiological space and transcriptional space and and when you're an embryo, they work in morphogenetic space.
+
+Unknown speaker 19:39 
+you you work in three-dimensional space and maybe linguistic space and maybe some other things.
+
+Unknown speaker 19:59 
+But um, so so certainly there's a kind of scale up process by which these competent sub units and that's one thing we have to understand is that we are made of very competent sub units.
+
+Unknown speaker 19:59 
+We are not I I give another talk um sometimes it's called um uh why why robots don't get cancer.
+
+Unknown speaker 19:59 
+And right.
+
+Unknown speaker 19:59 
+And and the reason
+
+Unknown speaker 20:00 
+The reason that our current technologies don't ever get cancer is because they they tend to be made of pretty passive parts.
+
+Unknown speaker 20:05 
+So you hope that your robot is has some degree of of intelligent performance, but the parts themselves never go off the reservation and do something, you know, something uh something else.
+
+Unknown speaker 20:14 
+And so but but but with us, that's a definite risk because that's the uh that's the price you pay for for for having a those scaling mechanisms, you uh you you you become um susceptible to failure modes where where the individual parts, they they have agendas uh and and and there are these these evolution has given us some some hardware which is very good at uh scaling up these these cognitive like cones into and pivoting them into different spaces, into different problem spaces, but that has that has failure modes and I think I think it's it's really um critical to ask that question.
+
+Unknown speaker 20:51 
+how the properties of the compound intelligence and the goals, right?
+
+Unknown speaker 21:11 
+because there are novel goals that appear and so on, how those relate to the properties of the parts, what dynamics facilitate the scale up, how do they go wrong because if the level of of tissues, for example, that's that's cancer, that's basically a disorder of this of this cognitive scaling it results in cancer.
+
+Unknown speaker 21:16 
+Um and and and all kinds of other other implications up and down up and down the chain.
+
+Unknown speaker 21:30 
+And so, you know, the last thing the last thing you mentioned was uh was about um IIT and uh really the the the one thing I would say is this and that I I I don't we we haven't really gotten into consciousness at all, which is fine.
+
+Unknown speaker 21:42 
+I think it's really important to demarcate actual talk of actual consciousness from from the stuff that we're talking about, which is which is um cognition, intelligence, uh performance, computation and so on.
+
+Unknown speaker 21:50 
+And uh uh I think with with respect to those kinds of things, I think it's pretty clear that um the kinds of things that very that that uh for the the kinds of uh ingredients and the kinds of dynamics for for which brains are sort of famous that and and this is why people think that brains are associated with with some with intelligence and so on.
+
+Unknown speaker 22:08 
+Those those kinds of processes go on in every tissue of your body, right?
+
+Unknown speaker 22:33 
+So so almost I I I I'm not aware of um any uh real distinction uh that one could draw between the the kinds of mechanisms people talk about magnetic fields and they talk about quantum events and microtubules and they talk about the electrical signaling and various parts uh you know, different kinds of integrated um uh spiking all all that kind of stuff happens in other parts of the body.
+
+Unknown speaker 22:52 
+And so I think we have to be really open to this idea that treating the rest of the body as clockwork whereas we are uh kind of okay with with attributing various higher level cognitive properties to brains.
+
+Unknown speaker 23:00 
+I think that's a real mistake and I think we're leaving a lot on the table in terms of biomedicine and and other things by by making that assumption.
+
+Unknown speaker 23:03 
+Yeah.
+
+Unknown speaker 23:04 
+Let me ask, how did you come up with the name scale free cognition?
+
+Unknown speaker 23:07 
+Um, that possibly could have been.
+
+Unknown speaker 23:11 
+So, so that comes from from a paper that I did with Chris Fields.
+
+Unknown speaker 23:32 
+Uh, I don't recall if he was the one that came up with that title or if I was, I I don't remember at this point.
+
+Unknown speaker 23:59 
+He and I do so much together, I don't know.
+
+Unknown speaker 24:09 
+But um, but the reason it's good here is that we we as humans are very um uh kind of uh focused on a very much like we are in the in the electromagnetic spectrum and so on, you know, we we only see this like tiny little little little uh you know, band with, right?
+
+Unknown speaker 24:35 
+Uh, we are the same way for intelligence and so we are very good at recognizing kind of medium sized objects moving at medium speeds in uh three-dimensional space and look there that's a crow and this is a this is an and we can sort of recognize intelligence, but but there are intelligences all around us at various scales that we just find very difficult to uh think of in the same way.
+
+Unknown speaker 25:00 
+that agent has made about
+
+Unknown speaker 25:01 
+the outside world and like all of our ideas that are being sort of turned over by active
+
+Unknown speaker 25:05 
+inference by this active inference process, these hypotheses may be supported and they may survive and give rise to others such hypotheses, or they may be unfit and die and you'll never hear from them again.
+
+Unknown speaker 25:16 
+And so, so that's another, you know, that's those kind of ideas and and I'm not saying it's it's right or wrong, but
+
+Unknown speaker 25:22 
+Sure.
+
+Unknown speaker 25:24 
+but those those those kind of ideas,
+
+Unknown speaker 25:24 
+you can't even begin to have those kind of ideas and consider those hypotheses if you are tied into the fact that all cognitive systems are roughly the size and scale of us and, you know, and they have to have the brains and they have to work on a time scale that's, you know, uh, too too too rapid and that begins to look too weird and too stretched out and well that can't be a mind, you know, but it's all relative.
+
+Unknown speaker 25:48 
+It's it's it's all completely relative, but we have this vantage point like we used to when we thought we were the center of the universe and all that.
+
+Unknown speaker 25:59 
+Yeah.
+
+Unknown speaker 26:00 
+is cool.
+
+Unknown speaker 26:00 
+Yeah, because I was wondering about that the name the
+
+Unknown speaker 26:03 
+how you named it there because it seemed like it struck me as more scale dependent cognition because it's reliant on the space and time scope, but perhaps scale free means,
+
+Unknown speaker 26:14 
+I don't know.
+
+Unknown speaker 26:14 
+It's like a different approach.
+
+Unknown speaker 26:15 
+It's like a macro look at it versus
+
+Unknown speaker 26:18 
+Yeah.
+
+Unknown speaker 26:18 
+I see I see what you mean, right?
+
+Unknown speaker 26:20 
+So, so you're right in that in that this approach does emphasize looking at scales.
+
+Unknown speaker 26:25 
+It doesn't the point isn't to get rid of scale.
+
+Unknown speaker 26:26 
+What I think what I when I say free, I mean there's sort of it's kind of a play on words.
+
+Unknown speaker 26:28 
+There's two ways to think about this.
+
+Unknown speaker 26:30 
+One is it's it's free in the sense that you it's not tied to any one scale, so you could sort of jump up and down and it still works, right?
+
+Unknown speaker 26:39 
+It's these these invariance.
+
+Unknown speaker 26:40 
+So, so the same thing is true and we see this all we see this all the time.
+
+Unknown speaker 26:46 
+It's I I think physicists use it this way too.
+
+Unknown speaker 26:47 
+It's it's something that's true on one scale and then you you turn some control knob whether it's um size or or time or something else and exactly the same thing is true at this other scale, right?
+
+Unknown speaker 26:59 
+That same dynamic.
+
+Unknown speaker 27:00 
+So that's one.
+
+Unknown speaker 27:00 
+But but I also I also like this idea to me what free really specifies there is freedom in the sense of freedom for the system to do what it's going to do and freedom for you as a scientist to not be locked in in one particular um lens of looking at the system.
+
+Unknown speaker 27:17 
+That's how that's how I see things.
+
+Unknown speaker 27:25 
+I see things as you know, sort of unfettering our our ability to to recognize these diverse intelligences.
+
+Unknown speaker 27:25 
+Gotcha, cool.
+
+Unknown speaker 27:26 
+And what we're going to get into morphogenesis and bioelectricity um in a minute, but before we do that, we do want to touch on two concepts that are in this paper, um surprise and info taxes.
+
+Unknown speaker 27:37 
+Um, and
+
+Unknown speaker 27:40 
+I was somewhat familiar with surprise before that the concept of surprise from um, take information theory.
+
+Unknown speaker 27:47 
+Info taxes was a little bit was a little bit newer to me.
+
+Unknown speaker 27:50 
+But uh, one of the things I didn't realize is this concept of likening
+
+Unknown speaker 27:56 
+how these agents, they want to minimize uh their surprise level, which is a concept from like the free energy principle, what's a bunch of other places, but and you've of course published with um with Carl Friston as well.
+
+Unknown speaker 27:59 
+I'm talking to him next month, which will be great.
+
+Unknown speaker 28:00 
+I can't wait to talk to him about that stuff.
+
+Unknown speaker 28:00 
+But um,
+
+Unknown speaker 28:01 
+I didn't equate it to a stress.
+
+Unknown speaker 28:02 
+So, like stress and surprise, should we think about those two as equivalent?
+
+Unknown speaker 28:19 
+So, yes, so it's good that you're having uh, um, Carl and I'm certainly not going to um try to butcher his uh his uh his information by trying to recap it here, but uh,
+
+Unknown speaker 28:29 
+let me let me uh sneak up on it from from a slightly different uh perspective because I think I think I think stress is is is very important.
+
+Unknown speaker 28:37 
+Uh, one way, one way to think about uh, the behavior of these collective intelligences of cells and we're talking about let's let's think about um, regeneration or development, which is basically just regeneration from a single cell, same thing.
+
+Unknown speaker 28:52 
+What you have there is a kind of what which what what the system is doing is it's navigating in morph space.
+
+Unknown speaker 28:57 
+It starts off in this it's a morph space is this a virtual but high dimensional space of all possible anatomical configurations that a particular um genome could possibly reach.
+
+Unknown speaker 29:07 
+And so, so you start off in one corner of this morph space as a single as a single egg, uh, single cell and then you sort of navigate to this to this other region, which is an ensemble of states that we recognize as the correct target morphology for whatever creature that you are.
+
+Unknown speaker 29:22 
+Um, that navigation process is has quite a bit of intelligence to it in the sense that uh, not just this is I'm going to get a quick quick detour here is a one way people critique these ideas is they say, oh, well, all you're doing is is painting the word intelligence on any complex process, right?
+
+Unknown speaker 29:40 
+Anything that happens, you say it's intelligent because look how complicated it is and it got from here to there.
+
+Unknown speaker 29:45 
+So that isn't it at all.
+
+Unknown speaker 29:46 
+This is this is really critical.
+
+Unknown speaker 29:47 
+You you first of all, you cannot estimate uh intelligence from observational data.
+
+Unknown speaker 29:57 
+It has to be interventional experiments.
+
+Unknown speaker 30:01 
+You're
+
+Unknown speaker 30:01 
+not looking at emergent complexity.
+
+Unknown speaker 30:03 
+That's very easy, there are many systems that that start off with very uh kind of uh simple local rules and then something very complex comes out the other end.
+
+Unknown speaker 30:11 
+That's not intelligence.
+
+Unknown speaker 30:12 
+Intelligence is the ability to get where you're going, to reach that goal, uh despite novelty and perturbations, despite it's problem solving, basically.
+
+Unknown speaker 30:19 
+So this is so this is key.
+
+Unknown speaker 30:20 
+So, so okay, so so you're this you're this collective intelligence because you're a group of cells, very early on, you become a group of cells and you have to uh you have to reach uh reach wherever it is that you're going.
+
+Unknown speaker 30:33 
+Okay, so so the so the part that is that's intelligent is the part that uh when you deviated from what it's trying to do, it finds other ways of doing it.
+
+Unknown speaker 30:40 
+So let's just uh let's just um uh use a simple example, we had a we had a salamander and in that salamander, there's a very particular limb that forms with certain number of fingers and if you amputate that limb and you can amputate it anywhere from the shoulder to the to the fingertips, uh the cells will immediately grow uh they will they will start to to to replicate, they will differentiate, they'll do all these different things and and then they stop.
+
+Unknown speaker 31:03 
+This is the most amazing part is that they stop.
+
+Unknown speaker 31:08 
+When do they stop?
+
+Unknown speaker 31:10 
+They stop when a correct salamander limb has formed.
+
+Unknown speaker 31:11 
+So, the way to one one way to think about this,
+
+Unknown speaker 31:15 
+well, there's an there's a the traditional way to think about this is as feed forward emergence.
+
+Unknown speaker 31:20 
+So, so yes, every cell has a bunch of local rules dictated by DNA and biochemistry, and you just sort of roll them forward and whatever happens happens and and and it just so happens that it's a that it's a salamander limb.
+
+Unknown speaker 31:26 
+So, so that's one way of looking at it.
+
+Unknown speaker 31:37 
+That's I I I I think that way of looking at it is is missing the boat in a profound way because it limits our understanding and our ability in regenerative medicine.
+
+Unknown speaker 31:40 
+But anyway, the um the view that I recommend is that you look at this as a uh
+
+Unknown speaker 31:44 
+kind of homeostatic capability of this collective intelligence.
+
+Unknown speaker 31:47 
+What it what it has is and and by homeostasis, I mean the the the thing that happens in your thermostat where there's this loop where it takes a measurement of something, let's say temperature in the case of your thermostat, it makes a decision relative to a memory, a set point of what the right temperature should be, and then it takes actions to get to to get closer to that set point, right?
+
+Unknown speaker 32:06 
+So you can you can think of you can think of regulative development and regeneration and cancer suppression and metamorphosis in exactly the same way.
+
+Unknown speaker 32:14 
+There is a an error minimization process that tries to work to keep the system in the correct uh anatomical region of space and when it's deviated by injury, by mutations, by teratogens, by whatever, uh it tries to get back.
+
+Unknown speaker 32:30 
+there is best as I can.
+
+Unknown speaker 32:31 
+And I, I, you know, I give lots of talks about all the amazing examples of of what it can actually do uh to in order to achieve that, just all the weird, weird new solutions that it comes up with to various problems.
+
+Unknown speaker 32:41 
+So, so in order to do that, one so so how do we think about, I mean, the the key thing about that loop, that that control loop, and this is, you know, for engineers, this isn't absolutely nothing new, that that that control loop, the the key is that it has a set point.
+
+Unknown speaker 32:55 
+And uh why, why does it keep uh why do these cells act?
+Why do they spend metabolic energy?
+Um, remember, they used to be independent organisms, individual individual uh cells uh care about little tiny single cell goals.
+
+Unknown speaker 33:09 
+They care about metabolic state, they care about local concentrations of things, they don't care about these large goals of um uh organ shape and organ size and things like that.
+So why do they keep trying to do this?
+
+Unknown speaker 33:23 
+And one way to think about this, and so this is an idea that that I sort of push forward in that tame paper and then since then we've done a lot of uh uh experimental work on it, which is not published yet, which you'll be seeing later this year and some some uh some good um computational modeling of it, some of it which is is published as of as of a couple weeks ago.
+
+Unknown speaker 33:42 
+So, one way to think about this is that what keeps the system trying to minimize error is stress.
+Now, stress is a really good word because because stress has been used by um engineers when they talk about uh various materials.
+
+Unknown speaker 33:59 
+So they so they talk about stress in meso meso scale stress in materials.
+It's talked about by a psychologist, it's talked about by evolutionary ecologist in term of ecosystem stress, of course, behavioral scientists in terms of single, but but where people don't really talk about stress very much is at this middle level, which which we focus on, which is cells and tissues and organs.
+
+Unknown speaker 34:17 
+And I think, I think that that this this concept of stress is quite general, scale free, if you will, and that the deal with stress is that what one of the things and there's a couple of major things, this is just one of those.
+
+Unknown speaker 34:30 
+One of the things that helps scale the cognitive light cone and move a a set of uh a set of sub units from caring about from a pile of cells that care about individual cell level things to a collective that cares about much bigger things like, hey, we don't have the right number of fingers currently, right?
+And no no individual cell knows what a finger is or how many you're supposed to have, but the collective does.
+And and the thing that keeps them them motivated to to kind of try to get back to where they're going is stress.
+And so what you need for this
+
+Unknown speaker 35:00 
+in that system what you need for this
+
+Unknown speaker 35:01 
+uh is for every cell
+
+Unknown speaker 35:02 
+to um to to be able to be stressed by and to spread its stress to other neighbors
+
+Unknown speaker 35:12 
+in in response to conditions that are really um uh failures of alignment at a larger scale.
+
+Unknown speaker 35:19 
+So for example, so just just to give you an example,
+
+Unknown speaker 35:21 
+if if if um if we were to take a uh an eye and stick it on the tail of a tadpole, right?
+
+Unknown speaker 35:31 
+And and sort of, you know, transplanted, you could have a situation where no individual cell is damaged, nobody's injured, nobody's poisoned, there's no DNA damage, there's no reason for any individual cell to to be stressed.
+
+Unknown speaker 35:40 
+But the collective is is is has is at the wrong location in anatomical morpho space, there's a geometric problem.
+
+Unknown speaker 35:47 
+And so or or for example, after amputating the the limb, you know, after all the cells heal and there's, you know, the skin everything heals, no individual cell should be stressed because everything is fine on the single cell level,
+
+Unknown speaker 36:00 
+but there's a real mismatch between there's a delta between the the pattern memory that the system has, that's that set point and where the collective is now.
+
+Unknown speaker 36:09 
+So, so I think and there's there's a lot more than than we have time to go into here, but but but that spreading of stress and the linking of
+
+Unknown speaker 36:16 
+individual cell stress response mechanisms, which used to be all about my, you know, migration and and and and various physiological responses used to be about single cell stresses, things that could happen to an ameba and stuff like that.
+
+Unknown speaker 36:30 
+Uh and they're now getting harnessed to much bigger states of affairs and that's the beautiful thing about these homeostatic loops is that the cybernetic kind of aspect of it.
+
+Unknown speaker 36:37 
+It's a it's a it's a set of wild cards.
+
+Unknown speaker 36:42 
+Um, measure something, what do I want to measure?Well, it could be anything from your the quality of your DNA to uh the length of the tissue in which you find yourself to your position in the hierarchy of the tribe, you know, some sort of social thing, any of that can be the thing you measure.
+
+Unknown speaker 36:56 
+And then there's a set point to which you compare and again, that could be that could be almost anything and then there's some actions you could take, which again could be almost anything.
+
+Unknown speaker 37:03 
+So what evolution does is it uses this basic uh loop, this this basic concept of this loop and then it just progressively harnesses the three sort of main parts of that loop and points them at different sizes, different scales, different types of things and and that that I think is a is a major aspect of the kind of multi-scale competency architecture that makes this the whole thing so robust and interesting.
+
+Unknown speaker 37:27 
+That's incredible.
+
+Unknown speaker 37:30 
+The um
+
+Unknown speaker 37:32 
+So, for stress, one thing that I I think I'm not sure if it was from this paper or another paper of yours, but and you you sort of uh you didn't mention, it's an exported error signal.
+
+Unknown speaker 37:42 
+Yeah.
+
+Unknown speaker 37:54 
+So, I think as you put it in the paper, um, export of stress molecules, which have no ownership metadata.
+
+Unknown speaker 38:02 
+Yeah.
+
+Unknown speaker 38:03 
+Um, can you explain that?
+
+Unknown speaker 38:03 
+Sorry, I'm not a computer.
+
+Unknown speaker 38:04 
+Sure.
+
+Unknown speaker 38:04 
+Yeah.
+
+Unknown speaker 38:04 
+That'd be helpful to know that.
+
+Unknown speaker 38:04 
+Yeah, yeah, there's so so there's two there's two
+
+Unknown speaker 38:07 
+there's two kind of two big components to what I think of as what underlies the scaling of these collective intelligence.
+
+Unknown speaker 38:15 
+The first the first is the is the spreading of stress.
+
+Unknown speaker 38:23 
+So, so imagine this is this is I'm going to I'm going to give you an example, but but really this is about all kinds of contexts, not just not just cells moving around.
+
+Unknown speaker 38:32 
+But imagine that there's a there are a bunch of cells and there's one cell at the bottom that that according to the correct pattern needs to be up at the top.
+
+Unknown speaker 38:40 
+Now, the cell can sense that it's far away and it wants to minimize this distance, so it's going to try to migrate.
+
+Unknown speaker 38:42 
+But it can't because the other cells are sitting there.
+
+Unknown speaker 38:43 
+And the other cells have no incentive to move and let it through because they're perfectly happy where they are, their stress is very low.
+
+Unknown speaker 38:50 
+So, so now you got a problem.
+
+Unknown speaker 39:02 
+So, so now why uh what what could what what can evolution do about this?
+
+Unknown speaker 39:03 
+Well, one thing you can do is uh the molecule that uh and and and of course the level of stress, how do we know when something is stressed out?
+
+Unknown speaker 39:07 
+Well, there are markers, so there are of a specific molecules that are used as a um as a physical uh implementation of stress.
+
+Unknown speaker 39:14 
+So, so, you know, heat shock proteins and other other other markers that are like this is my level of stress, right?
+
+Unknown speaker 39:15 
+And then there's other there's hormones and whatnot.
+
+Unknown speaker 40:00 
+So, so now one thing you can do with this is you could keep all the stress to yourself and then this is the only cell that knows he's in the wrong location and nobody wants to help him and and and that's it, that's all the system stays.
+
+Unknown speaker 40:10 
+Or you could be a little bit leaky.
+
+Unknown speaker 40:13 
+So if you're a little bit leaky and and you're letting some of those stress molecules propagate to your neighbors,
+
+Unknown speaker 40:19 
+then something interesting happens, uh they become less happy.
+
+Unknown speaker 40:23 
+Now why are they less happy?
+Well, they don't know because stress is stress, the molecule itself, that's that metadata I was talking about, that that's that molecule doesn't by itself tell you what the problem is, it just says you're there's something's wrong, right?
+
+Unknown speaker 40:35 
+And so what that means is that the cells in his vicinity, the temperature starts to rise, they get a little bit more plastic and this actually um uh
+
+Unknown speaker 40:44 
+a variety of uh uh systems where actually where where for example um I just saw a beautiful talk a week ago by uh um
+
+Unknown speaker 40:53 
+somebody who studies uh in in uh like literally cells that are in the wrong location, they make they make the cells around them physically more fluid, they get they literally get a little more plastic.
+
+Unknown speaker 41:05 
+And when they get a little more plastic, they're more willing to let other things happen.
+For example, that cell is now going to be able to get through them.
+And again, I I realize this is this is an example that's very kind of physical, but but
+
+Unknown speaker 41:20 
+by what you're doing by spreading that stress specifically in a way that looks like all of their all of the other uh agents stress is you are making your problems be their problems.
+
+Unknown speaker 41:35 
+It's a way to it's a way to get alignment, it's a way to get coordination towards a common goal.
+
+Unknown speaker 41:40 
+It's a way to uh uh get this kind of unification, this kind of unity that's needed for a for a complex multi-component system to achieve larger goals.
+
+Unknown speaker 41:51 
+So, so that's that's one thing, the spreading of stress to to to get the and and and and notice, notice something interesting, it doesn't require altruism, it creates altruism.
+
+Unknown speaker 42:00 
+These other cells are not helping you out because because they want you to feel better, they want to feel better and and the best way for them to feel better is for you to stop stressing everybody out.
+
+Unknown speaker 42:10 
+That's that's you know, that's that's a real kind of uh simple way to put it, but that's actually the dynamic that happens is
+
+Unknown speaker 42:11 
+is it's not that that they're there to help you, it's that you you the system is set up in such a way that that lowering the overall stress requires them to to to to act in a way that lowers your stress.
+
+Unknown speaker 42:27 
+Now, now the other business the other part of this is the other metadata component of this.
+
+Unknown speaker 42:34 
+Um, which is which is this, one of the things we study in in uh this kind of uh scaling up is this notion of uh this this notion of communication via gap junctions.
+Now, now what are gap junctions?
+Gap junctions are these these little proteins that form um like a like a like a submarine hatch kind of thing that in the like a like a little um aqueous pore that can open and close in the cell membrane and when two cells are next to each other, they can dock those those uh those gap junctions can dock and then what happens is that uh small molecules and these are very we're not talking proteins, but like very small molecules signaling via current and and and so on, can go from one to the other.
+
+Unknown speaker 42:46 
+Now, I've made I've made the um uh the claim before that that these gap junctions are kind of magic in terms of uh uh this this cognitive scaling and and and here's here's one reason why.
+And they're not the only thing they're not the only way to do this, but I think evolution exploits them heavily.
+
+Unknown speaker 42:59 
+Uh, imagine that you're a cell and uh you've got there's a cell A and cell B and they're sort of near neighbors and
+
+Unknown speaker 43:05 
+and something happens to cell A, uh and uh cell A has uh some some internal uh uh um consequences of that, let's say calcium has gone up or some kind of, you know, some kind of uh memory trace molecule of that happening.
+
+Unknown speaker 43:14 
+That propagates through the gap junction, lands in cell B.
+Now, what's cool about this is that uh that calcium spike or whatever it was, doesn't have any metadata on it that says where it came from.
+
+Unknown speaker 43:21 
+it whatever that signal is, it is what it is.
+And so when cell B gets it, uh, it comes directly into its internal milieu, it appears inside, right?
+These gap junctions basically sort of make a a connection that that um lets the two internal environments largely communicate.
+
+Unknown speaker 43:31 
+And what that does is provide a memory wipe in the following in an identity wipe in the following for memory in the following way.
+The memories that you now receive through those gap junctions, the traces of various events, you don't know as cell B, you don't know that they're not yours.
+There's nothing you know, they they are just like the rest of the memories you have.
+
+Unknown speaker 43:46 
+So, so that's what happens when when you when you join a collective.
+So, it's you got to be careful, it's not it's not a panacea by any means.
+
+Unknown speaker 43:52 
+Sure.
+Oh, there's so many.
+
+Unknown speaker 43:55 
+fascinating from places we can go just based off what you said.
+
+Unknown speaker 43:57 
+The um, I think one of the things that would be cool and something that you highlight a little bit.
+
+Unknown speaker 49:05 
+a little bit.
+
+Unknown speaker 50:00 
+talk components and they have their own membranes.
+Why is it that so much of the Shannon information is on the outer boundary of the cell?
+
+Unknown speaker 50:08 
+Yeah.
+Well, a couple things.
+Um Bob is amazing.
+You should you should have him on uh he's very very smart guy uh lots of interesting things to say.
+
+Unknown speaker 50:17 
+Um I I think that uh and and I don't I don't recall the you know, the exact calculations that he used to reach that conclusion.
+I can I can sort of reconstruct why uh one one thing about information is that uh Shannon or or otherwise is that what's very central is the role of an observer.
+
+Unknown speaker 50:36 
+Uh and we're back to this concept of surprise, this idea that as an observer, how much surprise did you get out of a particular message that you received, right?
+or how predictable was it?
+that those kinds of things.
+
+Unknown speaker 50:46 
+And so, and so in the I I I could I could imagine some kind of an observer in the cell that would uh get way more information from the things that are going inside versus the membrane, but I think what Bob was talking about is the fact that when cells interact with each other, so this kind of multicellular context,
+
+Unknown speaker 51:00 
+there's an interface by which they uh communicate and control each other.
+So cells are hacking each other all the time and that interface is the cell membrane and not just because physically that's what's on the outside, but it's because in that cell membrane are a lot of the interesting so so biochemical, of course, uh bioelectrical because that's where all the ion channels are and uh biomechanical because that's how you're going to you're going to exert um forces on things.
+
+Unknown speaker 51:14 
+Uh that's where all the signals come come in and out.
+So, so I think what he's saying is that that's the nexus of the information exchange between cells and the outside world and every cell is some other cells in the body, every cell is some other cells external environment, which is also kind of a key thing to think about when you think about the origin of cells and so on is that you need to you need to set a boundary somewhere.
+It's not given to you from from scratch.
+
+Unknown speaker 52:01 
+So, I think that's what he's talking about that that that control and communication interface of cells.
+
+Unknown speaker 52:07 
+Got it.
+Okay.
+Yeah.
+That was um that just stuck out to me that.
+
+Unknown speaker 52:09 
+I mean, I understand the importance and that will sort of I can get to that the um the the ion flows and gap junctions in in a little bit and the importance of of of those.
+One thing that I think and of course there's issues.
+The Shannon information doesn't tell you about the meaning, right?
+There's certain issues there.
+But one thing that did stick out to me about um this paper, I believe it's in this paper that you said um you're thinking about these light cones that expanding the horizon is what enables Shannon information to acquire meaning because data become data becomes causally linked to distant and past experiences and acquires implications for future expectations.
+
+Unknown speaker 52:54 
+So, can you help uh like decouple that a little bit?
+Yeah, yeah, and that that sounds like uh I'm I'm almost positive that one was from uh that that's a Chris Fields sentence and that one was I'm almost positive.
+And that one was from a paper that Chris and I did on on meaning and where meaning comes from.
+
+Unknown speaker 53:06 
+And I you know, the the and and you should have him on too.
+Chris Chris is also um absolutely remarkable.
+So, I've come across his research before, yeah, he's great.
+Yeah, yeah, you should you should definitely talk to him.
+But um uh the what what I think what I think is is critical there uh and what uh what what Chris and I uh have been working on a lot is uh the centrality of this concept of the observer.
+
+Unknown speaker 53:36 
+And it's this idea that and and I and I actually think that's one of the things Shannon information gets gets right and that it doesn't assume that meaning is uh I mean yes, it misses out on meaning, but but when you're trying to capture meaning, you you start to get this idea well there is one meaning and it's our job to kind of discover it and and and get different computational results out of it depending on what their perspective is and what their interpretation is.
+
+Unknown speaker 54:09 
+So it's this and it's got this it's it's an idea that has this weird match to, you know, some ideas in in in
+
+Unknown speaker 55:00 
+and
+
+Unknown speaker 55:01 
+um, uh,
+
+Unknown speaker 55:03 
+kind of
+
+Unknown speaker 55:04 
+per psychology
+
+Unknown speaker 55:05 
+and so on that
+
+Unknown speaker 55:06 
+that the changing our perspective on things is is is
+
+Unknown speaker 55:09 
+a tool that you have in
+
+Unknown speaker 55:10 
+addition to actually trying to change the thing the thing itself.
+
+Unknown speaker 55:11 
+Um,
+
+Unknown speaker 55:12 
+and so, and so that's that's part of it is that we have that we have to we have to think about that meaning is very much relative to some to some observer, which by the way, might be the system itself.
+
+Unknown speaker 55:20 
+An observer doesn't mean that there's some sort of there's not always some sort of external thing that needs is there to give to give something meaning.
+
+Unknown speaker 55:25 
+The system itself can be sort of it's like this strange loop as Hofstadter puts it.
+
+Unknown speaker 55:32 
+Um, that can do that for itself if it's a complex enough system.
+
+Unknown speaker 55:36 
+Mm.
+
+Unknown speaker 55:37 
+Yeah, that's
+
+Unknown speaker 55:39 
+really interesting.
+
+Unknown speaker 55:40 
+The um,
+
+Unknown speaker 55:41 
+and just so you know, after the fact,
+
+Unknown speaker 55:41 
+I'll probably won't have this slide up the whole time.
+
+Unknown speaker 55:44 
+I'll probably have the side by side of us just because uh, it's probably off for you now, but uh, just so you know, I'll probably put it up and put it uh, have it down and put it back up at different, different times in the conversation, but one thing before, because I do want to talk about morphogenesis a little bit and go into bioelectricity, but
+
+Unknown speaker 55:59 
+this light cone idea and I think,
+
+Unknown speaker 56:00 
+I think this brings in something you've said about cancer cells or at least your theory of how cancer cells look.
+
+Unknown speaker 56:03 
+They have like sort of the wrong scope of what what they themselves are.
+
+Unknown speaker 56:10 
+Um, can you explain that a little bit?
+
+Unknown speaker 56:13 
+Sure.
+
+Unknown speaker 56:14 
+Well, one one so so a lot of cancer research uh focuses on why, why do we get cancer, right?
+
+Unknown speaker 56:20 
+Like what like what causes it.
+
+Unknown speaker 56:21 
+And I think that um,
+
+Unknown speaker 56:25 
+the right way or a better way to think about the the kind of the origin of it is, why is there ever anything but cancer?
+
+Unknown speaker 56:34 
+Why isn't it all cancer all all the time?
+
+Unknown speaker 56:35 
+Because if you think about if you think about individual cells as as which are our as as our ancestors, their basic state is is not to sit quietly as a disposable organ somewhere.
+
+Unknown speaker 56:49 
+Their basic state is to reproduce and go where life is good.
+
+Unknown speaker 56:51 
+We are made of pieces that want to behave like a tumor.
+
+Unknown speaker 56:55 
+They want to uh go wherever they want.
+
+Unknown speaker 56:56 
+They want to reproduce as much as they possibly can, they want to hijack other cells around them to help them do whatever they need to do.
+
+Unknown speaker 57:03 
+This is that's the basic state.
+
+Unknown speaker 57:05 
+The real mystery is is is what what keeps that uh under control.
+
+Unknown speaker 57:09 
+And I think this was this was well recognized by people kind of in the at the dawn of um the developmental and cell biology, but it's sort of it's sort of lost uh lost steam for a while, but it's but but but it's a very powerful idea because then you ask yourself, well, uh, if we really take this this cognitive light cone thing seriously, we look at individual
+
+Unknown speaker 57:30 
+individual cells and we say,
+
+Unknown speaker 57:31 
+so what's happening here is that there are a variety of signals and those may involve the stuff that we've been talking about, so gap junctions, stress propagation, you know, with all all kinds of other things.
+
+Unknown speaker 57:41 
+Um, what they're doing is they're partially erasing the identity of these individual cells to enable the collective to work towards a very large goal, like making a nice liver or a kidney or whatever.
+
+Unknown speaker 57:52 
+And then you start to think through, well, what would a failure mode look like?
+
+Unknown speaker 58:00 
+So you get some, you get some sort of oncogene that uh, let's say, um, uh, shuts down all the gap junctional communication for that cell,
+
+Unknown speaker 58:05 
+and immediately what happens is once that cell is electrically isolated from its neighbors, it can now start to have an individual identity and that leads to a calculus of individual little tiny cell goals.
+
+Unknown speaker 58:18 
+And and that cell can now as far as that cell is concerned now, the rest of the body is just external environment.
+
+Unknown speaker 58:24 
+So what happens with these electrical networks and of course chemical and biomechanical networks is that they set the boundary between a cell and the outside world.
+
+Unknown speaker 58:32 
+If if you're a cell and you're connected to a whole bunch of other cells, the boundary of yourself is huge, it might be the whole body, you know, and then everything else is is sort of external environment.
+
+Unknown speaker 58:41 
+But as soon as that gap junction breaks, your your yourself is now tiny, it's just it's just a single cell.
+
+Unknown speaker 59:00 
+So, so that boundary between self and world uh grows and shrinks.
+
+Unknown speaker 59:02 
+It grows during during development and grows during evolutionary um uh you know, evolutionary the course of evolution,
+
+Unknown speaker 59:05 
+and then it shrinks during during cancer where and and that's really important to to to think about that these these cancer cells are not any more selfish than normal cells, you know, and a lot of game theory you treat the cells as more selfish.
+
+Unknown speaker 59:13 
+They're not more selfish, they're exactly as selfish as every cell, they just have a tiny little self.
+
+Unknown speaker 59:17 
+So all the other cells are also being incredibly selfish, but their self is huge.
+
+Unknown speaker 59:22 
+And so they're all working towards this common purpose that we see of as as an organ or or in fact the whole organism.
+
+Unknown speaker 59:30 
+Um, but it's not because they're not selfish, it's because they're part their identity is partially erased through their tight informational linkage to other cells.
+
+Unknown speaker 59:36 
+And so cancer is exactly what you would expect from a breakdown of that process.
+
+Unknown speaker 01:01:00 
+collect it.
+
+Unknown speaker 01:01:01 
+Yeah.
+
+Unknown speaker 01:01:02 
+Yeah, what they just said he
+
+Unknown speaker 01:01:03 
+pointed out the uh cancer cells no more selfish than another cell just has a the wrong scope of what it is kind of, you know, it doesn't have the proper um that it's light cone is is deformed, let's say, but
+
+Unknown speaker 01:01:15 
+Yeah, and and and it's it's shrunk.
+
+Unknown speaker 01:01:17 
+And and the key is again, so so so so to make good on this on this promise at the beginning that this wasn't going to be just just philosophy, what we've been able to do is
+
+Unknown speaker 01:01:26 
+to take that weird way of thinking about it and turn it into a therapeutic strategy.
+
+Unknown speaker 01:01:31 
+So, so once you start thinking about that, we think, okay, so maybe we don't need to kill the cells and maybe the problem isn't the the the molecular hardware, maybe what we can do is is physiologically reconnect it to the network and it should go back to doing its normal thing and that's in fact what we've done.
+
+Unknown speaker 01:01:46 
+So, so we have we have a whole body of work on
+
+Unknown speaker 01:01:48 
+cancer in the frog model and we're now moving to uh glioblastoma in human cells.
+
+Unknown speaker 01:01:53 
+uh is to is to convert the cell with a with a really strong nasty oncogene like a K mutation, force it to be in proper electrical state with its neighbors and the cell normal and they normalize.
+
+Unknown speaker 01:02:17 
+There's no tumor.
+
+Unknown speaker 01:02:18 
+They go even though the oncogene is blazingly strongly expressed.
+
+Unknown speaker 01:02:19 
+They just go back to doing what they what they normally do because they're now again, they're part of this they're part of this morphogenetic collective.Will we eventually you think be able to electrically communicate with say, a cancer cell and just change the information going into the cell via say electrical currents and tell it to do something else?
+
+Unknown speaker 01:02:31 
+Like is that a decent explanation of where we're going towards or is it a little different than that?
+
+Unknown speaker 01:02:37 
+It's it's it's reasonable, um, but I'll I'll twist that just a little bit.
+
+Unknown speaker 01:02:41 
+Here's here's where I here's where I think it's going.
+
+Unknown speaker 01:02:47 
+Um, down at the lower level, so if you zoom in, yes, I think that's what we're looking at is is aberrant electrical and and other kinds of signaling between cells, that's the target.
+
+Unknown speaker 01:02:54 
+However, uh, I don't think that uh, the way that we're going to be manipulating this is by focusing our intervention efforts directly at that layer.
+
+Unknown speaker 01:03:02 
+And the reason I don't think that's what we're going to do and I'll tell you what what I do think we're going to do.
+
+Unknown speaker 01:03:03 
+Uh, is that it's kind of like uh, it's kind of like programming a computer.
+
+Unknown speaker 01:03:17 
+The way the way you programmed a computer in the 40s and 50s is you had to physically interact with the hardware.
+
+Unknown speaker 01:03:20 
+You literally had to sit there and rewire it, right?
+
+Unknown speaker 01:03:26 
+And and that's and that's what all of modern molecular medicine is about.
+
+Unknown speaker 01:03:38 
+It's a CRISPR and genomic editing and and rewiring pathways and protein engineering, like all that stuff is down at the level of the hardware.
+
+Unknown speaker 01:03:41 
+I think what what what can what the information technology revolution has taught us is that if your hardware is good enough and I think the biological hardware is definitely good enough to to do this.
+
+Unknown speaker 01:03:48 
+The the better way to do this is to communicate with the system using its own built-in interface, not to try to rewire it, but to but to um, uh, reset the set point and and and and take advantage of its built-in competency.
+
+Unknown speaker 01:03:54 
+So, so what I think we're going to be doing is, uh, basic basically of a rough way of saying is retraining it.
+
+Unknown speaker 01:04:05 
+Um, we're going to be we're going to be using high level stimuli and and I think I think it's uh AI recent recent examples of AI uh and various techniques in machine learning show great promise in being that that translation layer to uh to to do very high level top down interventions where the details are all handled by the system itself.
+
+Unknown speaker 01:04:17 
+This is how we've done a lot of our work on bioelectrics.
+
+Unknown speaker 01:04:30 
+We can make cells we can make um bodies form an eye in weird locations or an extra leg or or you know, repair various structures.
+
+Unknown speaker 01:04:35 
+And it's never by telling the individual cells what to do, it's never by differentiating stem cells, it's always by communicating with a collective intelligence with a fairly simple signal, looks like a subroutine call, it just says, build an eye here or regrow whatever normally goes here.
+
+Unknown speaker 01:04:53 
+That that's the kind of stuff.
+
+Unknown speaker 01:04:59 
+You don't want to be down at the level.
+
+Unknown speaker 01:05:00 
+you know, there's actually there's actually a really interesting piece of this that that ties into uh some some um uh some medical uh issues that are that have been coming up for for years.
+
+Unknown speaker 01:05:00 
+We just had a talk by by uh Fabrizio Benedetti, who's this amazing uh placebo researcher.
+
+Unknown speaker 01:05:00 
+And he has this quote which I just love and I'm I'm now using it uh all over the place, which is um, he said uh,
+
+Unknown speaker 01:05:00 
+Oh.
+
+Unknown speaker 01:05:01 
+Drugs and words have the same mechanism of action.
+
+Unknown speaker 01:05:04 
+And he's exactly right by looking at by looking at how bodies respond to uh the context of being given a specific drug or being given a placebo, whether the whether the doctor was wearing a white lab coat or wasn't or whether he told you you were getting a drug or whether he told you you were getting the best drug or what, you know, all of those things have have massive implications for the therapeutic outcome.
+
+Unknown speaker 01:05:27 
+And that's because we are part of this multi-scale system where high level cognitive expectations of what's going to happen filter down to the molecular details of how yourself.
+
+Unknown speaker 01:06:14 
+actually react.And this is what makes um uh hypnodermatology work, it's what makes the placebo effect work and it's also less people think that this is some like weird exotic effect.
+
+Unknown speaker 01:05:37 
+That's how you get up out of bed in the morning.
+
+Unknown speaker 01:05:37 
+Because when you're laying there and you decide to stand up out of bed, what's happening is that high level executive cognitive uh function that says, you know what, I I think I'm going to get up out of bed now.
+
+Unknown speaker 01:05:37 
+has to has to traverse down to change the molecular properties of your muscles of the cell membrane in your muscles.
+
+Unknown speaker 01:05:37 
+In order for you to do to take these voluntary actions, it that that cognitive intent has to change the way you
+
+Unknown speaker 01:06:30 
+for uh voltages.
+
+Unknown speaker 01:06:31 
+spread across the cell membrane.
+
+Unknown speaker 01:06:33 
+It has to affect the micro level physiology.
+
+Unknown speaker 01:06:36 
+So this business where where top level cognitive states affect molecular biology is not some some weird, you know, mind brain medicine woo woo stuff.
+
+Unknown speaker 01:06:45 
+It it's it's a it's the daily reality of being a behaving um uh a behaving living multiscale agent that uses uh bioelectricity mostly, but but also a bunch of other stuff to cross levels like that, to go from from cognitive goals to molecular states.Uh, that's fascinating.
+
+Unknown speaker 01:06:15 
+I never thought about that way.
+
+Unknown speaker 01:06:15 
+Huh.
+
+Unknown speaker 01:06:15 
+Yeah.
+
+Unknown speaker 01:06:15 
+Next time.
+
+Unknown speaker 01:06:52 
+tomorrow.
+
+Unknown speaker 01:06:54 
+Tomorrow morning when I wake up, I'll uh, think about the, I got to be the executive and get actually get up and not snooze a bunch of times.
+
+Unknown speaker 01:07:01 
+The uh,
+
+Unknown speaker 01:07:02 
+one thing that I like and you actually just touched on and it's another slide that um,
+
+Unknown speaker 01:07:05 
+I guess the the the elevated um,
+
+Unknown speaker 01:07:06 
+function of bioelectricity versus these these other components that are happening um within the cell.
+
+Unknown speaker 01:07:11 
+Um, I think it's it's a great, I think it's a great like sort of one slider in terms of like looking at morphogenetics and um, kind of breaking out the component parts.
+
+Unknown speaker 01:07:21 
+And there might there very well might be other sort of components here, but these are kind of the major ones, right?
+
+Unknown speaker 01:07:22 
+to get.
+
+Unknown speaker 01:08:00 
+the ECM, I think that's extracellular matrix, is that right?Tension.Can you give us just like um, I guess a quick um, you know, rundown of sort of what each of these kind of component parts do, and then like I said, like and you have mentioned here, of course, on the right here, the bioelectricity has its own, it's the computational layer, so it's got sort of a special component.
+
+Unknown speaker 01:07:30 
+Yeah, this is this is a very early slide, I I used it uh extensively probably 10 years ago.
+
+Unknown speaker 01:07:30 
+Um, sorry.
+
+Unknown speaker 01:07:30 
+as uh, well, no, it's fine, it's still it's still valid, but but but see as as I was rolling out this whole this whole uh kind of research programs.
+
+Unknown speaker 01:08:14 
+starting in, I don't know, God, 98 or 99 or so.
+
+Unknown speaker 01:08:18 
+Uh, there were certain things you couldn't say at the beginning that you have to, you have to say things a certain way and it's much easier now, now that the data are there, it's it's easier to to to say those things now.
+
+Unknown speaker 01:08:28 
+What with this thing, this this um, this diagram is um, basically just designed to get across a couple things.Uh, first of all, that there is this morphogenetic field that impinges on every cell and it's made of multiple components, so there's the biochemical component uh or layer and then there's the biophysical and so so ECM and tension are both kind of part of the biomechanical layer.
+
+Unknown speaker 01:08:45 
+the stress is tensions, pressures, you know, those kinds of gradients.
+
+Unknown speaker 01:08:48 
+Um, and then there's the bioelectrical layer.
+
+Unknown speaker 01:08:51 
+So, so that so that was the first thing I was trying to get across.
+
+Unknown speaker 01:08:54 
+And that this this information field is critical from development to to adulthood, to uh cancer suppression, to regeneration, to to all of that.
+
+Unknown speaker 01:09:04 
+The other thing I was trying to say is that bioelectricity doesn't do the whole job by itself, because I've written many papers saying how amazing bioelectricity is.
+
+Unknown speaker 01:09:07 
+And then and then people will often read that as me saying that well, that's the only thing that matters.
+
+Unknown speaker 01:09:12 
+And I'm absolutely not saying that, of course, all these other things matter and they all work together.
+
+Unknown speaker 01:09:14 
+Um, and then and then the the the last thing
+
+Unknown speaker 01:09:44 
+which uh I only
+
+Unknown speaker 01:09:45 
+started emphasizing fairly recently is that
+
+Unknown speaker 01:09:50 
+what's what's really interesting and and again this isn't something I would have ever said early on but but but now I think I now I think I think it can be it can be said is that what's really interesting about bioelectricity isn't um that it's yet another piece of physics that we now have to pay attention to, it's more than that, it's actually the uh the excitable medium, the the the uh medium in which the the information processing and the primitive cognition of that collective intelligence.
+
+Unknown speaker 01:10:01 
+stored.So, again, that sounds very, very weird and and and sort of mystical, but it's basically exactly what happens in neuroscience.
+
+Unknown speaker 01:10:06 
+So, neuroscience, if you ask the question, what's the cognitive glue that takes a whole bunch of individual cells, I mean, neurons are perfectly good individual cells and then there's other cells in the brain, of course.
+
+Unknown speaker 01:10:16 
+Uh, what's the cognitive glue that binds all of those cells together so that I emerge and I have some thoughts and and and uh, and plans that don't have anything to do, you know, that they don't exist at the level of these cells.
+
+Unknown speaker 01:10:28 
+Well, the answer that we've now known for for really long time is, ah, bioelectricity, that's what it is.
+
+Unknown speaker 01:10:33 
+And so all I'm saying is, yeah, that's right.
+
+Unknown speaker 01:10:36 
+And where did the brain learn that trick?
+It got it from from all the evolutionary history before we had brains and neurons even, of using the exact same thing to store the content of the thoughts that the collective intelligence of the cells was having about anatomy in morpho space.
+
+Unknown speaker 01:10:53 
+And then eventually evolution sort of pivoted that to be all about three-dimensional movement and and things like that.
+
+Unknown speaker 01:11:00 
+So, so that's what that's what that slide's about.
+
+Unknown speaker 01:11:01 
+Okay, gotcha.
+
+Unknown speaker 01:11:01 
+Yeah, sorry, it's a it's a dated slide, but uh,
+
+Unknown speaker 01:11:04 
+I just thought it's I mean, it's an important concept.
+
+Unknown speaker 01:11:06 
+Yeah, it's got it's very dense, it's got a think of um, on different components to it and
+
+Unknown speaker 01:11:12 
+I want to get to sort on the bio electric.
+
+Unknown speaker 01:11:30 
+um, level.
+
+Unknown speaker 01:11:32 
+There was,
+
+Unknown speaker 01:11:33 
+I think it was somewhere in the 30s or 40s, I'm trying to remember.
+
+Unknown speaker 01:11:36 
+Harold Saxton Burr,
+
+Unknown speaker 01:11:39 
+who who had a lot of these ideas
+
+Unknown speaker 01:11:42 
+a hundred years ago.
+
+Unknown speaker 01:11:44 
+Um,
+
+Unknown speaker 01:11:46 
+and he was sort of on the right path.
+
+Unknown speaker 01:11:47 
+What um, what kind of privilege information did he have, like, do you know, think about him or uh, what what his deal was?
+
+Unknown speaker 01:11:55 
+Yeah, yeah, that's a great question and I I apologize.
+
+Unknown speaker 01:12:00 
+I've I've just got about a few more, a few more minutes.
+
+Unknown speaker 01:12:02 
+I'm sorry.
+
+Unknown speaker 01:12:02 
+Oh yeah.
+
+Unknown speaker 01:12:03 
+Um, yeah, yeah, so so the story with Burr is interesting.
+
+Unknown speaker 01:12:05 
+Well, well, first I'll just say, I'll just say this this whole idea of privilege information.
+
+Unknown speaker 01:12:08 
+There's there's a few examples and Burr is one of my favorite examples, but but there are others like um, uh, this guy, this guy Lametry, who was uh,
+
+Unknown speaker 01:12:15 
+around in the 1700s who who published this book that said man was a machine and you just imagine, you know, what machines did he have access to back then, you know, water clocks maybe was the best machine you could have seen.
+
+Unknown speaker 01:12:27 
+And just to have that that foresight to to extrapolate from that and to be able to say, yeah, and so all these great artists and philosophers, what they do, yeah, that could probably be explained that way, right?
+
+Unknown speaker 01:12:30 
+Just
+
+Unknown speaker 01:13:00 
+what the future might be.
+
+Unknown speaker 01:13:01 
+So, so, so Harold Burr
+
+Unknown speaker 01:13:02 
+had this and and the thing with um,
+
+Unknown speaker 01:13:04 
+he wrote he wrote this this book called the the Fields of Life and he uh, he had one of the first good uh voltmeters.And he went around and uh, he measured things, everything from cells, tissues, embryos, tumors, uh, uh, maple trees, uh, um, psychiatric patients, everything he could get his hands on, he would he would take these measurements.
+
+Unknown speaker 01:12:30 
+He didn't have any ability to do functional experiments, they didn't really understand at the time what the uh, kind of biophysics was that was underlying it at the cellular level.
+
+Unknown speaker 01:12:30 
+They didn't know anything about ion channels.
+
+Unknown speaker 01:12:30 
+Uh, but on the basis of these measurements,
+
+Unknown speaker 01:13:14 
+he
+
+Unknown speaker 01:13:15 
+described what how he saw the the the future, you know, kind of development of this area of bioelectricity.
+
+Unknown speaker 01:13:23 
+And I got to say, uh,
+
+Unknown speaker 01:13:26 
+he he had a crystal ball.
+
+Unknown speaker 01:13:27 
+I mean, it was unbelievable.
+
+Unknown speaker 01:13:28 
+just how with that simple, with that one tool that he had and nothing but uh nothing but some some some crude uh you know, extra cellular measurements.
+
+Unknown speaker 01:13:36 
+He reconstructed and he was able to see, I mean, everything that he said in that book has been basically slowly uh being being realized to be true.Uh and then there's some more stuff that, you know, we'll find we'll we'll see um how it goes.
+
+Unknown speaker 01:13:07 
+But um that that book was was hugely influential.
+
+Unknown speaker 01:13:45 
+for me.
+
+Unknown speaker 01:13:46 
+Uh,
+
+Unknown speaker 01:13:47 
+I think,
+
+Unknown speaker 01:13:47 
+I think he was amazing.
+
+Unknown speaker 01:13:48 
+I think he was he was a pioneer to be able to to to see all this stuff.
+
+Unknown speaker 01:13:50 
+And uh, of course,
+
+Unknown speaker 01:13:51 
+of course, the other part of this is, you know, I sometimes get emails from people who say, what are you doing all this work on electricity?
+
+Unknown speaker 01:13:54 
+This was all done in the in the in the 40s, it's all done.
+
+Unknown speaker 01:13:55 
+Well, okay, there's a difference between kind of uh roughly having the idea that something like that should be possible and actually getting it to the point where it you know, it it's quantitative and it works and it's a therapeutic.
+
+Unknown speaker 01:13:58 
+So, so I'm I'm not saying that I mean all the amazing people that are worked since him, which were also, you know, kind of my my heroes.
+
+Unknown speaker 01:14:01 
+So, so, you know, Lion Jaffe and and all of his post-docs, um, you know, Rich Borgens and Ken Robinson and and and all those folks, uh, uh, were were amazing and and they all did valuable valuable work and now we're sort of able to to to go from there.
+
+Unknown speaker 01:14:05 
+But uh, but yeah, he had these he had these very fundamental ideas uh in the 30s and 40s.
+
+Unknown speaker 01:14:07 
+It's really remarkable.
+
+Unknown speaker 01:14:08 
+Incredible.
+
+Unknown speaker 01:14:09 
+You have to do more digging on his uh on his work and and and dive into it a bit more.
+
+Unknown speaker 01:14:12 
+And one final thing before you go out, the one of the final paragraphs of the scale free cognition paper, you you write about Zen, Zen Buddhism, uh, which I thought was great and probably
+
+Unknown speaker 01:16:00 
+back to Ringer and Gosh by Hofstater, which he has some of that in there.
+
+Unknown speaker 01:16:04 
+Um, anything you want to sort of leave us on on on on that point.
+
+Unknown speaker 01:16:09 
+I think um, I can go back to the light cones here because I think that's it's it it gives you a good visual for what you're kind of getting at there.
+
+Unknown speaker 01:16:17 
+Yeah.
+
+Unknown speaker 01:16:18 
+Yeah, the only thing I'll say about that and and I'm no I'm no kind of Zen expert or anything, but but but I am fortunate enough to be working with uh a set of um scientists interested in uh certain ideas in the Buddhist tradition and we have a paper uh out now and we've got a couple of other papers in the works on the kind of uh consilience of this cognitive light cone idea with the idea of enlarging one's ability to feel compassion and to active compassion.
+
+Unknown speaker 01:16:58 
+I don't mean feeling emotions about things.
+
+Unknown speaker 01:17:00 
+I mean actively, you know, working towards the welfare of all beings.
+
+Unknown speaker 01:17:04 
+And so, so to me, this is this is really find.
+
+Unknown speaker 01:17:06 
+There's some good there's some good diagrams in there that I think you'll like.
+
+Unknown speaker 01:17:07 
+Um, there's some there's some really fundamentally important aspects here because uh, again, one thing that thinking about this diverse intelligence does for you is that it really makes it clear how the kind of simplistic distinctions that we've been making about who or what we should feel compassions towards is uh really needs a revising.
+
+Unknown speaker 01:17:23 
+And um, you know, at the end of many of my talks now, I do a whole thing on uh kind of the space of possible beings and all the different weird hybrids and high brots and cyborgs and everything else that's going to exist.
+
+Unknown speaker 01:17:34 
+And what it's doing is it's completely wrecking the kind of primitive um uh criteria that we used to use on which to develop our ethics.
+
+Unknown speaker 01:17:45 
+And that that all has to get redone and I think that the goal of all of this stuff about enlarging your light cone by, you know, technologically increasing our intelligence and our capability and I'm all for it.
+
+Unknown speaker 01:17:50 
+I think I think that's we've got to do that, but the purpose of all of it isn't just to to screw around and have more technology.
+
+Unknown speaker 01:17:57 
+The purpose of it is to uh enlarge our our ability to feel compassion towards other beings.
+
+Unknown speaker 01:18:00 
+And and uh, yeah, you know, we don't have time for all that.
+
+Unknown speaker 01:18:01 
+But but but there is a there is a whole paper on it and there's more there's more coming.
+
+Unknown speaker 01:18:02 
+Oh, really?
+
+Unknown speaker 01:18:03 
+What's the paper called?
+
+Unknown speaker 01:18:04 
+Um, I will uh, give me a second.
+
+Unknown speaker 01:18:05 
+I'll I'll I'll.
+
+Unknown speaker 01:18:06 
+I just love to link to it and oh, I want to read it myself, of course, too.
+
+Unknown speaker 01:18:07 
+Yeah.
+
+Unknown speaker 01:18:08 
+And the paper as well.
+
+Unknown speaker 01:18:14 
+Yeah, so it's called so it's called uh biology, Buddhism and and AI, care as the driver of intelligence.
+
+Unknown speaker 01:18:15 
+And this is the idea that care and compassion and the and intelligence are mutually reinforcing feedback loop.
+
+Unknown speaker 01:18:17 
+So that as you as one grows, the other should grow too.
+
+Unknown speaker 01:18:19 
+And that's that's um.
+
+Unknown speaker 01:18:20 
+Yeah.
+
+Unknown speaker 01:18:21 
+We didn't get a chance.
+
+Unknown speaker 01:18:22 
+Oh, I wish I really want to talk to you because I know you're a big mid journey fan.
+
+Unknown speaker 01:18:24 
+Um, and you have some stuff on there.
+
+Unknown speaker 01:18:25 
+We're over our I think um styles or interest in art overlap quite a bit like the the Codex.
+
+Unknown speaker 01:18:27 
+I guess.
+
+Unknown speaker 01:18:28 
+It's hard to pronounce.
+
+Unknown speaker 01:18:29 
+And Hieronymus Bosch's work.
+
+Unknown speaker 01:18:30 
+So the surrealist.
+
+Unknown speaker 01:18:31 
+I think we have like a lot of and I think you had something I posted about dwarf fortress, which is like a game simulator and maybe one of your kids was was getting into it, which I also had gotten down the rabbit hole about um, like last week separately completely.
+
+Unknown speaker 01:18:45 
+And also my my computer almost froze uh a few days ago because I had so many tabs open.
+
+Unknown speaker 01:18:46 
+Going off rabbit holes of your work and your research.
+
+Unknown speaker 01:18:50 
+Um, there's so much fascinating stuff.
+
+Unknown speaker 01:18:51 
+So.
+
+Unknown speaker 01:18:57 
+Well, we can do we can do we can do another one if you want.
+
+Unknown speaker 01:18:58 
+We can we can talk about that in AI.
+
+Unknown speaker 01:18:59 
+You know, we didn't get to AI and some of that stuff, so.
+
+Unknown speaker 01:19:00 
+Yeah.
+
+Unknown speaker 01:19:01 
+Thank you.
+
+Unknown speaker 01:19:02 
+I appreciate that so much.
+
+Unknown speaker 01:19:03 
+Yeah, there's a lot of question.
+
+Unknown speaker 01:19:04 
+I kind of over tend to over prepare over have a lot of other questions I had active inference.
+
+Unknown speaker 01:19:05 
+I'll talk to about uh first in about that, but um, there's a lot of other stuff and so I really appreciate that and appreciate your time, Mike.
+
+Unknown speaker 01:19:06 
+this was amazing.
+
+Unknown speaker 01:19:07 
+I learned so much.
+
+Unknown speaker 01:19:08 
+I'm sure the audience did too.
+
+Unknown speaker 01:20:00 
+and uh
+
+Unknown speaker 01:20:01 
+I love your work and uh well I'll be in touch, thank you.
+
+Unknown speaker 01:20:04 
+Thank you so much.
+
+Unknown speaker 01:20:06 
+Yeah, appreciate it.

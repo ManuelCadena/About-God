@@ -1,0 +1,93 @@
+# Serie 2025 “Alma Inmortal, Despierta”: Capítulo 12 “Acceder al Mundo donde las Almas se Unen”
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=wnFnKF1EZIM
+- **Duración:** 21.6min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 12
+
+## Transcripción
+
+hermanitos. Hola, hola, hola. Nos juntamos otra vez, hermanitos queriditos. Este, si es que ustedes quieren eh así como accediendo a un lugar e mucho más arriba del lugar donde nosotros estamos, arriba en vibración. Es como el sitio donde las almas se unen, mis hermanitos queridos, Pitágoras le llama quinta dimensión.
+
+Eh, las moradas del alma llamaría Santa Teresa de Jesús. E un sitio atemporal en espacial e donde todo es perfecto, todo es completo, todo está bien, pero por eso ahí no se crece.
+
+Eh, uno se reviste de un cuerpito físico y se viene a la tercera dimensión este a tratar de bajar lo que está en la quinta en el mundo del alma a esta y convertirla en gesto, en palabra, en solución de problemas. Entonces, e este, ¿qué les parece así si por un ratito eh nos vamos ahí y nada? falta.
+
+Todo está bien, punto de amor. Eh, ¿vieron? Hay una oración muy hermosa que se llama La gran invocación, que dice, "Desde el punto de luz en la mente de Dios, que afluya luz a las mentes de los hombres desde el punto de amor en el corazón de Dios. Es un punto allá en espacial, atemporal, donde inhalo profundo y digo, "Qué hermosa es la vida, qué lindo es estar vivo." Es vivo en las diferentes dimensiones, eh, y en ese sitio este es la permanencia en el bien. ¿Cómo no voy a querer estar ahí?
+
+Pero se trata de que hay trabajito esforzado de que tengo que bajar ese sitio a este a la tercera dimensión que se arma con el trabajo de los seres humanos buenos, que llenos de errores, queremos bajar ese mundo de amor, de paz, de completud a este que es de carencia, que es de desequilibrio.
+
+que es así. Entonces, un poquitito de equilibrio en el desequilibrio, un poquito de amor en el desamor, un poquito de ternura en la aridez. Eso es lo que nos toca, mis hermanitos. Por eso si les parece, no sé si lo ven como yo, eso de que cuando esté el desamor, cuando esté la aridez, cuando esté este la carencia de todo tipo, no digo y otra vez si a eso vine, a eso vine, a eso vinimos, a eso encarnamos, a eh poner amor donde no hay amor. Por eso la oración de Francisco de Asís, perfecta. Señor, de mí un instrumento de tu paz donde haya odio, ponga yo amor, donde haya ofensa, perdón.
+
+Pero resulta que ahí donde haya odio, ponga yo amor y hay odio, registro el odio y el cerebrito que quiere hacer impulso y reacción con una emoción de desequilibrio. Entonces ahí no más me defiendo a través del enojo o a través del enojo que rechazo a esa energía desarmónica a través de la angustia o tristeza que es absorberla para que no esté más ahí afuera y entonces quedo toda aplastada o a través del miedo que es me paralizo y entonces le digo a Todos, perdón, no puedo actuar porque está eso ahí malo, persona mala, circunstancia mala y entonces me da miedo. Es algo como infantil, pero bueno, este, o sea, yo creo que cuando nos muramos vamos a ver que a lo largo de la vida eterna, wow, cómo usamos el infantilismo de la emoción desequilibrada muchísimo. como impulso, como reacción y más allá en el fondo, fondo, fondo está el alma como un eterno mar en calma, un poderoso mar en calma, una potencia sublime, fuego secreto, fuego invisible que da vida a todo.
+
+que llena de color a todo. Vieron los artistas cuando si por ejemplo hacen un dibujo de sombras, bueno, es bien bonito, pero cuando le quieren poner vida, le ponen color. Es da vida el color. Miren, si viésemos así en blanco y negro sería un tema. a ver los amaneceres, el color del sol le da brillo a todo, las plumas de las aves de distintos colores, el pelaje de los animales, la este, en fin, los las flores, los árboles, el color da vitalidad. Por eso Pitagers habla de la naturaleza secreta del color.
+
+En la naturaleza secreta del color es que es virtud. No, virtud la pluma de un árbol, de un ave, perdón.
+
+Sí. Virtud en una flor. Sí.
+
+O sea, Diosito nos llenó de la virtud en lo que vive porque no tienen libre albedrío. En cambio, el ser humano elige y decide dar paz o no. Elige y decide ser libre o no.
+
+elige y decide eh escuchar con amor a alguien o no. Esa es la gran diferencia entre todo lo viviente, que no sea humano y el humano. Nosotros elegimos y decidimos.
+
+Pero Diosito, para asegurarse que elijamos y decidamos el bien, que podamos optar más fácilmente, nos llenó de colores, eh, para que a ver si así buscamos la virtud. dio, "Qué bonito." Y cuando me quedo contemplando el color de una flor, ya la estoy tomando. Y bueno, ahora también la dan a las flores, este, para curar las emociones, para sosegarnos.
+
+Pero bueno, ayuda. Pero si yo no elijo y decido el bien, mis hermanitos, nos podemos tragar un valde de de de cosa bella, pero lo único que mueve al cambio es la elección y decisión del ser humano. Claro, todo lo demás me ayuda a que yo elige y decida correctamente.
+
+Pero mis hermanitos, si les parece, si lo ven razonable, no nos olvidemos que este es el centro de la voluntad y este no me lo maneja nadie, solo yo. Y aquí, bueno, el conocimiento se transmite, es luz y sin embargo se puede transmitir. y lo capto a través de una idea y de una palabra elevada y una idea. La razono, digo, "Oh, qué maravilla. Ahora entendí." Sí, pero si a ese conocimiento no lo bajo al corazón, no lo puedo hacer vida y se convierte después en una idea nada más.
+
+Por eso dice Pitágoras, "¿Cuándo te corresponde hablar?" Cuando bajas la energía de la frente al corazón y bajó el corazón, digo, "Ay, ahora sí sentí lo que tengo que hacer." Y entonces, ¿qué vas a hacer? ¿Qué vas a hacer con lo más difícil de tu vida?
+
+Y cada uno es distinto porque flaqueamos o en el rol de hijos o en el rol de padres o en el rol de hermanos o en el rol de eh pareja o en el rol este de trabajador, en el rol de jefe o en el rol de empleado, en el rol, en fin, todos, todos salvos seres grandes, grandes, grandes que vienen solo a ayudar a esta tierra y son muy pocos.
+
+Todos los demás somos madera horizontal en la cruz y flaqueamos en algo y saben, o sea, no digo de que ay, qué hermoso es flaquear, no, pero qué hermoso es verlo y ver que siempre tenés alguien que te complementa en ese aspecto y que te ayuda. Hay que saberlo ver y valorarlo y agradecerle.
+
+Entonces vuelvo. El ser humano tiene que llegar con la energía hasta el plexo solar, o sea, hasta acá como cerca del ombligo y hasta ahí bajar la energía.
+
+Ahí elegir y decidir una obra, una actitud, una palabra.
+
+Y mientras tanto, sino que me lleno acá la cabeza de ideas preciosas y las puedo hablar, pero Pitágoras dice, "No, autorización de hablar, no la vas a gestar dentro tuyo nunca tenés que gestar obras con eso que aprendiste y cambiar tu vida.
+
+obras de tercera dimensión, palpables, eh, este visibles, audibles.
+
+Entonces, bajo esa energía de luz, hay que provoca embelezamiento en la cabeza. Y a veces te dice Pitágoras que lo que pasa que la boca está muy cerca de la idea. Entonces a veces no llega esa energía de la frente al corazón y ya la hablo y no hay que hacer esto y lo que hay que hacer es esto y y ta ta ta cuando todavía no cambié con esa idea. Entonces, ¿qué ocurre? Mi palabra no es válida.
+
+Sí, muchos se pueden encantar, pero quedan con la idea. Y te dice Pitágoras, la filosofía pitagórica no es filosofía de ideas, es movimiento de energía. Entonces, lo que sería deseable es quién es que quién lo transmita transmita energía.
+
+Y uno no puede transmitir energía si no lo ha hecho vida. O sea, no puede aunque sea un poquitito, no te digo todo lo que uno habla, pero el intento, comprometo el intento de hacerlo vida.
+
+Entonces, cuando yo siento, quiero hacerlo, vida, baja el corazón. Ay, lo siento. Y acá se genera un fuego, pero dice Pitágoras un fuego que no quema. El fuego de la emoción que es hemisferio cerebral derecho, quema, crea vicio, vicio de poder sobre los demás. Vicio de obtener el reconocimiento, vicio. Vicios.
+
+Diego crea vicios, pero si lo baje acá, ahí aparece la virtud que es fuego, te enciende los ojos, y también tonifica los músculos, te mueve a la acción, pero no quema, no genera vicio. Al revés dura un día en el planeta Tierra, un día, 24 horas. Después de 24 horas, esto. Por eso es que varias personas hablan de lo que hicieron hace 20 años, hace 10 años.
+
+Sí, pero hace 20 años, 30 años, hoy es el tema.
+
+Entonces, eh bajar energía de la frente al corazón. Ay, el sitio del alma. Acá llega la virtud. Y entonces, ay, no más baja el plexo. Ya bajando el corazón, enseguidita baja el plexo. ¿Cómo lo hace vida hoy? Hoy, hermana mía, hermano mío, hoy. No mañana ni pasado, hoy. En cambio, si queda acá la idea, dice, "Bueno, mañana lo voy a hacer." No, dentro de un mes, no, el lunes empiezo, pero si ya baja el corazón, ya ahí está un tris de bajar al plexo y ahí elijo y decido la conducta virtuosa. Entonces, eh lo hago aunque sea de 3 minutos la conducta. Eh, por ejemplo, este, digo, eh, a ver, evidentemente he venido a practicar tolerancia porque soy ansiosita y con las personas eh que son como lentas, entonces no respeto el ritmo de los otros, quiero que todo se haga a mi ritmo y encima que se haga lo que quiero. Sí.
+
+Entonces este esa persona tiene que razonar a qué vino al planeta Tierra y a practicar la paciencia, la tolerancia, la comprensión, la aceptación de cómo es el otro más o menos todo es mismo combo. Entonces, por ejemplo, digo, si viene a practicar eso, ¿cómo me doy cuenta?
+
+Me pusieron mamá diferente a mí, eh algún hermano hermana, eh la vida, todo así. Cada vez que me encuentro en el trabajo y con alguien así, ay, qué tolerancia que tengo que tener, qué aceptación. Y saben por qué la vida te acerca lo que viniste a hacer. Pero si yo le digo a la vida, ya entendí y yo me lo voy a acercar a esas personas.
+
+Listo, la vida se hace a un costado. Si por fin el ser humano se dio cuenta que es un alquimista, que vino a mezclar lo inmezclable, lo vino a hacer queriendo. Entonces dice, cuando el ser humano se vuelve alquimista de sí mismo, la vida se hace un costadito y espera.
+
+Entonces uno se vuelve dueño de sí mismo, de su propia vida. Entonces digo, a ver si lo que tengo que practicar es paciencia, tolerancia, comprensión con personas, suponiendo este ejemplo que me salió hoy, eh con personas que son más bien lentas, que tienen un ritmo diferente al mío, que no le gusta que lo controlen y yo soy medio controladorcita y tengo que liberarlos a los demás, respetarlos.
+
+aceptar sus propios ritmos y aceptar su forma de pensar. Entonces, ¿qué es lo que me corresponde hacer?
+
+Hoy voy a a citar para tomar un cafecito a alguna de esas personas. cafecito, un tecito, un jugo, lo que quiera.
+
+Entonces, el hijo de la lista el menos problemático en ese aspecto, porque así voy trabajando de a poquito. Entonces, el menos problemático generalmente es alguien que está lejos de uno y el más problemático generalmente es alguien que lo tengo pegado. Entonces, me resulta más difícil. Entonces empiezo con lo menos problemático y entonces le digo, "Quisieras que nos juntemos un ratito, sabes que tengo solo 15 minutos, pero te extraño. Quisiera estar con vos hoy." Y se va a sorprender porque generalmente uno, las personas que tienen algo que le sacan justo el punto débil de uno, no las busca. La vida te la pones ahí.
+
+Entonces va a sorprender. Ay, sí, gracias. Van a ver siempre, salvo que verdaderamente no puede ayudar para otro día pero siempre quiere sentirse buscado por alguien que comúnmente se da cuenta que no lo busca. Entonces, ¿qué me corresponde hacer? Suponiendo ya con vino para tal hora.
+
+Entonces le pido, llamo la virtud y digo, "La la quiero." Es un trocito de Dios mismo. Quiero que él use mi cuerpo, mi cabeza, mis brazos para abrazar. Que sea él en mí actuando. Porque te dice, "Pita, ahora qué raro ese no amo a Dios, amo a Dios, amo a Dios." Pero no le entrega el poder a él para que obre. Cuando no tiene la energía de vida dentro de sí mismo, la energía con la cual solucionaría relaciones humanas, solucionaría problemas, no la tiene, no le pide a Dios. Entonces pido la paciencia, la tolerancia, la comprensión y ahí voy. Nada más suelto mi suelto a ver qué pasa, a dejarme sorprender por la virtud viviendo en mí.
+
+Y ahí voy y voy a tener un encuentro extraordinario. Siempre es extraordinario. Siempre los que lo hacen, siempre me cuentas lo mismo. Y yo cuando me ha tocado lo mismo.
+
+Entonces, eh ahí lo bajé. Entonces dice Pitágoras, "Una vez que haces este medio círculo hasta aquí, como toda energía circula en redondo, vuelve así." otra vez a la cabecita. Entonces ahí sí puedo pensarla y hablarla. Y lo que sugiero es no solo esta vuelta, sino unas cuantas veces hacerlo para después recién transmitirlo, porque si no nunca voy a poder gestar el cambio porque acá todavía no se gesta o se gesta cuando baja los tres puntos.
+
+y se gestó una obra y cuando antes que eso ya lo hablo y adiós no lo puedo gestar. Ay, espero haber sido clara. Espero con todo mi ser haber sido clara. Me los abrazo muchísimo. Lo intentamos estos días.
+
+Un abracito, un beso, un cariñito. Chao, hermanito queridito. Ciao ciao ciao.

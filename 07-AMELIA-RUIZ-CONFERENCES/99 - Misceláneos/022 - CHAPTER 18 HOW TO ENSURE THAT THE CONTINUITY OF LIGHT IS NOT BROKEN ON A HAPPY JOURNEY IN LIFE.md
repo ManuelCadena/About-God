@@ -1,0 +1,139 @@
+# CHAPTER 18 HOW TO ENSURE THAT THE CONTINUITY OF LIGHT IS NOT BROKEN ON A HAPPY JOURNEY IN LIFE?
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=5ZBPHRPHctE
+- **Duración:** 13.3min
+- **Idioma de subtítulos:** es
+- **Nota:** 
+
+## Transcripción
+
+Hola, hermanitos míos. Hola.
+
+E buen día.
+
+Buen día.
+
+Eh, bueno, a ver, en este ratito de Dios, eh, ¿cuál es el tema de hoy? Eh, la reflexión de hoy, esa que nos una, nos haga estar en el punto de luz y en el punto de amor, en el punto de unión, juntitos.
+
+Eh, ¿saben? Pitágoras habla de la vida, como que uno anda en una barca y e es una barca eh que no tiene que parar nunca el viaje, una barca que no tiene que parar nunca el viaje. ¿Y qué es viajar? Es moverse.
+
+¿Y qué es moverse? es no ser repetitivo.
+
+Eh, ¿qué es lo cotidiano, lo rutinario?
+
+es lo repetitivo, ahí se mueve mi barca, ¿no?
+
+Entonces, por eso es que él sugiere una virtud que no te sale por día, que vas a hacer algo nuevo.
+
+Entonces, eh y miren, no es que no que me tenga que mover las 24 horas, no es que me tenga que mover las 17 horas que estoy despierta, no. Basta que me mueva una sola vez por día para garantizar la continuidad del viaje.
+
+Entonces, uno cada 24 horas y te dice Pitágoras, pueden ser 3 minutos por día, pero muévete, muévete. Entonces, eh después me dejo libre. Bueno, lo que fuere que hago y a lo mejor hago lo que siempre hice, pero es muy raro de que después que uno se mueva, haga algo diferente, es muy raro que este después no quiera hacer cosas nuevas.
+
+Por eso y por ahí cuesta, por ahí nos olvidamos eh, una virtud que no me sale nueva por día.
+
+Y eh, ¿qué les parece si para eso vamos anotando todo lo que nos es difícil y todas las personas que nos son difíciles, todos los problemas que tenemos que encarar?
+
+Ay, es algo tan satisfactorio sacarlo de la cabeza y ponerlo en un papel.
+
+Entonces, ¿qué tengo que arreglar? Y a lo mejor alguien puede decir, bueno, uno de los temas es el económico.
+
+Eh, bueno, dale orden, o sea, hac lo que puedas en bien. Y una de las cosas que uno puede es orden. Siempre puede con el orden, ¿eh? Y, pero eso lo resuelve. Sí, empiezo a moverlo hacia la resolución.
+
+Orden, orden, orden. A ver, esto se debe a qué, qué hice mal. Lo reconfiguro.
+
+Ah, acá me equivoqué. No lo vuelvo a hacer, Diosito. Ya entendí. Perfecto.
+
+Eh, ¿qué más?
+
+Y entonces, bueno, e en el orden está en que no supe ver las prioridades.
+
+Ah, a veces obras impulsivamente y entonces no te das cuenta qué es lo más importante, qué es lo necesario, lo imprescindible, lo necesario y lo superfluo. Sí, a veces no me doy cuenta.
+
+Muy bien, eso es orden. Le doy orden.
+
+Ah, acá me equivoqué. Acá también.
+
+Ah, ubico.
+
+¿Dónde se ubica mi error?
+
+¿Con qué tipo de carencias se ubica el error? Entonces, ya voy ordenando la cosa. Y e otro puede decir, bueno, otra eh otra cosa que que está mal es la relación con fulano de tal, pero no me molesta demasiado porque no nos vemos mucho, pero no está bien y es un familiar cercano. Muy bien, lo anoto. Y no está bien. ¿Por qué? Porque me molesta tal cosa de esa persona y esa persona le molesta tal cosa de mí. Anoto y así.
+
+Anoto, anoto, anoto, anoto.
+
+Todo lo que evitaría que hoy desencarne en paz.
+
+¿Qué les parece? Qué lindo es estar en paz. Entonces, si desencarno hoy, suponiendo, ¿qué me quedaría pendiente?
+
+Pedirle perdón a fulano, perdonar a mengan eno, decirle a fulano de tal la verdad.
+
+Ji, me estoy muriendo hoy. Le voy a decir la verdad.
+
+e ayudar a fulano de tal, así mis pendientes.
+
+El humanito, lo anotemos, ¿les parece?
+
+Porque eso va a facilitar a que cada día pida una virtud que no tengo y atienda uno de esos pendientes.
+
+De manera que por la gracia de Dios no parto hoy, pero sí eh dejo un tipo de vida de aflicción y pase a una vida suelta, liviana.
+
+Para Pitágoras, la liviandad es un eh un estado deseable.
+
+La liviandad, estate liviano, no cargues con cosas.
+
+liviano, entonces estoy liviano y si no simplemente lo anoto, anoto, anoto, anoto, anoto. Y suponiendo que hoy vivo y digo, "Ah, esto es difícil hoy, pero hoy no lo voy a poder arreglar, ahí voy y lo anoto en mi cuadernito." Entonces, para que yo trabaje todos los días con algo del cuadernito.
+
+Entonces, pido virtud para solucionar tal cosa, un problema económico.
+
+Hoy pido la virtud de la verdad para poder decirle a fulano de tal, una verdad que me parece que ya estoy en condiciones y está en condiciones y me parece que es el momento.
+
+Eh, hoy pido la virtud de la paciencia para hablar con fulano de tal. siempre me pone impaciente y no y hoy quiero estar en paz con esa persona y decirle, valorarle y agradecerle lo que tiene de virtuoso.
+
+Entonces, este, ¿qué le parece el eh lograr estar en paz en el día y pedir una virtud por día para que la barca se mueva en la barca de la vida? ¿Les parece eso de eh anotar todo lo que tengo de pendientes y todos los días pido una virtud para arreglar? Porque evidentemente lo tengo dependiente, porque para mí es problema, porque para solucionarlo tengo que invocar una virtud que no tengo, una energía extra que no está dentro de mí.
+
+Y con esas energías extras se mueve mi barca, nuestra barca. Hermanitos queridos, qué hermoso es navegar juntitos y siempre estar navegando y siempre decirle al otro, invitarlo a navegar, quisiera perdonarme por tal momento que me equivoqué con vos.
+
+Entonces la persona dice, "Claro, perdón, yo te valoro por esto, por aquello, por aquello, pero ahí me equivoqué.
+
+Eh, ay, esa humildad, ese arrepentimiento ya movió mi barca por hoy y algo que hizo bien al otro, me hizo bien a mí. ¡Qué hermoso!
+
+Entonces, barca del día, barca de la noche, asegura la continuidad del viaje, dice la filosofía pitagórica.
+
+Y eh, ¿cómo me aseguro la continuidad del viaje haciendo algo nuevo y como algo algo nuevo bueno, este con una virtud que no tengo, entonces la pido, ¿les parece?
+
+Hay otra cosa que asegura la continuidad del viaje y te dice Pitágoras, eh, la barca tiene que navegar de día y de noche.
+
+¿Y a qué se refiere? Que de día es cuando todo te lo da Dios.
+
+te da salud, te da lo necesario para la vida, te da el afecto, el cariño, te da, te has cubierto y entonces la luz proviene de él. Hay que asegurarse en el día de agradecerle, reconocerlo y agradecer, no tomarlo como si fuese lo más normal del mundo, mientras que a otros en este mismo día no está recibiendo esa gracia.
+
+porque le está tocando vivir sus noches en la noche, o sea, es cuando la luz lo tiene que poner el discípulo.
+
+Entonces, ¿por qué? Porque le toca un problema. Entonces, en el afuera que hay oscuridad, el discípulo, ¿qué hace? de luna que tiene que poner luz en oscuro.
+
+Entonces, mis hermanitos, la continuidad del viaje por un lado y la continuidad de la luz.
+
+No cortes la continuidad de la luz, eh, cuando es de día te la da Dios, la luz está a cargo de él. No te olvides de agradecer para tomar esa luz.
+
+Y de noche la luz la tenés que poner vos.
+
+Entonces, no te olvides de hacerlo porque es fácil como no la tengo yo a esa luz se la tengo que pedir a él.
+
+Pero si no digo, "Padre, no puedo y no sé, no se la pido." Y el bueno generalmente cree que sabe y puede.
+
+Y uno como le dice a los niñitos, "¿Qué te dice?" "Yo ya sé.
+
+y tiene 4 años. Si usted no sabe nada, sabe que Diosito no dice, "Ay, hijito, usted no sabe nada. Pida, se humilde." Porque la falta de humildad, sea la soberbia y la ignorancia es muy mala combinación.
+
+Entonces ahí, padre, no sé, no puedo. Te pido, te ruego paciencia, te pido, te ruego perdón, perdonar, capacidad de perdonar.
+
+Te pido, te ruego la libertad, te pido, te ruego la fortaleza.
+
+No ser débil. Así le parece eh que nos quedemos con esa reflexión de mover nuestra barca de día y de noche y e no olvidarnos de mantener la continuidad de la luz siempre.
+
+Bueno, e gracias hermanitos queriditos.
+
+Eh, gracias. Nos vemos en otro ratito de Dios, navegando juntitos.
+
+Adiós.

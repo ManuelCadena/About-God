@@ -1,0 +1,149 @@
+# Capítulo 17. “Corazón, suelta los errores de los otros”
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=QV7knlReDnE
+- **Duración:** 16.6min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 17
+
+## Transcripción
+
+hermanitos.
+
+Hola, hermano queridos. Buenos días.
+
+Hola, hola, hola.
+
+Em, hoy nos enchufamos con la vida.
+
+Ya nos enchofamos, hermanitos se acuerdan.
+
+Sí, sí que llegar aquí. Sí, llegar aquí una vez, otra vez, otra vez y cualquier cosa sacar, sacudir, sacar sacudir sacar desde la carira o los costados de las piernitas y subir la energía de la tierra, sumir por ahí. No lo que sea todo el recorrido así.
+
+Y este y si queremos también corazoncito eh queremos activar, vamos desde los costados del cuerpo por debajo de las costillitas y subimos, subimos, subimos por esta y cuegita así, así eh antes haciendo despertando las chakras de las manos si queremos y y que salga por puntas de los dedos. energía. Vamos así poniendo así los deditos y vamos hasta el y por debajo de las costillas y por cost por el costado del cuerpo y por debajo de las costillitas y si quieren este digo corazoncito.
+
+Hola, buenos días que tengas un día precioso, sano, fuerte.
+
+Eh, dame tu ritmo. Necesitas tu ritmo.
+
+Ni apurado ni lento. El tuyo es es mi ritmo.
+
+Y vieron que es algo como muy normal y humano el ritmo de la fuerza es estresadísimo y el corazoncito empieza, ta. Este es como normal, pero tengo que tratar un poquito que no.
+
+que yo siga como el ritmo, sea el de afuera lentísimo o sea el de afuera muy rápido.
+
+encuentro mi ritmo en mi propio interior y el corazoncito se habitúa a un ritmo y y saben eso dice que en este Pitágoras dice que lo enseña el abuelo Mercurio. Eh, este, vieron el astro Mercurio está más cerquita del sol. Este dice que es como el abuelo de la familia solar, chiquitito y sabio y e y dice, "Tu ritmo, tu ritmo, tu ritmo. Este, no te metas en el ritmo de los demás. Le hace mal a tu corazoncit. Tu corazón está destinado a latir en tu ritmo, no en el ritmo de las deudas. Y es tan difícil mantenerse, tiene el propio ritmo, porque cuando uno ve alguien muy lento o se acelera, si es un poquito ansiosito, o dice, "Bueno, vamos a trabajar este ritmo y no no no ritmo no me canso hasta caminar, ¿eh? Hay quienes caminan muy despacito y y bueno, es precioso porque su ritmo entonces no se casa.
+
+Pero si uno quiere caminar a su ritmo, se cansa más que si camina al propio ritmo, que puede ser bastante más rápido. Entonces, encontrar el ritmo de uno es todo un tesoro. Eh, y decíamos que vamos desde los costados, este, por debajo de las costillas hasta este norón y me quedó un rapito. Corazoncito, corazoncito y cuenta otro ritmo, que tenás una vida sana y feliz por todo el día de hoy. Alis el interesante que seelana así el corazoncito.
+
+Otras veces le habla así a la cabecita, eh, y voy así como consintio, órgano por órgano. Otra vez me dedico un ratito al hígado.
+
+Pero bueno, hay órganos vitales, corazoncito, todos los demás también tan importantes, pero bueno, corazón si deja de latir, este ya es que uno parte, entonces eh Pitágoras hace como un ejercicio y dice, "Corazón, hijo de tu padre, de tu madre, o sea, aquel corazón que cuando uno tuvo almacer o de niño, recuerden que si uno graba memorias como feitas, eh, la célula se regenera, pero la memoria pasa. Una célula se regenera a las que sigue.
+
+Entonces, Pitágoras impití a curar el corazón. Dice, "Corazón de niño, corazón de hijo, de tu padre y de tu madre.
+
+No te conviertas en testigo de los defectos de nadie." No es esa tu tarea suelta memorias viejas.
+
+No te conviertas en testigo de los afentos de nadie.
+
+como era un tribunal decir esta mamá hice lo que correspondía. Este papá se equivocó horrible haciendo esto. Esta abuelo, Dios mío, qué espanto lo que hizo esta abuela que dice corazón de niño, corazón de hijo de tu padre y de tu madre. No te conviertas en testigo de los defectos de Nagi. Vacíllate, vacílate porque hoy puedes tener cualquier edad y todavía tenéis esas grabaciones.
+
+Por ejemplo, haciendo eso que ya dijimos todo de nuestros deditos y que y ahí vamos así desde el costado por debajo de las costillas haciendo semicírculos hasta el externo, por debajo de las costillas haciendo semicírcul hasta el externo. Pero, ¿qué les parece si vamos diciendo eso?
+
+Qué testimonio guardí.
+
+Me hanado muchísimas cosas a la vida.
+
+El pobreito niño. A veces fue testigo que el papá golpeaba a la mamá.
+
+A que se fue testigo que la mamá está lleno al papá porque alguien se lo dijo, tal vez lo oí o a través.
+
+A veces fue testigo al revés patrocinando a la mamá.
+
+Y saben, sí, yo no acepté que el papá o la mamá eran así.
+
+Si yo lo acepté, lo calvo y eso que atrae cosas feas.
+
+Podemos observar si lo acepté, si entendí que bueno, el papá era así, la mam así y el abor así, la bola así, el tío así, la tía así eran así.
+
+Si yo no acepté, puedo estar cargando recuerdos.
+
+¿Y qué va a pasar?
+
+Alguien se va a encargar de hacerlos revivir para que para que yo no soy, o sea, para que abierta. Caramba, yo creo ya pasó hace muchísimo tiempo. Sí, pasó porque a veces uno descarga el recuerdo, suponiendo que tiene 100 de carga, ya descargó 80, pero un poquito que todavía de carbón.
+
+Y y ¿por qué? Y porque veces hace eso que como que en un particista todavía estoy queriendo como castigar a mis persona, ¿cómo va a hacer eso? Y y entonces voy a ir con ese pedacito sigo atrayendo la misma para siento usted como así hijita y está se quecó es tontería.
+
+¿Por qué? Si uno así con ese poquito, por ejemplo, es una porcioncita, no es todo, pero es una porcioncita de enoccioncita de máación, una porcioncita de como recor no libero al viejo yo que hizo lo mismo la tot me daba cuenta que dañaba.
+
+Y ahora es así.
+
+Si le vas a poner, mira, no se ni ni se da cuenta.
+
+Ese es todo un tema.
+
+Porque a veces a uno le es fácil decir, sí que se da cuenta. Claro que se da cuenta. Entonces, ¿qué va a pasar, mis hermanitos queridísimos?
+
+¿Qué va a pasar?
+
+que me voy a ver a mí cuando me muera en esa vieja vida. ¿Y qué voy a ver?
+
+Uy, no se daba cuenta.
+
+Tengo que venir otra vez a vivir no lo mismo porque ya lo descargué al recuerdo 80%. Pero un 20% sí.
+
+hasta que entienda, no se da cuenta porque está a esa altura evolutiva en ese aspecto de sucarnación, porque a veces las personas en determinados aspectos de sucarnación han crecido y en otros aspectos no.
+
+Y el que yo crea que toda la persona es un aspecto, me nubla la visión, hace que no lo vea y no lo comprenda.
+
+tiene esta, tiene esto, tiene esto de positivo, pero en ese aspecto estás como no crecido.
+
+Eso ni se da cuenta que daña.
+
+Entonces, corazón de niño, corazón de hijito, de tu padre, de tu madre, corazón de nieto, de tus abuelos, corazón de hermano, de tus hermanos, está recuerdos de errores de nosotros. No eres testigo de que se equivocó con vos.
+
+No eres testigo que se equivocó con tu mamá, con tu papá, con tu hermano.
+
+No tienes que dar testimonio a nadie. No estás a cargo del malo.
+
+Solo Diosito está a cargo del mal. Si te pones a calar aplastado. Corazoncito, corazoncito, ya descanse.
+
+Vuelvase flexible, girón si a ustedes les parece, como debajo de una vertiente y en la parte etérica, ¿no? Del corazoncito. La llevo allí y debajo de la vertiente escurro que le caiga la tinta.
+
+Y vuelvo así, toma agua y vuelvo a escurrir, vuelvo a te, vuelvo a escurrir hasta que digo, me parece que ya está.
+
+¿Cómo te vas a dar cuenta que estás?
+
+Porque dejas de trajeron.
+
+Ahí te vas a dar cuenta. Ya está, ya está.
+
+Entonces, el perdón, la aceptación son porciones las descargas de los recuandos, de lo feo. A veces lo hacemos en porciones.
+
+Sí.
+
+Y si queda una porcioncita, no importa, te dicen de arriba y locuras la encarnación que sí.
+
+¿Cómo me doy cuenta? ¿Por qué sigo atrayendo? No igual espantoso porque de 100 descargué 80.
+
+Pero ese poquito se iba trayendo.
+
+Y si sigo acusando al afuera de culpable, de torturador, sigo diciendo a mi yo antiguo, eres culpable y eres torturador. Ese 20%.
+
+Entonces, ¿qué tengo que hacer? ver la película vida, ver lo que hice y entonces y cuando me muero me doy cuenta, jo no veía ni medio ni se daba cuenta de nada. Entonces, entonces es lo que pasa.
+
+¿Qué es lo que pasa? Entonces pasa que eh hay recién o creía que lo veía, pero lo veía en una porción. Creía que lo aceptaba, pero lo aceptaba en una porción. Creía, pero no era el total.
+
+Entonces, este, pero a todo esto me morí.
+
+Y cuando uno se muere, todo lo que es en vida lo tiene que arreglar y cerrar en vida o queda para la encarnación que sigue. Pero ese entendimiento a través de ver la película de mi vida y de lo que yo hice, ¿para qué me va a servir?
+
+me sirve para poder desintegrar mi doble TCO, pero lo que no entendí y a la próxima.
+
+Entonces, mis hermanitos, hoy si quieren curemos corazoncito de recuerdos feos, eh, te quieren juntito y ahí vamos como a lavarlo, como se lavan la ropa y ahí voy a una vertiente y ahí escurro y digo, "Diosito, me das la misericordia, me das la capacidad de ver, me das la capacidad de aceptación, me das la capacidad de sometar." Recuerdo feos. Ya está. Era para que yo aprenda esto. Lo aprendí un 80%, me falta un 20 y por eso todavía tengo un 20. De recuerdo sienten así, trabajemos juntitos hoy.
+
+Juntitos todo se hace más fácil.
+
+Bueno, el abrazo del alma, el abrazo del alma. Y este, si Dios quiere, nos vemos el próximo domingo. Besito, cariñito con todo el corazón.
+
+a liberar el corazoncito.

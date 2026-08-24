@@ -1,0 +1,41 @@
+# Logos And Platonic Space
+
+Sección del repositorio About God.
+
+## Archivos
+
+- `Conversation of Michael Levin with Iain McGilchrist #2 (1).txt`
+- `Conversation of Michael Levin with Iain McGilchrist #2 (2).txt`
+- `Conversation of Michael Levin with Iain McGilchrist #2 (3).txt`
+- `Conversation of Michael Levin with Iain McGilchrist #2.txt`
+- `Discussion #1 at the Platonic Space Symposium.txt`
+- `Dossier_Benedetti_Placebo_Evidencia.md`
+- `Giulio Ruffini - The Algorithmic Weltanschauung.txt`
+- `Harnessing_20the_20Universal_20Geometry_20of_20Embeddings.html.pdf`
+- `Logos_and_Platonic_Space__Master_Reference.md`
+- `Patterns of Form and Behavior Beyond Emergence by Michael Levin (1).txt`
+- `Patterns of Form and Behavior Beyond Emergence by Michael Levin.txt`
+- `Platonic Space discussion 2 (1).txt`
+- `Platonic Space discussion 2.txt`
+- `Platonic Space discussion 3.txt`
+- `Platonic Space discussion 4.txt`
+- `Platonic Space discussion 5.txt`
+- `Project_Instructions__Dr_AIFET_v4.md`
+- `Taming the Technological Dragon and Re-Minding the Universe (dialogue with Michael Levin).txt`
+- `_Computational Symbiogenesis_ by Blaise Agüera y Arcas.txt`
+- `_From Experience to Math_ by Chris Fields.txt`
+- `_Geometry of the mind-body interface_ by Tom Froese.txt`
+- `_Maths Justifies Metaphysics in Biology_ by Denis Noble (1).txt`
+- `_Maths Justifies Metaphysics in Biology_ by Denis Noble.txt`
+- `_On the (Platonic) Nature of Things_ by Karl Friston.txt`
+- `_Platonic Space_ brief argument and research agenda_ by Michael Levin (1).txt`
+- `_Platonic Space_ brief argument and research agenda_ by Michael Levin.txt`
+- `_The Ontogenetic Alternative_ by Timothy Jackson.txt`
+- `_The Platonic Conception of Mathematics_ a modern view_ by J. P. Aguilera (1).txt`
+- `_The Platonic Conception of Mathematics_ a modern view_ by J. P. Aguilera.txt`
+- `_Whitehead on the Ingression of Novel Form_ by Matt Segall (1).txt`
+- `_Whitehead on the Ingression of Novel Form_ by Matt Segall.txt`
+- `_Why physical systems find Platonic patterns_ by Pavel Chvykov (1).txt`
+- `_Why physical systems find Platonic patterns_ by Pavel Chvykov.txt`
+- `harnessing-20the-20universal-20geometry-20of-20embeddings.html.md`
+- `logos-corpus-mcp-server__SPEC.md`

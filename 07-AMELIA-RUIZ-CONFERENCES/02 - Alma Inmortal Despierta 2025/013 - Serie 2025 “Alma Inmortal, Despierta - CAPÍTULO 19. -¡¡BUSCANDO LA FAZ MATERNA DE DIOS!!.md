@@ -1,0 +1,179 @@
+# Serie 2025 “Alma Inmortal, Despierta: CAPÍTULO 19. "¡¡BUSCANDO LA FAZ MATERNA DE DIOS!!"
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=iUxUyusHddc
+- **Duración:** 20.6min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 19
+
+## Transcripción
+
+Día. Buen día. Buen día. Hola.
+
+Em este hoy, ay, no sé por qué me apareció el tema de hoy.
+
+A ver si a ustedes también les viene bien la faz materna de Dios.
+
+O sea, e se dice que en arameo se dice apum de p maya y abum significa padre madre que estás en todas partes.
+
+Abum, padre madre. Eh, entonces se habla del rostro materno de Dios. Entonces se habla de que el uno se hizo dos para poder engendrar la creación.
+
+Entonces, que del uno la totalidad eh sale el dos, los dos aspectos de Dios mismo que serían el yin y el y eh ¿Por qué? Porque el dos es el que engendra un hijo. Qué belleza, ¿no? Eh, si no hubiese dos, no hay generación de lo nuevo, generación del hijo. Entonces, la totalidad, eh, el uno, la totalidad, el absoluto se hace dos para poder engendrar, pero a la par sigue siendo uno.
+
+no pierde la totalidad jamás.
+
+Y del dos aparece el hijo, el tres, que son las múltiples formas de vida de toda la creación de Dios. Y crea astros, crea estrellas, Diosito, crea seres humanos.
+
+O sea, que nosotros somos hermanos de las estrellas. Sí.
+
+Qué hermoso es sentir unos hermanos de las estrellas, ¿no les parece? Porque las crea Dios.
+
+Y entonces por la noche, hola hermanita, acá estoy. Y entonces de allá la estrella mirará porque siempre hay conexión. Eh, uno se dirige a quien fuere, por grande que sea, y el otro ser te mira. Si vos lo mirás, te mira.
+
+Entonces observará así una pequeñez saludándolo.
+
+Este, pero así dice Pitágoras, cuando tú saludas una estrella, eh, la estrella nunca más será la misma porque toma parte de ti y tú partes de la estrella.
+
+Pero claro, tiene que ser el saludo consciente.
+
+Así vieron. A veces digo hola varias veces porque digo hola.
+
+Y a lo mejor no fui consciente bien. Digo, "Hola, hola, hola." Y voy bajando, bajando hasta que me enfoco.
+
+Están todos ahí y yo acá. Estamos en un uno eh, por ser mejores personas desde cualquier tierra, de cualquier religión, cultura, raza, posición social, eh cultural.
+
+religiosa, ya lo dije, eh, pero bueno, uno, entonces vuelvo y el uno, la totalidad se hizo dos, eh, para engendrar múltiples formas de vida, entre ellas el ser humano. Pero entonces, la faz materna es el yin, la faz paterna es el y.
+
+Número uno, yan por excelencia. Número dos, Yin por excelencia.
+
+Faz materna de Dios. Todos, varones y mujeres, nacemos de mujer.
+
+Entonces te dice Pitágoras, ¿qué las virtud de Shin engendran?
+
+Claro, es la faz materna de Dios.
+
+¿Y qué quiso decir Diosito cuando a la mujer le hizo que pueda engendrar?
+
+Eh, bueno, y el varoncito no.
+
+¿Qué quiso decir que es mejor? No, pero que sí que tiene la capacidad de engendrar, pero esa capacidad implica unión.
+
+Es alguien que se mezcla con ella, espermatozoide, óvulo, y se engendra dentro de ella.
+
+capacidad de engendrar. Entonces, faz materna de Dios. Yin, yin, paz, sensibilidad, o sea, saber escuchar al otro, darme cuenta quién es y darle un lugar a mi corazón.
+
+Comprensión, perdón, faz materna de Dios. Estas virtudes me dan capacidad de engendrar.
+
+Sí.
+
+te dice Pitágoras, son virtudes que eh por eso se le atribuyen en la Iglesia Católica a la Virgen, en todas las religiones madre divina es lo mismo, porque la virgencita representa la madre divina en nuestro planeta.
+
+Entonces, este faz materna de Dios, Virtus de Shin e Madre divina, los hindúes le cantan sarasbati, mahalashmi, durgadha honrati sarasbati, sarasbati.
+
+Mahalmi durવી namasti nam.
+
+Eh, ¿saben lo que les quiero decir?
+
+Cuando por ahí se me da por cantar, de ninguna manera tengan en cuenta la voz, creo yo que Diosito no tiene en cuenta la voz. Es e sale de lo profundo nuestro, el querer armonizar eh unas notas, todo es musical en la creación de Dios. Entonces, porque la música es aritmética, es número, este parece que no es geométrica y espacios.
+
+Entonces, eh todo es eh musical, entonces es precioso tratar de de armonizar sin tener en cuenta la voz.
+
+Entonces, Sara Bati es la que inspira al hijo, al bien.
+
+Entonces, a ver, cuando eh prolongo mi sistema nervioso al otro y lo siento dentro de mí y si es posible le digo permiso para entrar en mi corazón, no a sus palabras. Porque puede estar hablando tonteras a su alma.
+
+Le digo, "Fulano, sea mi mamá, sea un hijo, sea la pareja, sea quien fuera el que yo más honre, pero a quien dejo entrar en mi corazón es a su alma.
+
+Yo te quiero servir, yo te quiero honrar, yo te quiero agradecer." Y aparte eso que dije al comienzo, alma de fulano, ¿en qué te puedo servir?
+
+Entonces dice Pitágoras, saca tu energía de las orejas porque no se trata de escuchar las palabras. A veces las personas hablan de lo que no sienten.
+
+Entonces, ¿a quién permites entrar en tu corazón?
+
+A su alma.
+
+Entonces, ¿cómo es la cosa de que algunos dicen, "Oh, yo soy bueno, soy una oreja siempre escuchando puede terminar muy cansado, agotadísimo, porque no es las palabras lo que uno tiene que escuchar, salvo que se un ser grande, un ser que di, wow, sus palabras tienen energía y me elevan.
+
+un ser que yo reconozca, digo grande, aunque sea chiquito, un niño, este, aunque sea, qué sé yo, un hermano, una hermana, eh, no sé, digo mal de decir, aunque sea, lo digo así porque dije grande y a veces se interpreta grande, así como que un gran maestro, ¿no?
+
+Cuando yo reconozco virtud en el otro, me postro, me parece, siempre me postro ante quien fuere. es ante la virtud, porque en la virtud reconozco a Dios, aunque sea un gradito. Entonces, eh si yo estoy escuchando desde el corazón, por eso Pitágoras ponía la oreja en el corazón, si escucho desde el corazón le digo, "Alma de fulano, ¿qué quieres de mí?
+
+en qué te puedo servir.
+
+Y saben, o sea, quité la energía de las orejas y sin embargo digo, perdón la interrupción, necesito decirte algo. Y dice, "¿Qué voy a decir? Confíen.
+
+Van a ver que el alma de ese ser me inspiró y ese ser termina diciendo, "¿Cómo sabes que es lo que yo necesitaba?" y dijo, "No necesito decir, no tenía la más pálida idea, pero sí para mí yo me ofrezco a su alma y no necesito que e este haber escuchado sus palabras, es a su alma el tema." Bueno, a eso Pitágoras le llama sensibilidad, escuchar con el corazón, permiso para entrar, le digo, al alma del otro.
+
+Y también la sensibilidad es permisito para entrar a tu corazón, a tu alma. permisito, como que sacudo los piecitos antes de entrar porque es sagrado el alma del otro igual que la mía.
+
+Entonces esa sensibilidad que habla Pitágoras engendra. Claro, engendra.
+
+Quedo distinta si engendra un tercer ser.
+
+¿Y eso cómo es? O sea, el otro queda como nuevo y yo di, "Ah, no sé qué siento, pero estoy en éxtasis." ¿Qué fue que pasó? No sé, pero no sé, a lo mejor hablé ni 5 minutos, otro dijo, "Ah, y a lo mejor después ni se acuerda lo que le dije, pero se levó me levé engendre otro ser dentro de mí y el otro ser engendro otro ser porque es una virtud, la faz materna de Dios.
+
+La paz, virtugin engendra, claro, siempre es eh el que maneja la paz, el que tiene ese don, e es como un director de orquesta y sabe tocar eh este las almas de los que tiene enfrente y sabe hacerlas vibrar. le saca el sonido y es como que dice, "Ahora, ahora, ahora." Y entonces se arma una melodía, se engendró un tercer ser producto de la unión de todos, del que sabe hacer la paz, sabe armonizar ambientes, sabe armonizar personas. Entonces, virtin, faz materna de Dios, la paz, la comprensión es virtuin, sí.
+
+¿Y qué es lo que hace que yo tenga polvo de oro en los ojos para apreciar las virtudes del otro en medio que está haciendo gala de sus peores defectos?
+
+O sea, puse un ejemplo extremo, porque ver la virtud cuando el otro está manifestando la virtud es nada.
+
+Pero verle la virtud cuando el otro está haciendo gala de su peor defecto, ahí te quiero ver. Eso es la virtud. Eso es poner luz oscuro.
+
+Entonces, en medio que está hablando tonteras es mejor con enojo, con desprecio.
+
+Y yo me acuerdo como alguna vez con algo que hizo, no digo que me salvó la vida, pero en esa circunstancia cuánto me ayudó.
+
+Y entonces lo miro y digo, "Perdón, te saco del tema, vos estás totalmente en otra." Pero, ¿sabes lo que me acordé cuando me ayudaste tanto en tal momento?
+
+Cuánto te lo agradezco. Me lo acordo siempre.
+
+Eso, ese ser, sos vos para mí.
+
+Y van a ver que siempre el otro ser dice, "Sí, pero ahora que estoy hecho un desastre. Perdón, mira, te estaba amargando la vida. No, no importa. Ay, vos me salís con algo tan hermoso. Es que sí, es que ese es mi recuerdo, lo tengo así. Es mi imagen. Allá estás vos.
+
+Podes estar gritando, pataleando, haciendo lo que fuera la patada. Y sin embargo, yo tengo esta imagen tuya de manera permanente y agradecida.
+
+genera un nuevo ser, engendra esa virtud. Claro que sí.
+
+El otro tiene ganas de ser así como le dije y le dije la verdad, no estoy inventando, le dije la verdadera virtud que tiene y se lo recordé. Entonces, ¿qué hizo?
+
+engendro, se engendra otra situación entre los dos y el otro está distinto. Yo estoy diferente porque hacer luz en oscuro, le llama Pitágoras, no es una luz común, es una luz resucitada.
+
+Resucita de las cenizas, de algo oscuro y aparece la luz. Entonces, no es una luz cualquiera.
+
+Virtugín.
+
+Faz materna de Dios.
+
+El perdón virtuin y el arrepentimiento engendra. Claro.
+
+La persona cuando guarda rencor es como muy terrible este como muy e fea la situación. ¿Saben por qué?
+
+Porque eh la circunstancia como la recuerdo, la mantengo viva en mí, dañándome.
+
+Entonces me inocularon un veneno una vez y yo me lo inoculo todas las veces que lo recuerdo y me vuelvo y vuelvo y vuelvo y vuelvo. Me lo aculo 40,000 veces, pero fui yo. A mí me hago eso. Sí.
+
+Y cuando digo, pobre fulano, era así, no me lo hacía a mí, era así. Y encima que era así, yo estoy enojadísima y lo, o sea, es como decir a alguien que le falle el físico, pero cómo puede ser posible que te falte una pierna, te falte un brazo, te falta cómo o sea, encima que tiene carencias, carencias espirituales porque es un alma chica.
+
+encima lo denigro, alguien que tiene lo que al otro le falta.
+
+Y te dice Pitágoras, en cada situación hay un ser más sabio y otro más ignorante. ¿A quién le corresponde arreglar la situación? Siempre al más sabio.
+
+Entonces, esa virtud, Jin, preciosa del perdón que de golpe me doy cuenta, digo, no.
+
+Es más, o la verdad que no tengo nada que perdonar. Encima cuando hago eso de perdonar a otro, lo que hago es perdonarme a mí misma en la encarnación que yo hice, lo mismo que este ser está haciendo conmigo, porque todo vuelve con ley del círculo.
+
+Dios solo entrega a sus hijos luz. no entrega sombras, porque consiguiente, toda sombra es algo creado por mí que pegó la vuelta y volvió a mí en el momento que yo estoy en condiciones de ejercitar el perdón para liberarme a mí de ese error de que cometido a lo mejor cuando tenía tres vidas y ahora tengo a lo mejor a lo mejor 800.
+
+Entonces engendra la virtud del perdón. a otro ser claro, a un ser libre de rencor y que se liberó de lo que los llaman los orientales karma viejo o lo que dice Pitágoras, eh, de una cerró la ley del círculo, le faltaba cerrarla.
+
+todavía no se dio cuenta de arrepentirse por haber hecho eso con alguien y ahora se lo hacen a uno.
+
+Uno al perdonar a esa persona porque no sabe lo que hace, se perdona a sí mismo en el pasado.
+
+¿Le parece reflexionar sobre la fa materna de Dios y estas virtudes, hermanitos queridísimos? ¿Quieren?
+
+Bueno, que tengan preciosos días. Chao, adiosito.
+
+Chao. Hasta la próxima.

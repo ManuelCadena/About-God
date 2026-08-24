@@ -1,0 +1,77 @@
+# Capítulo 14.  ¿Cómo abrir y cerrar la Energía del Domingo?
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=pJsSjcIQakg
+- **Duración:** 9.5min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 14
+
+## Transcripción
+
+Hermanitos, buenos días. Otro domingo precioso se abre hoy e a vivirlo.
+
+Eh, ojalá Dios quiera que podamos hacer eh lo que dice Pitágoras que es la tarea del domingo y como el aún a la primer vocal ua, o sea, el domingo eh abre y cierra.
+
+abre la semana que va a empezar mañana y cierra la semana que acaba.
+
+Se acuerdan del mantra con así llamo a la sabiduría y a La misericordia del maestro es para mí un mandran como que abre y cierra, abre y cierra, abre. Y eh ay domingo este curso es especial.
+
+Hacemos el tripto chicos los domingos.
+
+Este eh ojalá hoy eh sintamos cerrar la semana y eh sintamos abrir la que sigue. Eh cerrar cómo se cierra este otorgando el perdón. Se acuerda que el perdón ya es una palabra, es ver, aceptar, comprender y ya perdón es benad. Pero perdonando la las acciones así dañinas que queriendo sin querer nos hicieron que no provocaron dañe y el este y pidiendo perdón si queriendo si quiero dañamos.
+
+Cierro así eh la semana este y pueda abrir la semana que es igual, o sea, otorgando perdón para cualquiera que se equivoque conmigo.
+
+Y desde ya digo, pido misericordia y me arrepiento por cualquier error que cometa, pero me largo a día. ¿Quién nos equivoca? El que no hace nada.
+
+Es imposible hacer y no equivocarnos. De a poquito vamos eh eh practicando ese verso audio de Pitágoras eh solo de insensatos.
+
+Es el hablar y obrar sin preenitación.
+
+De a poquito. Vamos. Entonces, de a poquito voy rumneando este con mi energía lo que luego voy a hacer de a poquito.
+
+Eh, entonces practico las reglas del discípulo previsor, que siempre recorro primero con mi energía, lo que luego recorreré con los pies y recorro incluso con la energía eh de la este palabra.
+
+Eh, primero con la energía, lo que luego recorreré con la palabra.
+
+Entonces, tengo alguien a quien decirle algo. Entonces, primero se lo digo con la energía y digo, "A ver, lo que te quisiera decir es esto y aquello." Y después siento, "Uy, no logró el objetivo. Mi objetivo no era dañarlo y siento que si se lo digo este no es el momento. Lo daré y me aqueó no hay dañarlo.
+
+Siento que lo daño. ¿Sabes por qué? que te dice Pitágoras, nunca hables del defecto del otro y se lo diga cuando todavía te molesta, porque no lo hace por cuidarlo a él o ella, hace por cuidarte a ti mismo de su defecto.
+
+Entonces, por eso primero lo digo con la energía y eh si siento que dañé, ahí lo digo, ay, no es el momento.
+
+Claro, todavía me molesta y entonces se lo digo con emoción de enojo o de miedo o de angustia, entonces añado electromagnetismo desordenado.
+
+No corresponde.
+
+Javi, qué hermoso es de a poquito ir haciendo lo del discípulo previsor.
+
+Recorro con mi energía, lo que luego recorreré con mis pies. recorro con el sonido de energético antes de usar el sonido de la palabra.
+
+Y eh entonces este bueno, todo eso que abre es lo de prever, lo hace el domingo y lo de cierra es dar conclusión tan tan de la música.
+
+Es también propicio hacerlo el domingo y como no lo solemos hacer este el domingo se suele tomar como días de no hacer nada.
+
+Entonces, a veces se dice que son los días más digitalizados la tarde del domingo en el mundo que cunde una energía como pesimita, como derrotita, como eh nostálgica, como así feíta, pero es porque no usamos el domingo como día del sol y día de cerrar y abrir.
+
+Entonces, si quieren y si les parece bien, este, los amad así hoy y por ahí me acuerdo otro domingo y otro domingo, pero de tanto en tantos puntitos vamos a tratar de hacer eso. De tanto en tanto volvemos a recordarnos de que eh hoy es domingo, me toca cerrada.
+
+¿Qué me dijeron feinto durante la semana?
+
+Entonces lo recuen y lo suelto al mensaje feíto porque ya está lo que yo pueda hacer con la energía de virtud genial y lo que no nos sirve es le llama Pitágoras resto. Resto energético. ¿Para qué me sirve este dato como información la inquietada?
+
+Entonces digo el resto y eh este y si tengo algo que perdonar, perco y me arrepiento de los errores. Digo, esto lo traje de contar cosa tan error.
+
+Me arrepiento del defecto.
+
+Voy a ver si esta en esta próxima semana inicias distinto. Entonces, eh si les parece hacemos eso, eh, cierre e inicio.
+
+Y este mantra que que comenzamos este se lo suele ser como la marcha de la partida.
+
+Sabiduría y compasión del maestro.
+
+eh y del maestro primordial que es Diosito. Entonces, [carraspeo] eh es un momento en que me toca cerrar lo abierto y eh este qué hermoso que también termine el día así y ni qué hablar.
+
+Entonces, si quieren lo hacemos hoy, eh, un abracito, un beso y seguimos juntitos este domingo, si Dios quiere, este la semana. Y si Diosito lo permite, el próximo domingo está poquitito. Abrazos.
+
+Gracias, gracias, gracias, hermanitos queridos.

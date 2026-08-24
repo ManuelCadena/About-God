@@ -1,0 +1,3178 @@
+ 
+ 
+
+Unknown speaker 00:10 
+Mike, it's so good to see you again.
+
+Unknown speaker 00:11 
+It's very good to see you.
+
+Unknown speaker 00:13 
+Yeah, pleasure.
+
+Unknown speaker 00:13 
+But look, Mike, since the last time we spoke,
+
+Unknown speaker 00:16 
+I've noticed that your work has just grown, it's tremendously evolving, becoming so much more complex, your body of knowledge has increased so much.
+
+Unknown speaker 00:25 
+Something I've noticed, I'm not sure if you've picked up on this, but you've become a lot better at articulating these concepts with so much clarity.
+
+Unknown speaker 00:34 
+Have you picked up on this?
+
+Unknown speaker 00:35 
+Um, no, I have no idea.
+
+Unknown speaker 00:38 
+So, so that's great.
+
+Unknown speaker 00:40 
+That's that's good to hear.
+
+Unknown speaker 00:48 
+I hope, I mean, I work on it all the time, but it's actually it's hard for me to know what's, you know, what's coming across and what's not, so I'm glad, I'm glad to hear that.
+
+Unknown speaker 00:57 
+Yeah, that's important to me, so that's great.
+
+Unknown speaker 00:57 
+I think it in that regard, it's very similar to intelligence in general.
+
+Unknown speaker 00:58 
+I mean, it's it's it's been such a spectrum for you that you haven't really noticed the picked up on this.
+
+Unknown speaker 01:00 
+Yeah.
+
+Unknown speaker 01:00 
+Tell me, Mike, when you there was a time where you did this paper, I think you wrote an article on um with Daniel Dennett on cognition all the way down.
+
+Unknown speaker 01:07 
+I remember something, I wanted to start this podcast with this concept because I remember you guys discussing the prisoner dilemma and how this illuminates the idea of the computational boundary of the self.
+
+Unknown speaker 01:17 
+I was hoping we could perhaps start with it and then explore these concepts because I find when you ground something with an analogy that people are accustomed to, it becomes a lot easier to understand these complex phenomena.
+
+Unknown speaker 01:28 
+Yeah, yeah.
+
+Unknown speaker 01:29 
+Well, uh, let's see.
+
+Unknown speaker 01:30 
+Um, I don't remember exactly what I said, but uh, but I can, I can, I guess I'll just talk about it.
+
+Unknown speaker 01:35 
+Um, the when when people do this um, these simulations, these prisoners dilemma simulations, you know, for for um, uh, economics or game theory or conflict theory or things like that.
+
+Unknown speaker 01:47 
+What typically happens is that let's say, let's say we imagine what they call a a spatialized prisoners dilemma where you have multiple agents and they all sort of play against their neighbors and and so on, you know.
+
+Unknown speaker 01:58 
+The typical way to do this is that there's a constant number of players.
+
+Unknown speaker 02:03 
+So you have some constant number of agents, they all play against each other, they all have individual um goals and then you see which strategies are the best over over time.
+
+Unknown speaker 02:13 
+And the thing about biology is that uh, there's a there's an interesting and oh, and and and of course the moves they there's two, there's two moves they can make.
+
+Unknown speaker 02:17 
+So they can they can at every at every stage of the game, they can cooperate or they can defect.
+
+Unknown speaker 02:26 
+And it's very clear in this in this paradigm, um, each agent is is quite distinct from from the next and so I can cooperate with with you or I can defect and not cooperate and so on because I know who I am, you know who you are and so on.
+
+Unknown speaker 02:39 
+In biology, things are not so simple, but it's actually much more interesting because uh,
+
+Unknown speaker 02:45 
+cells and subcellular components, cells, tissues, organs and so on, can all um merge in an important way, they can connect to each other and form higher level units that have distinct goals, memories, competencies, preferences and so on from the different parts.
+
+Unknown speaker 03:07 
+And so I'll just give you a simple example in Physarum, this is a slime mold.
+
+Unknown speaker 03:10 
+This is actually um, it's an experiment that uh, uh, my my son and I did as part of his, you know, kind of home science unit.
+
+Unknown speaker 03:18 
+Um, so so so uh, so you have this uh, you have the slime mold and you put a piece of oat, which the slime mold wants to eat and it starts to crawl towards that oat.
+
+Unknown speaker 03:28 
+And then what you can do is you can take a razor blade and and just cut off that leading edge, you know, the little piece of it that's moving towards the oat.
+
+Unknown speaker 03:35 
+Now, as soon as you've done that, that little piece is a new individual and he has uh a decision to make because he can go and and get the oat and exploit that resource and not have to share it with this giant mass of of Physarum that's back here.
+
+Unknown speaker 03:44 
+Or he can first merge back and uh and connect back to the to the original mass because they can reconnect quite easily.
+
+Unknown speaker 03:52 
+And then and then they go and get the oat.
+
+Unknown speaker 03:57 
+Now, the thing is that the the payoff matrix looks quite different because when it's by itself, it can sort of it can it can do this calculus of of well, it's better for me to go get the food instead of and not share it with this other thing.
+
+Unknown speaker 04:04 
+But as soon as you connect, you that that payoff matrix changes because there is no me and you, there's just we, and at that point it doesn't make any sense to defect, you can't defect against yourself.
+
+Unknown speaker 04:16 
+Uh, you know, the and so that payoff table of of um,
+
+Unknown speaker 04:18 
+actions and consequences looks quite different because some of the actions change the number of players.
+
+Unknown speaker 04:38 
+And that's really weird, right?
+
+Unknown speaker 04:48 
+And so that's the thing that normally doesn't happen in typical uh prisoners dilemma types of simulations because all they have is cooperate and defect, there's no way to change the number of players.
+
+Unknown speaker 05:00 
+dilemma where
+
+Unknown speaker 05:01 
+you have cooperate, defect, but also split and merge.
+
+Unknown speaker 05:05 
+So two cells can decide that so and and when you do that, the the outcome of your action changes the number of players, which radically changes the payoff table after that.
+
+Unknown speaker 05:14 
+So the whole thing is much more complex, much more sort of um the you know, recurrent and and all of that.
+
+Unknown speaker 05:25 
+And so and so the question is so so what happens then, right?
+
+Unknown speaker 05:28 
+What the what what strategies look good under those conditions all.
+
+Unknown speaker 05:29 
+Um, stay tuned for that.
+
+Unknown speaker 05:30 
+It'll be some months before we know.
+
+Unknown speaker 05:31 
+Do you have a hypothesis regarding that?
+
+Unknown speaker 05:32 
+Yeah, I I think that uh I think that there will be strategies that uh
+
+Unknown speaker 05:38 
+take advantage of see when when you merge with another unit,
+
+Unknown speaker 05:40 
+you get whatever metabolics they you know, whatever whatever metabolic resources they had at that time, but more importantly, you gain information because that that other individual that you merged with has been sitting there playing against his neighbors for quite some time.
+
+Unknown speaker 05:49 
+So, so it has lots of information.
+
+Unknown speaker 06:00 
+And if you have a good way of merging your information with their information, in fact, it's a it's it's inevitable because once you dissolve that boundary, you can't tell whose memories are whose anymore.
+
+Unknown speaker 06:11 
+That's kind of the the big thing about um that that that kind of memory wiping the the wiping the identity on these memories is a big part of multicellularity, I I think.
+
+Unknown speaker 06:22 
+Um and be and and so I think there will be strategies that under specific conditions take advantage of this merging and you'll end up with these larger scale individuals that do very well because they now have the computational capacity, they have the knowledge of of lots of different pieces and they can and and and you immediately you know, it it
+
+Unknown speaker 06:42 
+sort of forces cooperation.
+
+Unknown speaker 06:52 
+There's no way for you to defect against yourself really.
+
+Unknown speaker 06:52 
+And so once you're connected that tightly,
+
+Unknown speaker 06:53 
+um, you're a larger cooperative unit, I think.
+
+Unknown speaker 06:55 
+And so and so that's what that's what I'm interested in the seeing under what conditions uh and and what policies are optimal for for that kind of.
+
+Unknown speaker 07:00 
+Mm.
+
+Unknown speaker 07:01 
+I think it's a fascinating concept because when you take the prisoners dilemma, you think about the two-pass the two prisoners, sorry.
+
+Unknown speaker 07:06 
+Um, I mean, they're given an ultimatum.
+
+Unknown speaker 07:11 
+I mean, what the options are, one is you you either
+
+Unknown speaker 07:12 
+tell the judge, I would say or the police officer that you did commit the crime and then you take the blame, the other guy goes Scott free or vice versa, and the other two options are obviously, one, if both of them just don't say anything and they get a much shorter sentence, or both of them rat out one of one of the others and then they get no sentence.
+
+Unknown speaker 08:00 
+Um, and then when you take that and incorporate it into cells and people, human beings,
+
+Unknown speaker 08:05 
+it's easy for us to look at us and think, okay, we're 30 trillion human cells give or take, we're about 39 trillion bacterial cells.
+
+Unknown speaker 08:12 
+At what point do we consider ourselves bacteria, or at what point do we consider ourselves human?Perhaps these questions are incorrect.
+
+Unknown speaker 08:19 
+And you do a great job at explaining this with your computational boundary of self.
+
+Unknown speaker 08:24 
+You want to explore that a bit.
+
+Unknown speaker 08:26 
+Yeah, um,
+
+Unknown speaker 08:27 
+well, uh, so, so the my my computational boundary of the self notion is simply a way to
+
+Unknown speaker 08:30 
+try to be able to think about very diverse kinds of uh beings, diverse kinds of intelligences, all all on one scale, so to speak.
+
+Unknown speaker 08:46 
+So, so often people are interested in the brain structure or very specific behaviors in specific environments, which makes it very hard to then compare and contrast these kinds of agents to ones that either don't have a brain or work in a completely different space.
+
+Unknown speaker 09:03 
+And so I wanted, I wanted some kind of a framework that enables you to think about what do all intelligent agents have in common.
+
+Unknown speaker 09:10 
+And so we're talking about uh agents that are either very large or very tiny, so so molecular scale or perhaps uh planetary or larger scale, very short lived things, very long lived, um, uh kinds of uh kinds of uh agents that are very hard for for for humans to typically recognize as intelligent, ones that work in weird spaces, so not just behavior in three-dimensional space, but behavior in uh physiological space, gene expression space, uh anatomical morph space, you know, we're talking about things that are evolved, designed, uh things that are some combination, a hybrid of uh of those things.
+
+Unknown speaker 09:20 
+So, and and so, and so the framework that I came up with, and this was um, we we were we were challenged to do this by uh Pranav Das at the uh uh at a Templeton meeting back in I think 2018 or or something like that.
+
+Unknown speaker 09:29 
+Uh, the the framework that I wanted to use was was this idea that what all of these agents have in common is the ability to pursue goals.
+
+Unknown speaker 09:34 
+And some of them have very sophisticated ability to pursue goals, some of them have very simple ones, but and and this this is not a new idea.
+
+Unknown speaker 09:36 
+This goes all the way back, uh, well, it goes even further, but but William James said it very well when he said, uh, you know, intelligence is the ability to reach the
+
+Unknown speaker 10:00 
+the same goal by different means.
+
+Unknown speaker 10:02 
+And and he talked about the spectrum of, you know, two magnets trying to get together versus Romeo and Juliet trying to get together and everything in between and and what does it mean to have competency to get around various obstacles and and things that are are preventing you from reaching your goals.
+
+Unknown speaker 10:17 
+So the so so so my framework is simply that you can draw um on a two-dimensional uh sort of grid.
+
+Unknown speaker 10:25 
+You can map out the scale of the largest goal that an individual agent can pursue.
+
+Unknown speaker 10:32 
+So you it's sort of a it's it's almost like a Minkowski diagram where you collapse all of space onto one axis, time is is the other axis and you can you can draw the radius of the goals, not not the radius at which something has sensory capacity or can take actions, but the size of the goal states that they can pursue.
+
+Unknown speaker 10:51 
+So, if you're a if if if um all of your goal states are about local uh local sugar concentration right now, you're probably a bacterium or something similar.
+
+Unknown speaker 11:02 
+If your goal states uh if if if you have um, you know, a dog might have uh some memory going back, some predictive capacity going forward, but they're never going to care about what happens a month from now, three towns over, it's just impossible, right?
+
+Unknown speaker 11:18 
+Um and so all of this of course is is these are empirical questions, we don't know ahead of time until we test it what creatures can and can't pursue as goals, but you know, it's likely that something like a dog has a has a radius that uh has a well-defined kind of time horizon and and and spatial boundary and beyond that it's it's not going to care, right?
+
+Unknown speaker 11:26 
+Um and then and then you know, if
+
+Unknown speaker 11:30 
+if you're some some alien species that has the ability to literally care about every other being on your planet, right?
+
+Unknown speaker 11:42 
+In the linear range, I mean humans I don't think can do that, but but but if there is a creature somewhere that is that level of advanced where they can actually have care and compassion for for every being and they work towards it, they would have a much larger cognitive light cone than we do, you know, more more advanced in that way.
+
+Unknown speaker 11:54 
+So, so so that's the idea, right?
+
+Unknown speaker 12:00 
+And and and that idea leads
+
+Unknown speaker 12:30 
+is you to develop um
+
+Unknown speaker 12:31 
+uh practical uh uh experimental tools to to to look for the the size of the boundary for any given agent.
+
+Unknown speaker 12:37 
+And so you can ask for cells, for tissues, for organs, for swarms, what problem space are they working in, in that problem space, what are the goals that they're trying to reach, what are the size of those goals and what are the competencies,
+
+Unknown speaker 12:53 
+how good are they at getting those goals met when things change,
+
+Unknown speaker 12:55 
+yeah, when when novel perturbations, novel environments and so on.
+
+Unknown speaker 13:00 
+And then you can do experiments and and that's really key.
+
+Unknown speaker 13:02 
+Yeah, that that all of this, this is not philosophy, this is this is meant to advance empirical research by by focusing the questions on uh uh
+
+Unknown speaker 13:11 
+people will specify hypotheses about what goals a particular system can reach and then we may do experiments and then we find out that yes,
+
+Unknown speaker 13:18 
+it can get around certain kinds of uh perturbations but not others and and then and then we know who's right and who's wrong.
+
+Unknown speaker 13:25 
+something a very common theme regarding your work.
+
+Unknown speaker 13:26 
+I mean, there's a lot of people who on the one hand don't like this idea of of scientists delving into this or diving into this philosophy realm and and trying to take over this
+
+Unknown speaker 13:40 
+issue of thinking or thought processes, but then on the other side, you've got many philosophers,
+
+Unknown speaker 13:44 
+people like Dennett in general who love this idea of of of scientists coming into their field and teaching them so many new concepts.
+
+Unknown speaker 13:51 
+I mean, your goal, you make it very clear is it's not, I think I wrote it down here, it's it's not to anthropomorphize morphogenesis.
+
+Unknown speaker 14:01 
+The point is to naturalize cognition.
+
+Unknown speaker 14:01 
+And I think that's pretty cool.
+
+Unknown speaker 14:04 
+It's a great way to sort of frame this process.
+
+Unknown speaker 14:07 
+How do you feel this has been received from the scientific community, from a philosophical perspective perhaps?
+
+Unknown speaker 14:11 
+Yeah.
+
+Unknown speaker 14:11 
+Well, and and and I I can't speak for for everybody, you know, in all these communities.
+
+Unknown speaker 14:14 
+I you know, I have no idea.
+
+Unknown speaker 14:16 
+I don't I don't uh I don't generally monitor too much what uh what you know, how people react to stuff.
+
+Unknown speaker 14:24 
+So, so I I don't know exactly, but but but I'll tell you what I think.
+
+Unknown speaker 14:37 
+Um, from from the limited kind of data sample that I have, um, I think that uh, I think that some of these ideas really catch a lot of flack from both sides, which is interesting.
+
+Unknown speaker 14:49 
+So, so people who are very is sort of they have a very molecular based reductionist or bottom up kind of perspective, you know, very very, you know, physical oriented, they tend to not like this because they don't want aspects of of um kind of mental talk uh getting back into, you know, they they they they they
+
+Unknown speaker 15:00 
+they feel that we should we should
+
+Unknown speaker 15:01 
+we get as far as possible away from a gentl kinds of
+
+Unknown speaker 15:04 
+uh kinds of vocabulary that this is sort of pre-scientific magical
+
+Unknown speaker 15:07 
+thinking and that and that uh you know the promise that they that they sort of make
+
+Unknown speaker 15:10 
+to us is that um don't worry at some point we can we can everything will be nicely
+
+Unknown speaker 15:12 
+explained at the level of molecules.
+
+Unknown speaker 15:18 
+Um, you know, it's kind of it's it's not real reductionism
+
+Unknown speaker 15:21 
+in that they typically don't want to go below molecules, so nobody feels like they should be talking about quantum foam.
+
+Unknown speaker 15:24 
+They just kind of want want to they like chemistry and and and and they want to talk about molecules, but
+
+Unknown speaker 15:31 
+but but they've picked their level and they think that's it and that we shouldn't we shouldn't be talking about things that uh
+
+Unknown speaker 15:37 
+uh what do things want and uh you know, what do agents remember and do the agents have
+
+Unknown speaker 15:42 
+and and and so and so they don't they don't like this stuff for for that reason.
+
+Unknown speaker 15:47 
+Um, funny enough, the opposite camp, which are the organists, so have been fighting this for for hundreds of years
+
+Unknown speaker 15:54 
+and arguing about the fact that no, in fact, some some things in the world, in fact, biology and living things and maybe ecosystems and cells and whatnot, uh, you know, they they do have these kind of uh agental properties and we need to, we absolutely need to not um uh explain that away or pretend that doesn't exist.
+
+Unknown speaker 16:13 
+Those people really um often tend to get upset with me too because uh what they don't like is the fact that I have what they call machines on the same spectrum.
+
+Unknown speaker 16:23 
+And so they feel that if we put machines what what and and defining what a machine is is really non-trivial, but but but they feel that if we put some of these simpler mechanisms like like what currently we recognize as machines on the same spectrum, that it's a slippery slope to uh losing whatever magic, whatever um uh respect we're supposed to have for for these uh for these incredible living living beings and that and that they feel very strongly that we need to keep a sharp binary distinction between machines and living organisms.
+
+Unknown speaker 16:54 
+Um, I I I think that's profoundly wrong and I think um, you know, the the the the challenging the opportunity here is precisely to develop a um
+
+Unknown speaker 17:08 
+a a principled science of of a continuum that tells us what in what cases are you better off using the tools of simple machines, and in what cases are you better off using the tools of complex cognitive beings and everything in between.
+
+Unknown speaker 17:23 
+We have lots of tools all across that spectrum and uh and and I think it is the same spectrum and anytime you ask somebody to
+
+Unknown speaker 17:47 
+define
+
+Unknown speaker 17:47 
+what they mean by machine.
+
+Unknown speaker 17:48 
+They either typically, you know, from in this in the
+
+Unknown speaker 17:50 
+context of this kind of debate, they typically either
+
+Unknown speaker 17:51 
+have no definition or they have one that would have been good maybe in the 1950s, but certainly not after that.
+
+Unknown speaker 17:54 
+And so I I think that binary distinction and Josh
+
+Unknown speaker 17:55 
+Bongard and I have written on this very specifically that
+
+Unknown speaker 17:56 
+that I I I think this binary distinction uh is just is just completely you know, it leads all sorts of pseudo problems, it it doesn't help uh research, it's you know, it's a non-starter.
+
+Unknown speaker 18:00 
+So we we really do need to naturalize all of this and and show that that uh that there is a single continuum and that we need to develop tools across all across that continuum and have an empirical research program of when do you deploy each particular tool and when does it work for you and so on.You know,
+
+Unknown speaker 17:48 
+I I think I completely agree with you regarding almost everything you you just said because often when people ask specific questions specifically regarding consciousness.
+
+Unknown speaker 17:56 
+I mean, this podcast is called Mind Body Solution, obviously, paying homage to the mind body problem.
+
+Unknown speaker 18:00 
+What is consciousness becomes a very fundamental question, but I often think about it that consciousness is is more like a verb.
+
+Unknown speaker 18:06 
+It's it's not really something that's an on-off switch.
+
+Unknown speaker 18:08 
+Um, it's very difficult to put that switch on.
+
+Unknown speaker 18:13 
+Um, in general, when we talk about anything.
+
+Unknown speaker 18:15 
+So, so when you're talking about cognition, intelligence, the self, do you think it's becoming harder to explain these concepts because of this lack of a definition or do you think it becomes more and more exciting to discuss these concepts because of this continuum of of exploration?
+
+Unknown speaker 18:31 
+Well,
+
+Unknown speaker 18:31 
+I I certainly think it's we're in a better place now than we were.
+
+Unknown speaker 18:35 
+I think uh I think I think it's it is it is exciting and it's getting better.
+
+Unknown speaker 18:39 
+But um, you know,
+
+Unknown speaker 18:40 
+specifically with the issue of consciousness.
+
+Unknown speaker 18:41 
+So so I so I've been pretty careful up until now to say very little about consciousness per se, right?
+
+Unknown speaker 18:47 
+I I mostly talk about very very functional um publicly observable behaviors.
+
+Unknown speaker 18:53 
+So so intelligent behavior as problem solving and um, you know, these these cognitive uh capacities that are kind of like um uh experimentally observable third person kind of science.
+
+Unknown speaker 19:05 
+And so, so that was on purpose, not not but but not because I, you know, it's not that I don't think consciousness isn't an important problem.
+
+Unknown speaker 19:10 
+I think it's it's an extremely important problem.
+
+Unknown speaker 19:14 
+I I don't think it it doesn't exist.
+
+Unknown speaker 19:20 
+Uh, I don't think that the mind body kind of uh issues are not important, they are, but I do think it's important to make as much progress as we can uh on quote unquote easy problems without immediately uh
+
+Unknown speaker 20:00 
+sort of um uh combining them with with extremely
+
+Unknown speaker 20:01 
+difficult problems, right?
+
+Unknown speaker 20:04 
+And so, and so uh you know, once once you started talking about consciousness, things get off the rails very quickly.
+
+Unknown speaker 20:11 
+And so, so I've wanted to for most of my stuff, which up until now has not really needed to talk about consciousness per se.
+
+Unknown speaker 20:24 
+I wanted to kind of let that stuff cook in its own area that doesn't that doesn't get into all of those issues about consciousness.
+
+Unknown speaker 20:31 
+Um,
+
+Unknown speaker 20:31 
+and I think
+
+Unknown speaker 20:31 
+I guess I guess the only thing I'll I'll say about it now is that
+
+Unknown speaker 20:37 
+typically uh you know, what when when people talk about consciousness, they typically not everybody, but but often people think about the
+
+Unknown speaker 20:45 
+sort of input side of things, meaning what the what you know, the standard the standard definition is what does it feel like to be a whatever, you know, a bat or or a human robot or whatever.
+
+Unknown speaker 20:57 
+You know, what's it like to what's it like to be, so they focus on the experience, which is the kind of sensory side, if you will.
+
+Unknown speaker 21:05 
+Um, and and and and what I think what I think is is probably more, I mean, they're both important, but but the thing that's that needs more emphasis is the actuation side, it's the action side.
+
+Unknown speaker 21:21 
+What is it like to do, to be a to be an agent that has the ability to do things.
+
+Unknown speaker 21:26 
+And and the and the reason the reason I think I think this isn't getting any attention is this.
+
+Unknown speaker 21:30 
+There is a there is a theory of mind called epiphenomenalism.
+
+Unknown speaker 21:31 
+And epiphenomenalism, you sort of assume that, okay, uh, you know, you can say that yes, these um, these uh, uh, conscious sensory states that I have are real, but they don't do anything.
+
+Unknown speaker 21:42 
+So, so the input side is real, but there is no output side.
+
+Unknown speaker 21:49 
+It's a view.
+
+Unknown speaker 22:02 
+I'm not saying I supported, but but it's it's a view.
+
+Unknown speaker 22:06 
+What doesn't exist to my knowledge is the opposite side.
+
+Unknown speaker 22:12 
+I've never see I've never heard anybody have a view that says, well, the action part is real, the free will is real, but the sensory stuff is isn't is an illusion, right?
+
+Unknown speaker 22:19 
+I I've never heard of that that view.
+
+Unknown speaker 22:30 
+So the fact that there's only one, you know, it's not symmetric, there's only one one version of this, tells you that people are very much into the um kind of perception side and not so much into the action side.
+
+Unknown speaker 22:36 
+And and I mean, I mean, some obviously are people who work on active inference and things like that, of course, pay pay attention to both sides of the equation.
+
+Unknown speaker 22:42 
+But but I think I think that that is really the mark of the agent is sure, what does it feel like, but more even more importantly, what do I do next?
+
+Unknown speaker 23:02 
+That's really what what drives all of this is that is that uh,
+
+Unknown speaker 23:03 
+I need to know what to do next.
+
+Unknown speaker 23:03 
+What what's what's my next move as an agent.
+
+Unknown speaker 23:06 
+And that that I think is is is really fundamental to being.
+
+Unknown speaker 23:06 
+And and I think it's going to be fundamental to the consciousness problem too.
+
+Unknown speaker 23:10 
+It's going to be it's much of it is
+
+Unknown speaker 23:11 
+all of the decisions about where is the boundary between you and the outside world and and all these kinds of things that are that are fundamental to defining yourself and what are you, you know, and all of those are driven by the need to act, to choose a next action.Well, I'm looking forward to your work on consciousness.
+
+Unknown speaker 23:04 
+I mean, I'm obviously excited for it.
+
+Unknown speaker 23:06 
+Are you able to give a precise definition of what you say consciousness is at this point?
+
+Unknown speaker 23:12 
+Uh, no.
+
+Unknown speaker 23:13 
+Um, and I think that uh,
+
+Unknown speaker 23:16 
+you know, this goes against, I mean, what we just spoke about, giving a precise definition in that way, pretty much impossible.
+
+Unknown speaker 23:21 
+I I mean, definitions are good.
+
+Unknown speaker 23:23 
+Uh, there's kind of a tradeoff between, I mean, you definitely don't want to talk about things without having some definition.
+
+Unknown speaker 23:25 
+I I this happens all the time.
+
+Unknown speaker 23:30 
+I hear a lot of people talking about um, sentience, you know, whether it be plant sentience or robot sentience is that I think can't be sentient.
+
+Unknown speaker 23:30 
+I'm like, have you got a definition of what you mean?
+
+Unknown speaker 23:31 
+Because that's a really hard thing to define, really.
+
+Unknown speaker 23:31 
+Um, so, so definitions are important.
+
+Unknown speaker 23:31 
+At the same time, I think that too early in the game trying to come up with us with a with a very you know, strict definition early in the game, and I do think we're still early in that game, even though people have been thinking about this for thousands of years.
+
+Unknown speaker 23:58 
+Um, nevertheless, um,
+
+Unknown speaker 24:00 
+what what I will say about it is is this.
+
+Unknown speaker 24:00 
+I think that
+
+Unknown speaker 24:09 
+we need to be clear and and I think Dennett talks about this in in one of his papers, this idea of a bait and switch.
+
+Unknown speaker 24:15 
+You know, you say you're going to talk about consciousness, but what you really end up doing is telling a story about physiology and behavior, right?
+
+Unknown speaker 24:22 
+And so, and so I really think we need to um, keep clear.
+
+Unknown speaker 24:25 
+If you if there there's all the science that we can do in third person.
+
+Unknown speaker 24:30 
+And the mark of science that you do in third person is that you don't change much if at all doing the experiment.
+
+Unknown speaker 24:36 
+So you do a certain experiment and maybe you learn something, which in the which does change you a little bit, but but but you're still the same.
+
+Unknown speaker 24:42 
+You're you're standing away from the experiment at some distance, so to speak.
+
+Unknown speaker 24:46 
+Um, you're you're still whoever you are, you made you you know, you've done the experiment and you've learned something.
+
+Unknown speaker 25:00 
+very hard.
+
+Unknown speaker 25:01 
+most people who do that are really studying physiology and behavior.
+
+Unknown speaker 25:04 
+If you're going to do actual experiments on consciousness, you're part of the experiment.You are going to be changed by that experiment.
+
+Unknown speaker 25:11 
+So for example,
+
+Unknown speaker 25:13 
+um, if you want to know what it's like to be something,
+
+Unknown speaker 25:16 
+the only, the only actual way that you're going to get that level of information is to in some important way merge with that agent.
+
+Unknown speaker 25:26 
+So maybe we connect brains in some way, right?
+
+Unknown speaker 25:29 
+you know, some now, now if you and I connect our brains, I don't find out what it's like to be you and you don't find out what it's like to be me, instead we find out what it's like to be us.
+
+Unknown speaker 25:38 
+So it's not quite the same, but nevertheless, that's as close as you're going to get.
+
+Unknown speaker 25:43 
+And otherwise, you know, I can uh,
+
+Unknown speaker 25:46 
+I I think I described this at the end of the of of my tame paper where um,
+
+Unknown speaker 25:50 
+uh, you know, you can sort of imagine like doing pure third person neuroscience, we've got some electrodes stuck in somebody's brain and you're sort of reading on the screen and then you decide that, you know what, this this screen and and all this stuff, it's a low low bandwidth.
+
+Unknown speaker 26:00 
+I really need to get in there and so you have, you know, some kind of a brain interface on your own that's that's uh delivering the data right into your brain and then eventually you say, yeah, that that that's not good enough either.
+
+Unknown speaker 26:18 
+I'm just going to fuse my brain directly to to this other brain and and you can do that, you know, by with with bioengineering.
+
+Unknown speaker 26:21 
+Um,
+
+Unknown speaker 26:22 
+then then then now now you're into first person science, right?
+
+Unknown speaker 26:26 
+And so you use you sort of smoothly and and and that's experiments with uh, I don't know, people talk about experiments with psychedelics and and meditation and uh, personal development and whatever.
+
+Unknown speaker 26:36 
+studying consciousness, you're not going to be the same coming out of it as you went in.
+
+Unknown speaker 26:46 
+That's I think the the only way that you can really study consciousness per se.
+
+Unknown speaker 26:46 
+Well, I think that with it in that regard, you are one step closer.
+
+Unknown speaker 26:47 
+I mean, Chamas often said, the best way to sort of approach a problem is defining it, as defining the problem within the problem in itself.
+
+Unknown speaker 26:50 
+So like, understanding that there is a problem, which in your case seems to be this action dilemma, which seems to be no one seems to be incorporating that sort of agent action nature behind it.
+
+Unknown speaker 27:00 
+It reminds me of something Kevin Mitchell says,
+
+Unknown speaker 27:01 
+in one of his books, free agents, he talks about I move therefore I am.
+
+Unknown speaker 27:02 
+Is that's a lot of what you're.
+
+Unknown speaker 27:03 
+Yeah, yeah, yeah, no, that's that's that's exactly right.
+
+Unknown speaker 27:04 
+And all all the work on um, uh, active inference to you know,
+
+Unknown speaker 27:06 
+I didn't mean to say that nobody's paying attention to it.
+
+Unknown speaker 27:14 
+I just meant that it's uh, you know, in the general,
+
+Unknown speaker 27:16 
+you know, kind of uh, the the the the the field of people who think about this stuff, there's a lot more emphasis on the on the internal perceptions and and so on than than on the actions.
+
+Unknown speaker 27:21 
+But yeah, I think I think that's right.
+
+Unknown speaker 27:27 
+I think it's movement and and I would um, I would extend that to uh, say that it's movement not just in three-dimensional space, which is we it's easy for us to reckon, but it's movement in other problem spaces.
+
+Unknown speaker 27:36 
+So changes of gene expression, figuring out, well, what gene do I turn on next?
+
+Unknown speaker 27:40 
+Uh, changes in morphogenesis, um, you know,
+
+Unknown speaker 27:41 
+how many fingers should should this arm have and should we be an arm at all or should we be a leg or a foot?
+
+Unknown speaker 27:43 
+Uh, and uh, um,
+
+Unknown speaker 27:45 
+movement in in metabolic space, movement in physiological space, who knows, you know, linguistic space, so there's all kinds of other spaces.
+
+Unknown speaker 27:51 
+yeah, the necessity to act in all these spaces defines who or what you are based on what you have what you have control over and what the, you know,
+
+Unknown speaker 27:54 
+you also of course, the recursive self model of of what what you think you have control over and so on.
+
+Unknown speaker 28:04 
+You you just reminded me of another one who uh,
+
+Unknown speaker 28:06 
+because I said Kevin says, I am, I I move therefore I am.
+
+Unknown speaker 28:07 
+Call first and says, I am therefore I think.
+
+Unknown speaker 28:10 
+and it all sort of interplays with that.
+
+Unknown speaker 28:15 
+When I spoke to Call, he
+
+Unknown speaker 28:15 
+he was telling me about your work, your upcoming work, and the work that Chris feels, Mark Psalms,
+
+Unknown speaker 28:18 
+all you guys are doing some incredible work in these fields.
+
+Unknown speaker 28:27 
+Um, what excites you about this at the moment and what what are you guys currently, what's this main goal at the moment?
+
+Unknown speaker 28:27 
+Yeah, um, yeah, well, I mean, I'm just, I'm just excited.
+
+Unknown speaker 28:30 
+I mean, what are what a group of people to be part of, right?
+
+Unknown speaker 29:01 
+Like I'm just thrilled to death to be able to work with Chris and Carl and Mark.
+
+Unknown speaker 29:01 
+Um, yeah, amazing, amazing minds.
+
+Unknown speaker 29:06 
+Um, uh,
+
+Unknown speaker 29:08 
+I'm talking about next week.
+
+Unknown speaker 29:10 
+Uh, we've spoken before, we're both from Cape Town.
+
+Unknown speaker 29:15 
+So I mean, I'm you guys are doing some incredible stuff.
+
+Unknown speaker 30:00 
+how much, right?
+
+Unknown speaker 30:02 
+What kind and how much?
+
+Unknown speaker 30:03 
+So here's a here's a system and it might be a rock and it might be a computer and it might be some sort of robot or a you know, synthetic biobot or what whatever, but to really have the tools to be able to say, okay, uh, what what kind of cognition and how much is here?
+
+Unknown speaker 30:18 
+And how do I how do I best relate to this agent, what's the most effective way of relating to them, what's the most ethical way of relating to them.
+
+Unknown speaker 30:25 
+Um, to finally start to develop some tools that allow you to do that in a really principled way.
+
+Unknown speaker 30:31 
+I think is a is a huge advance over the old insight that, you know, mind is everywhere.
+
+Unknown speaker 30:35 
+Like that's a that's a good first, you know, zero order pass at this.
+
+Unknown speaker 30:39 
+But but now, but now we're actually um, able to to to to make that much more specific, much more defensible, um, actually integrated into the rest of science because this is I feel very strongly about this that these ideas are not just things that you can have philosophical arguments about and then some people say, some people are, you know, I've I've heard this too, uh,
+
+Unknown speaker 31:00 
+I'll give a talk and then some people say, uh, wow, we we we love the new data and the new capabilities, but we wish you'd stop talking about all this philosophical stuff, like it's it's it's like we you know, we don't like it.
+
+Unknown speaker 31:13 
+It's just stop talking about all that, just do the experiment.
+
+Unknown speaker 31:18 
+And and my point is, yeah, no, there's a reason why nobody did these experiments before, and that's because the philosophy is actually really critical to being being able to have these kinds of ideas, right?
+
+Unknown speaker 31:24 
+And so, um, making all this testable and uh, connected to the rest of the scientific enterprise where, you know, for example, my my my, you know, unusual views on uh, cellular agency and all that,
+
+Unknown speaker 31:37 
+they actually have specific implications for regenerative medicine.
+
+Unknown speaker 31:41 
+And if you're into regenerative medicine, you can't really ignore all this stuff.
+
+Unknown speaker 31:45 
+It's part of, you know, and and and hopefully it'll it'll it'll be, you know, even more um, uh, kind of uh, impactful if once once we, you know, once we get closer to actual uh, clinical applications.
+
+Unknown speaker 31:57 
+So, so I'm just super excited.
+
+Unknown speaker 32:00 
+I think I think each of these people that you mentioned has a really uh,
+
+Unknown speaker 32:03 
+amazing grasp on multiple fields, you know, so so so physics and um, um, in the case of Mark, you know, psychoanalysis and and and stuff like that, which I think is very important, you know, computation and and biology.
+
+Unknown speaker 32:18 
+Uh, this is the most exciting area I think there is in science right now is this this weaving together of these of these different areas to to find out what is uh,
+
+Unknown speaker 32:28 
+common to to different kinds of minds and how do we recognize them and how do we build them and how do we relate.
+
+Unknown speaker 32:34 
+Is is there a name for this project?
+
+Unknown speaker 32:35 
+I mean, it seems like such like almost like superheroes coming together.
+
+Unknown speaker 32:43 
+This is like an Avengers assembling to sort of conquer the mind.
+
+Unknown speaker 33:01 
+That's what it feels like to someone like me who's been watching this part of it somehow, but also watching it from the outside.
+
+Unknown speaker 33:05 
+I mean, what what are you guys really doing?
+
+Unknown speaker 33:10 
+What's what's the end goal here at least?
+
+Unknown speaker 33:17 
+Um, I I love that idea.
+
+Unknown speaker 33:24 
+Maybe maybe I can get a mid journey to to to make a to make an Avengers style poster with these guys.
+
+Unknown speaker 33:29 
+That would be that would be fun.
+
+Unknown speaker 33:30 
+Um, let's see.
+
+Unknown speaker 33:35 
+Uh, well, is there a name for it?
+
+Unknown speaker 34:06 
+Um, is there a name and who's part of the team and what what's really happening?
+
+Unknown speaker 34:10 
+Yeah, well, uh, I mean, so, so, so I think, I think one way to name this field is uh, the is it's a field of diverse intelligence.
+
+Unknown speaker 34:17 
+Now, the field of diverse intelligence has lots of, I mean, I'm certainly it's not my job to uh, to say who's in and who's out of what team.
+
+Unknown speaker 34:24 
+There are there are many people uh, that that work on diverse intelligence, right?
+
+Unknown speaker 34:30 
+So you got you got people who work on decoding whale songs and and and and various philosophers and you've got people doing uh, minimal matter, so, you know, these droplets that run mazes and that you know, minimal active matter and stuff like that.
+
+Unknown speaker 34:37 
+Um, molecular chemotaxis.
+
+Unknown speaker 34:40 
+I don't know if if you've seen some of these papers just amazing, you know, you got these individual molecules that can do chemotaxis instead of bacteria doing doing it.
+
+Unknown speaker 34:50 
+Uh, so, so this field is this field is huge and and highly diverse as it should be.
+
+Unknown speaker 34:59 
+Um, and so,
+
+Unknown speaker 35:00 
+I I like if I have to boil it down, sometimes when people ask, I'll say it's a field of diverse intelligence research.
+
+Unknown speaker 35:00 
+bioengineering, that means
+
+Unknown speaker 35:01 
+uh, you know, environmental remediation, all of the all of the things that uh, will improve the lived experience for all all living living beings.
+
+Unknown speaker 35:10 
+and so, so practical applications of these really fundamental questions.
+
+Unknown speaker 35:13 
+Um, I I think we're all sort of working uh towards that in some in some way.
+
+Unknown speaker 35:18 
+I I was curious to ask, I mean, when when Carl mentioned this, my first thought was, I mean, I know how complicated the academic system is in general, getting grants, getting research done, um, you guys are all working on such different and diverse topics in general.
+
+Unknown speaker 35:42 
+How is this accumulation going to occur?
+
+Unknown speaker 35:43 
+I mean, is there some sort of linkage between all of this, or are you guys going separate parts, doing separate work and bringing it all together somehow afterwards, or is this sort of a cumulative journey as well?Um, well, it's it's everything.
+
+Unknown speaker 36:06 
+So it's it's both.
+
+Unknown speaker 36:12 
+So all of them and everybody else in this field has their own uh research programs that they're pushing forward.
+
+Unknown speaker 36:13 
+Um, but we all collaborate and um, there are uh, many different collaborations going on.
+
+Unknown speaker 36:14 
+Uh, I mean, I'm I'm part of some of them, but obviously there are many others that I know about.
+
+Unknown speaker 36:17 
+Uh, and yeah, and we work together.
+
+Unknown speaker 36:21 
+So, so, so Mark and Carl and Chris and I, we we work together and we write papers together.
+
+Unknown speaker 36:22 
+Um, and so, so yeah, I think I think this stuff is just pulling together.
+
+Unknown speaker 36:23 
+And there are many other, many, many other people.
+
+Unknown speaker 36:24 
+I'm I'm super excited how many young people are coming into this field.
+
+Unknown speaker 36:25 
+So this is this is the sort of thing where you can very clearly see that uh, a lot of the resistance that some of the big names in this field and this, you know, some of the traditional people, is matched by the excitement of some extremely bright young people coming into this field that are not um, constrained in the same way.
+
+Unknown speaker 36:47 
+And uh, as as as previous uh, you know, kind of previous folks.
+
+Unknown speaker 37:08 
+And uh, and I think and I think that's very exciting.
+
+Unknown speaker 37:29 
+I think this is going to this is a very rapidly growing field and people are getting into it and and so many I I I receive so many um uh emails and uh from people that have come across this work and and they've sort of, you know, changed their their educational trajectory to kind of enable them to to to go in this in this area.
+
+Unknown speaker 37:30 
+It's it's very exciting.
+
+Unknown speaker 37:31 
+I I also I'm so I'm looking forward to so many new thinkers coming into the field because I was speaking to someone about this not too long ago and when you think about the average student today, I mean, these guys know how to program, they know how to write code, they they they speak so many diverse languages already.So they're coming into this these topics with far more than the average, let's say, philosopher and neuroscientist today, in
+
+Unknown speaker 38:00 
+they peak.
+
+Unknown speaker 38:01 
+has.
+
+Unknown speaker 38:02 
+So it must be super exciting to also look down in some of these guys presentations, knowing what they want to come up with.Um, do you often get that in a day-to-day basis when your students come to you with these phenomenal ideas?
+
+Unknown speaker 37:30 
+Yeah, yeah.
+
+Unknown speaker 37:30 
+I mean, not only my own students, but others, I mean, I get a lot of emails from from people all over the, you know, students all over the world, ones who are attached to some lab and many who are not attached and so on.
+
+Unknown speaker 37:30 
+some of them are, you know, so far ahead of me in terms of uh their mathematical understanding and and things like that and and and so on, which which which is fantastic.
+
+Unknown speaker 37:30 
+Um, yeah, yeah, I think I think very exciting.
+
+Unknown speaker 38:14 
+and uh, you know,
+
+Unknown speaker 38:15 
+part of the challenges and I I spend a lot of time actually with with with these people who who contact me for this who who need this kind of thing.
+
+Unknown speaker 38:23 
+Uh, the challenges to maintain that level of creativity while going through the traditional academic educational system because it it it it has a way of uh, um,
+
+Unknown speaker 38:36 
+sanding down the, you know, the interesting bits uh kind of so to speak and and and grinding people down in an important way, you know,
+
+Unknown speaker 38:41 
+some some, you know, some very impractical ways by making them spend time on on specific things and some uh, in some ways just uh,
+
+Unknown speaker 38:45 
+you know, intellectually because of feedback they get from from traditional
+
+Unknown speaker 38:46 
+those, you know, traditional thinkers and so on.
+
+Unknown speaker 38:50 
+Um, it's it's it's a challenge, you know, it's a challenge and some of these people are so incredibly bright.
+
+Unknown speaker 38:56 
+It's actually difficult for them to navigate the system with with us average, you know, sort of Joes.
+
+Unknown speaker 39:03 
+Uh, and some of whom and and and and, you know, many people um,
+
+Unknown speaker 39:07 
+can be quite uh, in this in this field, you know, you need a thick skin, right?
+
+Unknown speaker 39:11 
+This is a lot of people can be can be pretty pretty hostile, you know, and and mean and and when you're young,
+
+Unknown speaker 39:17 
+you have to, you have to learn pretty quickly to uh, you know, kind of let that let that roll off, you know?
+
+Unknown speaker 39:24 
+I mean, I can imagine the difficulty they're faced with because,
+
+Unknown speaker 39:26 
+I mean, just even as as a medical doctor when if I talk to people within the medical field about differences in consciousness, I mean, they only think about it from a quantifiable perspective, level of consciousness, that's it.
+
+Unknown speaker 39:38 
+Um, the attention they pay to the contents of consciousness or experience in general, it's not as vast.
+
+Unknown speaker 39:41 
+I mean, life or death, it's it's it's the binary exclusion, living versus non-living, cell versus no cell.
+
+Unknown speaker 39:48 
+Uh, it's a very clear pattern the way they sort of train, get trained and how you're forced to think at that point.
+
+Unknown speaker 39:57 
+It's very much ingrained into you from the very beginning.Um, you feel that this is a big hindrance with us?
+
+Unknown speaker 40:00 
+in general.
+
+Unknown speaker 40:01 
+And then and your work's clearly trying to push towards a more diverse view of this.
+
+Unknown speaker 40:06 
+Yeah, yeah.
+
+Unknown speaker 40:07 
+I mean, I don't I don't have much to say about um, specifically medical education because I'm not an MD and I haven't been through med school and so on.
+
+Unknown speaker 40:15 
+But um, uh, although I did my PhD out of medical school, uh, so so I kind of know a little bit about it.
+
+Unknown speaker 40:22 
+But but the thing is that there are there are a lot of incentives uh, not to think in new ways.
+
+Unknown speaker 40:30 
+And a lot of very strong personalities uh, who will give young people advice on how to think and what to think about.
+
+Unknown speaker 40:38 
+And and what I tell my students leaving the lab is there there's basically two kinds of advice.
+
+Unknown speaker 40:44 
+There's specific advice on specific experiments and and approaches and and those those kind of criticisms, that's gold, right?
+
+Unknown speaker 40:54 
+So so you need to pay a lot of attention to that because because it helps you um hone your craft and get better at what you're doing.
+
+Unknown speaker 41:00 
+And so so any critiques of very specific um experiments or lines of reasoning or whatever, like that's great.
+
+Unknown speaker 41:06 
+Then then there's the other stuff, which is kind of the meta advice.
+
+Unknown speaker 41:14 
+But and by the way, everything I'm saying now is an example of that, so you know, people should feel free to ignore that too.
+
+Unknown speaker 41:24 
+But but but the but the meta advice is uh, do this, don't do that, think of it this way, don't think of it that way, don't talk about this, don't talk about that.
+
+Unknown speaker 41:32 
+That kind of stuff, I feel uh, hardly anybody is um, well, well, first of all, no one has a crystal ball, okay?
+
+Unknown speaker 41:38 
+And we are all calibrated on the things we're interested in and we, you know, successful, successful people are very well calibrated on whatever it is that they care about and and they're successful in that field.
+
+Unknown speaker 41:47 
+That doesn't mean anything about whether they're calibrated on your ideas, right?
+
+Unknown speaker 41:51 
+And and it's and in fact, I I I've found that a lot of um, pioneers who have had brilliant ideas and have thought through and, you know, sort of um, uh, spent a lot of energy in their life pushing some some some new idea.
+
+Unknown speaker 42:06 
+Those people are often the most resistant to other new ideas.
+
+Unknown speaker 42:15 
+It's amazing.
+
+Unknown speaker 42:25 
+I I didn't know that when I was young, but I really, you know, I I kind of thought that somebody, somebody who was such an avant-garde thinker in this way would surely they're like my new idea.
+
+Unknown speaker 42:39 
+No, they often don't.
+
+Unknown speaker 43:00 
+They like their new idea, but but but but if we if we talk about uh, you know, so so my first um, undergraduate uh, mentor who uh, I was a computer science student and she she took me into her lab and allowed me to do bio the first um, real biology experiments.
+
+Unknown speaker 43:06 
+I had done stuff at home, but this was like, you know, real, real biology.
+
+Unknown speaker 43:17 
+Her name was Susan Ernst, um, and she was a she was here at Tufts, um, uh, developmental biologist.
+
+Unknown speaker 43:25 
+And uh, my PhD mentor, Cliff Tabin, and my postdoc mentor, um, uh, Mark Marcola, you know, they were, they were amazing mentors, all of them.
+
+Unknown speaker 43:29 
+The thing is that at but by by then, I had sort of already gotten the idea that it's it's often better not to say too much.
+
+Unknown speaker 43:39 
+And so I went through those stages, uh, not really talking about any of the things that I'm, you know, these these kinds of things, right?
+
+Unknown speaker 43:50 
+I kind of kept my mouth shut.
+
+Unknown speaker 44:00 
+So, um, the people, the the other people that uh, that really have had an influence on me, um, one was Don Ingber, who's uh, he's um, you know, kind of a huge figure in in bio.
+
+Unknown speaker 45:00 
+mechanics and and and the uh the the director of the V Institute at Harvard.
+
+Unknown speaker 45:03 
+He was one of the few people, uh very few people, um early on when I was a grad student there at at Harvard Medical School, who was supportive of me and having new ideas.
+
+Unknown speaker 45:11 
+He was he was pretty much the only person I'd ever talked to about some of this, you know, crazy stuff.
+
+Unknown speaker 45:19 
+Um, and and he was he was one of the few people that was actually positive about, yeah, you you should not give this up, you should keep, you know, you should keep thinking about it.
+
+Unknown speaker 45:34 
+It's fine that everybody else thinks it's not, so like that's okay.
+
+Unknown speaker 45:34 
+Um, you know, honing your craft and and and so on.
+
+Unknown speaker 45:34 
+Um, you know, another person is Len on, so Len on works on cancer and zebra fish also at Harvard Med school, um, uh, just just the most amazingly supportive, uh, you know, top of the line researcher, but just really, really supportive, really kind.
+
+Unknown speaker 45:54 
+Um, yeah, that's that's very important, you know, having having people like that is is really important, yeah.
+
+Unknown speaker 45:54 
+Um, just making notes of their names because I want to check their work out as well.
+
+Unknown speaker 45:58 
+Uh, you mentioned a couple things.
+
+Unknown speaker 46:00 
+Uh, you mentioned technological approach to mind, which at some point I want to touch on.
+
+Unknown speaker 46:05 
+But in keeping with Mark, I remember once you and him having a conversation about homeostasis in general.
+
+Unknown speaker 46:22 
+And I mean, this seems to be a very important asset or facet, sorry, of of what we're trying to achieve, these goal oriented behaviors.
+
+Unknown speaker 46:36 
+It's clearly a way to get us um, homeostatic in a sense.
+
+Unknown speaker 46:43 
+At some point you and Mark, you don't necessarily disagree, but I I remember him mentioning the fact that, okay, he does consider this to be a very ancient process.
+
+Unknown speaker 46:53 
+It's been happening back in time for millennia and it still happens from birth to to adulthood, I would say.
+
+Unknown speaker 47:00 
+But he's concerned that at some point your approach becomes a little bit more panpsychist with this technological approach of mind everywhere.
+
+Unknown speaker 47:03 
+Uh, how do you, how do you see it?
+
+Unknown speaker 47:05 
+Do you see it becoming that way at any point or or how have you really began to frame the frame this philosophically?
+
+Unknown speaker 47:10 
+Um, I I don't I don't disagree that it's that it's panpsychist, um, except that there's two different ways to do panpsychism.
+
+Unknown speaker 47:10 
+the the traditional way is to say, here's all of traditional physics and all of standard normal physics, and also, I'm going to paint some stuff onto these electrons and things that are, you know, sort of little tiny hopes and dreams that that the electrons have, right?
+
+Unknown speaker 47:38 
+So that's one that's one way of doing it.
+
+Unknown speaker 47:40 
+That I I don't I don't like that way and that's that's the thing that most people I think have in mind when they object to panpsychism.
+
+Unknown speaker 47:40 
+Um, because having a perfectly good physics that works and then saying, okay, now I'm going to add a bunch of stuff to it that doesn't do anything, but you know, it's sort of there.
+
+Unknown speaker 47:50 
+Uh, yes, that's that I think is is problematic.
+
+Unknown speaker 47:57 
+But there's a but another way and I think um, I mean, I don't know, but I I think that uh, at this point Mark probably I I would think that doesn't disagree with this, but but maybe, you know, we can we can ask him.
+
+Unknown speaker 48:04 
+I'll be seeing him next week, so we can ask him afterwards.
+
+Unknown speaker 48:04 
+Yeah, yeah, yeah, we can we can talk about this.
+
+Unknown speaker 48:07 
+Um, the the the other uh the other type of panpsychism is what Chris and and um and Carl Friston are doing, which is to reformulate basic physics as fundamentally first a uh a protocognitive process.
+
+Unknown speaker 48:13 
+See, that's a completely different different kettle of fish because what you're saying there is, it's not that the traditional physics is a okay and I want to, I want to add some stuff to it that we don't really need.
+
+Unknown speaker 48:13 
+What you're saying is, no, actually, traditional physics is a um, uh, an edge case of to systems that have a a certain level of of cognition, but actually those systems and and also all the very complex stuff eventually leading up to humans and beyond, uh, are actually features of a much of a deeper underlying reality.
+
+Unknown speaker 49:00 
+And and the the useful thing about panpsychism is that it needs to be uh, it needs to have an empirical component.
+
+Unknown speaker 49:07 
+So when somebody says, you know, well, how about this rock?
+
+Unknown speaker 49:10 
+Does this rock have have a mind?
+
+Unknown speaker 49:10 
+Yes.
+
+Unknown speaker 49:10 
+Well, how about this one?
+
+Unknown speaker 49:10 
+Oh, definitely.
+
+Unknown speaker 49:10 
+Well, what's the difference?
+
+Unknown speaker 49:10 
+I don't know.
+
+Unknown speaker 49:10 
+So, right?
+
+Unknown speaker 49:10 
+So, so that that doesn't work.
+
+Unknown speaker 49:10 
+But but but but having a um, uh, an empirical set of tools that tell you under what conditions do you ascribe different kinds of minds to specific uh, systems, right?
+
+Unknown speaker 49:37 
+And what what what how why, you know, what what's a what's a principled way to ascribe mind to and what kind of mind and so on.
+
+Unknown speaker 50:00 
+Whatever concepts you're you're pushing have to have a practical implication and they need to help you do better in the real world.
+
+Unknown speaker 50:06 
+Right.
+
+Unknown speaker 50:07 
+That's that's the beauty of engineering is that we get to find out who's right and who's wrong by by doing experiments and by seeing what these various views allow you to do, what what do they facilitate for research and so on.
+
+Unknown speaker 50:18 
+when it comes to panpsychism, I mean, Philip Goff's often spoken about in this realm of panpsychism, is there any point with these philosophy where you completely disagree or do you feel like his philosophy will sort of fit into your scientific worldview somehow?
+
+Unknown speaker 50:33 
+Uh, I must say, I I don't know everything that he says, so I think I need to uh, in fact, I I have it uh, you know, on my calendar to us try and get a conversation with him and really sort of drill down to see where where we agree and disagree, so I don't know.
+
+Unknown speaker 50:47 
+The reason why I'm asking is because I asked Caldas and I and I found it very fascinating because there is that element behind the philosophical process behind the science, science beyond this.
+
+Unknown speaker 50:58 
+But when I when I put forward this idea, if we when you think about these prior information that you take in and you make out these posterior conclusions, if you take illusionism as a theory of consciousness, which I'm starting to see and empathize with what Philip was once saying.
+
+Unknown speaker 51:07 
+He once mentioned that if not for panpsychism, he feels that illusionism as a theory of consciousness or this introspective illusion on how we perceive this, is the most coherent argument a when he does not consider his own of panpsychism.
+
+Unknown speaker 51:24 
+I've been thinking, how can you go jump from consciousness everywhere to nothing at all.
+
+Unknown speaker 51:29 
+But then when I asked Colder about this, I said, if the prior information consistently tells us we're conscious, um, we're not conscious, sorry.
+
+Unknown speaker 51:37 
+Sorry, if if the prior information tells us that we are conscious, um, but yet we don't technically have this definition for what consciousness is, and if we're slowly blurring this line, at some point, wouldn't it be okay to then say that we there is an illusion happening here.
+
+Unknown speaker 51:45 
+There is no definite essence of consciousness per se, but there is this definitive continuum of experience and we don't really have an answer to.
+
+Unknown speaker 52:00 
+In that case, would it then be considered a version of illusionism?
+
+Unknown speaker 52:09 
+He basically said yes, but I don't think I'm really explaining it as well as I should.
+
+Unknown speaker 52:10 
+Well, uh, the thing the thing about illusions is, uh, let's let's try to define it and and in order to define it, we need to think about what the alternative would be.
+
+Unknown speaker 52:20 
+And it's and it's similar to sometimes as people ask me, uh, is it possible that we're living in a simulation that all this is you know, that reality isn't what we and and if you think about it, it's not just possible, it's guaranteed.
+
+Unknown speaker 52:30 
+There's no other way it could possibly be because because if you think about, you know, what what is the opposite of that?
+
+Unknown speaker 52:35 
+The opposite of that is that um, you somehow have a a a physically embodied cognitive structure that is able to is not limited in its sensory perceptions, it's not limited in the amount of memory and the amount of computations.
+
+Unknown speaker 52:40 
+I mean, all of us are limited beings, all of us evolved under constraints of time and energy and everything else.
+
+Unknown speaker 52:45 
+We see a tiny little narrow slit in the electromagnetic spectrum, we have a few other things like uh chemical senses of of things that are right there on your, you know, on your tongue and on your fingers and so on.
+
+Unknown speaker 52:50 
+Uh, and we have a little bit of memory and you know, we have this wet squishy substrate that's very error prone and needs to be constantly maintained and all our memories have to be actively, you know, sort of rewritten and all that.
+
+Unknown speaker 52:54 
+Uh, but there's also another sense which is which is interesting, which is that um, and it's funny, a lot of people actually catch on to this without my having talked about it, you know, publicly, which is I get a lot of emails from therapists and psychoanalysts and people who do counseling and things like that and it's and I'm you know, I'm always interested like, how did you, like, you know, I don't work in those fields, I don't have anything to say about that specifically.
+
+Unknown speaker 59:59 
+Yeah.
+
+Unknown speaker 01:01:00 
+you know, you you can't just be thinking about how I'm going to how am I going to control all the all the people, you know, around me, right?
+
+Unknown speaker 01:01:05 
+That like that's yeah.
+
+Unknown speaker 01:01:06 
+And and so and so the thing is that
+
+Unknown speaker 01:01:08 
+I think the next version of this, which which I'm working on, but but the early one had to come out first to kind of nail this part down,
+
+Unknown speaker 01:01:15 
+is it's not just about control.
+
+Unknown speaker 01:01:25 
+Control is again, this this slider that go there's a there's um uh a spectrum of agency.
+
+Unknown speaker 01:01:25 
+And the more you go to the right, the more control is in terms of in in terms of this one directional you know, um relationship with the system becomes a bidirectional relationship where I get something back from the from the agency of the system I'm working with.
+
+Unknown speaker 01:01:41 
+Not so much, you know, you're not going to hear much for about the hopes and dreams of the bowling ball, but by the time you get to the right side,
+
+Unknown speaker 01:01:46 
+you're really having relationships that are very bidirectional.
+
+Unknown speaker 01:01:52 
+It's not about control.
+
+Unknown speaker 01:01:52 
+It's about it's but but it but again, everything starts out with this
+
+Unknown speaker 01:01:56 
+with this more general question of what's the right way to relate to that system.
+
+Unknown speaker 01:02:01 
+And and another way to think about it, a very simplistic sort of uh way to think about it is, you know, you're going to Mars, you're going to spend some amount of time there, maybe the rest of your life,
+
+Unknown speaker 01:02:08 
+what kind of system do you want with you?
+
+Unknown speaker 01:02:14 
+Do you want a Roomba?
+
+Unknown speaker 01:02:16 
+Do you want a dog?
+
+Unknown speaker 01:02:19 
+Do you want a human?
+
+Unknown speaker 01:02:20 
+Do you want some sort of superhuman whose goals just imagine uh, you know, uh, if there was some other creature who had these galactic level goals that you couldn't even begin to understand, like would that be fun?
+
+Unknown speaker 01:03:00 
+you know, wheels and tempicals, I don't know.
+
+Unknown speaker 01:03:03 
+I don't know what the hell will happen.
+
+Unknown speaker 01:03:04 
+You know, what and and and so some people say that's terrible.
+
+Unknown speaker 01:03:04 
+So, so one question is humanity, does that mean I have a standard human anatomy?I I I don't really care about that, right?
+
+Unknown speaker 01:02:30 
+that doesn't, you know, maybe other people do, I don't care about that at all.
+
+Unknown speaker 01:02:30 
+Uh, or some people say, well, what's important about being human is the is the genome, you know, the human genome.
+
+Unknown speaker 01:02:30 
+I I I I don't care about the genome at all.
+
+Unknown speaker 01:02:30 
+And so, and so now, and so now,
+
+Unknown speaker 01:02:30 
+do you care about when you know, if you're going to marry someone or you're going to spend some time on Mars with someone, what is it that you really want, you know, what is the what is the and and I think what you really want is um,
+
+Unknown speaker 01:03:15 
+you want to make sure that your uh cognitive like and specifically the the compassion part of the cone matches.
+
+Unknown speaker 01:03:23 
+You want to know that this being has the capacity to care about the same amount of stuff that you care about.
+
+Unknown speaker 01:03:29 
+So if it's, you know, if it's a if it's a Roomba or it's or or it's a, you know, it's a cat or a snake or something, like that's better than nothing, but it's really not sufficient.And you want at least that so so when I see proof of humanity, here's what I want.
+I want at least a standard modern humans level of possible compassion.
+I want somebody that is capable of caring about the rough.
+
+Unknown speaker 01:03:45 
+the same amount or or more, more is always good.
+
+Unknown speaker 01:03:48 
+Uh, you know, uh, about the same amount of stuff.
+
+Unknown speaker 01:03:51 
+And so, and so that's what to me that's what this is about, it isn't just about engineering control, it's about having the right impedance match for a relationship, you know?
+
+Unknown speaker 01:03:59 
+And you want something that uh,
+
+Unknown speaker 01:04:00 
+has the same existential this is what I think, this is just, you know, this is just my my my own thinking, is that
+
+Unknown speaker 01:04:05 
+you want something that has the same existential problems that you do.
+
+Unknown speaker 01:04:09 
+You if if a system like uh,
+
+Unknown speaker 01:04:11 
+you know, if you had some sort of um, uh, robotic system that didn't have to put.
+
+Unknown speaker 01:04:44 
+itself together during embryogenesis, never had to decide where do I end and the outside world begins.
+
+Unknown speaker 01:04:49 
+It doesn't have any issues of of um needing to keep itself up with metabolism or it'll die, you know, things like that.The systems that didn't go that that don't go through the same existential uh questions and concerns that that we go through are not ideal for that kind of relationship.
+
+Unknown speaker 01:04:22 
+This is this I think is what people are really I don't I don't think they really mean the genome, I don't think they mean the anatomy, you know.
+
+Unknown speaker 01:04:22 
+I said to um other people who uh who who do talk about, you know, anatomy and and things like that.
+
+Unknown speaker 01:06:00 
+I'll say, look, your spouse comes home one day and they say, um, you know what?
+I've had I've had some toes swapped, you know, I went to the doctor to have to have some my my toes are bionic, all right, like, who cares.
+And then they say, well, actually, you know what?
+I also had a bunch of other internal organs swapped out, like, yeah, all right.
+Uh, no, at what point, at what at what point do you say, okay, now, now this is no longer like, you know, I'm no we're no longer married, you know, this is not going to work.
+And and I don't think it has anything to do with your genome or or what the anatomical structures you have, but but once you get to the point where uh, it's it's it's that amount of um care, you know, the the the cone of caring and compassion that you can generate, if that if if that isn't there, and if this like these fundamental being able to have the same existential, you know, concerns and and preferences and all that, that that's that's where it's at.
+That that's where you want to have a match.
+So, so I think it's about relationships, not just about control.
+
+Unknown speaker 01:06:11 
+I mean, I love that, but do you ever get concerned with with the possibility that perhaps, let's say a
+
+Unknown speaker 01:06:14 
+I'm
+
+Unknown speaker 01:06:14 
+Just trying to think of the most the random example.
+
+Unknown speaker 01:06:15 
+Let's say you've got a communist and a
+
+Unknown speaker 01:06:15 
+and someone who's completely on the other side of the fence.
+
+Unknown speaker 01:06:15 
+at what point would you say social or psychosocial aspects would play a big role in differentiating a human and that regard?
+
+Unknown speaker 01:06:30 
+Uh,
+
+Unknown speaker 01:06:31 
+sorry, I'm not sure I understand the question.
+
+Unknown speaker 01:06:33 
+Say again?
+
+Unknown speaker 01:06:34 
+So, let's say,
+
+Unknown speaker 01:06:35 
+two people who've got fundamentally different um, social views,
+
+Unknown speaker 01:06:39 
+in terms of trying to live together, show compassion, show love, the diversity, let's say of values.
+
+Unknown speaker 01:06:44 
+How would it implicate, how what what philosophical or scientific implications would this have on the on your framework.
+
+Unknown speaker 01:06:52 
+I see.Uh, so, so my framework isn't a sufficient condition, it's a necessary condition.
+
+Unknown speaker 01:06:15 
+So, so it still might be that your cognitive like cones are similar in size, but you're not a good match because you have
+
+Unknown speaker 01:06:52 
+for, you know, radically divergent political views or something.
+
+Unknown speaker 01:06:55 
+I mean, that's possible.
+
+Unknown speaker 01:06:58 
+I'm not I'm not saying that it's sufficient to have uh, you know, but but but on the other hand, if you think about it, uh, and I don't know, I guess different people will answer this differently, but if you were going to Mars and you had a choice between going with something that had no political views, a toaster and and that's it and you would never, you you couldn't agree on anything, but you also wouldn't disagree on anything, right?
+
+Unknown speaker 01:07:09 
+You you you know, it's a it's a toaster oven.
+
+Unknown speaker 01:07:10 
+Uh, or you're going with someone who has your level of uh, of cognitive of like, but they they have a different perspective on things and, you know, is that better or
+
+Unknown speaker 01:07:30 
+Of course, you know, after
+
+Unknown speaker 01:07:32 
+how much time do you want to spend
+
+Unknown speaker 01:07:33 
+with a person who disagrees with you versus with
+
+Unknown speaker 01:07:35 
+with something that has zero opinions at all.
+
+Unknown speaker 01:07:36 
+I I don't know.
+
+Unknown speaker 01:07:37 
+Some people might prefer the toaster, I suppose.
+
+Unknown speaker 01:07:39 
+I I don't know.
+
+Unknown speaker 01:07:40 
+But but the the point is um,
+
+Unknown speaker 01:07:42 
+I think it's a I think it's a necessary condition, not a sufficient one to get along.
+
+Unknown speaker 01:07:45 
+But but but it's so and and of course, I mean, I what do I know about
+
+Unknown speaker 01:07:48 
+I'm not telling anybody how to get along with anybody, but I'm just saying that that uh the idea of how do you optimally and ethically relate to another system requires you to ask what level of cognition it has and that will determine what.
+
+Unknown speaker 01:08:14 
+types of interactions you're likely to have, you know.
+
+Unknown speaker 01:08:16 
+I think of that William James definition plays a huge role.
+
+Unknown speaker 01:08:20 
+I mean that goal directedness
+
+Unknown speaker 01:08:21 
+of trying to accomplish something together plays a fundamental role in this.
+
+Unknown speaker 01:08:25 
+Yeah.obviously bring the bring the units together.
+
+Unknown speaker 01:08:28 
+When when thinking when we talk about Mars and this this potential, when you look at Mars as a place for us to go, I mean just off topic a little.
+
+Unknown speaker 01:08:35 
+Uh from a from a developmental biology background for someone so well versed in in biology, what are your thoughts on that?Uh, boy, well, this is outside my expertise.
+
+Unknown speaker 01:08:07 
+I don't I don't I don't know anything really about about that stuff.
+
+Unknown speaker 01:08:45 
+only kind of generic
+
+Unknown speaker 01:08:47 
+thing I can say is that my gut feeling is that biology is incredibly adaptable and that with some help, uh,
+
+Unknown speaker 01:08:54 
+I, you know, I'm I I guess I guess all I'm saying is I to you know, there there are some people that say that fundamentally we are never going to be able to live in these environments for various reasons.
+
+Unknown speaker 01:09:01 
+And just
+
+Unknown speaker 01:09:02 
+my my gut feeling is that that's wrong.
+
+Unknown speaker 01:09:05 
+I I think I think we will.
+
+Unknown speaker 01:09:06 
+But but but I have no expertise in this whatsoever.
+
+Unknown speaker 01:09:07 
+So there's, you know, take that with uh, every grain of salt.
+
+Unknown speaker 01:09:08 
+Uh, Mike, when when we try our best to define selves, uh,
+
+Unknown speaker 01:09:44 
+intelligence, cognition.
+
+Unknown speaker 01:09:46 
+We're obviously faced with these barriers and and it becomes clear that there's no the sort of phase transitions that are occurring.
+
+Unknown speaker 01:09:53 
+I mean, this is clearly a continuum.
+
+Unknown speaker 01:09:54 
+when you look at certain neuro certain computational theories and and mathematical concepts, they they often with when it comes to computing and artificial intelligence, they they seem to claim that there are certain phase transitions that occur that make certain systems more complex than others within the mathematics.What are your thoughts on that?
+
+Unknown speaker 01:09:22 
+Do you have any opinion on that?
+
+Unknown speaker 01:09:22 
+Because I know certain mathematicians will often say this, that there is a certain phase transition that occurs here.
+
+Unknown speaker 01:09:22 
+Does it apply to
+
+Unknown speaker 01:10:00 
+ology or life.
+
+Unknown speaker 01:10:01 
+Yeah, yeah, no, well there
+
+Unknown speaker 01:10:02 
+there are there certainly seem to be phase transitions in mathematics and logic.
+
+Unknown speaker 01:10:06 
+I mean, one of the few definitive kinds of uh phase transitions that I know of are some is something like a logical proof, right?
+
+Unknown speaker 01:10:17 
+If you like, you know, let's say it's got three you know, three three parts to the proof,
+
+Unknown speaker 01:10:22 
+as soon as you have all three parts, that thing is locked solid.
+
+Unknown speaker 01:10:26 
+And if you don't have the three parts, you have nothing, and there is no in between,
+
+Unknown speaker 01:10:30 
+right?
+
+Unknown speaker 01:10:30 
+I mean, this fuzzy logic and stuff like that, but but but under under standard uh logic, uh, you know, you either have you either have the argument or you don't and and that's that.
+
+Unknown speaker 01:10:39 
+So, so I think there are things like that.
+
+Unknown speaker 01:10:42 
+And and I'm not even, you know, I'm not even against phase transitions in biology.
+
+Unknown speaker 01:10:47 
+I mean, I do think the the fact that there's a continuum doesn't mean that, you know, we don't have kind of cognitive capacities that a that a sea slug is just not going to have, right?
+
+Unknown speaker 01:11:00 
+I mean, that's, you know, we we we we do.
+
+Unknown speaker 01:11:01 
+But the question is,
+
+Unknown speaker 01:11:05 
+I'm not even sure what, I mean, what what is a what is a good description of a phase transition.
+
+Unknown speaker 01:11:11 
+So, so imagine uh, you know, you have some sort of parameter and as you change the parameter, eventually, boom, something happens, right?
+
+Unknown speaker 01:11:18 
+So, so you can ask yourself,
+
+Unknown speaker 01:11:20 
+what's a good description of that because if if I can say in detail exactly why it is that at a certain level of that parameter something happened,
+
+Unknown speaker 01:11:33 
+then it's not really an emergent phase transition because you have the smooth story.
+
+Unknown speaker 01:11:35 
+You can say, well, it was here, here and that this point now it's here and so on.
+
+Unknown speaker 01:11:40 
+Okay, but if you don't do that, then you really don't have any explanation at all.
+
+Unknown speaker 01:11:45 
+So, so what is, you know, what is an ideal
+
+Unknown speaker 01:11:46 
+you know, it it's one of those things that once you have a detailed explanation of it, it seems to kind of go away in some important sense.
+
+Unknown speaker 01:11:59 
+And so from that perspective, it's almost like a it's almost like a statement of um, I don't want to say a statement of ignorance, but but it's a it's a statement that works well on one level and then like many things disappears when you sort of look at look much closely, much more closely.
+
+Unknown speaker 01:12:16 
+And the other thing is for for a lot of these things, the scale is very relative.
+
+Unknown speaker 01:12:21 
+So for so for example, um, somebody will say, you know, the human brain does this and that and I'll say, okay, so, so in embryonic development,
+
+Unknown speaker 01:12:30 
+you know, you used to be one cell, when when did this human brain, you know, show up?
+
+Unknown speaker 01:12:34 
+And I say, wow, when the, you know, I don't know, I'm making this up, but like when the front cortex develop, okay, but that takes months.
+
+Unknown speaker 01:12:42 
+So like when exactly?
+
+Unknown speaker 01:12:44 
+And I say, well,
+
+Unknown speaker 01:12:45 
+right?
+
+Unknown speaker 01:12:50 
+So, so, so on a, so you step back and you and and you and it certainly looks sharp, but when you zoom in a little bit, you find out that, yeah, every second of development, some cells are dividing and some other stuff is happening, like it's a, you know, if you zoom in, it's a nicely smooth process and there's nowhere that you can just draw a sharp line.
+
+Unknown speaker 01:13:02 
+So, yeah, it's like like many things, I think it's in the eye of the beholder.
+
+Unknown speaker 01:13:04 
+Do you think one of those, one of the concepts that we often talk about within understanding the concept of self, consciousness, etc, that might also benefit from this continuum viewpoint would be language.
+
+Unknown speaker 01:13:48 
+Do you think that because because a lot of people often say that look, there'd be no way for them to sort of articulate any of these thoughts without this this phenomenal, this phenomenon of language.
+
+Unknown speaker 01:14:00 
+What does your work have anything to do with this at any point?
+
+Unknown speaker 01:14:04 
+Do you feel like it addresses that?
+
+Unknown speaker 01:14:05 
+Yeah.
+
+Unknown speaker 01:14:05 
+Yeah, interesting question.
+
+Unknown speaker 01:14:06 
+Um, yeah, I don't have enough expertise in language specifically to to to say much with certainty.
+
+Unknown speaker 01:14:14 
+Um, put it this way, uh, I I as as much as I like uh, you know, non-neural cognition and and the wisdom of the body and all those things, uh, I don't have any reason and I've never claimed that the other organs in the body use language in the way that the brain does.
+
+Unknown speaker 01:14:30 
+I mean, I do think they solve problems, I think they have memories, I think they have preferences and so on, but I don't have any reason to think they use language in the way that the brain does.
+
+Unknown speaker 01:14:43 
+Um, I'm not saying it's impossible, I'm just saying there's no uh, I don't know of any evidence for it.
+
+Unknown speaker 01:14:59 
+So, yeah.
+
+Unknown speaker 01:15:00 
+uh,
+
+Unknown speaker 01:15:01 
+can generate and I'm not sure that other organs can do it.
+
+Unknown speaker 01:15:03 
+So, um, but but again, that's that you know, not really my.
+
+Unknown speaker 01:15:07 
+So
+
+Unknown speaker 01:15:08 
+so your work, as we know, it touches on so many different fields, at some point it goes into limb regeneration.
+
+Unknown speaker 01:15:14 
+I mean, your understanding of biology and regenerative regenerative medicine at this point is becoming so spectacular.
+
+Unknown speaker 01:15:21 
+Uh, anything within that sphere that you're particularly excited about at this point?
+
+Unknown speaker 01:15:27 
+Well, uh,
+
+Unknown speaker 01:15:28 
+wow, I'm excited about a lot of a lot of the empirical work that we're doing.
+
+Unknown speaker 01:15:32 
+I mean, my goal among among other goals, one of my fundamental goals is to impact human medicine.
+
+Unknown speaker 01:15:40 
+So at some point, I I would love it if if if some of this stuff got into the clinic while while I'm still around.
+
+Unknown speaker 01:15:50 
+I mean, I I think it I think it will get there no matter what, but but it'd be nice to be nice to see it.
+
+Unknown speaker 01:15:51 
+Um, we are working on uh bioelectric approaches to limb regeneration.
+
+Unknown speaker 01:15:55 
+We're uh, you know, I I never give timelines, so I can't I can't know
+
+Unknown speaker 01:16:00 
+ahead of time what's going to happen, but we're we're in mice now.
+
+Unknown speaker 01:16:04 
+Um, we're working in uh, we've got some work on bioelectrics of cancer in human cells now, so you know, kind of moving moving from frog onwards.
+
+Unknown speaker 01:16:14 
+Uh,
+
+Unknown speaker 01:16:30 
+Yeah, very.
+
+Unknown speaker 01:16:31 
+excited about that stuff.
+
+Unknown speaker 01:16:32 
+Uh, very excited about the.
+
+Unknown speaker 01:16:33 
+work on um, uh, synthetic organisms.
+
+Unknown speaker 01:16:35 
+We'll have some really cool work on this coming out in the next probably month or two.
+
+Unknown speaker 01:16:39 
+Um, following up on the on all the Zenbot uh stuff that we've done.
+
+Unknown speaker 01:16:43 
+Um, well, I'm Yeah, I feel like there's a huge amount.
+
+Unknown speaker 01:16:46 
+Sorry.Uh, so I was just saying, I'm looking forward to that.
+
+Unknown speaker 01:16:50 
+Continue.
+
+Unknown speaker 01:16:50 
+I was listening.
+
+Unknown speaker 01:16:52 
+Yeah, yeah, there there yeah, there's going to be there's some there's some amazing stuff in review now and and and lots of other things uh that are in the pipeline that are going to kind of uh come come come out after.
+
+Unknown speaker 01:17:03 
+I'm yeah, I'm pretty excited about it.
+
+Unknown speaker 01:17:04 
+It's it's pretty, you know, it's uh the the the last uh 10% of any paper is always the hardest, you know.
+
+Unknown speaker 01:17:10 
+So, so you, you know, you make a fundamental finding and then you, you know, sort of flesh it out and you kind of already see where what the story is, but then getting into the point where all the sort of eyes are dotted and the tees are crossed and you can actually get it out.
+
+Unknown speaker 01:17:22 
+That takes forever and, you know, that always that that always feels like a long time, but yeah, it it'll get there.
+
+Unknown speaker 01:17:28 
+when you got into this, did you ever feel at any point that you'd be, because moving from this physiological perspective has not taken you into the psychological area like domain.When you get these emails from people asking about these the implications of computational bodies of self and how it can affect us psychologically, did you ever think this would happen?
+
+Unknown speaker 01:18:00 
+to you.
+
+Unknown speaker 01:18:01 
+where were you planning on that or
+
+Unknown speaker 01:18:03 
+is it just something that's occurred over time?Well, uh, so there's two pieces to that.
+
+Unknown speaker 01:17:30 
+The piece uh, so so from from day one, and I'm talking about when I was very, very young, uh, these were the issues that I was interested in.
+
+Unknown speaker 01:17:30 
+So I I was always interested in issues of mind and matter and and and and machines and and programming and living organisms and relationships between alien beings and all this kind of stuff.
+
+Unknown speaker 01:17:30 
+Um, was always interested in that.
+
+Unknown speaker 01:17:30 
+So I'm not at all surprised, although incredibly pleased that the empirical work has actually sort of dovetailed with that.
+
+Unknown speaker 01:18:14 
+that.
+
+Unknown speaker 01:18:14 
+That that doesn't always happen and that, you know, that that's kind of a
+
+Unknown speaker 01:18:18 
+um,
+
+Unknown speaker 01:18:18 
+the the thing that the thing that surprises me still to this day is that any of this uh is actually working to the level that um people are interested in it.
+
+Unknown speaker 01:18:29 
+So I kind of assumed when I was younger that what would happen is uh I would pursue these things on my own, I would be sort of interested in it, but that fundamentally no one would ever
+
+Unknown speaker 01:18:37 
+pay attention, none of it would would develop to the point where anybody would care, and I would code, I would write code for a living, which I used to do and you know, and that that that worked fine.Um, that I would just kind of write code for a living and think about these things in my spare time.
+
+Unknown speaker 01:19:30 
+and and you know, maybe write some some stuff that nobody would ever read.
+
+Unknown speaker 01:19:33 
+So, uh, and you know, and I I was told many times in in grad school that I'd soon be, you know, kicked out and and that would be that and then I and then I would go back to coding.
+
+Unknown speaker 01:19:43 
+And so, so I don't know, to to this day, I find it, I sometimes, I sometimes just kind of stop and think,
+
+Unknown speaker 01:19:47 
+I'm an actual scientist.
+
+Unknown speaker 01:19:49 
+Like that's crazy to think about like and we've done some things that are that are kind of cool and some people care about it.
+
+Unknown speaker 01:19:54 
+It's amazing.
+
+Unknown speaker 01:19:57 
+I'm I'm still amazed by it every day.
+
+Unknown speaker 01:20:00 
+uh,
+
+Unknown speaker 01:20:01 
+they're they're they're brilliant and and very hard working.
+
+Unknown speaker 01:20:03 
+Um, and it would absolutely not happen without them.
+
+Unknown speaker 01:20:05 
+So, so it's not just me.
+
+Unknown speaker 01:20:06 
+I'm sort of the the the tip of the spear of of of an amazing group that uh, I'm I'm super fortunate to work with.
+
+Unknown speaker 01:20:14 
+Um,
+
+Unknown speaker 01:20:15 
+yeah, and and and it is my my boggling, you know, I see stuff on on almost daily basis that, you know, people show me data and and I see things.
+
+Unknown speaker 01:20:22 
+I'm like, you know, uh, just just amazing.
+
+Unknown speaker 01:20:24 
+Um, yeah, it's I mean, what can I say?
+
+Unknown speaker 01:20:29 
+It's the it's the best job in the world.
+
+Unknown speaker 01:20:30 
+Uh, that is zero complaints.
+
+Unknown speaker 01:20:31 
+I mean, there are a lot of hard parts and, you know, people criticize academia, uh, yeah, there's a lot of difficult parts and a lot of things that are um,
+
+Unknown speaker 01:20:38 
+that require uh, lots of effort and uh, are unfortunate in some cases and and probably should be fixed.
+
+Unknown speaker 01:20:44 
+But in the end, uh, I I don't know what else would be a more fun thing to be doing.
+
+Unknown speaker 01:20:50 
+I've got I mean, it's it's truly spectacular, Mike.
+
+Unknown speaker 01:20:54 
+Just keep it up from my side.
+
+Unknown speaker 01:20:55 
+I've got a couple questions here and they're just very like short phrases because I I came across that video a few from the Welly the other day where can cells think.
+
+Unknown speaker 01:21:02 
+I found it was a very wonderful video.
+
+Unknown speaker 01:21:07 
+But just to answer that questions, can cells think, what are what are your thoughts on?
+
+Unknown speaker 01:21:08 
+Well, uh, I mean, uh, you it depends on the definition of think, but I I think in uh, for any useful definition, I think the answer is yes.
+
+Unknown speaker 01:21:18 
+Uh, you know,
+
+Unknown speaker 01:21:19 
+we we can we can come up with definitions that exclude them in principle and we can stick to, you know, somebody somebody could say that that for them thinking has to be some sort of high order, self-aware, I know that I know, you know, whatever.
+
+Unknown speaker 01:21:32 
+Um, I I don't particularly think that's that's a, you know, that's a good definition.
+
+Unknown speaker 01:21:37 
+I I would like a more expansive definition.
+
+Unknown speaker 01:21:43 
+Um, and and under under those kind of definitions, yeah, I think I think absolutely.
+
+Unknown speaker 01:21:44 
+What is the self?
+
+Unknown speaker 01:21:49 
+Well,
+
+Unknown speaker 01:21:50 
+um, uh, and and I'm not claiming to have the I'm not claiming there's one one correct definition, but I'll but I'll sort of try to try to work up a a useful one.
+
+Unknown speaker 01:21:51 
+I think, I think a self is a model created by either some sort of third person uh, observer.
+
+Unknown speaker 01:21:54 
+So that could be a scientist, that could be a con specific, that could be a parasite, that could be a you know, whatever, some some other, some other observer or by the system itself.
+
+Unknown speaker 01:22:00 
+So a self is a is a is a model and it's a bundle that that model is a bundle of a few things.
+
+Unknown speaker 01:22:03 
+It's a guess as to where the boundary is between a system and the outside world.
+
+Unknown speaker 01:22:07 
+It's a guess about the problem spaces in which that agent operates.
+
+Unknown speaker 01:22:10 
+It's a guess about the size of the cognitive like cone that that system might have and it's a guess about the competencies that that system has to get its goals accomplished to the IQ level so to speak.
+
+Unknown speaker 01:22:54 
+And so that that that bundle of things is what a self is and the system itself has the you know, may may have even if it's not second order conscious, meaning that it there may know the system may not have the capacity to think, gee, I'm a self and I meet these criteria like humans can do that, but but many systems can.
+
+Unknown speaker 01:23:10 
+But that's okay.
+
+Unknown speaker 01:23:11 
+They still, they still have uh, internally, they still have a model that allows them to get around the world by uh, by by by being able to demarcate themselves from the rest of it.
+
+Unknown speaker 01:23:23 
+And that's what it takes, you know, um,
+
+Unknown speaker 01:23:26 
+I wrote this down.
+
+Unknown speaker 01:23:27 
+It says, man, a machine, because I know you quoted um, it was a paper published, I can't remember by who.
+
+Unknown speaker 01:23:33 
+Man, a machine, expand.
+
+Unknown speaker 01:23:44 
+Well, um,
+
+Unknown speaker 01:23:46 
+I mean, okay, uh,
+
+Unknown speaker 01:23:50 
+a lot of people are really worried uh, about machine like analogies for humans.
+
+Unknown speaker 01:23:57 
+and and I get it.
+
+Unknown speaker 01:24:00 
+Uh, it's it's one way to be mistaken.
+
+Unknown speaker 01:24:05 
+If you if you use for a system like a human, if you use techniques that are appropriate for the left side of that spectrum where you're dealing with you know, mechanical clocks and things like that.
+
+Unknown speaker 01:24:13 
+Yeah, you're you're going to make uh, you're you're going to have a very suboptimal interaction.
+
+Unknown speaker 01:24:16 
+You're not going to be able to predict and control much, you're going to make many ethical lapses as as we've done uh, in the past.
+
+Unknown speaker 01:25:00 
+can understanding what we are and how to relate to each other.
+
+Unknown speaker 01:25:03 
+The the difference is to understand what kind of machine we are.
+
+Unknown speaker 01:25:05 
+We are, we are amazing, uh, remarkable, ethically important, uh, uh, morally valuable, spiritual machines, that is what we are.
+
+Unknown speaker 01:25:13 
+And, um, trying to, trying to say that we're not machines is, is uh, I think silly.
+
+Unknown speaker 01:25:19 
+But the real question is, what kind of machine?
+
+Unknown speaker 01:25:21 
+Not not the kind that that we've been making since, you know, since uh, the early days of of mechanical clocks and things.
+
+Unknown speaker 01:25:29 
+And I think that um, you know, sometimes uh, uh, when when when I when we talk about this stuff in in uh, if I give a talk to a philosophy group or something,
+
+Unknown speaker 01:25:37 
+one of my first slides is this this guy and it was it's he he was just a, you know, just a a fan who sent me a picture, uh, and I and I use this now.
+
+Unknown speaker 01:25:48 
+He had some surgery on his arm.
+
+Unknown speaker 01:25:50 
+And what you see is and this this kind of gross, but don't worry, like the picture is way, way grosser, but I like to use it to sort of shock people out of this thing.
+
+Unknown speaker 01:25:58 
+Uh, imagine, imagine a human arm and it's and it's cut down the middle and opened up like this, and there's a metallic sort of thing and it's got a bunch of screws in it and the surgeon is in there putting in, you know, he's literally using a socket wrench and he's screwing a bunch of screws in and he's screwed it to the bone and there's some electrodes and a bunch of other stuff.
+
+Unknown speaker 01:26:16 
+Now, none of this would be possible if we weren't to some degree a machine.
+
+Unknown speaker 01:26:21 
+That that much is clear.
+
+Unknown speaker 01:26:22 
+When when when by the time you're using a socket wrench on on something, it it's partly a machine.
+
+Unknown speaker 01:26:27 
+Now, now that's not the same.
+
+Unknown speaker 01:26:30 
+Now when that same person goes to uh therapy afterwards and, you know, and and does psychoanalysis, you're not using a socket wrench at that point.
+
+Unknown speaker 01:26:38 
+It's a different set of tools.
+
+Unknown speaker 01:26:42 
+So so that's the time to to to to not act like a simple machine.
+
+Unknown speaker 01:26:46 
+But you know, you kind of see when you see that picture, like you can you can sort of be philosophically outraged at being called a machine, but if you fall off your bike and you need a metal thing put into your arm, this is what it's going to look like and it's going to be very machine like.
+
+Unknown speaker 01:26:55 
+So, um, and somebody else is going to get an implant in their brain that um,
+
+Unknown speaker 01:26:59 
+secretes serotonin at the right time and helps, you know, uh, overcome some sort of um, you know, um, neurotransmitter imbalance or something.
+
+Unknown speaker 01:27:04 
+These machine aspects are really useful.
+
+Unknown speaker 01:27:15 
+We let's not pretend they don't exist.
+
+Unknown speaker 01:27:16 
+I mean, I completely agree with you.
+
+Unknown speaker 01:27:17 
+Every time if if we're in the orthopedic surgery, it's it's so it's so strange to see it all the time.
+
+Unknown speaker 01:27:23 
+The way orthopedic surgeons literally look like mechanics.
+
+Unknown speaker 01:27:26 
+it's it's uncanny.
+
+Unknown speaker 01:27:29 
+It's strange.
+
+Unknown speaker 01:27:33 
+They've got hammers, drills, it's it's very mechanistic.
+
+Unknown speaker 01:27:35 
+It's it's almost.
+
+Unknown speaker 01:27:36 
+Yeah, but but then and yet though, the the second part to this, so that's the first part to this.
+
+Unknown speaker 01:27:39 
+The second part to this, which which I it always interests me is, you've done all this stuff, and then often the next step is, well, now we let the body heal.
+
+Unknown speaker 01:27:49 
+Well, right?
+
+Unknown speaker 01:27:50 
+And so now, now like like it's going to adjust to all this stuff, all these different things going to happen.
+
+Unknown speaker 01:27:54 
+And like, I'm not touching I'm there's nothing I can do, but you need six months for the body to heal.
+
+Unknown speaker 01:28:00 
+And and during those six months, you're literally relying on the agency of the cells and tissues to do what they need to do.
+
+Unknown speaker 01:28:02 
+In fact, a lot of things that we don't know how to do.
+
+Unknown speaker 01:28:05 
+So, so it's it's both sides, right?
+
+Unknown speaker 01:28:06 
+It's it's it's a machine, it has machine like aspects and it also has agency and it also has various competencies and and it's okay that it's both, you know, it's it's it's okay.
+
+Unknown speaker 01:28:16 
+I like that.
+
+Unknown speaker 01:28:17 
+I like that second part.
+
+Unknown speaker 01:28:18 
+It does.
+
+Unknown speaker 01:28:19 
+It is a good way to think about it.
+
+Unknown speaker 01:28:20 
+Um, it really does help you to sort of think of that concept.
+
+Unknown speaker 01:28:21 
+I wrote here, um, cognition all the way down.
+
+Unknown speaker 01:28:22 
+What about meta cognition all the way down?
+
+Unknown speaker 01:28:58 
+Yeah, um, well, uh, so I'll give you a story.
+
+Unknown speaker 01:29:00 
+Chris Fields first put me onto this years ago.
+
+Unknown speaker 01:29:06 
+Um, you got a bacterium and the bacterium is measuring the local sugar concentration uh or you know, some other nutrient or something.
+
+Unknown speaker 01:29:15 
+and uh, and and it goes up the gradient.
+
+Unknown speaker 01:29:19 
+But if that bacterium encounters some sugar that's actually poisoned, it's it's screwed because because all it does is it has a first order imperative to to kind of increase the the sugar concentration.
+
+Unknown speaker 01:29:34 
+Now, the version of meta cognition in that system would be this.
+
+Unknown speaker 01:29:37 
+You need a system and and this apparently does exist in bacteria already.
+
+Unknown speaker 01:29:41 
+You need a system that doesn't just measure the sugar directly, what it measures is the outcome of the output of your metabolism.
+
+Unknown speaker 01:29:47 
+So that's meta cognition because what you're asking is, how am I doing?
+
+Unknown speaker 01:29:53 
+Like, how's my metabolism doing?
+
+Unknown speaker 01:29:59 
+You and and it's one level above because I I can't tell you how much sugar there is.
+
+Unknown speaker 01:30:00 
+I don't know how much sugar there is, but I can tell you that your metabolism is going great or
+
+Unknown speaker 01:30:00 
+tell you.
+
+Unknown speaker 01:30:01 
+that your metabolism going to be terrible.
+
+Unknown speaker 01:30:02 
+And that's the sort of thing
+
+Unknown speaker 01:30:03 
+that being able to ask questions about yourself and your own state and how things are going is really critical.
+
+Unknown speaker 01:30:10 
+And I would think that that is the beginning of advanced metacognition.
+
+Unknown speaker 01:30:16 
+just having circuits that are not measuring aspects of the outside world, they're measuring aspects of of you and how you're doing.
+
+Unknown speaker 01:30:22 
+And that might be, you know, in bacteria, it might be the output of your metabolism, and in humans, it might be um, the uh,
+
+Unknown speaker 01:30:31 
+how you how how you're doing in some sort of social standing or, you know, how how am I doing in my in my tribe and what do people think of me and all that stuff.
+
+Unknown speaker 01:30:38 
+So, so, you know, um, or am I learning calculus fast enough or whatever, right?
+
+Unknown speaker 01:30:43 
+So, so but but all of that is it it all shares the same underlying concept is that the sensors are not pointing outwards, they're pointing inwards.
+
+Unknown speaker 01:30:50 
+some of these some of these comments I wrote are quite ridiculous.
+
+Unknown speaker 01:30:51 
+For example, I wrote, um, if you regenerate a brain
+
+Unknown speaker 01:30:57 
+of someone, at some point, if you let's say your technology reaches that point,
+
+Unknown speaker 01:31:01 
+would regenerating a brain that's not technically injured be akin to creating a clone of the brain.
+
+Unknown speaker 01:31:11 
+I I I mean it's an interesting question.
+
+Unknown speaker 01:31:14 
+I think that uh, our
+
+Unknown speaker 01:31:30 
+the reason all these puzzles,
+
+Unknown speaker 01:31:31 
+you know, it's like the old,
+
+Unknown speaker 01:31:32 
+I mean, in philosophy has have this for for decades, the the the broken transporter experiment, right?
+
+Unknown speaker 01:31:38 
+So you get in the transporter and it normally just sort of um uh recreates a copy of you somewhere else and it destroys the original and that's fine, but but one day it malfunctions and it forgets it just doesn't destroy the original.
+
+Unknown speaker 01:31:47 
+And now my God, who who is the real me?
+
+Unknown speaker 01:31:49 
+You got clones, right?
+
+Unknown speaker 01:31:50 
+There's a Star Trek episode and everything else.So um uh I mean, all of these all of these issues uh strike us as problems because our vocabulary is bad, you know, we we don't have the right vocabulary.
+
+Unknown speaker 01:31:52 
+for this.
+
+Unknown speaker 01:31:55 
+we can't even handle like
+
+Unknown speaker 01:31:58 
+what happened to you, to the to the you that was a child.
+
+Unknown speaker 01:32:02 
+Where where'd he go?
+
+Unknown speaker 01:32:03 
+Like is he still here?
+
+Unknown speaker 01:32:04 
+Is he not here?
+
+Unknown speaker 01:32:05 
+We we don't, you know, these binary, this binary terminology, you know, you don't have to get really weird with with cloning and transporters and whatnot to already have this problem.
+
+Unknown speaker 01:32:13 
+We we already have this issue that uh we change and uh as a you know, over time we change and I I don't know if I'm the same person that I was, it doesn't the question doesn't really doesn't really make any sense.
+
+Unknown speaker 01:32:16 
+But on a practical level, would you, you know, could you clone
+
+Unknown speaker 01:32:21 
+you know,
+
+Unknown speaker 01:33:00 
+I I I I suspect I I don't know, but I suspect that cloning in the traditional sense where you go from the egg onwards,
+
+Unknown speaker 01:33:07 
+I don't,I don't think you would recover much mental, you know, content.
+
+Unknown speaker 01:32:30 
+But there's a different version, which is what happens in planaria.
+
+Unknown speaker 01:32:30 
+So in planaria, if I train a flatworm on something and then I cut off its head and I keep the tail, and the tail regrows a brand new brain, that new brain will remember the original information, okay?
+
+Unknown speaker 01:32:30 
+McConnell discovered that in the 60s, we demonstrated in 2013, it I mean, it does work.
+
+Unknown speaker 01:32:30 
+So, that means that
+
+Unknown speaker 01:33:14 
+that uh at least in some species,
+
+Unknown speaker 01:33:17 
+some of the information can be stored elsewhere in the body and
+
+Unknown speaker 01:33:20 
+imprinted onto a brand new brain that forms because they have no behavior until a brain shows up, the tail just sits there doing nothing until the brain shows up.
+
+Unknown speaker 01:33:28 
+So, could, you know, could you spread that information to two brains?
+
+Unknown speaker 01:33:35 
+Sure, in planaria, you could cut a worm into 10 pieces,
+
+Unknown speaker 01:33:38 
+they will all recover the information and now you've got 10
+
+Unknown speaker 01:33:42 
+what, clones, kind of, uh, you know,who's the original worm?
+I don't know what, yeah, I don't know what to do with that question.
+I don't I don't think it's, you know, I don't think it's a particular.
+
+Unknown speaker 01:34:30 
+we are
+
+Unknown speaker 01:34:31 
+realistic anymore.
+
+Unknown speaker 01:34:32 
+But um, but but but that technology, you know, I I don't know if humans do this or not.
+
+Unknown speaker 01:34:37 
+Um, the closest, the closest to this, the closest data to this in humans that I know of has to and this is very um, I don't know if preliminary is the right word, but but it's, you know, there there aren't good studies on this yet, uh, although I think at some point there will be, but there have been anecdotal reports of um, personality transfer during heart lung transplants.
+
+Unknown speaker 01:34:59 
+and so I think I don't know if this is real.
+
+Unknown speaker 01:35:00 
+of
+
+Unknown speaker 01:35:01 
+what happens to
+
+Unknown speaker 01:35:02 
+I mean, there's another version of your question, which is
+
+Unknown speaker 01:35:04 
+when we figure out brain brain uh regeneration and repair,
+
+Unknown speaker 01:35:07 
+if you've got a 60 or 70 year old patient with uh, you know, decades of specific memories and then you see their brain with new stem cells or something or you trigger regeneration of new neurons,
+
+Unknown speaker 01:35:19 
+what happens to their personality, you know, what happens to their memories.
+
+Unknown speaker 01:35:22 
+I I suspect it'll be fine based on Planaria.
+
+Unknown speaker 01:35:26 
+I actually think it'll be fine,
+
+Unknown speaker 01:35:26 
+but but we don't know.
+
+Unknown speaker 01:35:30 
+We don't know how that plays out in in in mammals yet.
+
+Unknown speaker 01:35:31 
+Uh, here wrote teleonomy and teleology, because I know there's you talk about that teleonomy.
+
+Unknown speaker 01:35:38 
+And I'd love for you to explore that because I think it's pretty cool when you, because a lot of scientists try and avoid this topic, the passion.
+
+Unknown speaker 01:35:44 
+And and the fact that you're able to communicate this, because I'm often fascinated by this thought process.
+
+Unknown speaker 01:35:50 
+Well, yeah, uh,
+
+Unknown speaker 01:35:50 
+so so I call it teleophobia, uh, and a lot of uh, a lot of uh, scientists really would like to get away from it.
+
+Unknown speaker 01:35:59 
+it
+
+Unknown speaker 01:36:00 
+that that made sense prior to, let's say the 1940s, because prior to that, the only things with goals were uh, humans and some some animals and uh, before that, it was only, you know, it was not
+
+Unknown speaker 01:36:30 
+be just humans and angels and and nothing else.
+
+Unknown speaker 01:36:32 
+So, okay, um,
+
+Unknown speaker 01:36:34 
+you as as a scientist,
+
+Unknown speaker 01:36:35 
+if you weren't working on humans, uh, and and maybe some great apes,
+
+Unknown speaker 01:36:40 
+you you really wanted to avoid any talk of goals because it you know,
+
+Unknown speaker 01:36:44 
+you felt that it was taking you backwards into some sort of pre-scientific, you know, kind of religious worldview.
+
+Unknown speaker 01:36:51 
+But since the 40s and thereon, we've had a a a mature science of machines with goals, and it's called cybernetics, we have control theory.
+
+Unknown speaker 01:36:59 
+It's not scary anymore.
+
+Unknown speaker 01:37:01 
+It's okay now.
+
+Unknown speaker 01:37:08 
+It doesn't have to be magic, it doesn't have to be angels, it doesn't, you know, it doesn't have to be you know, the the the spirit, uh, it's okay.
+
+Unknown speaker 01:37:09 
+Uh, it's okay, we have machines with goals now, your thermostat has goals, little tiny ones, like very modest, little tiny goals.
+
+Unknown speaker 01:37:14 
+And and it's okay.
+
+Unknown speaker 01:37:16 
+And and we now have a a a principled, quantitative way of dealing with all kinds of unusual things with goals.
+
+Unknown speaker 01:37:22 
+So I I think teleology is completely fine.
+
+Unknown speaker 01:37:26 
+Now, um, I sometimes use the word teleonomy and the difference is, so, so, so teleology is supposed to be goal directedness, teleonomy is supposed to be apparent goal directedness.
+
+Unknown speaker 01:37:30 
+In I I I recently wrote a chapter for a book on teleology.
+
+Unknown speaker 01:37:30 
+And the editors of of the book, uh,
+
+Unknown speaker 01:38:00 
+complained about the use of teleonomy
+
+Unknown speaker 01:38:02 
+because many people use that as a as a way to um back out of the claim, right?So they say, it's not really teleology, just looks like teleology.
+
+Unknown speaker 01:37:30 
+So we're going to call it teleonomy, teleonomy is are things that look like they're goal directed, but they're not really.
+
+Unknown speaker 01:37:30 
+Um, and that's and that's not my point at all.
+
+Unknown speaker 01:37:30 
+My point isn't to soften it in the slightest.
+
+Unknown speaker 01:37:30 
+I'm a hardline teleologist.
+
+Unknown speaker 01:37:30 
+Uh, but what I think is cool about teleonomy is that it reminds us that everything including teleology is a lens from the perspective of some observer.
+
+Unknown speaker 01:37:30 
+That's what I think the word apparent should be doing.
+
+Unknown speaker 01:38:14 
+I don't know that that's what um I actually don't remember who coined teleonomy, but but um uh
+
+Unknown speaker 01:38:18 
+I don't think that's what they had in mind, but but I think that's what it should be.
+
+Unknown speaker 01:38:21 
+I think I think what's cool about it is that it reminds us that when you see a system and you say, oh, that system is or isn't pursuing a specific goal, you are an observer who's making a hypothesis.
+
+Unknown speaker 01:38:34 
+Some other observer may make some other hypothesis, and in some amount of time, you will find out who is right and who is wrong based on who had the better science and technology come out of it.And and it's an empirical question, but but but it's not a it's not an objective thing where you can say right away this does or does.
+
+Unknown speaker 01:38:45 
+doesn't have teleology.
+
+Unknown speaker 01:38:47 
+You're an observer and you're making that claim from a particular perspective.
+
+Unknown speaker 01:38:50 
+So, so I like that about teleology.
+
+Unknown speaker 01:38:51 
+But but my point isn't to try to soften it at all or try to pretend it's, you know, some sort of um as if uh, you know, thing.
+
+Unknown speaker 01:38:54 
+I think I think it's real.
+
+Unknown speaker 01:38:55 
+I think it's absolutely real.
+
+Unknown speaker 01:38:56 
+And so when when I read that uh, I I wrote a note saying, um,
+
+Unknown speaker 01:38:57 
+what would be the teleos you think is possible?
+
+Unknown speaker 01:39:00 
+aside from the goal-directed nature of how we behave right now.
+
+Unknown speaker 01:39:02 
+Do you perceive a future where perhaps the goal-directed is taking us somewhere?
+
+Unknown speaker 01:39:06 
+Because I often think about perhaps maybe the artificial intelligence is the way forward in terms of
+
+Unknown speaker 01:39:44 
+how we design intelligence moving forward.
+
+Unknown speaker 01:39:46 
+Do you think that that's a big factor for our teleological progression in the future?
+
+Unknown speaker 01:39:52 
+Um, uh, I'm I'm not sure if I understood that correctly, but what I what I hear you asking is if there's some sort of uh, goal directedness in the large scale patterns of evolution, history, society, whatever, right?So, so basically, what do you think is the end goal of this universe?
+
+Unknown speaker 01:39:22 
+Is there are we headed somewhere?
+
+Unknown speaker 01:39:22 
+Yeah, that that's that's a that's a really deep question.
+
+Unknown speaker 01:39:22 
+Um, I I I don't know.
+
+Unknown speaker 01:39:22 
+I think that it's an empirical question, meaning that I think we should make some hypoth
+
+Unknown speaker 01:40:00 
+is
+
+Unknown speaker 01:40:01 
+and uh pursue some implications of those hypotheses and and test those
+
+Unknown speaker 01:40:04 
+and see which ones uh improve our our
+
+Unknown speaker 01:40:08 
+ability to to act in the world and maybe we'll um
+
+Unknown speaker 01:40:13 
+you know, we can we can talk about um let's let's just talk about evolution per se.
+
+Unknown speaker 01:40:18 
+So I do think uh I I I Chris feels and I wrote a paper once about uh the the evolution the the target morphology of evolution, the idea that the
+
+Unknown speaker 01:40:29 
+evolutionary process can have goals in the sense of a dynamical system having attractors to which it tends to fall into and I think this is, you know, um uh this again we're not the first people to say that, but um
+
+Unknown speaker 01:40:45 
+uh, but that's not to say it has some some long-range plan in the way in the in the way that humans have plans.
+
+Unknown speaker 01:40:57 
+That's just to say that there are certain patterns that are likely to uh reinforce themselves.
+
+Unknown speaker 01:41:00 
+There's a deeper sense in which and and Richard Watson and I and I still I still need to ask him this.
+
+Unknown speaker 01:41:04 
+I have it on my list to discuss this with him at some point, but um, you know, I I've made the claim that
+
+Unknown speaker 01:41:08 
+I think that uh biological evolution by itself doesn't optimize for any of the things we care about, you know, happiness, intelligence, meaning, um, you know, ethical whatever.
+
+Unknown speaker 01:41:22 
+I I don't I don't and the and the reason I emphasize that is because people will often say, you know,
+
+Unknown speaker 01:41:26 
+you know, your work is scary because it it might lead to changes in human structure, human life, whatever.
+
+Unknown speaker 01:41:33 
+And I try to point out to people that there's nothing magically great about where we are now.
+
+Unknown speaker 01:41:39 
+Evolution just sort of dumped us in this, you know, it's and and I and I try to I try to emphasize that it's sort of like this random meandering search.
+
+Unknown speaker 01:41:46 
+It settles on things that are just good enough to survive and our short lifespan, our susceptibility to weird diseases, our propensity to to to to, you know, have all these ridiculous accidents before us and you know, these all these medical these crazy medical conditions that people, you know, email me with all the time.
+
+Unknown speaker 01:42:04 
+Uh, none of that is optimal.
+
+Unknown speaker 01:42:06 
+No, nobody sat there and optimized it and said, okay, this is great.
+
+Unknown speaker 01:42:13 
+This is how it should be.
+
+Unknown speaker 01:42:14 
+Now, you scientists don't screw it up, okay?
+
+Unknown speaker 01:42:15 
+I think that's completely the wrong way to think about this.
+
+Unknown speaker 01:42:23 
+I think evolution randomly sort of left us in this position and now we're the adults in the room and we need to improve everybody's sort of experience.
+
+Unknown speaker 01:42:23 
+Um, so so Richard Watson disagrees.
+
+Unknown speaker 01:42:24 
+He thinks that uh evolution isn't uh as random as I think and that it does in fact uh, well, I don't know.
+
+Unknown speaker 01:42:33 
+I don't want to speak for him.
+
+Unknown speaker 01:42:34 
+I'm not sure.
+
+Unknown speaker 01:42:35 
+This is a discussion we need to have because I think what I see evolution maximizing is biomass.
+
+Unknown speaker 01:42:42 
+That's it.
+
+Unknown speaker 01:42:45 
+Like whatever survives as many units as we can have,
+
+Unknown speaker 01:42:45 
+anything that will will eventually will sort of try to uh increase the frequency that it will with which it gets observed in the future.
+
+Unknown speaker 01:42:55 
+So to and and and to me, if you if you start with a with a blank planet, you know, sort of again, sort of Star Trek scenario, you start with a blank planet, but it's pretty, you know, pretty hospitable to life and you drop off a single seed of some reproduce self-reproducing thing and you come back, uh, you know, a hundred million years later, can you say what you're going to find?
+
+Unknown speaker 01:43:16 
+I I'm not aware of anything that you can say you're going to find other than the biomass will be huge.
+
+Unknown speaker 01:43:21 
+This thing is going to proliferate, it's going to find adaptive ways to increase its representation in the environment and you and you're just going to find a lot of complicated living stuff around.
+
+Unknown speaker 01:43:35 
+That's it.
+
+Unknown speaker 01:43:43 
+from that perspective, do you think then that technically certain microbes like bacteria are winning this evolutionary game?
+
+Unknown speaker 01:43:51 
+Um, I I think you I think we get to define the game, right?
+
+Unknown speaker 01:43:56 
+So, so if the game is number of units per, you know, cubic foot or whatever, they're definitely winning.
+
+Unknown speaker 01:44:05 
+But it's not necessarily a psychological dissection, but it's more from your perspective as a scientist, and from biology, who is Mike, what is Mike, and why is Mike?
+
+Unknown speaker 01:45:00 
+Oh.
+
+Unknown speaker 01:45:01 
+Oh my God.
+
+Unknown speaker 01:45:02 
+Uh,
+
+Unknown speaker 01:45:03 
+I
+
+Unknown speaker 01:45:04 
+Wow.Uh, well, who
+
+Unknown speaker 01:45:05 
+I
+
+Unknown speaker 01:45:06 
+Yeah, who, I don't even, I like I don't know what
+
+Unknown speaker 01:45:08 
+a useful answer to that question would even look like, so I don't know.
+
+Unknown speaker 01:45:12 
+Um,
+
+Unknown speaker 01:45:14 
+I
+
+Unknown speaker 01:45:16 
+we can skip thego to the what is, Mike.
+
+Unknown speaker 01:45:18 
+Yeah, I I don't, I don't think of myself very much at all.
+
+Unknown speaker 01:45:20 
+I sort of um, I mostly it it it started when um, I I used to be um,
+
+Unknown speaker 01:45:25 
+uh, when when I was a kid, I was I was very sort of shy and and I never, you know, I was the kid that never spoke up in high school at all and was just kind of invisible on on, you know, by design.
+
+Unknown speaker 01:45:37 
+And uh, and then eventually I realized that as as the the whole science thing kept going, I like it was like you have to give talks and whatever.
+
+Unknown speaker 01:45:50 
+And it was very, it was very painful.
+
+Unknown speaker 01:45:51 
+I never wanted to get up in front of people and whatever, it was hard.
+
+Unknown speaker 01:45:52 
+Um,
+
+Unknown speaker 01:45:53 
+and then I finally realized that and this is this is kind of a simple visualization that I give some of my students that that have a hard time talking to people,
+
+Unknown speaker 01:45:59 
+is that uh, you what you do is you you you visualize yourself as glass.
+
+Unknown speaker 01:46:03 
+You're not there, nobody's there to look at you, nobody's interested in you, what what they're interested in is whatever product you're bringing them and uh, what it can do for them.
+
+Unknown speaker 01:46:14 
+They're all fighting their own battle.
+
+Unknown speaker 01:46:15 
+Everybody in the audience has their own needs and goals and what
+
+Unknown speaker 01:46:30 
+whatever.
+
+Unknown speaker 01:46:31 
+And, and
+
+Unknown speaker 01:46:32 
+no one actually cares about you enough to criticize you, you know, they they just they just want to see what you've brought them.
+
+Unknown speaker 01:46:36 
+And your job is to be a pane of glass.
+
+Unknown speaker 01:46:38 
+You're completely invisible and to show and to give them the best product that you can give them.
+
+Unknown speaker 01:46:40 
+It's a new idea, it's something, something for, you know, whatever.
+
+Unknown speaker 01:46:46 
+And so that's that tends to be how I think about things.
+
+Unknown speaker 01:46:50 
+Um, I spend zero time thinking about what I am or who I am, I or or or what's going on with me.
+
+Unknown speaker 01:47:01 
+I I mostly just think about um, what's next.And and you know, and this and this might be this might be why I like this idea of of the agent as as, you know, action first, is that I mostly just focus on what's the most interesting, helpful, exciting thing we can do next and how do we do it.
+
+Unknown speaker 01:47:14 
+Um, so, so I have no idea.
+
+Unknown speaker 01:47:15 
+I I don't know I don't know how to answer I don't know how to answer that question.
+
+Unknown speaker 01:47:19 
+What the the what and why part was more in line with in terms of asking you like what is a human in in a sense.
+
+Unknown speaker 01:47:26 
+So, so what is like from a biological or mechanical perspective, I would say.Um, well, yeah, I mean, I think I think any any uh uh any human is uh an agent with a minimum, you know, any any modern human.
+
+Unknown speaker 01:48:00 
+uh is
+
+Unknown speaker 01:48:01 
+an agent with a particular size,cognitive light cone with a with a certain capacity for um intelligence and compassion and uh, you know,
+
+Unknown speaker 01:47:30 
+how how they're deploying that, there's a very wide variety obviously across the, you know, across the world.
+
+Unknown speaker 01:47:30 
+But um, yeah, that's that's it.
+
+Unknown speaker 01:47:30 
+It's it's about this the scope of your goals and uh, and and the the intelligence that you have to bring to bear on getting those goals met and and which ones are you pursuing at any given time, um, yeah.
+
+Unknown speaker 01:47:30 
+Like I'm I'm sorry, I'm not sure if I when you spoke about Telios earlier, just quickly, I'm not sure if you mentioned.
+
+Unknown speaker 01:48:14 
+do you feel that at some point there's a cumulative teleological purpose here or or do you feel like each goal directed activity is happening independent of each other, but at some point coalescing in various different ways?
+
+Unknown speaker 01:48:28 
+Um, you know, I I I think that there is a way that uh goal directed units um combine and and scale up, but overall,overall, I do think that uh it is entirely possible to have systems in in fact, this is how biology works, you have systems that have sub
+
+Unknown speaker 01:48:45 
+systems and each of those sub systems have their own goals and their own agendas and they solve problems in their own space.
+
+Unknown speaker 01:48:50 
+And all of that is coupled.
+
+Unknown speaker 01:48:57 
+So, um, I I I I sometimes give a talk called why robots don't get cancer.
+
+Unknown speaker 01:49:02 
+And it's because we tend to engineer, at least for now, with part with an architecture that's flat.
+
+Unknown speaker 01:49:05 
+So your your your robot or your self-driving vehicle may have some intelligence and some goals and whatnot, but all the transistors and everything else that make it up are are flat, they don't they don't have an agenda of their own.
+
+Unknown speaker 01:49:12 
+But in biology, that's not true.
+
+Unknown speaker 01:49:22 
+So, so we are made of parts that are solving problems and having preferences.
+
+Unknown speaker 01:49:44 
+and memories and so on in
+
+Unknown speaker 01:49:46 
+physiological space, transcriptional
+
+Unknown speaker 01:49:48 
+space, uh, uh, anatomical space and so on.
+
+Unknown speaker 01:49:51 
+So there are goals within goals within goals and some of them uh compete and some of them cooperate.
+
+Unknown speaker 01:49:56 
+And we know from from basic psychology and therapy and so on that that humans can have multiple modules with different goals that uh absolutely do not get along with each other and try to sabotage each other and whatnot.So, yeah, it's a it's a complex society.
+
+Unknown speaker 01:49:22 
+We are we are a complex uh uh nested hierarchical multiscale nested society of goal-directed agents.
+
+Unknown speaker 01:49:22 
+one of your infamous lines is at this point.
+
+Unknown speaker 01:50:00 
+all
+
+Unknown speaker 01:50:00 
+intelligence is collective intelligence.
+
+Unknown speaker 01:50:03 
+Um, and I think that's a beautiful concept.
+
+Unknown speaker 01:50:05 
+You, as we close off, do you want to touch on that briefly?
+
+Unknown speaker 01:50:09 
+Yeah,
+
+Unknown speaker 01:50:09 
+I don't I don't it it doesn't seem controversial to me.
+
+Unknown speaker 01:50:12 
+Uh, I I've never seen
+
+Unknown speaker 01:50:14 
+and I don't think you could have any kind of intelligence that was some sort of
+
+Unknown speaker 01:50:20 
+diamond, you know, indivisible single thing because because if you were, you couldn't learn, you couldn't change.
+
+Unknown speaker 01:50:29 
+If you didn't have parts, you need parts in order to be able to change, right?
+
+Unknown speaker 01:50:38 
+To to to learn from experience, you need parts that are going to be doing something different than what they were doing before.
+
+Unknown speaker 01:50:42 
+I I just can't imagine, you know, and and and people say, you know, the human brain.
+
+Unknown speaker 01:50:45 
+Is it, well, it's a bag of neurons, right?
+
+Unknown speaker 01:50:51 
+I mean, yes, there's a brain and there's a person there, but but it's also a bag of neurons.
+
+Unknown speaker 01:50:52 
+And and and, you know, um, I have I have this slide that I show sometimes that um, like like Rene Descartes and and I like Descartes more than a lot of people do nowadays, but but
+
+Unknown speaker 01:51:00 
+but he had this um, uh, he he really liked the pineal gland, and he liked the pineal gland because it was only one of them in the brain, and he felt that human, you know, we we have a singular uh, integrated consciousness and therefore it it doesn't do to you if you have multiple copies of it in the brain, let's say the left and right hemisphere, like how's that going to work?
+
+Unknown speaker 01:51:23 
+You have a singular consciousness, the pineal gland is only one of those, that's where consciousness enters the body.
+
+Unknown speaker 01:51:27 
+And the thing is, if he had had good microscopy, he would have looked in that pineal gland and he would have said, oh my God, this thing has, you know, millions of cells in it.
+
+Unknown speaker 01:51:35 
+And if he looked at at inside one of those cells, he said, whoa, and this thing has a huge amount of molecular networks and and and whatever.
+
+Unknown speaker 01:51:42 
+There is no single anything anywhere.
+
+Unknown speaker 01:51:50 
+It's all it's all made of parts until you get down to, I don't know, some sort of particles or something.
+
+Unknown speaker 01:51:55 
+Uh, and and so yeah, all all all intelligent agents are made of parts and it's always got to be a story about how those parts integrate into a a coherent agent.
+
+Unknown speaker 01:52:05 
+That's that's oh, that's our goal here is to tell a story of scaling up.
+
+Unknown speaker 01:52:06 
+Well, as we continue to scale up and you look at artificial intelligence continuously growing,
+
+Unknown speaker 01:52:10 
+is there any way you'd like us to perceive this problem moving forward and and just
+
+Unknown speaker 01:52:15 
+trying to work together with artificial intelligence because it's obviously getting better, it's a different type of intelligence, but yeah, closing remarks on moving
+
+Unknown speaker 01:52:24 
+intelligence.
+
+Unknown speaker 01:52:25 
+Um, I mean, I guess I guess the the big the big thing I can I can say is just that the most general thing and and I'm I'm going to write something about this soon, is that I I think most of our concerns about modern AI are just re- warmed over uh sort of uh restatements of problems that have been with us all along and that it's just people are just the average person is just now realizing that that these are issues, but philosophers have known and and even some, you know, so, so, so this idea that uh, in the future that that we're going to give
+
+Unknown speaker 01:53:08 
+is to something that makes us a relevant in the future.
+
+Unknown speaker 01:53:10 
+Like,
+
+Unknown speaker 01:53:11 
+I mean, that's that's called having kids, right?
+
+Unknown speaker 01:53:13 
+When when you have kids, you produce something that you work, at least some of us work our butts off to make sure that they're better than we are.
+
+Unknown speaker 01:53:19 
+And you don't know and in fact, one of the kind of like standard existential fears is that, yeah, they they in their world, we are going to be irrelevant.
+
+Unknown speaker 01:53:27 
+All the things that we worried about.
+
+Unknown speaker 01:53:28 
+It's like, hey, old man, you know, stuff you're talking about is nonsense, we're we care about other stuff.
+
+Unknown speaker 01:53:33 
+Now, and so, um, right,
+
+Unknown speaker 01:53:34 
+this is this is, I mean, ever since who was it?
+
+Unknown speaker 01:53:44 
+Aristotle or somebody who would write that, ah, the youth of today, you know, they don't right, and that was, you know, back in the classical Greek day.
+
+Unknown speaker 01:53:45 
+So, so we of course, we're going to give rise to something that thinks we're were a bunch of dummies and and and is going to do something different.
+
+Unknown speaker 01:53:50 
+Uh, and and I think all of that is is just about all of the concerns we have about AI are are basically just echoing issues that have always been with us.
+
+Unknown speaker 01:53:57 
+And uh, you know, and I don't know what the answer is except, uh, all I can say is from a personal perspective,
+
+Unknown speaker 01:54:08 
+I I'm not super tied to the idea that the earth has to have a bunch of human DNA uh running around it.
+
+Unknown speaker 01:54:13 
+I'm not tied to the fact that we have to be these uh, you know, uh, organisms that that are susceptible to a million different diseases and die when you know,
+
+Unknown speaker 01:54:21 
+in in a few decades.
+
+Unknown speaker 01:54:27 
+Um, if we can make ourselves better, great.
+
+Unknown speaker 01:54:28 
+And and let's let's spread uh let's let's enlarge our cognitive like cones, our our let's enlarge our capacity for compassion and and I you know, whatever embodiments people want, that's what they should have.
+
+Unknown speaker 01:54:38 
+Oh, Mike, I mean, it's always such a pleasure to chat to you.
+
+Unknown speaker 01:54:41 
+Thank you so much.
+
+Unknown speaker 01:54:42 
+Good to see you.
+
+Unknown speaker 01:54:43 
+Thank you so much.
+
+Unknown speaker 01:54:44 
+It's wonderful.
+
+Unknown speaker 01:54:45 
+And I'm when when I chat to Mark next week, I'll definitely bring up some of these these aspects of the conversation into it.
+
+Unknown speaker 01:54:49 
+Is there anything else, Mark, as we go?
+
+Unknown speaker 01:54:53 
+Um,
+
+Unknown speaker 01:54:56 
+Yeah, ask him ask him uh let let you know, do do do to him what what people do to me an email.
+
+Unknown speaker 01:54:57 
+Ask him ask him for the meaning of life.
+
+Unknown speaker 01:54:58 
+See what see what he says.
+
+Unknown speaker 01:54:59 
+He he might actually have a decent answer, you know, he's a psychoanalyst.
+
+Unknown speaker 01:55:01 
+He might actually have an answer, I don't know an answer, but but he might.
+
+Unknown speaker 01:55:02 
+No, I'll definitely bring that up.
+
+Unknown speaker 01:55:03 
+Thanks, Mark.
+
+Unknown speaker 01:55:04 
+Any final words, Mark, anything you want to leave?
+
+Unknown speaker 01:55:05 
+Feel like you've said it all.
+
+Unknown speaker 01:55:06 
+Um, no, the only thing the only thing to say is that uh, I will soon uh, um, they're spinning up a WordPress site for me that's going to have a bunch of stuff that uh, doesn't go on my official academic site.
+
+Unknown speaker 01:55:09 
+Uh, so, you know, essays and and other stuff.
+
+Unknown speaker 01:55:10 
+So, so keep an eye, I'll I'll I'll advertise it on Twitter and then there will be a sign up, you know, a registration thing for people to get notifications and so on.
+
+Unknown speaker 01:55:14 
+Right.
+
+Unknown speaker 01:55:14 
+Is there is there a working link at the moment, a URL?
+
+Unknown speaker 01:55:15 
+there isn't, it's it's a few days.
+
+Unknown speaker 01:55:16 
+They tell me it's a few days away.
+
+Unknown speaker 01:55:17 
+So, so I can I can send it to you and then.
+
+Unknown speaker 01:55:18 
+Yeah, I'll definitely put a link to that for this episode.
+
+Unknown speaker 01:55:19 
+Thanks so much, Mike, once again, it's a pleasure.
+
+Unknown speaker 01:55:20 
+Great to see you.
+
+Unknown speaker 01:55:21 
+Great to see you.
+
+Unknown speaker 01:55:21 
+Take it easy.

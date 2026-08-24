@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Google OAuth</title>
+    <meta name="google-signin-client_id" content="<REDACTED_GOOGLE_CLIENT_ID>">
+</head>
+<body>
+    <h1>Test de Google OAuth</h1>
+    <p>Si ves esta página, los archivos se están sirviendo correctamente.</p>
+    
+    <div id="g_id_onload"
+         data-client_id="<REDACTED_GOOGLE_CLIENT_ID>"
+         data-callback="handleSignIn">
+    </div>
+    
+    <div class="g_id_signin" 
+         data-type="standard"></div>
+    
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+    <script>
+        // Debug: verificar si el script carga
+        window.onload = function() {
+            console.log('Página cargada');
+            console.log('window.google:', window.google);
+            
+            setTimeout(() => {
+                if (window.google) {
+                    console.log('Google script cargado:', window.google);
+                    console.log('Google accounts:', window.google.accounts);
+                } else {
+                    console.error('Google script NO cargado');
+                    // Mostrar error en la página
+                    document.body.innerHTML += '<p style="color: red; font-size: 20px;">ERROR: El script de Google no cargó. Revisa la consola para más detalles.</p>';
+                }
+            }, 2000);
+        };
+        
+        function handleSignIn(response) {
+            console.log('Usuario autenticado:', response);
+            alert('Login exitoso! Revisa la consola.');
+        }
+    </script>
+</body>
+</html>

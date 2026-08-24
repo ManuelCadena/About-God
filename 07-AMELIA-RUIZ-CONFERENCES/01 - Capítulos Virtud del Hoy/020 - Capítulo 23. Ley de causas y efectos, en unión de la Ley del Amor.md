@@ -1,0 +1,81 @@
+# Capítulo 23. Ley de causas y efectos, en unión de la Ley del Amor
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=196TqkkWyMg
+- **Duración:** 9.6min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 23
+
+## Transcripción
+
+Buenos días, otro domingo, hermanitos míos. Hola, hola, hola, mi tigo hola, hola. hoy captando así como como meando el día este y qué carrá este día entre nosotros que hagamos entre nosotras este eh el último domingo hablábamos de tiempo.
+
+¿Qué le parece?
+
+Si un poquitito prolongamos ese tema eh en un aspecto dice Pitágoras si lo eh expresar con claridad.
+
+dice que el ser humano ah vive las consecuencias de las causas que generó él o ella en el pasado.
+
+Entonces, todo todo lo que nos pasa es consecuencia de una causa anterior generada por uno mismo.
+
+Todo, todo lo que nos pasa es consecuencia de una causa anterior generada por nosotros mismos en el pasado. O sea, mi yo antiguo ha generado causas y de las cuales estoy recibiendo las consecuencias. Entonces, ¿cómo podría superarlo? Como ya dijimos, con una mente nueva. ¿Y por qué no es karma? Eh, aunque a veces sucesan palabra pequeña y encono e por qué no es karma Pitágones llama ley del círculo. ¿Por qué no es eh este ley del talión?
+
+Porque no es lo exacto que te hicieron te hace nada más, sino lo exato que te hicieron te hace, pero a la pares atraído por un defecto tuyo de esta vida que está en el ADN y que ha venido a compartir en virtud.
+
+Entonces son dos cosas, porque si no sería ley de talón, ojo por ojo, diente por diente. Y si te te hace, pero Pitabora dice que todo está regido por la ley del amor, no puede ser ley extraño. Entonces, sí vuelve lo que vos hiciste. Sí, pero dice Pitágoras tanto que es en volumen lo mismo que hicistes, en peso, contenido, en en dimensión, en todo lo que vos hiciste. Está pesado, está medido, no es un criciste.
+
+Entonces, eso existe. Sí.
+
+Ley del círculo, sí. Todo lo que sale del autor vuelve al autor.
+
+Entonces, eh pero esta parte es la que es importante de explicar y a veces siento que no lo hago con claridad.
+
+Sí, se permite eso, pero como todo está regido por la ley del amor, no se permite que vuelva algo mío pasado si a la par no está conectado con un defecto que tengo el ADN en el ADN que vine a convertir en virtud. Si yo ejercito esa virtud, disuelvo carna, o sea, disuelvo la ley del ciclo.
+
+Ahí se se entenderá, mis hermanitos.
+
+¿Quieren que lo vuelva a decir?
+
+Entonces, todo lo que vivimos hoy es consecuencia de causa generada con anterioridad por mí.
+
+Todo, toda energía positiva o negativa vuelve a su autor.
+
+Entonces, todo el orificio que vimos, todo todo es consecuencia de algo que yo hice en el pasado, pero consecuencias tan directa que te dice Pitágoras está eh medida, pesada y es exacta igual. volumen lo mismo, pero no permitiría la ley del amor que me vuelva algo que yo misma hice y que no me arrepentí, por eso no se disolvió.
+
+No permitiría la ley del amor que me vuelva si a la par la virtud con la cual yo disolvería ese ese esa ley del círculo, la virtud con la cual yo disolvería es justo la que vine a buscar en esta encarnación y que para eso traje un defecto en el AD que vine a cambiar por esa no.
+
+Ay, ojalá este. Claro, me da ganas de repetirlo de nuevo porque como si no se entendice porque las personas suelen decir, ya sé, yo eso lo hice la otra vida.
+
+Sí, significa que si ahora superas eso, vas a disolar lo mal hecho por ti que pasarí, pero a la par es una ayuda para tu crecimiento evolutivo porque coincide con la virtud que viniste a buscar. Si vos tenés esa virtud y la ejercitas para esa situación difícil, se disuelve la situación difícil.
+
+Compensá eh ley de círculo y a la paz crecés.
+
+Mire cómo nos cuida de cita.
+
+Ley del amor.
+
+Espero que se haya entendido, mis hermanitos y y nos agrega, pero a veces las personas se quedan solo bebiendo eso y con eso se confundó todo. Ay, ya atravesé esta situación difícil y qué sé yo. Ay, otra situación difícil se me presenta mañana ya ajotados, pero así viviendo solo consecuencia del pasado, mis hermanitos, está en mis manos crear el futuro.
+
+No es azaroso.
+
+El futuro va a ser consecuencia de las causas que hoy genero.
+
+Y si me la paso solamente recibiendo las consecuencias del pasado y bueno, ya me casé y ya est así. Una sola causa hoy, buenas, preciosa, hermosísima.
+
+Genero, para recibir un efecto feliz en el futuro. ¿Qué les parece?
+
+Entonces, yo soy dueña de mi futuro.
+
+Yo ya sé que esta causa, que es una acción noble, buena que yo haga, que no la hago para curar algo difícil del pasado, no, nada, solamente porque quiero, las creo.
+
+Es una causa buena para un futuro efecto feliz.
+
+Entonces, no digo en en el futuro, qué sé yo que me pega y me espera la consecuencia del hoy.
+
+Hermanitos, están en nuestras manos el futuro. Está en nuestras manos el futuro. Espero haberlo expresado con claridad porque son cosas tan maravillosas que explica la filosofía pitagórica. Me parece tan maravilloso y espero poder ser clara.
+
+Ahí hacemos un conjuntito entre nosotros y me los abrazo con muchísimo cariño de quea que hoy y toda esta semana y toda la pielidad generemos causas buenas para futuros efectos felices sin nos pesca en morir ese día estoy generando amo una causa buena para el futuro efecto feliz de cuando yo nazca la próxima liga. Sí, podían hacer en una acción de alegría.
+
+Pued ser alegre en la que sigue. Gener acción de paz voy a hacer en paz en la que sigue porque es prolongación de esta vida.
+
+Abrazos hermanitos queridos. Abracho, abrazo, abrazo y si Dios quiere nos vemos el próximo domingo. Besito, cariñito.

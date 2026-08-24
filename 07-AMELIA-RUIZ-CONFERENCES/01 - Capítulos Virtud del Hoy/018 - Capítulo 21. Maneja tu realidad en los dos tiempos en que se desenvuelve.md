@@ -1,0 +1,87 @@
+# Capítulo 21. Maneja tu realidad en los dos tiempos en que se desenvuelve
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=3FHMTNQ1RbM
+- **Duración:** 11.7min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 21
+
+## Transcripción
+
+Hermanitos, buenos días. Hola, hola, hola. Otro domingo.
+
+Al palito queridos, hermanitos queridos.
+
+Creo que podemos seguir un poquitito otra probadictas del tiempo, porque este Pitágoras tiene cosas muy interesantes sobre el tiempo y este nos dice que al menos tenemos que manejar dos tiempos.
+
+Es tiempo de reloj.
+
+que es las tres dimensiones, ese que la unidad de tiempo es un segundo y el tiempo del doble etérico del cuerpo energético, cuya unidad de tiempo son 300,000 km por segundo, lo cual es muchísimo tiempo en un segundo, o sea, Cuando uno, por ejemplo, conscientemente le dice a alguien, "Hola, ¿cómo estás?" conscientemente dice así y su conscientemente piensa en la cantidad de veces que ese ser humano eh ha tenido un carácter muy feo y ha sido muy duro este muy como y soportable.
+
+Entonces, mientras que digo hola en un segundo, 300,000 veces 10, o sea, millones veces le estoy diciendo eso por eso por eso por eso o sea que la carga energética que tiene el segundo de densidad es tremenda.
+
+Y uno cuando el otro te contesta feo, decir otra vez me contestó feo otra vez.
+
+Ay, viste si hay alguien y yo te decía, viste lo corté fui yo y fuiste como lo feo que reaccionó.
+
+Entonces, si uno viese los dos tiempos, uno fuese consciente de los dos tiempos, diría, "Dios mío, o sea, que no tengo que ir a hablar con yo estoy sintiendo y pensando mal ese á porque lo daño y me daño y hermalitos del alma, nos dice Pitaoras, que el tiempo cuando uno está dentro del vientre de la mamá es ese, el tiempo de la energía.
+
+O sea, que cuando la mamá nos dice, por ejemplo, ay, qué miedo me despertó tal cosa que ocurrió durante el embarazo y uno le tendría que decir, "¿Como cuánto tiempo tuviste comida de yo? ¿Qué te puedo decir? Si más quizás un mes entero, un mes entero, porque recordemos que un segundo socó un millón de veces.
+
+Entonces, un día tremendo.
+
+Ahora un mes.
+
+Entonces, ¿qué es lo que hace? que por ejemplo el miedo de un segundo, uno dice, "Bueno, fue un segundo que me duró el miedo, pero si estás embarazada." La intensidad de ese miedo en un solo segundo es tremenda porque fueron millones de veces de miedo.
+
+Entonces dice, "Ser humano, discípulo de la vida, trata de manejar tu única realidad en los dos tiempos que se desenvuelve.
+
+Trata de manejar tu realidad única en los dos tiempos que se desenvuel, porque si no no estás siendo consciente de ti.
+
+Entonces, mi realidad etérica, mi realidad energética se maneja en otro tiempo.
+
+Entonces, si uno está diciendo, "Ay, voy a tener un encuentro la semana que viene con alguien muy difícil." ¿Qué te dice Pitágoras?
+
+Mire, vos estás así.
+
+Ay, le decís a la otra. Así es. Esta expresión ya pasó un segundo, 2 segundos, 3 segundos. En ese tiempo el doble etérico ya se fue y volvió. se fue, se encontró con el doble etérico cuerpo etérico o cuerpo energético del otro. Ya tuvo el encuentro con el con la intranquilidad que tengo, ya sea miedo, ya sea tristeza, ya sea mal pensar de esa persona, ya se encontró, fue, volvió y yo, ay, qué van a pasar. Mientras escucho al otro, me fui a crear el encuentro varias veces. Entonces, ¿cómo va a ser un encuentro malo, tal cual yo pienso que va a ser?
+
+Y entonces vuelvo y digo, "Dios mío, ¿cómo? Ah, cada vez tengo más miedo.
+
+Es lógico. Si yo voy armando nuevos encuentros malos, yo los armo, no la vida. Yo entonces te dice Pitapoco al querer manejar los dos tiempos vas a estar obsesionado porque te va a ser totalmente imposible. Entonces dice, "Una sola vez al día, discípulo de la vida, discípulos previsoros, arma un buen encuentro, algo positivo.
+
+Entonces, y después déjate libre porque si no uno no tiene vida, pero una sola vez al día lo hago elevado.
+
+Ay, entonces me voy allá arriba.
+
+él a la cima de mi montaña sagrada y desde ahí me miro, me manejo y digo, "El problema del otro ser está al defecto. Puede ser la sobergia en volumen 7 y a lo mejor el defecto con el que la traigo yo puede ser la soberbia volumen 10 porque a veces es así nada más que el el del otro es muy ostentosa. El mía me es tan ostentosa, pero igual estoy atrayendo desde esa soberbia la soberbia.
+
+Entonces digo, ah, o sea, que si yo leo ver la virtud, si la voy a ver desde una virtud mía, el agradecimiento, la valoración, entonces yo me subo, yo paso a estar en una frecuencia de onda positiva para poder verle lo positivo.
+
+Si le veo lo negativo, está soberb, veo mi sober, pero me subo a la parte vibratoriamente alta de mí y veo, por ejemplo, ay, todos los seres humanos tienen alguna virtud, entonces le veo una virtud y por ejemplo es altruista tiene las de ayudar a la humanidad.
+
+que tiene un carácter fuerte, un carácter innomable, uno así se va altruista y noble con el débil, por ejemplo.
+
+Qué bien. Entonces voy ahí esa palulación y desde ahí le digo, hago el cargo el triángulo y le digo, antes de comenzar toda conversación quiero decirte que admiro tu altruismo, admiro tu capacidad de querer ayudar al débil, lo admirí.
+
+mis honores.
+
+Y es el mismo te puede decir, "Sí, pero no dirá mi soberbias." No, por supuesto que no. Pero yo descubrí que yo también la temo. Es claro, la tuya es pequeña, la mía es muy grande porque no sé perder, no sé eh no tener la razón. Sí, sí, efectivamente. Pero bueno, no está bien. Hagamos tal cosa y te te arregla, te dice todo, te dice hasta lo negativo propio cuando le reconoces lo positivo. Entonces, una sola vez al día, si tengo algún alguna proyección hacia el futuro de negatividad, de un mal encuentro, genero un buen encuentro, una sola pesa al día y me dejo libre. ¿Por qué? Porque ya logré bajar la alta vibración y ya está.
+
+Esa vibración elevada dura 24 horas.
+
+Entonces, cada vez que quiera bajar y no voy a poder bajar tod voy a subir.
+
+Es solo una vez por día.
+
+¿Qué le parece?
+
+Así. Discípulo previsor genera buenos encuentros.
+
+Cuando tienes miedo de algún encuentro, eh, gemera buen encuentro a través de aburrir alguna virtud del otro.
+
+Creo que queramos. Quiere. Entonces, eh, las abrazo, un besito en el corazón.
+
+Chao. Gracias.
+
+Y estamos votito todo este domingo y toda la semana hasta la semana que viene con la gracia de Diosita. Co?

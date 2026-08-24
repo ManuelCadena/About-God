@@ -1,0 +1,107 @@
+# 23 LET'S BUILD A WONDERFUL MOVIE OF OUR LIVES EVERY TODAY!
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=CuYpZ1_NOYI
+- **Duración:** 11.1min
+- **Idioma de subtítulos:** es
+- **Nota:** 
+
+## Transcripción
+
+Hola, buenos días. Hola, hermanitos queriditos. Otro momento juntitos, otro momento en el tiempo de Dios. Eh, ¿saben? Este, ahora que empiezo a hablar, se me ocurre eh una cosa que siempre tengo presente al levantarme eh bueno, casi siempre. Y es que ese día es único.
+
+Y saben, e este, como dice la filosofía pitagórica, que cuando uno se muere ve la película de la vida de atrás para adelante, pero día por día.
+
+Entonces digo, "Wow, pensar que esto lo voy a estar viendo en la película de mi vida y siempre digo, ¿y qué quiero ver?
+
+¿Qué hice? ¿Qué quisiera ver este día en el calendario? Señalarlo.
+
+Este es importante el el trabajar, si uno lo ve bien, con calendario y con reloj.
+
+este para manejar mejor este mi tiempo y mi día. Entonces miro el calendario, aunque no tenga muy presente y me quede el día, pero digo, este es un día único y e lo voy a ver en la película de la vida y va a ser único y es eh, o sea, no sé qué les parece a ustedes, pero yo imagino este que si miro la película de mi vida y me veo todos los días haciendo lo mismo.
+
+Oy, qué película aburrida.
+
+Y como este hago lo mismo, digo lo mismo, eh pienso lo mismo, siento lo mismo y que o como que feo, ¿no?
+
+Entonces este me parece que esa ubicación con el calendario señalando con un círculo el hoy para que sea único, digo, este, ojalá eh pueda eh crear situaciones únicas para los otros, o sea, ojalá, porque hay eh muchas personas este que no saben muy bien que la vida ni para qué nacieron.
+
+eh no sabe muy bien por qué ni para qué les tocó determinada familia en determinado pueblo, en determinada ciudad, en determinado país del mundo y todo tiene un orden y un sentido.
+
+Entonces, qué hermoso poder proporcionarles alguna eh idea de para qué el vivir.
+
+Entonces decir, "Diosito, si me quieres usar, este, aquí estoy, salgo al mundo y a la vida, este, para ver si es que a alguien le puedo servir." Y saben, en medio de que salís con esa idea, ¿a quién le serviré hoy? ¿A quién me tocará? Eh, siempre te sorprendés en que terminan ayudándote, comprendiéndote, acompañándote, complementándote, personas que ni imaginabas.
+
+Y si aparece este alguien eh a quien puedas servir, ayudar, complementar, completar, eh pero te sorprende que todo es a la recíproca.
+
+Eso de dejarte sorprender por Dios.
+
+Ay, me parece que en eso consiste la sorpresa.
+
+Este, vieron que a veces hay como un mal hábito social y culturalmente aceptado, que las personas se sorprenden del defecto de alguien con el cual conviven hace 20 años, 10 años, 20 años, 30 años, 40 años y se siguen sorprendiendo. Por ejemplo, dice, "¿No sabes lo que hizo fulano, qué hizo? Decí hizo tal cosa de un acto de egoísmo.
+
+Ah, si es una amiga tuya que te ha contado eso un montón de veces, decís, "Pero es lo mismo. ¿Qué hizo ayer, anteayer, hace 10 años, hace 15 años?" No, sí, pero no lo puedo creer.
+
+¿Cómo que no puede creer si es lo mismo?
+
+Hay que dejarse sorprender con lo bueno.
+
+Lo negativo es repetitivo.
+
+Lo bueno es como el perfume. Ahí se dice mines volátiles.
+
+Ah, qué precioso.
+
+Pero lo negativo e es fijo y repetitivo. ¿Por qué? Porque está ahí hasta que uno lo corrija.
+
+Hasta ahí, hasta que uno se dé cuenta, ¿con qué atraigo esto, con qué atraigo esto, hijo? Lo voy a cambiar porque lo que atraigo no me gusta.
+
+Sí, el defecto de la persona está ahí.
+
+Sí, pero yo con qué lo atraigo.
+
+No puede ser de que algo esté en desorden.
+
+Ley de atracción. Entonces digo, hm, acá una corregidita, pero si no veo siquiera lo que estoy atrayendo, muy difícil que me corrija y muy difícil que me dé cuenta con qué lo atraigo.
+
+Entonces, eh es muy feo criticar a los otros, pero también es muy feo no ver la la verdad cruda de las X de los demás. Porque no es algo negativo, es una realidad.
+
+Entonces, la tengo que observar para ver con qué lo atraigo y cambiarlo, porque no lo puedo cambiar al otro, pero sí me puedo cambiar a mí. Siempre me puedo cambiar a mí.
+
+Entonces este, bueno, empezamos diciendo de que qué precioso es señalar con un redondel y este y decir, "Este día único lo quiero vivir como algo irrepetible y para eso este quiero ver qué hago de nuevo hoy." completamente distinto.
+
+Así en la película de la vida. Ah, es una película que uno quiere quedarse sentado viendo.
+
+Es feísimo, creo, me parece aburrirse de uno mismo.
+
+Si ver una película completamente aburrida. Digo, ay, Dios mío. No sea, ni yo me quiero quedar sentada. Es más, me da vergüenza.
+
+Eh, este, ¿qué les parece eso?
+
+Señalo calendario, aunque ni me acuerde la fecha, pero sí, este día es único.
+
+Vamos a ver qué tiene de parado Diosito para mí, pero este lo quiero vivir con alguna virtud que este no es de las más frecuentes en mí.
+
+Así que si puedo hago alguna cita con alguien que me es difícil para que yo use la virtud que no tengo y si no me voy dispuesto, pido la virtud eh que me falta y digo, "Con quien tú quieras, Diosito, con quien tú quieras, allá voy." Y a lo mejor este te piden ejercitarla con lo más cercano.
+
+Hasta puede ser un perrito, ¿no?
+
+Este, para cuándo la virtud, pero bueno, me sale, no me sale, no es tortura, nadie te juzga.
+
+Hay que divertirse de uno mismo. Me sale hoy, me saldrá mañana, me saldrá pasado, me saldrá la vida que sigue. Pero bueno, la vida es eterna y nadie me está apurando.
+
+Pero cuando uno se concientiza, dice, "Bueno, estaría deseable que dentro de lo posible sea en esta vida, ¿no?
+
+Este, bueno, fecha, calendario y también horas del día. Si a ustedes les gusta decir pensar que me quedan ponerle 8 horas para irme a dormir, 7 6 5 3 dos contriba nos juntamos y nos contamos nuestras cosas y nos juntamos con el maestro.
+
+¿Qué voy a contar de nuevo que hice hoy?
+
+Ya, se me está acabando el tiempo y por ahí hice varias cosas, pero cosas que no implican bien para nadie ni ni algo que yo diga relevante, porque a veces puede ser para uno mismo. Logré conseguir la paz, logré conseguir un estado hermoso.
+
+Ah, qué lindo. O sea, algo este y está lindo el tema del reloj y ya se me está acabando el tiempo. ¿Qué voy a contar? ¿Qué hice? Nadie me controla, pero yo sí puedo conmigo.
+
+Y no un control, una observación.
+
+Me autoobservo y quiero estar como contenta conmigo de lo que he hecho, de lo que he dicho.
+
+Bueno, si les parece el tema del calendario y el relojito, si les parece bien y les gusta, lo usemos estos días, ¿quieren? Abrazo, beso, cariñito. Chao hermanitos, hasta la próxima.

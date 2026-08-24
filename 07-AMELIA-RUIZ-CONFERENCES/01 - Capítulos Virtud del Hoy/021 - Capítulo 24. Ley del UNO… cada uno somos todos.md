@@ -1,0 +1,77 @@
+# Capítulo 24. Ley del UNO… cada uno somos todos
+
+- **Canal:** Academia de Filosofía Pythagorica A.C.
+- **URL:** https://www.youtube.com/watch?v=v7xpWYUxY-4
+- **Duración:** 9.4min
+- **Idioma de subtítulos:** es
+- **Nota:** Capítulo 24
+
+## Transcripción
+
+Hola, buenos días. Hola, hermanitos queriditos. Buenos días.
+
+Bueno, hoy contría de Dios y e este me sale como que compartamos algo que me parece haber dicho al inicio, pero hoy es otro día y quisiera este compartir la ley del uno para pitar.
+
+fundamental.
+
+Sus discípulos la cumplía, pero como un placer, porque este todo lo espiritual eh no es regla moral para que te quieran, eh regla religiosa para cielo, no. Todo lo que habla Pitágoras es fruto de felicidad.
+
+Su consecuencia y la paz. Su consecia es la alegría, entonces hace falta solo probarlo.
+
+Y nos hablo de la ley del uno. Eh, dice de que una cosa es que un equipo trabaje por objetivos sin unirse en sus virtudes, entonces se unen en el objetivo.
+
+interesante unirse del objetivo, pues si uno buscar el objetivo suponiendo de hacer crecer una empresa y lo otro busca el objetivo de eh ganar dinero para llevar a su casa, pero no le importa la empresa. Este, bueno, entonces este no están todos tras el mismo objetivo.
+
+Siempre en una empece de una organización todos tienen que estar tras un eje, un mismo objetivo. Pero parar Pitágoras aún más importante que encontrar el eje de cualquier organización es sumarse los unos a los otros en eh las virtudes.
+
+Entonces dice que cada uno es todos.
+
+¿Por qué? Porque cada uno, si son 10 los integrantes del grupo, cada uno va agradeciendo, valorando la virtud del otro y se lo dice y del otro y del otro y del otro y del otro.
+
+Entonces, el que valora a los otros nueve, lo que hace es sumar las virtudes de los otros nueve. Así.
+
+Entonces dice, Pitágoras, que uno puede aprender las virtudes a través de pedirlas a Dios o puede eh tenerlas eh a través de valorarlas, verlas, agradecerlas a alguien, o sea, la virtud ya encapada en alguien.
+
+Entonces nos dice que eh si si lo suma así a uno, vuelvo a decir, cada uno es todos y así el otro, lo otro, el otro, el otro.
+
+Entonces cumplen la ley del uno. Cada uno de ellos pasa a tener las virtudes de los 10. Entonces, la potencia que agarra la organización es extraordinaria.
+
+Pero bueno, así trabajaban los equipos pitagóricos, donde los discípulos del maestro trabajaban así.
+
+Si alguien aprendía un don, una virtud, eh, y era de un grupo de 10, todo el grupo, los 10 festejaban ese atributo nuevo de uno como atributo nuevo del grupo.
+
+Entonces el festejo, el amor, pero porque en verdad pasábal adquirirlo con mire lo que es esa confianza.
+
+No la probamos nosotros somos una cultura exactamente opuesta y encima no se lo ve, es la cultura de la competencia el que uno critica, el otro critica, critica, critica.
+
+No solo no se suma, se resta.
+
+Y hace cosas bonitas y este dice, "Ah, sí, pero está mal esto." Ah, no, pero está mal aquello. Y entonces no le admira porque le puede decir no como una crítica, sino como un aporte.
+
+Eh, bueno, a mí me parece que esto eh quizás saldría mejor si se lo hace de esta manera, pero antes alabat todo lo que hizo, eso significa que lo vio.
+
+Entonces decía, qué bueno esto, que bueno aquello, qué bueno aquello. Ahora, a lo mejor también sería deseable si se logra estas cosas, pero no.
+
+Lo que es más habitual es mirar solo el error, lo que no corresponde. Entonces, ¿qué hacemos? Nos restamos entre nosotros y no se forman equipos preciosos de personas que se quiere, que se ama, que se cuida. Se dice que así eran los invencibles caballeros del rey Arturo que funcionaban con la ley del uno. se admiraban tanto porque eran 12 caballeros completamente diferentes, con habilidades completamente distintas, pero eh se conocían, se querían, se admiraban, se agradecía las virtudes, pero cuando se iban, que uno decía, "Yo por el norte, voy por el noreste, voy por el sur, así para encontrarse después de 20 días o de un mes." Eh, a donde iba cada uno. Se dice que valía por los otros 11 caballeros. Por eso eran así como invencibles, porque estando en cada lugar decía, "Uy, aquí se necesita virtud de pulado, la invoco." Y la tenía porque la había festejado como atributo de cueca.
+
+Entonces eso, mis hermanitos, grupos, equipos humanos, formamos así equipos en la familia. Hoy qué hermoso sería, ¿eh?
+
+Yo admiro tu don, mi postul de tu don.
+
+No lo puedo hacer, pero es tan linda la virtud que ya la festejo como propia y del otro hijo y del otro hijo.
+
+Entonces ahí se formaría formaríamos ambos equipos eh este con la ley del uno sumados eh los unos con los otros en los que cada uno es todos.
+
+Así grupos de trabajo, así grupos de amistad, en lo que se pueda, porque por ahí hay personas que pueden no gustarle hacer esto, pero bueno, si puede o si tengo la dicha, t unas cuantas personas que si quiera hacerlo. Qué precioso ser al menos hablab con todos.
+
+y voy uno por uno diciéndoles qué admiro delito. Entonces yo al menos me siento todos. ¿Qué le parece intentarlo?
+
+Entonces eh si quieren intentamos hoy, intentamos toda la semana y nos vemos la semanita que viene, si Dios quiere.
+
+Chao.
+
+Que que tengan adiosito corazón que tengamos toda la semana adiosito de corazón y a todos los que estamos acá participando de lo mismo, que nos sentamos juntos. Así festejemos los atributos del hermanito desconocido como si fuese propos.
+
+Chao, hasta el otro domingo. Silok.
+
+Yeah.

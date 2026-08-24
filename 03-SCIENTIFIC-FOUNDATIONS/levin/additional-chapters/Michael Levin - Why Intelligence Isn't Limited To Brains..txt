@@ -1,0 +1,3127 @@
+ 
+ 
+
+Unknown speaker 00:01 
+Each one of us,
+
+Unknown speaker 00:02 
+and also us as the current implementation of humanity, are going to be replaced.
+
+Unknown speaker 00:06 
+Persistence in current form is impossible.
+
+Unknown speaker 00:09 
+It's impossible in biology.
+
+Unknown speaker 00:10 
+Every species will either die out or it will change and adapt, in which case it is again not the same species.
+
+Unknown speaker 00:17 
+So the next question is, once you've given up the idea that you can stay exactly as you are, the next question is, what would you like to be replaced by?
+
+Unknown speaker 00:25 
+Michael Levin is a distinguished professor at Tufts University.
+
+Unknown speaker 00:29 
+His research spans multiple fields, including developmental biology, bioengineering, and cognitive science.
+
+Unknown speaker 00:36 
+Levin is known for his groundbreaking research on bioelectricity, regeneration, and what he calls diverse intelligence.
+
+Unknown speaker 00:43 
+What do we actually mean by humanity?
+
+Unknown speaker 00:44 
+What is the important feature about being a human?
+
+Unknown speaker 00:48 
+Do we mean that you have to have modern homo sapiens DNA?
+
+Unknown speaker 00:51 
+Do you mean that they have to have the kind of standard human organs and a human anatomy and they better not, you know, have pieces replaced by some sort of cyborg technology?
+
+Unknown speaker 00:59 
+I do think that it's possible to create beings that are highly intelligent in the sense of problem solving capacity, but that don't necessarily share these things with us.
+
+Unknown speaker 01:09 
+I think probably that is what we will have first.
+
+Unknown speaker 01:14 
+I mean, that's certainly where I see modern efforts at AI going.
+
+Unknown speaker 01:16 
+Professor Levin, it's it's it's such an honor to have you on MLST.
+
+Unknown speaker 01:20 
+Thank you so much for joining us.
+
+Unknown speaker 01:21 
+Thank you so much.
+
+Unknown speaker 01:22 
+Thank you for having me.
+
+Unknown speaker 01:22 
+So I've just enjoyed reading your paper, a bridge towards diverse intelligence and humanity's future.
+
+Unknown speaker 01:28 
+Can you tell us about that?
+
+Unknown speaker 01:30 
+Yeah, uh, well, uh, basically what I'm working on is uh, considered part of the field of diverse intelligence.
+
+Unknown speaker 01:37 
+And this is the overall the large uh project of trying to understand what it means to be an intelligent agent, in particular an embodied intelligent agent.
+
+Unknown speaker 01:47 
+And uh my claim is that we as humans and as scientists are really only calibrated for a very particular kind of uh for for detecting only a very particular kind of intelligent agent.
+
+Unknown speaker 01:59 
+We're good at noticing minds that are embodied, medium size scale, medium speed, moving in three to, you know, in the three-dimensional space.
+
+Unknown speaker 02:03 
+We're okay at noticing those things and then we have some trouble maybe a whale or an octopus or something like that.
+
+Unknown speaker 02:12 
+But uh I I actually think that there are many other spaces in which minds are embodied, um, and this is this is present throughout biology and I think wider, even even wider than what we would consider biology, and I think that we need to develop um principled uh theories for how to detect, how to communicate with and how to rationally relate to these other minds that are out there, and I think it's a very important project.
+
+Unknown speaker 02:36 
+This is maybe a fun, a fun question here.
+
+Unknown speaker 02:39 
+I uh I get the impression from reading some of your work that you're either a fan of science fiction or you've at least, you know, you you know enough about it because um, I mean, is that true or you would or is it fair to say you're a fan of science fiction?
+
+Unknown speaker 02:53 
+Yes, I think that's fair.
+
+Unknown speaker 03:00 
+I mean, I grew up reading all of the, you know, uh classic science fiction.
+
+Unknown speaker 03:06 
+I was I'm a huge fan.
+
+Unknown speaker 03:15 
+I mean, honestly, I think that uh what people call science fiction just means you have a a faster Gantt chart than than everybody else, you know.
+
+Unknown speaker 03:24 
+Right.
+
+Unknown speaker 03:34 
+That's really you know, people say, well, this is sci-fi, but but but to me, anything that isn't forbidden by the laws of physics and I'm not sure we know that much about what's actually forbidden, um, is is possible and probably likely, assuming that, you know, we we we don't kill ourselves off and so on.
+
+Unknown speaker 03:40 
+So I I don't see, you know, some of some of these things that science fiction has dealt with, I see as a very a very practical uh kind of issues and and fodder for for philosophical and scientific discussion.
+
+Unknown speaker 03:54 
+Yeah, and I mean, the reason why I ask is I I view science fiction as is really writing where you you have the entire palette of possibility if you will.
+
+Unknown speaker 04:00 
+And so you can explore essentially any any topic you want to, as you said, you know, as long as it doesn't violate the laws of physics, it's at least soft maybe hard sci-fi even, right?
+
+Unknown speaker 04:07 
+And um, for me it's it's been extremely useful and I get made fun of a lot on on the show for mentioning it, but like you, I find a lot of inspiration and a really just thought process that happens in science fiction.
+
+Unknown speaker 04:15 
+Like let's explore the idea what if, you know, what if there was an intelligence that was the size of a a cloud as large as the solar system.
+
+Unknown speaker 04:23 
+And it showed up and it didn't even really recognize that there was intelligent life on earth, you know.
+
+Unknown speaker 04:26 
+Until after it done tremendous damage.
+
+Unknown speaker 04:29 
+You know, what happened?
+
+Unknown speaker 04:59 
+I mean, so it's just the ability to explore these ideas, right?
+
+Unknown speaker 05:00 
+critical is to remember that our current perspective is not privileged in any way.
+
+Unknown speaker 05:05 
+that that things that seem sci-fi to us now may well be commonplace and and we need to think about what that means for us.
+
+Unknown speaker 05:11 
+Professor Levin, one of the reads I got from reading your paper was almost um I guess you were railing against human chauvinism.
+
+Unknown speaker 05:19 
+And there were elements of what I don't know whether you would um be comfortable with me saying this, but transhumanism.
+
+Unknown speaker 05:26 
+And this idea of a space of possible minds, I mean um Aaron Sloman of course wrote about that in 1984 if if I remember correctly and we spoke with Murray Shanahan about that recently.
+
+Unknown speaker 05:33 
+And it's fascinating, but we as humans, we tend to anthropomorphize.
+
+Unknown speaker 05:40 
+We think that our form of humanity is the only valid one and we're constantly making distinctions between us and machines and um talking about things like agency and so on from our own lens and and he spoke to this beautifully.
+
+Unknown speaker 05:54 
+But one theme I want to talk about is losing our humanity.
+
+Unknown speaker 05:57 
+So you said, personally, if I and humanity are supplanted by a population of highly intelligent, motivated, creative agents with huge radii of compassion and meaningful lives who transcend our current limitations in every way, what better outcome could I hope for?
+
+Unknown speaker 06:14 
+What's your take on that?
+
+Unknown speaker 06:15 
+Yeah, well, I I want to talk about two things there.
+
+Unknown speaker 06:17 
+Um, first, um, you know,
+
+Unknown speaker 06:20 
+each one of us and also us as the current implementation of humanity are going to be replaced.
+
+Unknown speaker 06:33 
+That's there's no there's no other alternative, right?
+
+Unknown speaker 06:34 
+Each each one of us we're all going to die.
+
+Unknown speaker 06:37 
+We're going to be replaced by something.
+
+Unknown speaker 06:38 
+So persistence indefinitely, I mean, there are some anti-aging things coming down and so on.
+
+Unknown speaker 06:41 
+But but but overall, persistence in current form is impossible.
+
+Unknown speaker 06:49 
+It's impossible in biology.
+
+Unknown speaker 06:50 
+Every species will either die out or it will change and adapt, in which case it is again not the same species.
+
+Unknown speaker 06:54 
+All of us start out life as a single cell, we become an embryo, uh, a child, we learn, we grow, we change.
+
+Unknown speaker 07:00 
+you know, persistence in the current form is impossible.
+
+Unknown speaker 07:05 
+So so the next question is, once you've given up the idea that you can stay exactly as you are, the next question is, what would you like to be replaced by?
+
+Unknown speaker 07:09 
+And I and I do think that this idea that we should remain uh as we are is I I I I don't know.
+
+Unknown speaker 07:13 
+May I I I can't wrap my mind around it because if if I think of humanity, you know, you know, maturing as a species and we come back, let's say a hundred years later, are we still walking around with lower back pain and astigmatism and and and with our you know, with whatever kind of body you happen to have been born into because some cosmic ray hit a, you know,
+
+Unknown speaker 08:00 
+embryonic cell and all these limitations, it it seems it seems impossible that this is the future that people want to paint.
+
+Unknown speaker 08:06 
+These limitations that that we face today, uh, were not given to us by any kind of rational process that had our values or our welfare in mind.
+
+Unknown speaker 08:19 
+This is just where evolution happens to have dropped us off at the point where we can now participate in that creative process.
+
+Unknown speaker 08:21 
+And I think it's inevitable and I think it's I I think this is what we should want.
+
+Unknown speaker 08:26 
+We should want the future to be better than the past, uh, and we should we should be thinking about what is it that we are inevitably going to be replaced by and what are our values in terms of what kinds of things do we want to populate the universe.
+
+Unknown speaker 08:38 
+So that's that's the first thing.
+
+Unknown speaker 08:39 
+The second thing I would say is uh about humanity and losing our humanity.
+
+Unknown speaker 08:42 
+So, so the first thing to think about is what do we actually mean by humanity?
+
+Unknown speaker 08:44 
+What is what is the important feature about being a human?
+
+Unknown speaker 08:49 
+Um, I I've heard there's people are working on proof of humanity certificates in the face of uh AI generated content and things like this.
+
+Unknown speaker 08:57 
+So that raises an interesting question.
+
+Unknown speaker 09:03 
+When you say some someone is a human, what what what's actually important about that?
+
+Unknown speaker 09:04 
+And one very kind of simple way to visualize it is you're going on a journey to Mars, you're going to be there for 30 years, who who do you want to have with you, right?
+
+Unknown speaker 09:17 
+What is it?
+
+Unknown speaker 09:18 
+So, so you'd like a human companion.
+
+Unknown speaker 09:19 
+What does that actually mean?
+
+Unknown speaker 09:20 
+So, um, let's run down some options.
+
+Unknown speaker 09:21 
+Well, we do we mean the DNA?
+
+Unknown speaker 09:22 
+Do we mean that you have to have modern homo sapiens DNA?
+
+Unknown speaker 09:25 
+I don't know.
+
+Unknown speaker 09:26 
+I don't I don't I don't care about DNA that much.
+
+Unknown speaker 09:27 
+Um, does it do you mean that they have to have the kind of standard human organs and and a human anatomy and they better not be replaced, you know, have pieces replaced by some sort of cyborg technology?
+
+Unknown speaker 09:39 
+I don't know, I don't really care about that either.
+
+Unknown speaker 09:40 
+Um, I think as we as we think carefully about what is it that we do want to have a meaningful human human level relationship as opposed to a Roomba or a, you know, a pet snake or something, then then the question is what do you actually want?
+
+Unknown speaker 09:53 
+So I think we want two things overall.
+
+Unknown speaker 09:54 
+We want a similar uh or or at least so so when we say human, what I think we mean is at least a human level uh uh radius of compassion.
+
+Unknown speaker 10:10 
+with
+
+Unknown speaker 10:10 
+another being that has
+
+Unknown speaker 10:11 
+roughly a kind of impedance match with with with respect to their
+
+Unknown speaker 10:15 
+cognitive
+
+Unknown speaker 10:15 
+licons, so the the the size of goals that they can pursue, right?
+
+Unknown speaker 10:16 
+Should be should be roughly similar to yours, and they should be able to um understand your existential concerns.
+
+Unknown speaker 10:19 
+So they they like us should be made of parts, they should be um uh, you know, what uh what the
+
+Unknown speaker 10:21 
+what you can think of as a kind of mortal computation, meaning that uh, you know, they're they're perpetually at risk of disappearing basically, right?
+
+Unknown speaker 10:27 
+So, so none of us are are invulnerable and so on.
+
+Unknown speaker 10:30 
+So, so these kinds of, you know, be open to these questions, what what where did I come from?
+
+Unknown speaker 10:35 
+What does life mean to me?
+
+Unknown speaker 10:36 
+This is what we mean, the the ability to raise those questions and to have those concerns and to have um the degree of compassion of a standard human or or up.
+
+Unknown speaker 10:46 
+That is that is what I think we mean.
+
+Unknown speaker 10:46 
+Just a a quick point on that.
+
+Unknown speaker 10:47 
+So this um sounds like you're making an argument for goal canalization or it's very similar to Bostrom's instrumental convergence, which is basically that for um an intelligent living entity to exist in our physical world, they would probably exhibit things like compassion and existential concerns, and of course they make the argument, they would probably um exhibit power seeking.
+
+Unknown speaker 11:09 
+But why why do you draw that inference?
+
+Unknown speaker 11:12 
+Well, I'm not actually suggesting that they have to.
+
+Unknown speaker 11:14 
+I I I do think that it's possible to create beings that are uh highly intelligent in the sense of problem solving capacity.
+
+Unknown speaker 11:24 
+Um, but that don't necessarily share these things with us.
+
+Unknown speaker 11:27 
+I I think that's entirely possible.
+
+Unknown speaker 11:28 
+Um, uh, I think probably uh that that is what we will have first.
+
+Unknown speaker 11:30 
+I mean, that's certainly where I see modern efforts at AI going, which is which is that they're not really um bio-inspired in the in the relevant way.
+
+Unknown speaker 11:41 
+Um, they are uh, you know, very good at solving certain kind of problems, but they actually don't have some of the some of the key features that are at least as far as we know.
+
+Unknown speaker 11:47 
+I think we have to be very careful with with any kind of blanket statement here.
+
+Unknown speaker 11:53 
+Um, but so, so I don't think those things necessarily go together.
+
+Unknown speaker 11:54 
+My my claim is simply that the latter is what we should care about.
+
+Unknown speaker 11:59 
+In other words, if you want to maintain humanity, I don't think you should be maintaining physical embodiment.
+
+Unknown speaker 12:04 
+I don't think the anatomical description of a modern human matters for anything.
+
+Unknown speaker 12:17 
+I think what you should be really thinking about is uh is uh you know, wisdom and compassion basically, right?
+
+Unknown speaker 12:18 
+That's that's what you're looking for.So you've chosen a couple of the properties of what I think if you went around just interviewed humans, you know, what does humanity mean, they would they would have a list, right?
+
+Unknown speaker 12:26 
+And so you've chosen a few, you know, compassion and
+
+Unknown speaker 12:30 
+and wisdom.
+
+Unknown speaker 12:31 
+At the same time, those are in some ways just like our biology, they're kind of accidental, right, as to where we are currently in our in our evolutionary state and how we got here.
+
+Unknown speaker 12:40 
+Why should we care about those two in particular?
+Like, you know, maybe maybe the best form of life or a future future intelligence has no compassion.
+Like, why should we care about these two in particular that you've selected?
+
+Unknown speaker 12:53 
+Yeah, I mean, I think I think we are getting here to very fundamental um values that I I, you know, it's like they're like axioms.
+
+Unknown speaker 13:00 
+I I don't I don't I I can't give you an argument that those that that the two features that I've chosen are better than anybody else's features, but we have to choose something and I don't think there are any arguments to be made for any of these that are sort of knockdown um logical proofs that okay, this is this is the way that you should go.
+
+Unknown speaker 13:10 
+I think this is where uh we have to uh pick pick some pick some axioms and see what the implications are.
+I mean, so this is and and you know, and again, to be clear, this is my personal view.
+This isn't I'm not saying that I can prove this or that everybody else should think of it this way or anything else.
+
+Unknown speaker 13:26 
+Um, it's entirely possible that somebody wants to emphasize something else, but I think mine are pretty, you know, pretty reasonable.
+Sure.
+
+Unknown speaker 13:43 
+I mean, well, one thing about that, which I find kind of interesting is that um a lot of things that we perceive as limitations, if you will, of of human cognition, human biology, whatever.
+
+Unknown speaker 13:56 
+If you kind of look more deeply and you look at the, you know, the algorithm, if you will, of evolution, and the fact that what it cares about is essentially the long-term survival of life overall, not even a particular species, but the entire life ecosystem, if you will, then they start to actually um be less limitations and or things that that actually have value.
+
+Unknown speaker 14:13 
+So you bring up this concept of bow tie, right, which is like the fact that I have to take my thoughts, compress them into a language, communicate them to you, then you sort of decompress those into, you know, thinking in your head.
+
+Unknown speaker 14:20 
+Uh, it seems like, you know, maybe a disadvantage, the fact that we take our genetics, compress it into an egg and a sperm, and then they combine and reproduce an individual.
+They're all these bottlenecks everywhere, these kind of bow ties, right?
+Very similar to AI, you know, coder decoder architectures, right?
+And most people look at those like, this sucks, you know, if only if only I could just have a neural link to transfer like data directly to you, like if I could just clone myself and said to go on through this whole sexual
+
+Unknown speaker 15:00 
+you know, reproduction kind of thing.
+
+Unknown speaker 15:01 
+Like they see limitations, where actually a lot of the points that you make in your work are, no, these actually have like tremendous value when you're a life form in an environment of insufficient knowledge and limited resources, you have to survive under variation, variability.
+
+Unknown speaker 15:18 
+Can you kind of talk about that in two perspectives, like one, did I get that correct?
+
+Unknown speaker 15:22 
+Um, and then secondly, why do you think it is that people always perceive these things as limitations, like they're framed as all about their own personal limitations rather than seeing the bigger picture.
+
+Unknown speaker 15:33 
+Yeah.
+
+Unknown speaker 15:34 
+Yeah, well, uh, so, so first if, you know, to talk about evolution and the goals of evolution and so on, you guys should have Richard Watson on, for he's a computer scientist from University of Southampton and he has a, he has a very interesting kind of new take on evolution.
+
+Unknown speaker 15:50 
+So, so that's, you know, I'll let him, I'll let him handle that one.
+
+Unknown speaker 15:50 
+But um, I think that uh, I I think you're right.
+
+Unknown speaker 15:53 
+I think people, you know, I think in general and and uh, this is totally like armchair psychology, right?
+
+Unknown speaker 16:00 
+I I don't really know.
+
+Unknown speaker 16:00 
+But uh, but I suspect that people tend to project a lot.
+
+Unknown speaker 16:03 
+And in um, a lot of what I see as resistance to uh, some of the things that I and others have written about uh, you know, the the continuum between humanity and other kinds of um, forms of mind and so on.
+
+Unknown speaker 16:16 
+I I I think what a lot of people um, see there is a projection of um, their own limitations, you know, when people talk about what is impossible for for for for for machines, and of course, they they say machines as though this was some kind of crisp category when we know we have to deal with cyborgs and high brots and chimeras of of of all kinds.
+
+Unknown speaker 16:37 
+Uh, you know, I I I think that that there's a real um, undercurrent of limitation in the in the in the sense that compassion and and those kinds of things are a zero sum game, you know, that that if we, that if we recognize too many other minds that we then have to care about, there won't be enough.
+
+Unknown speaker 16:56 
+There won't be enough for us and and we may not be able to muster um, sufficient uh, sufficient care.
+
+Unknown speaker 16:57 
+And so I have a feeling that a lot of this kind of resistance really does come from a deep, um, you know, and and as I pointed out in this, in this paper and another one that's in review now, these are these are fundamental uh, very, very ancient um, human issues, you know, being supplanted by the next generation.
+
+Unknown speaker 17:13 
+This is not a new AI thing, this is as as old as the hills where where you know you are making high level intelligences that are going to probably be better than you.
+
+Unknown speaker 17:17 
+You have no idea, I mean, you do your best or or not, but but you have no idea that they're going to value any of the things that you value.
+
+Unknown speaker 17:28 
+Um, you know, in fact through their teenage.
+
+Unknown speaker 17:30 
+years they will tell you that they don't.
+
+Unknown speaker 17:31 
+and and so, you know, and so
+
+Unknown speaker 17:32 
+who are you going to get replaced by?
+
+Unknown speaker 17:34 
+This is this is a very old uh problem.
+
+Unknown speaker 17:37 
+This is not new with AI.
+
+Unknown speaker 17:38 
+So, so I think all of these things are bubbling up to the surface now, um where but but they've been with us all along.
+
+Unknown speaker 17:43 
+And um the thing about the
+
+Unknown speaker 17:45 
+That's uh that's like that's like Socrates uh the kids of today, right?
+
+Unknown speaker 17:50 
+Or the the youth of today.
+
+Unknown speaker 17:51 
+Yeah, exactly.
+
+Unknown speaker 17:52 
+Um, yeah, and and the thing with the botai, so so let me talk about that for a second.
+
+Unknown speaker 17:54 
+So, um, I
+
+Unknown speaker 17:57 
+I I I do think that that this this basic architecture is incredibly important because what I think it does in biology is set up the
+
+Unknown speaker 18:06 
+intelligence ratchet that we see in the living world.
+
+Unknown speaker 18:08 
+And and roughly speaking, it works like this.
+
+Unknown speaker 18:11 
+Um, as a uh as a being that is limited in terms of a finite being under under limited resources and limited time, you don't have you you don't have the
+
+Unknown speaker 18:20 
+luxury of being a a Laplacian demon, you can't track micro states.
+
+Unknown speaker 18:25 
+You have to compress your experience, you have to learn and and squeeze uh lots of um uh particular uh events into some kind of a a compressed representation.
+
+Unknown speaker 18:36 
+You're throwing away um all kinds of uh um correlations and and and you're hoping to, you know, capture a pattern, ignore all kinds of things and and capture a pattern and and that's your that that's how you form memories.
+
+Unknown speaker 18:47 
+Well, um, and this is this is true behaviorally, but it is also true uh on a developmental evolutionary um time scale as you as you pointed out, you know, squeezing down to a genetic representation and then and then um re-expanding.
+
+Unknown speaker 18:58 
+So the thing about that is that um there's an algorithmic process on the left side of that of that botai, which takes the
+
+Unknown speaker 19:06 
+which what the experiences you've had and squeezes them down into a representation.
+
+Unknown speaker 19:10 
+But the other side is is not purely algorithmic, it's creative.
+
+Unknown speaker 19:14 
+And it has to be because by throwing away all that stuff, you
+
+Unknown speaker 19:19 
+don't really know what the past actually was, you just have a representation that you then have to interpret.
+
+Unknown speaker 19:24 
+The the necessity to interpret that in real time is what gives rise to not only behavioral intelligence, meaning flexi, you know, flexible adaptive behavior, because
+
+Unknown speaker 19:34 
+um, you your your allegiance is to the salience of the information, not the fidelity.You actually have no idea what the original memory was, all you have is your memory trace and in real time you have to you have to continuously do this kind of like storytelling about yourself and the outside world based on whatever engrams you happen to have at the time, right?
+
+Unknown speaker 19:53 
+Because we don't have access to the past.
+
+Unknown speaker 19:59 
+And the same thing so so that's cognitively I think what's happening and developmentally what's happening is that um biology.
+
+Unknown speaker 20:00 
+and unlike our computer technology,
+
+Unknown speaker 20:01 
+biology is dealing with a very unreliable medium.
+
+Unknown speaker 20:05 
+So we work very hard so that every layer is isolated, right, from the layers above and when you're writing in high level computer computer code, you you're not worried that that the metal is going to act weird and that you're, you know, suddenly your your, you know, registers are the numbers are going to float off and be something else.
+
+Unknown speaker 20:22 
+You you can trust, right?
+
+Unknown speaker 20:23 
+You have full trust in in the layers underneath, you know.
+
+Unknown speaker 20:24 
+Um, biology has the exact opposite approach because everything is unreliable.
+
+Unknown speaker 20:28 
+You have no idea exactly how many copies of anything you're going to have, molecules come and go, things degrade, things misfold.
+
+Unknown speaker 20:34 
+It's it's and and you know on an evolutionary time scale, you know things are going to change, guaranteed, not only the environment's going to change, but your own parts are going to change because you're going to mutate, everything is different.
+
+Unknown speaker 20:44 
+And each time.
+
+Unknown speaker 20:45 
+And for this reason, I think that um, evolution does not overtrain on the past and this is why and I've got we we could talk about it, but I have in my papers, I show many, many examples of this.
+
+Unknown speaker 20:54 
+Biology is incredibly good at solving novel problems and making some kind of coherent being in all kinds of crazy configurations that either nature has done or or that we do in the lab, and the reason is is because even the normal embryo was not a mechanical construction to begin with.
+
+Unknown speaker 21:06 
+It is solving that problem every single time, you know, by I like this idea of beginner's mind.
+
+Unknown speaker 21:15 
+It's like you're you're given some tools, you're given some hardware that's encoded by the genetics.
+
+Unknown speaker 21:19 
+You have no idea what it used to mean.
+
+Unknown speaker 21:23 
+You have no no no idea what kind of um environment uh, you know, and how it was meant to be interpreted and you have no allegiance to that and you have no ability to know exactly what that is.
+
+Unknown speaker 21:35 
+All you know is you're going to use that information that's best you can right now to do whatever the next thing is.
+
+Unknown speaker 21:35 
+And that creativity, that that uh, the requirement to to confabulate, really, to to tell a new story without any allegiance to what the story used to be, um, is is the is the intelligence ratchet that starts off in physiological and and metabolic space and proceeds through anatomical morph space and eventually behavioral space and linguistic space and so on.
+
+Unknown speaker 21:56 
+Um, I I I think that's that aspect of it, having to compress and then creatively figure out what do my memories mean, I think is is is foundational to being a real agent and I think that's what biology does.
+
+Unknown speaker 22:07 
+Yeah, reading through your work, and of course, we can debate what the definition of intelligence is, but you framed it as some kind of general problem solving ability.
+
+Unknown speaker 22:17 
+We've been debating it on the channel for years, so we'll we'll skip that one just for the time being.
+
+Unknown speaker 22:23 
+But um, you know, when you spoke about the um, the metamorphosis from a caterpillar to to a butterfly, and and also in in your work in xenobots and anthro bots, you seem to be making the argument that evolution is bestowing the capacity for intelligence rather than solving specific problems or having a specific morphology.
+
+Unknown speaker 22:36 
+And you demonstrated in your work that you could repurpose low level um, you know, cells if you like, into completely different spaces and they could exhibit intelligent behavior.
+
+Unknown speaker 22:40 
+And to me, that suggests that you're making an argument which is kind of leaning towards primordial agency at the lowest level.
+
+Unknown speaker 22:58 
+I mean, we've spoken to pan psychists like Philip Goff.
+
+Unknown speaker 23:07 
+You're not making an ontological argument, you're just saying that the locus or the lens of agency and intelligence should be at the very lowest level.
+
+Unknown speaker 23:08 
+And it's, you know, it has incredible plasticity and generalization.
+
+Unknown speaker 23:10 
+Yeah, I mean, I I would like to make two arguments.
+
+Unknown speaker 23:10 
+One is that I I am not sure there's any truth of the matter in the sense that um, some kind of uh, objective uh, unique view from nowhere that where you can say, this is this is what what has mind and this is what doesn't.
+
+Unknown speaker 23:28 
+I think that um, all of this is observer relative.
+
+Unknown speaker 23:30 
+Now, for for for complex agents, that observer is the system itself, so there are this the strange loop that kind of reifies itself at certain organisms, but basically, all of this is from the perspective of an observer.
+
+Unknown speaker 23:39 
+And so, um, what you can say is from from from my perspective, I look at very basal systems and we've now done this not only in cells and tissues, but we've done this in molecular uh pathways.
+
+Unknown speaker 23:57 
+We've done it in very simple computer algorithms, like sorting algorithms, we can talk about that, but but the idea is, when you look at a system like this, what set of tools are appropriate?
+
+Unknown speaker 24:09 
+Are they the tools of mechanical rewiring?
+
+Unknown speaker 24:10 
+Are they the tools of cybernetics?
+
+Unknown speaker 24:11 
+Are they the tools of behavior science, of psychoanalysis, uh, and and and so on, right?
+
+Unknown speaker 24:11 
+And um, I I, you know, I'm I'm a pan psychist in the sense that I think that the utility of these kinds of approaches uh, becomes clear very low down.
+
+Unknown speaker 24:21 
+In other words, you don't need anything remotely like a cell or anything that complex before you have to start taking about from the perspective of the system itself, what does it learn, what does it measure, what does it remember, what are the valences.
+
+Unknown speaker 24:33 
+I I think all of that stuff starts very low down.
+
+Unknown speaker 24:39 
+But I don't think this is a philosophical position.
+
+Unknown speaker 24:40 
+I think this is an empirical claim.
+
+Unknown speaker 25:25 
+is
+
+Unknown speaker 25:25 
+emerging
+
+Unknown speaker 25:26 
+fromthat,youknow,um,soI'mso
+
+Unknown speaker 25:27 
+I'm
+
+Unknown speaker 25:27 
+not
+
+Unknown speaker 25:27 
+talking
+
+Unknown speaker 25:27 
+about
+
+Unknown speaker 25:28 
+the
+
+Unknown speaker 25:28 
+hard
+
+Unknown speaker 25:28 
+problem
+
+Unknown speaker 25:28 
+of
+
+Unknown speaker 25:28 
+consciousness
+
+Unknown speaker 25:28 
+here
+
+Unknown speaker 25:29 
+or
+
+Unknown speaker 25:29 
+or
+
+Unknown speaker 25:29 
+anything
+
+Unknown speaker 25:29 
+like
+
+Unknown speaker 25:30 
+that,
+
+Unknown speaker 25:30 
+that's
+
+Unknown speaker 25:30 
+that's
+
+Unknown speaker 25:30 
+a
+
+Unknown speaker 25:31 
+little
+
+Unknown speaker 25:31 
+bit
+
+Unknown speaker 25:31 
+of
+
+Unknown speaker 25:31 
+a
+
+Unknown speaker 25:31 
+different
+
+Unknown speaker 25:31 
+kettle
+
+Unknown speaker 25:32 
+of
+
+Unknown speaker 25:32 
+fish,
+
+Unknown speaker 25:32 
+but
+
+Unknown speaker 25:32 
+but
+
+Unknown speaker 25:32 
+in
+
+Unknown speaker 25:33 
+terms
+
+Unknown speaker 25:33 
+of
+
+Unknown speaker 25:33 
+uh,
+
+Unknown speaker 25:33 
+uh,
+
+Unknown speaker 25:34 
+you
+
+Unknown speaker 25:34 
+know,
+
+Unknown speaker 25:34 
+uh,
+
+Unknown speaker 25:34 
+cognition
+
+Unknown speaker 25:35 
+and
+
+Unknown speaker 25:35 
+intelligence,
+
+Unknown speaker 25:35 
+which
+
+Unknown speaker 25:36 
+I'm
+
+Unknown speaker 25:36 
+not
+
+Unknown speaker 25:36 
+defining
+
+Unknown speaker 25:37 
+intelligence
+
+Unknown speaker 25:37 
+that
+
+Unknown speaker 25:37 
+way,
+
+Unknown speaker 25:37 
+but
+
+Unknown speaker 25:37 
+for
+
+Unknown speaker 25:37 
+the
+
+Unknown speaker 25:37 
+purpose
+
+Unknown speaker 25:38 
+of
+
+Unknown speaker 25:38 
+our
+
+Unknown speaker 25:38 
+work,
+
+Unknown speaker 25:38 
+that
+
+Unknown speaker 25:38 
+is
+
+Unknown speaker 25:38 
+the
+
+Unknown speaker 25:38 
+the
+
+Unknown speaker 25:39 
+slice
+
+Unknown speaker 25:39 
+of
+
+Unknown speaker 25:39 
+intelligence
+
+Unknown speaker 25:39 
+that
+
+Unknown speaker 25:40 
+I'm
+
+Unknown speaker 25:40 
+interested
+
+Unknown speaker 25:40 
+in,
+
+Unknown speaker 25:40 
+which
+
+Unknown speaker 25:40 
+is
+
+Unknown speaker 25:40 
+problem
+
+Unknown speaker 25:40 
+solving.
+
+Unknown speaker 25:41 
+I
+
+Unknown speaker 25:41 
+do
+
+Unknown speaker 25:41 
+think
+
+Unknown speaker 25:41 
+there
+
+Unknown speaker 25:41 
+are
+
+Unknown speaker 25:41 
+other
+
+Unknown speaker 25:41 
+aspects
+
+Unknown speaker 25:42 
+to
+
+Unknown speaker 25:42 
+it,
+
+Unknown speaker 25:42 
+but
+
+Unknown speaker 25:42 
+I
+
+Unknown speaker 25:42 
+I
+
+Unknown speaker 25:42 
+don't
+
+Unknown speaker 25:42 
+know
+
+Unknown speaker 25:42 
+of
+
+Unknown speaker 25:42 
+an
+
+Unknown speaker 25:42 
+experimental
+
+Unknown speaker 25:43 
+way
+
+Unknown speaker 25:43 
+to
+
+Unknown speaker 25:43 
+get
+
+Unknown speaker 25:43 
+at
+
+Unknown speaker 25:43 
+it,
+
+Unknown speaker 25:43 
+so
+
+Unknown speaker 25:43 
+I'm
+
+Unknown speaker 25:43 
+sticking
+
+Unknown speaker 25:44 
+with
+
+Unknown speaker 25:44 
+problem
+
+Unknown speaker 25:44 
+solving.I
+
+Unknown speaker 25:26 
+think
+
+Unknown speaker 25:26 
+it
+
+Unknown speaker 25:26 
+might
+
+Unknown speaker 25:26 
+have
+
+Unknown speaker 25:26 
+been
+
+Unknown speaker 25:26 
+better
+
+Unknown speaker 25:26 
+if
+
+Unknown speaker 25:26 
+I
+
+Unknown speaker 25:26 
+used
+
+Unknown speaker 25:26 
+the
+
+Unknown speaker 25:27 
+term
+
+Unknown speaker 25:27 
+pan
+
+Unknown speaker 25:27 
+gentilism.
+
+Unknown speaker 25:28 
+I
+
+Unknown speaker 25:28 
+mean,
+
+Unknown speaker 25:28 
+of
+
+Unknown speaker 25:28 
+course
+
+Unknown speaker 25:28 
+you
+
+Unknown speaker 25:28 
+you're
+
+Unknown speaker 25:28 
+you're
+
+Unknown speaker 25:29 
+not
+
+Unknown speaker 25:29 
+an
+
+Unknown speaker 25:29 
+ontological
+
+Unknown speaker 25:29 
+pan
+
+Unknown speaker 25:30 
+you
+
+Unknown speaker 25:30 
+know,
+
+Unknown speaker 25:30 
+you
+
+Unknown speaker 25:30 
+don't
+
+Unknown speaker 25:30 
+think
+
+Unknown speaker 25:30 
+that
+
+Unknown speaker 25:31 
+the
+
+Unknown speaker 25:31 
+bits
+
+Unknown speaker 25:31 
+of
+
+Unknown speaker 25:31 
+the
+
+Unknown speaker 25:31 
+universe
+
+Unknown speaker 25:32 
+have
+
+Unknown speaker 25:32 
+phenomenal
+
+Unknown speaker 25:33 
+experience,
+
+Unknown speaker 25:34 
+but
+
+Unknown speaker 25:34 
+I
+
+Unknown speaker 25:34 
+think
+
+Unknown speaker 25:35 
+you
+
+Unknown speaker 25:35 
+do
+
+Unknown speaker 25:35 
+think
+
+Unknown speaker 25:35 
+that
+
+Unknown speaker 25:36 
+at
+
+Unknown speaker 25:36 
+the
+
+Unknown speaker 25:36 
+lowest
+
+Unknown speaker 25:36 
+level
+
+Unknown speaker 25:37 
+in
+
+Unknown speaker 25:37 
+the
+
+Unknown speaker 25:37 
+biosphere
+
+Unknown speaker 25:38 
+that
+
+Unknown speaker 25:38 
+there
+
+Unknown speaker 25:39 
+is
+
+Unknown speaker 25:39 
+the
+
+Unknown speaker 25:39 
+um,
+
+Unknown speaker 25:40 
+either
+
+Unknown speaker 25:40 
+the
+
+Unknown speaker 25:40 
+facility
+
+Unknown speaker 25:41 
+or
+
+Unknown speaker 25:41 
+the
+
+Unknown speaker 25:41 
+capacity
+
+Unknown speaker 25:41 
+for
+
+Unknown speaker 25:42 
+agency.
+
+Unknown speaker 25:43 
+And
+
+Unknown speaker 25:43 
+if
+
+Unknown speaker 25:43 
+I
+
+Unknown speaker 25:43 
+understand
+
+Unknown speaker 25:44 
+you
+
+Unknown speaker 25:44 
+correctly,
+
+Unknown speaker 25:44 
+it's
+
+Unknown speaker 25:44 
+this
+
+Unknown speaker 25:45 
+diffusion
+
+Unknown speaker 25:46 
+or
+
+Unknown speaker 25:46 
+or
+
+Unknown speaker 25:46 
+collective
+
+Unknown speaker 25:47 
+agency,
+
+Unknown speaker 25:48 
+which
+
+Unknown speaker 25:48 
+is
+
+Unknown speaker 25:48 
+the
+
+Unknown speaker 25:48 
+most
+
+Unknown speaker 25:48 
+important
+
+Unknown speaker 25:49 
+lens
+
+Unknown speaker 25:49 
+to
+
+Unknown speaker 25:50 
+understand
+
+Unknown speaker 25:51 
+systems.
+
+Unknown speaker 25:52 
+And
+
+Unknown speaker 25:52 
+another
+
+Unknown speaker 25:52 
+another
+
+Unknown speaker 25:53 
+interesting
+
+Unknown speaker 25:53 
+thing
+
+Unknown speaker 25:53 
+about
+
+Unknown speaker 25:53 
+this
+
+Unknown speaker 25:54 
+is
+
+Unknown speaker 25:54 
+um,
+
+Unknown speaker 25:54 
+I
+
+Unknown speaker 25:55 
+know
+
+Unknown speaker 25:55 
+we
+
+Unknown speaker 25:55 
+talked
+
+Unknown speaker 25:55 
+about
+
+Unknown speaker 25:55 
+transhumanism
+
+Unknown speaker 25:56 
+earlier,
+
+Unknown speaker 25:56 
+but
+
+Unknown speaker 25:56 
+I
+
+Unknown speaker 25:56 
+do
+
+Unknown speaker 25:56 
+feel
+
+Unknown speaker 25:57 
+that
+
+Unknown speaker 25:57 
+the
+
+Unknown speaker 25:57 
+lens
+
+Unknown speaker 25:57 
+of
+
+Unknown speaker 25:58 
+analysis
+
+Unknown speaker 25:58 
+determines
+
+Unknown speaker 25:59 
+the
+
+Unknown speaker 25:59 
+viewpoint.
+
+Unknown speaker 26:00 
+So
+
+Unknown speaker 26:00 
+a
+
+Unknown speaker 26:00 
+lot
+
+Unknown speaker 26:00 
+of
+
+Unknown speaker 26:00 
+social
+
+Unknown speaker 26:00 
+scientists,
+
+Unknown speaker 26:01 
+for
+
+Unknown speaker 26:01 
+example,
+
+Unknown speaker 26:02 
+they
+
+Unknown speaker 26:02 
+look
+
+Unknown speaker 26:02 
+in
+
+Unknown speaker 26:03 
+the
+
+Unknown speaker 26:03 
+non-physical
+
+Unknown speaker 26:03 
+world.
+
+Unknown speaker 26:04 
+They
+
+Unknown speaker 26:04 
+they
+
+Unknown speaker 26:04 
+don't
+
+Unknown speaker 26:04 
+pay
+
+Unknown speaker 26:05 
+attention
+
+Unknown speaker 26:05 
+to
+
+Unknown speaker 26:05 
+individual
+
+Unknown speaker 26:06 
+human
+
+Unknown speaker 26:06 
+physical
+
+Unknown speaker 26:07 
+humans.
+
+Unknown speaker 26:07 
+They
+
+Unknown speaker 26:07 
+they
+
+Unknown speaker 26:08 
+look
+
+Unknown speaker 26:08 
+at
+
+Unknown speaker 26:08 
+culture
+
+Unknown speaker 26:09 
+and
+
+Unknown speaker 26:09 
+they
+
+Unknown speaker 26:09 
+look
+
+Unknown speaker 26:09 
+at
+
+Unknown speaker 26:09 
+language
+
+Unknown speaker 26:10 
+and
+
+Unknown speaker 26:10 
+they
+
+Unknown speaker 26:10 
+diminish
+
+Unknown speaker 26:11 
+the
+
+Unknown speaker 26:11 
+individual
+
+Unknown speaker 26:12 
+agency
+
+Unknown speaker 26:12 
+that
+
+Unknown speaker 26:13 
+we
+
+Unknown speaker 26:13 
+have,
+
+Unknown speaker 26:14 
+whereas
+
+Unknown speaker 26:14 
+yourself,
+
+Unknown speaker 26:15 
+for
+
+Unknown speaker 26:15 
+example,
+
+Unknown speaker 26:15 
+you're
+
+Unknown speaker 26:15 
+you're
+
+Unknown speaker 26:15 
+looking
+
+Unknown speaker 26:16 
+at
+
+Unknown speaker 26:16 
+the
+
+Unknown speaker 26:16 
+individual
+
+Unknown speaker 26:17 
+microorganisms
+
+Unknown speaker 26:18 
+in
+
+Unknown speaker 26:18 
+the
+
+Unknown speaker 26:18 
+biosphere.
+
+Unknown speaker 26:19 
+And
+
+Unknown speaker 26:19 
+there
+
+Unknown speaker 26:19 
+are
+
+Unknown speaker 26:19 
+some
+
+Unknown speaker 26:19 
+intermediate
+
+Unknown speaker 26:20 
+views
+
+Unknown speaker 26:20 
+like
+
+Unknown speaker 26:20 
+Dawkin's
+
+Unknown speaker 26:21 
+view
+
+Unknown speaker 26:21 
+or
+
+Unknown speaker 26:21 
+even
+
+Unknown speaker 26:21 
+Yosha
+
+Unknown speaker 26:21 
+Bach,
+
+Unknown speaker 26:22 
+we
+
+Unknown speaker 26:22 
+spoke
+
+Unknown speaker 26:22 
+with
+
+Unknown speaker 26:22 
+him
+
+Unknown speaker 26:22 
+a
+
+Unknown speaker 26:22 
+couple
+
+Unknown speaker 26:22 
+of
+
+Unknown speaker 26:23 
+weeks
+
+Unknown speaker 26:23 
+ago,
+
+Unknown speaker 26:23 
+he's
+
+Unknown speaker 26:23 
+talking
+
+Unknown speaker 26:23 
+about
+
+Unknown speaker 26:24 
+um,
+
+Unknown speaker 26:24 
+cyber
+
+Unknown speaker 26:25 
+animism,
+
+Unknown speaker 26:25 
+which
+
+Unknown speaker 26:26 
+is
+
+Unknown speaker 26:26 
+the
+
+Unknown speaker 26:26 
+embodiment
+
+Unknown speaker 26:27 
+of
+
+Unknown speaker 26:27 
+of
+
+Unknown speaker 26:27 
+information
+
+Unknown speaker 26:28 
+in
+
+Unknown speaker 26:28 
+in
+
+Unknown speaker 26:28 
+into
+
+Unknown speaker 26:28 
+our
+
+Unknown speaker 26:29 
+physical
+
+Unknown speaker 26:29 
+being.
+
+Unknown speaker 26:29 
+So
+
+Unknown speaker 26:30 
+do
+
+Unknown speaker 26:30 
+you
+
+Unknown speaker 26:30 
+think
+
+Unknown speaker 26:30 
+that
+
+Unknown speaker 26:30 
+lens
+
+Unknown speaker 26:31 
+of
+
+Unknown speaker 26:31 
+analysis
+
+Unknown speaker 26:31 
+changes
+
+Unknown speaker 26:32 
+the
+
+Unknown speaker 26:32 
+perspective?
+
+Unknown speaker 26:33 
+Yeah,
+
+Unknown speaker 26:33 
+yeah,
+
+Unknown speaker 26:34 
+I
+
+Unknown speaker 26:34 
+I
+
+Unknown speaker 26:34 
+I
+
+Unknown speaker 26:34 
+really
+
+Unknown speaker 26:34 
+think
+
+Unknown speaker 26:35 
+it
+
+Unknown speaker 26:35 
+does
+
+Unknown speaker 26:35 
+and
+
+Unknown speaker 26:35 
+and
+
+Unknown speaker 26:36 
+I
+
+Unknown speaker 26:36 
+think
+
+Unknown speaker 26:36 
+that
+
+Unknown speaker 26:37 
+uh,
+
+Unknown speaker 26:37 
+I
+
+Unknown speaker 26:37 
+yes,
+
+Unknown speaker 26:38 
+I
+
+Unknown speaker 26:38 
+I
+
+Unknown speaker 26:38 
+think
+
+Unknown speaker 26:38 
+that
+
+Unknown speaker 26:39 
+as
+
+Unknown speaker 26:39 
+a
+
+Unknown speaker 26:39 
+matter
+
+Unknown speaker 26:39 
+of
+
+Unknown speaker 26:40 
+empirical
+
+Unknown speaker 26:40 
+discovery,
+
+Unknown speaker 26:41 
+we
+
+Unknown speaker 26:41 
+are
+
+Unknown speaker 26:41 
+finding
+
+Unknown speaker 26:42 
+that
+
+Unknown speaker 26:42 
+uh,
+
+Unknown speaker 26:43 
+using
+
+Unknown speaker 26:43 
+agential
+
+Unknown speaker 26:44 
+lenses
+
+Unknown speaker 26:44 
+on
+
+Unknown speaker 26:45 
+uh,
+
+Unknown speaker 26:45 
+on
+
+Unknown speaker 26:46 
+systems
+
+Unknown speaker 26:46 
+starts
+
+Unknown speaker 26:47 
+very
+
+Unknown speaker 26:47 
+early,
+
+Unknown speaker 26:48 
+you
+
+Unknown speaker 26:48 
+know,
+
+Unknown speaker 26:48 
+way
+
+Unknown speaker 26:49 
+way
+
+Unknown speaker 26:49 
+below
+
+Unknown speaker 26:49 
+what
+
+Unknown speaker 26:50 
+most
+
+Unknown speaker 26:50 
+people.
+
+Unknown speaker 26:50 
+So,
+
+Unknown speaker 26:50 
+so
+
+Unknown speaker 26:51 
+I
+
+Unknown speaker 26:51 
+I
+
+Unknown speaker 26:51 
+think
+
+Unknown speaker 26:51 
+um,
+
+Unknown speaker 26:52 
+uh,
+
+Unknown speaker 26:52 
+intelligence
+
+Unknown speaker 26:53 
+and
+
+Unknown speaker 26:53 
+cognition
+
+Unknown speaker 26:53 
+and
+
+Unknown speaker 26:54 
+agency
+
+Unknown speaker 26:54 
+are
+
+Unknown speaker 26:55 
+a
+
+Unknown speaker 26:55 
+bigger
+
+Unknown speaker 26:56 
+circle
+
+Unknown speaker 26:56 
+in
+
+Unknown speaker 26:56 
+the
+
+Unknown speaker 26:56 
+terms
+
+Unknown speaker 26:56 
+of
+
+Unknown speaker 26:57 
+this
+
+Unknown speaker 26:57 
+Venn
+
+Unknown speaker 26:57 
+diagram
+
+Unknown speaker 26:57 
+kind
+
+Unknown speaker 26:58 
+of
+
+Unknown speaker 26:58 
+thing.
+
+Unknown speaker 26:58 
+They
+
+Unknown speaker 26:58 
+it's
+
+Unknown speaker 26:58 
+a
+
+Unknown speaker 26:58 
+bigger
+
+Unknown speaker 26:59 
+circle
+
+Unknown speaker 26:59 
+than
+
+Unknown speaker 27:00 
+than
+
+Unknown speaker 27:00 
+life,
+
+Unknown speaker 27:00 
+than
+
+Unknown speaker 27:00 
+what
+
+Unknown speaker 27:01 
+we
+
+Unknown speaker 27:01 
+would
+
+Unknown speaker 27:01 
+call
+
+Unknown speaker 27:01 
+life
+
+Unknown speaker 27:01 
+today.
+
+Unknown speaker 27:02 
+When
+
+Unknown speaker 27:02 
+we
+
+Unknown speaker 27:02 
+estimate
+
+Unknown speaker 27:03 
+the
+
+Unknown speaker 27:03 
+the
+
+Unknown speaker 27:03 
+agency,
+
+Unknown speaker 27:04 
+the
+
+Unknown speaker 27:04 
+intelligence
+
+Unknown speaker 27:04 
+of
+
+Unknown speaker 27:05 
+well
+
+Unknown speaker 27:05 
+of
+
+Unknown speaker 27:05 
+any
+
+Unknown speaker 27:05 
+system,
+
+Unknown speaker 27:06 
+we're
+
+Unknown speaker 27:06 
+basically
+
+Unknown speaker 27:06 
+taking
+
+Unknown speaker 27:07 
+an
+
+Unknown speaker 27:07 
+IQ
+
+Unknown speaker 27:07 
+test
+
+Unknown speaker 27:07 
+ourselves.
+
+Unknown speaker 27:08 
+What
+
+Unknown speaker 27:08 
+we're
+
+Unknown speaker 27:08 
+saying
+
+Unknown speaker 27:09 
+is
+
+Unknown speaker 27:09 
+this
+
+Unknown speaker 27:09 
+is
+
+Unknown speaker 27:09 
+what
+
+Unknown speaker 27:09 
+I
+
+Unknown speaker 27:10 
+am
+
+Unknown speaker 27:10 
+smart
+
+Unknown speaker 27:10 
+enough
+
+Unknown speaker 27:10 
+to
+
+Unknown speaker 27:10 
+notice
+
+Unknown speaker 27:11 
+about
+
+Unknown speaker 27:11 
+this
+
+Unknown speaker 27:11 
+system.
+
+Unknown speaker 27:12 
+And
+
+Unknown speaker 27:12 
+I
+
+Unknown speaker 27:12 
+think
+
+Unknown speaker 27:12 
+we're
+
+Unknown speaker 27:13 
+just
+
+Unknown speaker 27:13 
+at
+
+Unknown speaker 27:13 
+the
+
+Unknown speaker 27:13 
+beginning
+
+Unknown speaker 27:14 
+of
+
+Unknown speaker 27:14 
+getting
+
+Unknown speaker 27:14 
+at
+
+Unknown speaker 27:14 
+all
+
+Unknown speaker 27:15 
+good
+
+Unknown speaker 27:15 
+at
+
+Unknown speaker 27:15 
+noticing
+
+Unknown speaker 27:16 
+that.
+
+Unknown speaker 27:16 
+We're
+
+Unknown speaker 27:16 
+we're
+
+Unknown speaker 27:16 
+just
+
+Unknown speaker 27:16 
+beginning
+
+Unknown speaker 27:17 
+to
+
+Unknown speaker 27:17 
+develop
+
+Unknown speaker 27:17 
+tools
+
+Unknown speaker 27:18 
+to
+
+Unknown speaker 27:18 
+to
+
+Unknown speaker 27:18 
+recognize
+
+Unknown speaker 27:19 
+these
+
+Unknown speaker 27:19 
+these
+
+Unknown speaker 27:19 
+other
+
+Unknown speaker 27:19 
+minds.
+
+Unknown speaker 27:20 
+And
+
+Unknown speaker 27:20 
+so
+
+Unknown speaker 27:20 
+I
+
+Unknown speaker 27:20 
+mean,
+
+Unknown speaker 27:20 
+I
+
+Unknown speaker 27:21 
+think
+
+Unknown speaker 27:21 
+a,
+
+Unknown speaker 27:21 
+you
+
+Unknown speaker 27:21 
+know,
+
+Unknown speaker 27:22 
+a
+
+Unknown speaker 27:22 
+physicist
+
+Unknown speaker 27:23 
+might
+
+Unknown speaker 27:23 
+kind
+
+Unknown speaker 27:23 
+of
+
+Unknown speaker 27:24 
+challenge
+
+Unknown speaker 27:25 
+that,
+
+Unknown speaker 27:25 
+right?
+
+Unknown speaker 27:25 
+And
+
+Unknown speaker 27:25 
+say,
+
+Unknown speaker 27:25 
+I
+
+Unknown speaker 27:25 
+I
+
+Unknown speaker 27:25 
+have
+
+Unknown speaker 27:26 
+no
+
+Unknown speaker 27:26 
+need
+
+Unknown speaker 27:26 
+for
+
+Unknown speaker 27:26 
+the
+
+Unknown speaker 27:27 
+assumption
+
+Unknown speaker 27:27 
+of
+
+Unknown speaker 27:27 
+agency
+
+Unknown speaker 27:28 
+to
+
+Unknown speaker 27:28 
+explain
+
+Unknown speaker 27:29 
+like
+
+Unknown speaker 28:00 
+celestial mechanics or like anything else.
+
+Unknown speaker 28:02 
+Actually, like, you know,
+
+Unknown speaker 28:03 
+nowhere in the sort of standard model of physics will you find anything that has to do withwhat a human being would normally associate with agency.
+
+Unknown speaker 27:30 
+Now, you can like reduce your concept of agency all the way down to,
+
+Unknown speaker 27:30 
+no, if like a photon and electron interact and they wanted to do that or they had some, but I mean, physicists don't do that.
+
+Unknown speaker 27:30 
+So can you give an example where in physics, like we benefit from taking this perspective of agency to better explain anything that cosmologists, physicists, solid state guys, any bread and butter physicist would care about.
+
+Unknown speaker 27:30 
+a couple.
+
+Unknown speaker 28:14 
+and I'll give you a very specific example.
+
+Unknown speaker 28:16 
+So, one thing I think that um there there needs to be again an impedance match between the tools you're using and what you hope to see.
+
+Unknown speaker 28:23 
+So, so if you insist on using low agency tools, so rulers, voltmeters, that kind of stuff,
+
+Unknown speaker 28:28 
+you're guaranteed to see that kind of thing and and and the field of folks who look at that stuff, we call those physicists and they see certain certain things.Now, um, we have to remember, so so my claim is not that human level cognition is uh is is usefully painted onto electrons, that's not what I'm saying.
+
+Unknown speaker 28:07 
+What I'm saying is it's a continuum and what we can do is we can ask a very uh simple question.
+
+Unknown speaker 29:13 
+and
+
+Unknown speaker 29:13 
+um,whatwouldthemostbasicversionofagencyhavetolooklike?Notthehumanlevelversion,butlikesteppingitallthewaydownbecause,youknow,wewereunfertilizedoocytesonceandsoclearlysomehowthatgetsscaledupduringdevelopmentandduringevolution,there'sathere'sacontinuum.So
+
+Unknown speaker 29:14 
+so
+
+Unknown speaker 29:14 
+whatdoesthebasementversionofitlooklike?Whatdoyouhavetohaveinordertouhtobeonthespectrumatall.Um,andandthat'sandthat'simportantbecauseifwelookatifwelookforhumansizeduhversionsofthisattheatotherlevels,ofcourse,we'rewe'renotgoingtofindit,butwehavetoreduceourumexpectationswecancomminutelytogoingdownonthatonthatcontinuum.Soactuallythinkifyoudothat,youfindsomethingthatphysicistsabsolutelydealwith,whichisleastactionprinciples.Sotheverybasic
+
+Unknown speaker 29:15 
+versionofhavinggoalsandhavingsomeproblemsolvingcapacitytomeetthosegoalsisthekindofthingyousee,forexample,whenyoufindoutthatlightchoosespathsthataretheleastaction.Itdoesn'tlook,ofcourse,itdoesn'tlooklikehumanagency.Thequestionis,isthereastoryofscalingbywhichyoucangofromsomethingthat'ssimplelikethattouhconceptsthatweneedinneuroscienceandandsosooneexampleofthatscalingisfreeenergyminimizationandthereare,youknow,thatthat'sathat'saumastoryinwhich,forexample,
+
+Unknown speaker 30:00 
+Carl Friston and Chris Peels and and colleagues have used the same conceptual framework to talk about what particles do and eventually talk about what what humans and in fact ecosystems do.
+
+Unknown speaker 30:10 
+So, so what we're looking for here is is stories of of of scaling that allow us to say, okay, this is the very basic, the most primitive version of what um through various dynamics, through life and and maybe other versions will become eventually the things that we recognize as as human level agency.
+
+Unknown speaker 30:27 
+I'll give you a very a very specific example.
+
+Unknown speaker 30:30 
+Um consider uh gene regulatory networks.
+
+Unknown speaker 30:54 
+So what you have there is, never mind the nucleus, you know, all that machinery, just just the very simple thing, you got, let's say, um half a dozen nodes, these are chemicals that turn other nodes on and off.
+
+Unknown speaker 31:02 
+That's it.
+
+Unknown speaker 31:04 
+You don't have anything else, you don't have a cell, you don't have any and you know, all all all all all it is is is half a dozen or or more, um chemicals that turn other chemicals in that set on and off.
+
+Unknown speaker 31:13 
+Now, when you look at that, and so let's say we're going to model it and then this is this is what we've done, people model them with ordinary differential equations and you can see exactly what's going to happen.
+
+Unknown speaker 31:23 
+Um when when when these things interact.
+
+Unknown speaker 31:33 
+Now, now one way to look at this is to say, okay, it's completely deterministic, it's fully transparent.
+
+Unknown speaker 31:37 
+There isn't any any magic here.
+
+Unknown speaker 31:40 
+So, uh this is going to be uh a dumb mechanical system and I've got uh you know, a dynamical systems theory, um by which I'm going to just make predictions about what this thing is going to do.
+
+Unknown speaker 31:43 
+Okay, so that's that's one set of tools where where where you say um I I don't see anything here that would warrant uh any kind of uh you know, any kind of agency talk or anything like that.
+
+Unknown speaker 31:50 
+And that's fine.
+
+Unknown speaker 32:09 
+And if you do that, you get certain kinds of capabilities.
+
+Unknown speaker 32:10 
+But you're also uh precluded from other kinds of capabilities.
+
+Unknown speaker 32:13 
+For example, um these gene regulatory networks are very important in health and disease and if you wanted to manipulate their behavior, that viewpoint makes a specific uh prediction.
+
+Unknown speaker 32:24 
+What it means is that if you're going to change the behavior of this thing, what you have to do is rewire it, you have to introduce new nodes or cut the cut the connections between certain nodes and other nodes and and in biomedicine, that's gene therapy.
+
+Unknown speaker 32:33 
+The way you would do that is is through is through gene therapy.
+
+Unknown speaker 32:37 
+So, so that that philosophical outlook has very specific implications for your roadmap for regenerative medicine, for example.
+
+Unknown speaker 32:50 
+Okay.
+
+Unknown speaker 33:00 
+And so we looked at that and we said, well, yeah, um it's you know, it's transparent and it's and it's relatively simple and there isn't any magic, but of course, that's also true if we look inside of human brains.
+
+Unknown speaker 33:13 
+There's no magic there that we're ever going to find either.
+
+Unknown speaker 33:30 
+So let's so let's do this.
+
+Unknown speaker 33:33 
+Let's not assume we know what this thing is and let's just try things on that spectrum of agency to see what other tools are appropriate.
+
+Unknown speaker 33:56 
+So one other tool that's that that you might try is something that's used for brainy systems and that's training.
+
+Unknown speaker 34:00 
+So, so taking advantage of a learning interface.
+
+Unknown speaker 34:08 
+How how might you train a gene regulatory network?
+
+Unknown speaker 34:10 
+Well, what you might do is you might choose uh some of the nodes, so so let's look at for example, in the case of uh Pavlovian conditioning, just as an example.
+
+Unknown speaker 34:30 
+We actually found six different kind, just to kind of spoil the whole story.
+
+Unknown speaker 34:33 
+We found six different kinds of learning in these in these gene regulatory networks.
+
+Unknown speaker 34:53 
+So let's let's take Pavlovian conditioning.
+
+Unknown speaker 34:59 
+So, you know, um, you've got a dog, you, you, you normally, uh, you, you ring a bell, the dog responds not at all, you show him some meat, he salivates, then eventually you pair the, the bell and the meat and then eventually he'll salivate at the sound of the of the bell, for example.
+
+Unknown speaker 35:00 
+new capabilities.
+
+Unknown speaker 35:01 
+Well, now that you know you can train the thing, you have all sorts of possibilities in terms of drug habituation and and all kinds of biomedical, you know, drug association, um, all kinds of cool biomedical applications, which we are now pursuing in the lab that don't require you to use gene therapy because because now you understand that you have a system that has priors, it stores those priors and it future behavior is uh, is a uh, is an is a trainable um outcome of past experiences.
+
+Unknown speaker 35:25 
+So my point is is is is is simply this, um, we have to be humble about the fact that we don't know how to just, you know, notice these things and these are not, you can't have philosophical feelings about it, you have to do experiments and see what that does for you.
+
+Unknown speaker 35:37 
+Okay, so it's
+
+Unknown speaker 35:38 
+almost like um, a more sort of holistic approach to to let's say the the gene regulatory network, a more holistic approach to trying to solve, solve the issue.And the reason why I say that is because no matter how many ODEs or PDEs I wrote down with all the, you know, gene regulation, it's still only because of how insanely complex, you know, the biology is.It's probably still only a projection of what's actually happening.
+
+Unknown speaker 36:04 
+And so, for example, you may find that, yeah, every time we introduce too much sugar and we brush your hair, like it seems there should be no connection there, but somehow brushing your hair, we've learned can correlate with, you know, um, proper insulin, you know, function or something.
+
+Unknown speaker 36:20 
+It's entirely possible, right?
+
+Unknown speaker 36:21 
+Just because of the insane complexity of the feedback of of your biology, you know, tactile influences, things like that.So it sounds like it could lead to more holistic or at least um, uh, exploratory rather than very analytic and reductionary kinds of approaches to to treatments.
+
+Unknown speaker 36:39 
+Well, it's definitely not reductionist, but uh, it's my claim is not that things are so complicated that we should try random stuff because we'll be surprised.I mean, that's true too, no, no doubt that's true too, but that isn't my claim.
+
+Unknown speaker 36:58 
+My claim, I mean, the the this this learning capacity shows up in a network that has the minimal network that we found has four nodes.
+
+Unknown speaker 37:03 
+And so you really don't need to be that complex for some of some of these things to happen, but but also to be clear, the things that we found were not random things that we were, you know, poking and and we just happen to notice it.
+
+Unknown speaker 37:10 
+We took very specific protocols from behavioral science.
+
+Unknown speaker 37:14 
+And this is what we've been doing for 30 years.
+
+Unknown speaker 37:18 
+This is stealing stuff from neuroscience and applying it to other places because I think that this is not just the random vagaries of complex systems.
+
+Unknown speaker 37:31 
+I think these are um, common threads that run through systems, which don't even have to be that complex.
+
+Unknown speaker 37:39 
+We found things.
+
+Unknown speaker 37:40 
+Right, exactly.
+
+Unknown speaker 37:41 
+We knew absolutely nothing what was between their ears.
+
+Unknown speaker 37:43 
+And and the reason that we we were successful at it was because living systems control, they don't control themselves by micromanagement, they encapsulate, right, trainability and and behavior shaping all all throughout, which is hijacking that that normal interface.
+
+Unknown speaker 37:58 
+So that that learning interface that the system is using encapsulates all that crazy complexity.
+
+Unknown speaker 38:04 
+So I I actually think there's this kind of weird uncanny valley with complexity where um, for very simple systems, we can kind of micromanage them and and and we can tell what's going on and we can control them.
+
+Unknown speaker 38:11 
+Then things get really complex and we don't have a good way of handling it.
+
+Unknown speaker 38:12 
+But when things get not just complex enough, but but the kind of thing that life is doing, um, which is this multi-scale competency architecture, then even though the complexity has gone through the roof, the controllability actually gets better again, because now they're offering this top-down, goal-directed, um, behavior, and you can those are now your control knobs, not the materials, not the physical properties, not what each part is doing, you're not trying to micromanage symptoms, which is mostly what our biomedicine does.
+
+Unknown speaker 38:36 
+You are trying to convince, literally, I'm using these words quite literally, you're trying to convince the system to uh, be on the same page with you about what the set points of that homeostatic process should be, you're trying to get buying so that it's not going to resist whatever um, medical intervention you've just done.
+
+Unknown speaker 38:59 
+Yeah, I'm I'm a big fan of of much of
+
+Unknown speaker 40:00 
+I mean,
+
+Unknown speaker 40:01 
+you know, with mortal computation and biomimetic intelligence, you know,
+
+Unknown speaker 40:03 
+we're moving away from a paradigm of of abstractions and instructions and we're moving more towards training um as you said,
+
+Unknown speaker 40:10 
+but you were saying some interesting things about um agential material.
+
+Unknown speaker 40:14 
+And your definition of agency in in the paper was basically a kind of cybernetic uh loop and uh philosophers talk about it in terms of like self- causation and intentionality.
+
+Unknown speaker 40:25 
+Of course, they're not talking about micro causation that they're they're talking about it as a lens.
+
+Unknown speaker 40:36 
+Many of the FEP people I've I've interviewed quite a few of them at this point.
+
+Unknown speaker 40:40 
+They talk about agency as an instrumental fiction or a um,
+
+Unknown speaker 40:41 
+you know, basically an as if property or or or a model.
+
+Unknown speaker 40:48 
+And and even the free energy principle itself,
+
+Unknown speaker 40:51 
+it doesn't talk about the microphysical processes which lead to the emergence of things and and agents.
+
+Unknown speaker 40:53 
+It's just a property that those things have after they coalesce.
+
+Unknown speaker 40:54 
+We've got this abstraction called agency.
+
+Unknown speaker 40:55 
+And and then we use this abstraction to design AI systems and and to and to reason about new forms of intelligence and and so on.
+
+Unknown speaker 41:02 
+Is it is it a lossy abstraction?
+
+Unknown speaker 41:04 
+Well,
+
+Unknown speaker 41:04 
+you know,
+
+Unknown speaker 41:05 
+okay, first of all, my sort of metaphysical position is that everything is an abstraction and everything is a lossy abstraction.
+
+Unknown speaker 41:13 
+In other words, you know, people sometimes people will say, well, that's just a metaphor, you know, when you're talking about intelligence and memory and in tissue and whatever, that's just a metaphor.
+
+Unknown speaker 41:22 
+Well, yeah,
+
+Unknown speaker 41:23 
+and and what are pathways and what are genes and what are I mean, all all of it.
+
+Unknown speaker 41:34 
+I I think that.
+
+Unknown speaker 41:34 
+And and the only question remains is is what does your metaphor let you do.
+
+Unknown speaker 41:34 
+So I don't believe that metaphors are exclusive, there are multiple uh different metaphors that you can have about the exact same thing.
+
+Unknown speaker 41:50 
+This is the kind of the nature of the polycomputing paradigm um that Josh Bongard and I've been working on.
+
+Unknown speaker 41:57 
+Uh, so I think it's all metaphor and but but what we want are enabling metaphors.
+
+Unknown speaker 41:58 
+We want metaphors that help us reuse concepts across fields to develop new concepts to um drive new research programs.
+
+Unknown speaker 42:03 
+So, is it is it a metaphor?
+
+Unknown speaker 42:04 
+Yep.
+
+Unknown speaker 42:04 
+Is it a construction?
+
+Unknown speaker 42:05 
+Yeah.
+
+Unknown speaker 42:05 
+I don't know what else we have besides those things.
+
+Unknown speaker 42:06 
+And so now the only thing that we have to work on is uh to to to improve the ones we have.
+
+Unknown speaker 42:08 
+Now, um,
+
+Unknown speaker 42:10 
+you know, in terms of uh, are are we going to miss things?
+
+Unknown speaker 42:15 
+Most most certainly.
+
+Unknown speaker 42:15 
+And and so that's, you know, that's as a scientist and philosopher, that's I think what we're in the business of is is trying to open up our metaphors so that we see more interesting stuff.
+
+Unknown speaker 42:23 
+Yeah, so just one point on that then, because you said that you don't support um a deflationary reduction.
+
+Unknown speaker 43:00 
+account of biological agency.
+
+Unknown speaker 43:01 
+You know, which is to say, we're just chemical machines.
+
+Unknown speaker 43:03 
+Because you said that framing is utterly insufficient for progress in science and engineering, but I did get the read though earlier on that that you were making that argument.
+
+Unknown speaker 43:07 
+And one of the reasons for that is I think when you were talking about embodiment, for example, you said, yeah, embodiment is crucial and and by the way, the the reason why a lot of um cognitive scientists love embodiment is from this externalist tradition, you know, that they think that the intelligence is actually outside in the physical world and when we interact with the physical world, we can kind of um, you know, basically curry a lot of that intelligence in in some indirect way.
+
+Unknown speaker 43:15 
+But you said, um, you know, this goes beyond robotics, uh, which gives an AI an actual body to cohabit in environment alongside us and beyond the coming revolution in virtual reality where many of us will spend a considerable amount of time in interesting worlds.
+
+Unknown speaker 43:16 
+So, so, so which is it?
+
+Unknown speaker 43:20 
+Presumably, you you do think that we can have very rich intelligences completely in silico away from the biological world.
+
+Unknown speaker 43:22 
+That's yeah, um, and that's because I, I uh, see embodiment slightly differently.
+
+Unknown speaker 43:23 
+So, so, uh, typically when people say embodiment, they mean the 3D physical world.
+
+Unknown speaker 43:25 
+And you're moving around in the 3D physical world and that's what they, you know, they say that organoids, let's say brain organoids in a dish are not embodied and they, you know, certain kinds of
+
+Unknown speaker 43:45 
+AI is not embodied and so on.
+
+Unknown speaker 43:47 
+Um, what I think is important about embodiment is the necessity of doing this uh perception, prediction, action loop.
+
+Unknown speaker 43:51 
+And that loop can happen in lots of different spaces that are not obvious to us at all.
+
+Unknown speaker 43:54 
+So, biology, and this is not just for for robotics and AI, for example, biology.
+
+Unknown speaker 43:57 
+So, so you could have um, and in fact, we do have cells and tissues that may be going nowhere in the physical world and nothing much is happening as far as we can tell, but what they're doing is they're solving problems in physiological space, in gene transcription space, uh, once you get a multicellular kind of thing going, you can do solve problems in anatomical.
+
+Unknown speaker 44:44 
+morphous space.
+
+Unknown speaker 44:45 
+All of this um taking measurements,
+
+Unknown speaker 44:47 
+uh, judging them against your preferences, your valence and your set points, and then figuring out what do I do next to improve my situation.
+
+Unknown speaker 44:56 
+All of this happens in all kinds of spaces, only one or two of which we know how to how to visualize at this point.And so, um, I think we have to be very careful about what we call not embodied, and also I think the choice of spaces is uh very much up to the observer.
+
+Unknown speaker 44:22 
+You know, um as as a simple example, um,
+
+Unknown speaker 44:22 
+imagine you're you have a bacterium and the bacterium is trying to go up a sugar gradient, right?
+
+Unknown speaker 44:22 
+So what what we see is this loop that says take a measurement, uh, and depending
+
+Unknown speaker 45:00 
+and what you see and what your memory is of of the previous values, you can either go up the gradient or tumble or go somewhere else, you know, that that's what we see.
+
+Unknown speaker 45:06 
+But actually, one other thing the bacteria might do is turn on a different gene that lets it metabolize a different sugar that's at a much higher local concentration than what we were looking at.
+
+Unknown speaker 45:14 
+So for the bacterium, taking a step in transcriptional space, is is does it represent that differently than taking a space in in in physical space, I'm not sure, right?
+
+Unknown speaker 45:23 
+For us as humans, those are completely different things and when I talk about um problem solving and movement in transcriptional space, a lot of people are like, well, that's not real, you know, that's not real space.
+
+Unknown speaker 45:34 
+Um, but I don't know that the that the bacterium sees it that way.
+
+Unknown speaker 45:42 
+This is a this is a uh, you know, a formalization that we've made.
+
+Unknown speaker 45:47 
+And so I think we have to be very careful and I think that kind of embodiment is critical, but it's not the physical space or the physical body that's critical, it's the loop, it's this having to be an agent to say what do I do next and having a set of options and a set of pressures and constraints.
+
+Unknown speaker 46:09 
+I guess maybe I want to throw in one little tiny perhaps um caveat in there and when when Stephen Wolfram pressed me on giving a definition for an agent, I said almost the exact same thing except I added one additional thing, which is the actions I take need to affect the environment I'm perceiving.
+
+Unknown speaker 46:26 
+Otherwise, like I don't actually have this loop.
+
+Unknown speaker 46:35 
+I'm perceiving something and then I'm acting in some other space that has no influence on the the space I'm perceiving.
+
+Unknown speaker 46:46 
+Yeah, no, no, I I like the emphasis on that um, you know, it's a kind of niche construction, right?
+
+Unknown speaker 47:02 
+It's it's a it's the um, you know, you can think about niche construction and and stigmery, you know, leaving um use it writing to the outside world as memory and so on.
+
+Unknown speaker 47:08 
+I I like it.
+
+Unknown speaker 47:15 
+I think it's a continuum.
+
+Unknown speaker 47:26 
+So I think some spaces are much more easily bent than other spaces and so, you know, in transcriptional space, yes, you've got the possible um uh all these possible dimensions of gene expression, you can bend that space by changing your own transcriptional machinery, your own translational machinery.
+
+Unknown speaker 47:34 
+Do you think there are any useful physical bounds to intelligence?
+
+Unknown speaker 47:35 
+I mean, I I know we've just been saying that the future eludes us and we always have people who are um they just they can't conceive of the future and they think what we have now is is very good.
+
+Unknown speaker 47:41 
+But one of the things you've said of course is that potentially what supersedes us could be a being with um you know, much, much higher intelligence.
+
+Unknown speaker 47:51 
+What what are your thoughts on that?
+
+Unknown speaker 47:59 
+How could it be potentially limited by the physical world?
+
+Unknown speaker 48:09 
+I think it would be extraordinarily um uh foolish of me to try to put limitations on on on intelligences that by definition are smarter than than I am.
+
+Unknown speaker 48:15 
+So I I don't I don't know, you know, I I would not uh I I think we need to be very careful with limitations period.
+
+Unknown speaker 48:19 
+I mean, again, just to go back, uh I don't think that intelligence is all there is and there may be uh some kind of a filter whereby uh if intelligence proceeds too far ahead of things like compassion and uh you know, I'm not sure we have the vocabulary for it, but but you know, some kind of um uh you know, life positive features, it may spontaneously self-destruct.
+
+Unknown speaker 48:31 
+So there may be this kind of feature of the world where just by itself raw intelligence does hit a ceiling because because then there's some kind of destructive uh, you know, outcomes that that prevent it from going further, but but but aside from that, if you if you uh, you know, if you manage that if if the intelligence manages that aspect of it to keep up um, to keep up the keep up the growth in wisdom with the growth of intelligence, I wouldn't dare put a put a limit on it.
+
+Unknown speaker 49:08 
+I don't even know how you could put a limit on it.
+
+Unknown speaker 49:10 
+It's like it's like giving an IQ test to somebody way smarter than you.
+
+Unknown speaker 49:17 
+I just don't know how we would do it.
+
+Unknown speaker 49:20 
+Yeah, I mean, the the evolution of our biosphere certainly seems like um almost a flash compared to the history of of the universe.
+
+Unknown speaker 49:21 
+And and people do get worried about this rapid expansion.
+
+Unknown speaker 49:35 
+So of course, the AI risk people, they say, we could have an intelligent system which is 10,000 times smarter than us, whatever, whatever that means.
+
+Unknown speaker 49:51 
+And of course, externalists think that we're all part of a big collective intelligence anyway and there's already some kind of homeostasis or or some kind of limit, but you seem to be saying a little bit in your paper that we um think of ourselves as as um a distinct entity, you know, we're we're we're this you know, humanity, we're humans and and and I guess you're arguing that it's a category error to think of ourselves as distinct in the first place.
+
+Unknown speaker 50:00 
+for others.
+
+Unknown speaker 50:01 
+I I I I want to
+
+Unknown speaker 50:02 
+emphasize, I guess, one
+
+Unknown speaker 50:03 
+aspect of it, which is that
+
+Unknown speaker 50:04 
+just because there
+
+Unknown speaker 50:05 
+just because we're a
+
+Unknown speaker 50:06 
+part of a higher collective intelligence, which we may well be, I'm not sure.
+
+Unknown speaker 50:12 
+Um, that doesn't mean that everything is great and our interests are taken care of.
+
+Unknown speaker 50:17 
+So, um, we
+
+Unknown speaker 50:19 
+actually are not very good at
+
+Unknown speaker 50:21 
+predicting uh, or knowing about um, the goals that that the composite
+
+Unknown speaker 50:27 
+systems will have and that that emergent, you know, goal seeking systems, we're not, we're not very good at knowing what the goals will be.
+
+Unknown speaker 50:33 
+And if we just look at the the, you know, one clear example where we see this happening is is in multicellular bodies.
+
+Unknown speaker 50:39 
+So,
+
+Unknown speaker 50:40 
+you know, you could,
+
+Unknown speaker 50:41 
+you could obviously make the argument that a lot of new and interesting things happened when you became an emergent human and not a pile of individual cells.
+
+Unknown speaker 50:50 
+But, um,
+
+Unknown speaker 50:51 
+you know,
+
+Unknown speaker 50:52 
+when you go, I don't know, this is for some reason, this is this is example I always always go to.
+
+Unknown speaker 50:57 
+When you go rock climbing, you know, you're going to have a great day and you're going to you're going to um, achieve some personal goals, you're going to achieve some social goals, you're going to have a great time.
+
+Unknown speaker 51:04 
+You're going to leave a whole bunch of your skin cells on that rock face, and
+
+Unknown speaker 51:07 
+they didn't get to ask, you know, they were not asked whether this was a good deal for them.
+
+Unknown speaker 51:12 
+Um, you know, people do all kinds of stuff to their bodies for various reasons.
+
+Unknown speaker 51:16 
+Just because you're a collective something is you know, is part of a collective intelligence, does not necessarily mean that that collective intelligence is looking out for you at all.
+
+Unknown speaker 51:24 
+So, maybe, but maybe not.
+
+Unknown speaker 51:27 
+And so, we need to, you know, I I don't think we can just assume that because we are part of a greater system that there's some kind of benevolent homeostasis.
+
+Unknown speaker 51:35 
+Um, I think we have to be very careful with what kind of emergent systems we create, and this is the reason why this is so important.
+
+Unknown speaker 51:40 
+I I think that developing this field of diverse intelligence is an existential level task for humanity, because we are constantly building large scale emergent cognitive systems where we have no idea, we're we're just very bad at predicting when it's going to happen, knowing or shaping their goals, um, communicating
+
+Unknown speaker 51:59 
+with them in any way, you know, we make social structures, financial structures, the internet of things, robotics.
+
+Unknown speaker 52:05 
+We we we make these things in various spaces and we still have no idea what what we're really making because we assume that it's either going to be mechanical and controllable or random and chaotic, but we don't understand that that many of these things are in fact goal driven systems.
+
+Unknown speaker 52:21 
+I'm glad you brought up sort of, you know, leaving the skin cells on the uh, on the rock face because it's the same point I made earlier about people being so myopically focused on their own individual existence and and opining about how all these imperfections that the human cognition, brain, body, etc.
+
+Unknown speaker 52:42 
+has where they don't understand they're part of an an evolutionary algorithm that has goals like the transcend their their individual goals.
+
+Unknown speaker 52:46 
+So like a skin cell could sit there and say like, why is it that the, you know, I'm I'm an epithelial cells, why are my fibrinogen bonds so weak, you know, how come I just so easy to get sluffed off, why is my lifespan so short?
+
+Unknown speaker 52:50 
+Well, because
+
+Unknown speaker 52:51 
+because you've been optimized for something that actually has nothing to do with you as an individual.
+
+Unknown speaker 52:52 
+It's you as a component of a larger system, right?
+
+Unknown speaker 52:57 
+Yeah, and and and you know, and and there are there are defections from that from that system.
+
+Unknown speaker 53:07 
+So, for example, um, Tasmanian devils have a have a weird kind of mouth cancer that propagates from animal to animal when they bite each other in, you know, when they when they fight.
+
+Unknown speaker 53:20 
+And so, so cancer in general is is uh is is a shifting of the um cognitive icon from from from let's say organ level down to individual cell levels, the cells roll back in their sort of amebas.
+
+Unknown speaker 53:32 
+And typically that goes very poorly for them because, you know, they they they have kind of a short-term vision where they're like, okay, I'm I'm I'm leaving this collective, I'm going out on my own, that that doesn't typically work out very well.
+
+Unknown speaker 53:43 
+But for, um, I I I think the one in if I'm if I'm not mistaken, I think the the the lineage of uh mouth cancer in uh Tasmanian devils is like 11,000 years old or something like that.
+
+Unknown speaker 53:56 
+So, and and there's another there's another example with uh clams.
+
+Unknown speaker 54:08 
+So clams, um, cancer cells in clams get released into the water.
+
+Unknown speaker 54:10 
+They hang out as single cells for a while, you know, no problem, eventually they'll find another clam, settle in and, you know, there they go.
+
+Unknown speaker 54:12 
+So, typically that kind of defection from the body plan is a dead end, but not always.
+
+Unknown speaker 55:00 
+Why?
+
+Unknown speaker 55:01 
+Why, why do they do that?
+
+Unknown speaker 55:02 
+So I think one thing that we've been working on is this notion of a cognitive like cone, which is the size of the biggest goal that a system can pursue.
+
+Unknown speaker 55:09 
+And we've characterized the number of mechanisms that allow individual cells to bind together and the network has bigger cognitive like cone than the pieces.
+
+Unknown speaker 55:17 
+So suddenly when when you're an individual cell, you care about your your own metabolic state and and and things like that.
+
+Unknown speaker 55:22 
+When you're a part of a network, there's a little bit of a mind melt that happens with these other cells, which we characterize molecularly.
+
+Unknown speaker 55:28 
+And um, and now you're working on very large scale goals in the anatomical morpho space.
+
+Unknown speaker 55:32 
+Well, that that process, that goal scaling process, um, has failure modes.
+
+Unknown speaker 55:37 
+And we know how to how to induce it and then of course in nature it happens from time to time.
+
+Unknown speaker 55:42 
+And then what happens is that cognitive like, you basically the cells disconnect from the network.
+
+Unknown speaker 55:47 
+That cognitive like shrinks to now being the size of a single cell.
+
+Unknown speaker 55:50 
+And so now you're back to it's, you know, it's not anything crazy or novel that's happened, you're back to an ameba.
+
+Unknown speaker 55:55 
+As far as you're concerned, the rest of the body is just external environment to you, everything you care about is around a tiny little, little radius both in terms of space and time.
+
+Unknown speaker 56:03 
+And that suggests uh thinking about it that way, that that basically these cells are not anymore selfish than other cells, right?
+
+Unknown speaker 56:09 
+Like in game theory modeling of cancer, you would you could say they're less cooperative, whatever.
+
+Unknown speaker 56:14 
+I don't think they're any more selfish than any other cell, I think their selves are smaller.
+
+Unknown speaker 56:18 
+That's all.
+
+Unknown speaker 56:22 
+They're they're still they're as selfish as the collective, it's just their self is tiny now.
+
+Unknown speaker 56:22 
+And so that that way of thinking about it leads to a very um specific um roadmap, which which we've been following, which is let's just try to reinflate their cognitive like.
+
+Unknown speaker 56:35 
+Let's let's reconnect them to the electrical and physiological network of the other cells.
+
+Unknown speaker 56:35 
+We're not going to try to kill it.
+
+Unknown speaker 56:36 
+We're not necessarily going to try to look for a hardware defect, some cells having some cells don't.
+
+Unknown speaker 56:47 
+Um, you don't need any kind of genetic defect to to to have this kind of carcinogenic transformation.
+
+Unknown speaker 56:48 
+Um, let's reconnect them.
+
+Unknown speaker 56:49 
+And and so we've done that in animal model systems and it works really well.
+
+Unknown speaker 56:52 
+And so now the question is, can we, you know, move it to human medicine?
+
+Unknown speaker 56:55 
+But this is that that's that's another example where taking these different perspective, which almost, almost seem like philosophical perspectives, they lead directly to uh uh actionable policies in in experimental work.
+
+Unknown speaker 56:59 
+I guess it'd be good to get some of your comments on large language models and what they're good at and what they're bad at.
+
+Unknown speaker 57:00 
+I mean, I I certainly think they are lacking in creativity and and agency, but they are surprisingly good, right?
+
+Unknown speaker 57:03 
+They they have somehow inferred all of this information.
+
+Unknown speaker 57:08 
+We have phenomenal sensations and we understand each other with this, you know, physically embodied informed um.
+
+Unknown speaker 58:00 
+you know, setting.
+
+Unknown speaker 58:01 
+And then the language models act as if they have a similar kind of understanding, but but they don't.But of course, they they don't actually have agency, but is that a useful distinction?
+
+Unknown speaker 57:30 
+I think it's a reasonable distinction and I share your intuitions about it, but I want to say that I think we need to be very, very careful about um feeling certain about these things.
+
+Unknown speaker 57:30 
+And the reason is is that we have uh by by exploring extremely minimal systems.
+
+Unknown speaker 57:30 
+like sorting algorithms, like gene regulatory networks.
+
+Unknown speaker 57:30 
+We have found massive surprises, not just emerging complex.
+
+Unknown speaker 58:14 
+the emerging complexity is easy, emerging unpredictability is, you know, it's cheap.It's it's emergent cognition, basal, but emergent cognition.
+
+Unknown speaker 58:21 
+And so, you know, what if if if I had to if I had to bet money, do I think that today's language models have high agency?
+
+Unknown speaker 58:29 
+No, I don't.
+
+Unknown speaker 58:30 
+Am I certain of it?
+
+Unknown speaker 58:31 
+Absolutely not because because my the lesson I've learned is if I don't even know what uh bubble sort does, then I I probably don't know what these things are really doing.We we are very it I I I think it's very early in the field of diverse intelligence to be able to be certain about any of these things.
+
+Unknown speaker 58:07 
+Um, I, you know, ostensibly, I don't see when I
+
+Unknown speaker 58:45 
+and I look at the at the structure of these uh of of of today, you know, language models and so on.
+
+Unknown speaker 58:45 
+I I don't see the explicit um kinds of processes that I that I think are important for agency.
+
+Unknown speaker 58:45 
+But I've also learned that just because we don't see them and we don't know how to look for them that they're not there.
+
+Unknown speaker 58:45 
+So I think we should be we should be very careful.
+
+Unknown speaker 58:45 
+I don't think they're anything like human minds.
+
+Unknown speaker 58:45 
+I think that's very unlikely.
+
+Unknown speaker 58:45 
+I think that, you know, for the first time, we've so so it used to be that if you see something that speaks, you're pretty you're pretty sure that it's like you in a lot of ways.
+
+Unknown speaker 58:45 
+So I think we've now we've now, you know, got we've dissociated those two things and we now have things that talk and put up.
+
+Unknown speaker 59:44 
+really good, you know, a really good performance in in in having a conversation.
+
+Unknown speaker 59:48 
+I I don't think they're like us at all.
+
+Unknown speaker 59:50 
+But I I think we need to be really careful about what we, you know, what what we are sure of that they do and don't do because our intuitions fail at at such a low at such a simple minimal level that extrapola, you know,I I've met all sorts of people who say, well, you know, language models don't have this and that.
+
+Unknown speaker 59:22 
+I I know, I built them.
+
+Unknown speaker 59:22 
+Like I I I write the code, I know, they don't have and I'm like, well, you don't even know what bubble sort does.
+
+Unknown speaker 59:22 
+I don't think we can say what what this thing does.
+
+Unknown speaker 59:22 
+So we just I I just think we have to be careful.
+
+Unknown speaker 59:22 
+Yeah, it's weird you say they're not like us, but they they kind of are like us.
+
+Unknown speaker 01:01:00 
+and
+
+Unknown speaker 01:01:01 
+and that's the um the realization that when it becomes indistinguishable, you know, does it really matter?
+
+Unknown speaker 01:01:05 
+But
+
+Unknown speaker 01:01:06 
+I think it's instructive though because in in the in the virtual world
+
+Unknown speaker 01:01:09 
+there seems to be a couple of differences, right?
+
+Unknown speaker 01:01:11 
+So agency, of course, it's about, you know, having goals and intentionality, but it's also about causation, power and the ability to realize those goals, the ability to change the world to meet your goals.
+
+Unknown speaker 01:01:22 
+And what would it mean to have a collective agential AI running out there on on the internet, you know, do you think it could actually does it make sense to call it agency in the same way we do in the physical, biological world?
+
+Unknown speaker 01:01:36 
+Again, I I I am not I don't have any evidence that today's architectures have what's necessary to do it.
+
+Unknown speaker 01:01:40 
+And and um uh so so but but but in but in general, I think it absolutely makes sense because you could have a system that's doing the kinds of things that we're talking about in a um
+
+Unknown speaker 01:01:57 
+in a in a non-physical world.
+Now, having said that, I I don't believe that our algorithmic um models, so so having algorithms, having a Turing machine metaphor, I don't think any of that is sufficient for this.
+So this is not a computationalist argument um that says that uh, you know, any any kind of algorithm will automatically can automatically do it.
+I I don't think that's necessarily the case.
+
+Unknown speaker 01:02:10 
+But I neither think that you actually need the physical world for it.
+
+Unknown speaker 01:02:12 
+And by the way, these things, these things are embodied to an extent.
+We we are their body.
+We move massive amounts of energy, you know, money, resources, whatever, based on the things these things do and don't say.
+
+Unknown speaker 01:02:18 
+And again, I I don't have any evidence that uh today's language models have anything like a um a core goal driven uh agential component, but I think it's completely possible and I think we need to be very um very humble about um feeling certain about what they what they do or don't, um, don't have.
+
+Unknown speaker 01:02:57 
+Just a a quick point from that.
+There's this interesting kind of agency sharing between the physical and virtual worlds, right?
+So you can think of a meme on Twitter as having agency because it's expressed by physical actors in in the real world.
+So in a sense, there's a transfer, but maybe purely in the virtual world, there could be no, no agency.
+
+Unknown speaker 01:03:16 
+Uh, well, look, you know, in an important sense, you and I are living in a virtual world.
+We we don't have access to, and I'm not talking about a simulation, you know, as an alien zoo or something like that.
+
+Unknown speaker 01:03:21 
+I'm just I'm just pointing out that, you know, you and I are conducting uh our behavior under extremely limited um transduction from an outside reality that we don't really have any access to.
+
+Unknown speaker 01:03:27 
+Uh, you know, there's a there's a there's a big hole in our, you know, in our in our visual field that we don't see.
+
+Unknown speaker 01:03:30 
+There's a million other things that are very different to how we perceive them.
+
+Unknown speaker 01:03:31 
+There are massive amounts of information that are inaccessible to us.
+
+Unknown speaker 01:03:34 
+Um,
+
+Unknown speaker 01:03:35 
+everything that you and I do are is is within a construction that we have pulled together ourselves as our the best story of an outside world that we can tell.
+
+Unknown speaker 01:03:36 
+And
+
+Unknown speaker 01:03:36 
+you know,
+
+Unknown speaker 01:03:36 
+yes,
+
+Unknown speaker 01:03:36 
+the
+
+Unknown speaker 01:03:36 
+physics of it are cool and they give rise to all kinds of morphological computations, but there are properties like that in other virtual spaces and I don't think we should be, you know, uh, to to tied to this this this what we see here as some kind of privileged reality that is the only way that agency can be done.Professor, it's been an honor.
+Thank you so much for joining us today.
+
+Unknown speaker 01:03:24 
+Thank you so much.
+Yeah, had a good time.
+Thank you.
