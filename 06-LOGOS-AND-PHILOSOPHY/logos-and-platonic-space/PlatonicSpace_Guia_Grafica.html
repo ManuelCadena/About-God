@@ -103,9 +103,12 @@
     nav.toc {
       position: sticky; top: 0; z-index: 100;
       background: rgba(11, 16, 32, 0.92);
+      -webkit-backdrop-filter: blur(10px);
       backdrop-filter: blur(10px);
       border-bottom: 1px solid var(--border);
     }
+    .mt-1 { margin-top: 1rem; }
+    .table-wrap { overflow-x: auto; }
     nav.toc ul {
       list-style: none; margin: 0; padding: 0.8rem 1rem;
       display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center;
@@ -573,7 +576,7 @@
           <tr><td>Escepticismo psicológico</td><td>Alexey Tolchinsky</td><td>Los vacíos explicativos generan asombro y confabulación; los patrones psicológicos son procesos individuales.</td><td>Alerta contra ver patrones universales donde hay historia personal.</td></tr>
         </tbody>
       </table>
-      <p style="margin-top:1rem;">
+      <p class="mt-1">
         <span class="badge speculation">Especulación</span> La síntesis que emerge es un <strong>platonismo participativo</strong>:
         las formas son estructuras relacionales que co-emergen con los sistemas que las descubren y usan.
         No están "allá afuera" como si fueran dioses inmutables, ni son meros inventos humanos.
@@ -697,7 +700,7 @@
       <p class="section-intro">
         Las 36 intervenciones transcritas se resumen a continuación. Cada fila muestra el ponente, la idea clave y cómo aporta al debate sobre el Espacio Platónico.
       </p>
-      <div style="overflow-x:auto;">
+      <div class="table-wrap">
         <table>
           <thead><tr><th>ID</th><th>Sección</th><th>Ponente(s)</th><th>Título</th><th>Idea clave</th><th>Aporte al Espacio Platónico</th></tr></thead>
           <tbody>
@@ -764,7 +767,7 @@
       <h2>Fuentes y créditos</h2>
       <p>
         Todo el contenido procede de las transcripciones de la playlist oficial del simposio
-        <a href="https://www.youtube.com/playlist?list=PL6SlweOjqYXzpxJMhzHJjEq4s0lS9udCQ" target="_blank">The Platonic Space en YouTube</a>,
+        <a href="https://www.youtube.com/playlist?list=PL6SlweOjqYXzpxJMhzHJjEq4s0lS9udCQ" target="_blank" rel="noopener noreferrer">The Platonic Space en YouTube</a>,
         organizado por Michael Levin y Hanel Hazan. El repositorio local contiene 36 transcripciones en
         <code>.md</code> y <code>.txt</code> distribuidas en <em>Opening</em>, <em>Keynotes</em>,
         <em>Conversations</em>, <em>Panel Discussions</em> y <em>Closing</em>.
