@@ -1,0 +1,710 @@
+# "The Platonic Conception of Mathematics: a modern view" by J. P. Aguilera
+
+- **URL:** https://www.youtube.com/watch?v=ah9wpaFeHsI
+- **Duración:** 86.5 min
+- **Idioma de subtítulos:** en
+- **Nota:** Keynote / presentation
+
+## Transcripción
+
+All right. Um, I'll start by talking a little bit about platism. So, just to make sure everyone's on the same page. Generally, let's try to be liberal with it. But the idea of platonism should encompass the following thoughts. One is that mathematical objects exist in a way that transcends the physical world. that mathematical statements have a definite truth value and that mathematics consists in discovering and understanding the laws of these subjects rather than creating them.
+
+So this is what platonism will mean for today.
+
+And what I want to do is I'm going to talk a little bit about history. So unfortunately I think in order to understand some modern ideas about plagism you have to be a little bit aware of mathematics and mathematical logic and things that have happened there. So there will be a lot of history today which some of you might know already but I'll talk about it anyway. And I'm going to talk about how developments in mathematical logic have influenced the platonic and other philosophies of mathematics.
+
+And then I'm going to talk about some things that have happened recently that may play a role in how these fuse shape in the future.
+
+And there are three things that I want to talk about. The first one is set theory. So set theory is if you don't know what it is, it's the mathematical study of infinity.
+
+And historically it's also served as the foundation for mathematics. And it's very appealing because all of mathematics can be formalized within set theory. So for the purposes of set theory, you know, set theory studies sets and there's nothing else. And from the point of view of set theory, there's just sets. Everything can be thought of as a set. Things like the square root of two, the natural numbers, the imaginary unit, the polish space of continuous functions on the unit interval. These are all particular kinds of sets and they follow the rules of sets.
+
+And usually it's studied through aimetic systems. So you postulate a collection of axioms and then you study the consequences of the axioms.
+
+The beginning of set theory was Cantor who was a German mathematician and he studied the notion of the cardality of the size of sets and there's a notation we write a is less than b if there's a one to one function from a to b. So this means that the size of A is not greater than the size of B. I drew an example here. We have a set with one two three and we have a set with three symbols and then I drew a function mapping this set to this set. And then you conclude that the size of the first set is not greater than the size of the smallest set.
+
+So I didn't actually define what it means for what what a size of a set is but I just defined what it means for a set to not have larger size than another set which is it's all we need but then you can talk about sets having the same size if each one has size not greater than the other or you can talk about a set having smaller size if you know if a is less than equal b but b is not less than equal a then you say a is strictly smaller smaller than B.
+
+And that's what we need to talk about sizes. You don't actually need to talk about what a size is, just how to compare sizes.
+
+There's a theorem of cantor that says that for every set a, a is smaller size than the power set of A.
+
+So the power set of A, I had lied about this. Maybe it got deleted by accident.
+
+The power set of A is the collection of all subsets of A.
+
+This means in particular that infinite sets come in different sizes just like finite finite sets come in different sizes. This is true for infinity as well.
+
+So there are different levels different degrees of infinity.
+
+So I drew an example here in the middle we have the natural numbers and then I drew a way of mapping them into the integers. I guess the mapping goes in both directions. Actually, maybe the arrows should be opposite. But what this is saying is that the natural numbers and the integers have the same size because these arrows can be reversed. You map the odd numbers to the non- negative integers and the even numbers to the negative integers. This shows they have the same size. But this is not true in general. There are examples of sets that have different sizes. Cantor's theorem says the natural numbers have smaller size than the real numbers. And um like I said, I tried not to make this a math talk, but then I did include a proof sketch. So let's just go over it in case anybody hasn't seen this before.
+
+So let's suppose towards a contradiction that the natural numbers and the real numbers have the same size. So by the definition of having the same size, this means that there's a list indexed by natural numbers of all the real numbers. I just included in this picture the real numbers that between zero and one whose digits are only zero and one.
+
+I guess if we're assuming that all the real numbers can be listed then this means that all the real numbers with this property can be listed. It's a smaller list.
+
+But then what can was look at this list and then you draw this diagonal. So take the first digit from the first number and flip it. Take the second digit from the second number and flip it. Take the third digit from the third number and flip it. And so on. The fourth digit from the fourth number and you flip it.
+
+And what you end up is an infinite string of digits. This is a new real number. And it can't be equal to the first one because its first digit is different. Can't be different to the second one because the second digit is different. Can't be digit to the third one because the third digit is different. And so on. though it can't be on the list and we had assumed that the list contained every real number and we showed that there was a contradiction.
+
+So this means that it was false that there this list couldn't have existed in the first place and that's Cantor's argument that there are more real numbers than natural numbers.
+
+So this is Canto's theorem and this um brings us to the definition of the aim of choice.
+
+So the aim of choice you might have heard about it and you might have heard about it in a different way but this is an equivalent way of stating the aim of choice. It says for all sets A and B either A is less than equal B or B is less than equal A. So the maximum of choice is equivalent to the assertion that every two sets can be compare compared in size.
+
+Um it's equivalent to the exim of choice and we can take it as a definition which is it's an intuitive notion. If you have two finite things, one of them is not larger size than the other. And the ximo choices this extends to infinity.
+
+But historically it's been controversial because well one of the reasons is that it says that there's a function witnessing this inequality or one witnessing this other inequality but the axiom doesn't say anything about what the function is or how how to construct it.
+
+And historically this made people uneasy because you know it says there are things that you know exist but you don't know why or what they are.
+
+Also it leads to some paradoxes. You might have heard of the Danatarski paradox the existence of non-measurable sets etc. But on the other hand it's very useful for mathematics. It's used in analysis and algebra all the time. So it has useful consequences and nowadays it's not really that controversial.
+
+People use it without feeling guilty. So something under the aim of choice is that infinities are ordered in a what's called a well order and they are denoted with this symbol.
+
+This is the letter alf and you just have an index. Alf0 is the smallest infinity.
+
+LF1 is the next one and so on. In alpha the index could be a transfinite number.
+
+These are called cardinal numbers and these are what measure the sizes of infinite sets.
+
+Um I I had a slide about this that I guess disappeared but I gave a list of what are usually considered the axioms of set theory. The s melanco axioms which are called ZFC and the aim of choice is one of them.
+
+But there are other axioms. One is the aim of power set that says for every set a the power set of A exists. And there's also the axum of empty set which says that the empty set exists. There's a set that has no elements. And there's also the aim of pairing that says if you have a set A and a set B then there is a set that contains A and B. and a few more but you don't need to memorize them but this is the actual choice.
+
+So there's a question it's called a continuum hypothesis it was uh postulated by cantor and the hypothesis says there's no set x whose size is between the natural numbers and the power set of the natural numbers. So canour's theorem says power set of the natural numbers has larger size than the natural numbers and the first question you would ask after learning this is whether there's something in between and the continuum hypothesis says there isn't.
+
+So I wrote some facts here actually the natural numbers you can show they have the smallest possible size of every infinity.
+
+Um this is assuming the aim of choice.
+
+So every infinity is larger than the natural numbers or equal and the real numbers I showed that these were bigger actually they have the same size as the power set of the natural numbers which can be written as 2 to the al of0.
+
+There's a meaningful notion of exponentiation for cardinal numbers and you get this equality. So the continuum hypothesis has this arithmetical statement that says 2 to the LF0 is LF1.
+
+>> Can I ask a question about this?
+
+>> Yes.
+
+>> This sounds quite counterintuitive for me. So uh I know nature number is infinite but I just uh imagine a a finite case that then the power set of the the the the source uh set is finite and you cut half of them and you you can find something in between. And when you extend to infinite size, does it mean even if you cut the power set of nature number into half, you can still find a map between them?
+
+Yeah. So infinity behaves in a counterintuitive way. Sometimes it's true. Al also this is uh this will be false for finite things. 2 to the n is not equal to n + one. Um I guess maybe if n is equal to one it is or if it's equal to zero but for infinities this could be and it is true. So actually I this picture that I drew, it's kind of this situation where you take the integers and if you cut them in half and you stick with the positive numbers, this has the same size as all of the integers. That's what this picture was showing.
+
+>> Do we have a algebra for infinite size?
+
+Like can we define like n uh over any finite number is still equal to n then everything follows the arbar.
+
+>> Well you need to there's not a natural notion of uh or intuitive notion of division for these numbers.
+
+So you can define sum and product.
+
+So what is the sum? The sum of two cardinals would be the two sizes would be the size of the union of the two things and product comes from the cartisian product and you can make sense of exponentiation and it comes from looking at functions from one set to another but it coincides with power set when the base is two.
+
+But division is not a it's not something that has an intuitive definition in this context.
+
+>> Okay. Okay. Thank you.
+
+>> But so yeah. Yeah. I I I just want to say that you can define other operations like addition and multiplication, but it also behaves in a way that might be counterintuitive if you're used to natural numbers. For example, this example here shows that often infinity and infinity times two is equal to itself. This is also false for finite sizes but for infinite sizes if you multiply by two you get the same thing.
+
+So there are rules to this but they are counterintuitive if you're used to finite arithmetic.
+
+There was another question.
+
+Yeah, I thought there is also this notion of uh uncountable infinity which is what the real number set was because it includes irrational numbers or >> Yes.
+
+>> Okay.
+
+>> So countable means having the same size as the natural numbers and uncountable means not countable.
+
+>> So the real numbers are uncountable but there are other kinds of uncountable.
+
+>> Yeah. In I guess in the following slide you specifically stated that the coronality of real numbers was two to the power something right so >> yes >> doesn't that suggest that it's countable because it is a number right or is it some something that I'm missing here >> so countable means size al of zero which is the size of the natural numbers >> okay >> and uncountable means everything I see. Even if you can attach a number to it.
+
+>> Yes.
+
+>> Okay.
+
+>> Countable means I mean it's it's a matter of uh semantics but countable means countable by natural numbers.
+
+>> Got it. Thank you.
+
+>> Yeah.
+
+>> Yeah. This is this is good. keep asking questions because I I will probably say some things that some people have doubts about.
+
+So I I want to recap what we've covered so far. So I wanted to talk about the platonic view of mathematics in what I'm calling is in what I'm calling the modern perspective.
+
+And this led to set theory because there the axums of set theory govern the laws of infinity but also serve as foundations for mathematics.
+
+And this led to the first non-trivial question to ask in this setting which was the continuum hypothesis.
+
+And 125 years ago this was the state of things.
+
+This was as far as things had gotten.
+
+And the continuum hypothesis was one of the main problems in mathematics.
+
+So we will move on to the next part of the talk which is good also in completeness terms.
+
+Are there any questions about this before I move on?
+
+All right.
+
+So the the background for asking the questions that led to good incomplete incompleteness theorem is the question why is mathematics reliable or is it reliable? It seems that it is. Why is that? Can we can we check that it is?
+
+Can we argue that it is reliable? Can we give a formal argument why this should be the case? Does mathematical reasoning ever lead to contradictions? That would make it unreliable.
+
+So there's a problem of Hilbert that said, show that the axioms of arithmetic suffice to settle every arithmetical question or show that the axioms of set theory suffice to settle every set theoretic question.
+
+Are we looking at the right axioms?
+
+And the part two of the question is show that the axioms are consistent. Show that they don't lead to contradictions.
+
+If we look at the axioms, you can use them to prove that 0 equals 0. This is easy.
+
+You can also prove that 0 is not equal to one.
+
+This is um maybe it's not immediate, but it's a typical exercise in undergrad math classes. Prove that zero is not equal to one. And then you give a formal proof using the axioms.
+
+But the question is, do they also allow proving the opposite? Can you prove that zero is equal to one?
+
+This would be this would mean that the axons are not good aims or do they allow for proofs or reputations of any question you might ask like the reman hypothesis.
+
+So these were the questions that Hilbert was asking and good's first incompleteness theorem says that the first of these problems cannot be solved. So it talks about a general abstract notion of theory. The point is that the question was phrased for two specific theories. The theory of arithmetic and the theory of set theory.
+
+But good old theorem applies to all kinds of theories. A theory is a collection of sentences that we just that we call axioms in some formal language. There's a very general theorem and the theorem says suppose that T is a theory with the following properties.
+
+Number one is that T is strong enough to carry out some basic arithmetical reasoning.
+
+You can formalize exponentiation multiplication.
+
+Number two is that the axioms of T can be enumerated computably. So imagine you have a computer program that just continuously outputs the axioms one by one. That's what this is asking. And number three is that T is consistent. It proves no contradictions.
+
+And the conclusion is that T has to be incomplete. There is some sentence in whatever formal language T was defined which cannot be proved from T and cannot be refuted from T.
+
+So this means that no theory in particular these two theories but there's no way to escape this. There's no theory that will be enough to answer all the mathematical questions because if you have a theory and then it's incomplete, you might try to enhance it by adding new axioms, but it will still be subject to good incompleteness theorem.
+
+And the good old sentence is, if you've never heard about this, it's an arithmetical version of a sentence that says there is no proof of fee in the theory t.
+
+So it's like a provability version of the liar sentence.
+
+And it's nice to think about just think about this for a while. You can ask, well, is there a proof of p?
+
+And if there is a proof then well D has to be false.
+
+But then you can also show that this leads to a contradiction and um just play with this later.
+
+But this is what VE is. It's called a good sentence.
+
+So the theorem says that no exiomatic system can answer all the mathematical questions.
+
+So the Platonic interpretation of this is that there's a gap between mathematical reality and what the axioms tell us about it. And in this gap we have incompleteness.
+
+The nominalist view says well there was never a mathematical realm to begin with. So incompleteness is just a syntactic phenomenon.
+
+So you lost nothing because you never had anything in the first place.
+
+Um but this is a it's a challenging view because then you have to account for the fact that mathematics appears to be reliable and effective in in our daily life.
+
+>> Can I jump in with a question?
+
+>> Yeah.
+
+>> So is there a third option? In other words, that yeah, there are things out there that are real mathematical objects, whatever that means. But it's just that you can't prove them from starting with any of the other ones.
+
+>> Well, that seems to be the first view, I think.
+
+>> Oh, that's what it means. Okay.
+
+>> Yeah.
+
+>> Okay. So, it's not saying that the mathematical realm is not real. It's just the limit of what you can tell about it.
+
+from the axioms >> from the axioms. Okay. All right.
+
+>> Um but a key point is that the axioms are the axioms are what they are because of uh there's a sociological component to that. So the axioms you might imagine that they might have been different in a different reality. Things that happened differently in history.
+
+This let's keep this in mind.
+
+So yeah, if you if you want to adopt the nomalist view, then I think this is a big challenge that I don't know how to I don't know how to account for the fact that mathematics is continuously reliable other than through a platonic perspective.
+
+But okay, maybe this is a discussion for later. I want to talk about the second incompleteness theorem. So it talks about the second part of Filbert's questions.
+
+It says let T be a theory as before and look at its good sentence. Then actually B is uh equivalent to the consistency of T.
+
+So T can somehow you can use arithmetic to talk about the consistency of T and T is able to prove that its consistency is equivalent to the good old sentence that I defined before.
+
+So the sentence fee that says there is no proof of fee and as a consequence of this t cannot prove its own consistency.
+
+So the assumption was that t was a consistent theory and then the conclusion was that t cannot prove its own consistency. That means that t proves its own consistency if and only if it is inconsistent.
+
+So that was the second theorem.
+
+Then came the continuum hypothesis again.
+
+Um some years later good showed that the axioms of set theory cannot be used to refute the continuum hypothesis.
+
+And then Cohen said that the axioms cannot be used to prove the continuum hypothesis.
+
+So ZFC these were the axums of set theory. they do not settle the continuum hypothesis.
+
+It's independent.
+
+Um [clears throat] I I'll talk more about this but I just wanted to share some papers with you.
+
+These are some examples that I like about you know this was 1963. This was kind of one of the first examples of undecidable problems from the axioms.
+
+But nowadays we have many examples of problems that cannot be solved from the axioms. And these are some that I like in particular. So Hilbert's 10th problem calls for an algorithm to decide whether a integer equation has solutions.
+
+And then they showed that this algorithm doesn't exist.
+
+Then there's this uh paper that I like about learnability.
+
+So they came up with an instance of a learning problem that they showed is actually equivalent to the continuum hypothesis and therefore it's undecidable.
+
+Very interesting situation.
+
+And I'm also mentioning this example from general relativity.
+
+So what uh these people did is they considered the problem of observables.
+
+So an observable is a quantity that you can measure with an experiment.
+
+that gives you a answer that does not depend on your reference frame. So is there a test? Suppose you have a bunch of candidate geometries for a spaceime and you're living in one of them and you want to run an experiment that tells you in which of these timelines in which of these spacetimes you're living but you don't want the answer of the experiment to depend on the reference frame.
+
+And they show that there is no experiment that you could devise that would give you an answer in a complete way. So complete means that if you are living in different if you if you run the experiment in different space times the answer you get is different. They show this doesn't exist.
+
+>> Uh can I jump in quickly? Um >> yeah.
+
+>> How does would this relate to the simulation hypothesis? Do you have a intuitive answer?
+
+Like, can we figure out if we live in a simulation?
+
+>> I don't know. I don't know.
+
+>> That's fair.
+
+>> Um, I'm not sure. Let's let's come back to this maybe at the end.
+
+Um, it's a good question.
+
+So, I wanted to talk about how platinism accounts for undecidability.
+
+And I mentioned three possible solutions that have come up and my my thoughts on them. The first one is what's called predicativism.
+
+So this view rejects the existence of mathematical objects that cannot be constructed explicitly in some sense. So according to predicativists, some mathematical statements like Pythagoras's theorem are definite and others like the continuum hypothesis are not. and they would say it's meaningless to try to get a precise answer to the continuum hypothesis because it's not a definite question.
+
+But other questions like questions about integers, those are definite questions is what they would say.
+
+And the motivation is as follows. Let me try to convey it. So consider W. It's the set of all binary encodings of computer programs.
+
+What if you run the program the output is a reordering of the natural numbers but maybe it continuously outputs the natural numbers in some order and the property of this order is that every subset of the natural numbers has a least element in the order.
+
+So you know the program considers every pair of natural numbers and it tells you whether they are ordered in one way or in another.
+
+So this W has a definition of the form.
+
+It's a set of all see all the codes all the binary strings of the source code with a property that for every set of natural numbers something happens and this something means that every subset has a least element. So this subset has a least element in the ordering.
+
+So you could define W this way. But they would say the problem with this type of definition is that it's they would say it's not a real definition. It's illposed because this universal quantifier is ranging over all subsets of natural numbers including this one that we're defining and they would say this is a problematic thing to do. They would reject this type of definition.
+
+And this lets them bypass the continuum hypothesis in similar problems by saying it's not a definite problem because it talks about things that are not definite.
+
+Um so this this is a view that it was very popular some decades ago. Nowadays I'm not sure perhaps perhaps it still is.
+
+But to me it's a bit problematic because I feel like it does not capture the way the way people really do mathematics does not really account for what people do in mathematics and why it works.
+
+And if you if you start trying to do trying to analyze mathematics from a mathematical perspective using this philosophy I think you run into problems.
+
+So there is another view which is pluralism and this view says there are there's not one reality there actually many mathematical realities and if you have different exumatic systems they describe different mathematical universes each one governed by different rules and all these are real they just have different rules in some of them the continuum hypothesis is true and some is false so they would say there's no such thing as the real numbers because there are many mathematical universe And each one has their version of the real numbers. And in some of them one thing is true and in others another is true.
+
+And same for the natural numbers.
+
+So this is pluralism.
+
+Um I also find it unsatisfying but many people believe in this nowadays.
+
+>> Um question before you go on. So wouldn't Girdle's theorem apply to each of these alternative realities?
+
+>> So Girdle's theorem applies to theories which should be thought of as different from the mathematical objects that they describe.
+
+>> Okay. All right. What good's theorem would say is that [clears throat] um well you could see why this would uh this is a conclusion that you would reach from good theorem because you would have the axioms are they don't tell you what reality is. So maybe if you extend the ex the axioms in different ways you get different descriptions of different realities.
+
+>> Yeah. So this doesn't solve the problem, >> right?
+
+And then there's what I'm going to call realism today. I guess this is also these are also kind of the others are also kind of realism, but this seems more real to me. More like a hyper kind of realism um like an ultra platinism that says there's one single mathematical universe and it obeys a very specific set of laws, but the axioms only give a partial picture of what these are. And our task is to identify further axioms which enhance this picture.
+
+And to me this seems more compelling because I find it hard to believe that I when I talk about the real numbers I'm talking about all these different structures.
+
+I think I'm talking about something called the real numbers and then I'm just trying to describe them.
+
+This what I think.
+
+So well how would you do this? is you would use the scientific method. So you identify candidate axioms. The axioms give you some predictions. You test them by doing mathematics and then you see if they hold up.
+
+And of course this should be done bearing in mind the limitations of incompleteness. But even if you consider new axums, you you're not done. You will always have a partial picture.
+
+So this also doesn't fully solve the problem because it can't be solved.
+
+Um, but to me this seems to be the only viable incarnation of mathematical platinism.
+
+And there are other people that share this view. I'm not the first person to say this.
+
+>> Sorry.
+
+>> Yeah. Is is there another view that says that um there may be another system because go the supplies to a single aimatic system T right so maybe >> no it works for every every T satisfying >> the hypothesis >> but you assume that there is some T but there is just one T right and is there another way that says that for every D there is another system called D prime so you'd have one system referring to another there is no self reference anymore and then you can just keep going on so there would be like infinite sets of systems so that would in principle solve the problem right is there any >> well kind of um I think it would mitigate it but it feels like you're never done because even if you take more axioms then incompleteness kicks in as long as the axioms that you have can be described in in an effective way incompleteness kicks in and says there are some things that were not covered.
+
+But I don't know, I don't know how to interpret this. Maybe it's a good thing.
+
+Maybe it's a the hopeful perspective that, you know, we just get to keep investigating things.
+
+So I want to talk about the axioms once more. So let's suppose for now that this is the way to go and we want to find new axioms. Well, I want to tell you a little bit about the candidate axioms that people have been considering.
+
+The point is that well the starting point was u the aims of set theory because they serve as the foundations of mathematics.
+
+So the axims that people consider they aim at clarifying the concept of infinity.
+
+And the most um the most promising lines seem to be three kinds of axioms. So I'm calling them global structure axioms, forcing axioms and large cardinal axioms. I will tell you what these things are.
+
+The first one is oh here's a picture. So this is a picture of the mathematical universe. It's called V. It's it's a cumulative hierarchy.
+
+So in this picture, sets are ordered by size. As you go up, sets are larger.
+
+So the the higher you go, the larger they become and the more things of that size there are.
+
+Here are the natural numbers. There are not that many things of that size. Then you have the real numbers. There are more things of that size. Here you have, I don't know, some BANF space. You have a topological space.
+
+And here I drew this line separating sets of a fixed size alpha. This is called V alpha is the level of V is the name for the mathematical universe. You see it kind of looks like a V and they it comes indexed in a hierarchy by sizes. So this means size alpha. Size zero. we just have the empty set. So there's this point here and there's a picture that we used to talk about the set theoric universe.
+
+So what are the structure axioms?
+
+They impose an global structure on V.
+
+They go back to good's proof of the relative consistency of the continuum hypothesis.
+
+So good had two axioms. Axiom V equals L says that all sets can be constructed in a certain sense.
+
+There's a technical sense of constructibility and V equals HOD says that sets can be defined also in a technical sense. So HOD stands for hereditarily oral definable.
+
+Um I won't go into detail but think of it as saying that everything can be defined. Everything that there is can be defined and L says everything that there is can be constructed.
+
+I drew a picture here and you can see L I drew it thinner because it's constricting what V is more.
+
+So L says everything that exists is there for a very precise reason and we can trace that to smaller things.
+
+So you can think of vehicles hot as a strong form of vehicles L. Sorry, the other way around. Vehicles L is a strong form of vehicles and vehicles hot is a strong form of the axim of choice.
+
+V= L would say that all these things are equal. So the picture collapses and the intuition for good's proof is he took this thing L which is a very regular universe of sets and his axiom says that's all that there is there is nothing that is not constructible there's nothing that is not in L and because every set that exists has a very particular reason for existing then you can prove things like the continuum hypothesis or the aim of choice.
+
+This is one type of aim. Those look what's called forththing axioms and these go back to Cohen's proof of the relative consistency of the negation of the continuum hypothesis. So this was his proof that the continuum hypothesis cannot be proved.
+
+And what he did is he kind of went the other direction which makes sense.
+
+So given a universe, well, we have a universe of set theory V, he imagined what it would be like to expand this universe by adding a new set that he called a generic set.
+
+So it's really kind of going the opposite direction. It's saying that you have this kind of generic sets that can't be distinguished from other things.
+
+And because there are that many things you can arrange that there are many real numbers but none of them have any distinguishable properties. That's the notion of genericity.
+
+So forcing axioms what they say is that if you look at the set theoretic universe it looks as though you had done the coen process many times. So there are many traces of generic objects in the mathematical universe and things are hard to pin down and these have consequences. So all these things have consequences for mathematics. Many questions that could not have been solved without them they can be s they can be solved now.
+
+In particular forcing aims are very useful for various kinds of mathematics.
+
+because it's a powerful tool that says suppose you can imagine some mathematical object with some properties and the forcing axiom says maybe it exists already.
+
+These are forcing axioms and the third kind are large cardinal axioms which say that there are some very large infinite sets that exist.
+
+So here was a first version of V and then it grew is the large cardinal axion. Here's some set delta of a very large size.
+
+So these sets are called inaccessible cardinals, measurable cardinals, wooden cardinal, super compact cardinals and large. So what does large mean?
+
+It could be that it's just closed under more kinds of operations like power sets, limits of sequences, or a set could be large because it resembles many smaller sets.
+
+So what's the picture? How do you tell that something is large? Well, one way of saying that something is large is saying that you know any kind of description you would try to give of this set it's not a real description because you are also inadvertently describing smaller things.
+
+So as you go up in the hierarchy of sets at some point you just run out of descriptions for things because there are so many things.
+
+And the way this manifests is in the large set resembling smaller sets. And this resemblance comes um by virtue of the fact that the language that you are using to describe them is limited in comparison to their size or you can say that it resembles itself in non-trivial ways. It's kind of a similar idea.
+
+So I drew a picture here. where you have some large set and if you try to describe it, you're actually also describing some smaller set that looks like it. And it looks like it because they have the same properties because the properties that you can state about them are determined by language.
+
+That that was a very loaded sentence, but I I hope the point comes across.
+
+What I want to say is these three kinds of axioms capture three conditions that we would like our mathematical foundations to satisfy. The first one is we want structure. So we want good universal descriptions of what mathematics is. We want richness. So we want things that let us prove things and reach solutions. And we want a notion of endlessness. So we want to block some kind of artificial limitations to mathematics.
+
+But the problem, okay, so I drew a picture with everything here. So this is B and here's HOD. It's a smaller model.
+
+It's saying there are not that many things of each size. The forcing axioms go the other way around, saying there are many, many things.
+
+And large cardinal axioms say there are just more sizes of things for there to be.
+
+These are three ways you could extend your picture of the mathematical universe. But the problem that comes from this is that they are in conflict with each other as you can imagine from this picture. So V equals L implies a continuum hypothesis. That was good's proof. But forcing axioms imply the failure of the continuum hypothesis. Some of the most popular forcing axioms imply that there is precisely one infinity between the size of the natural numbers and the real numbers.
+
+So you get this equation 2 to the L of 0 is L of two.
+
+And large cardinal imply that there's no definable counter example to the continuum hypothesis.
+
+In general, large cardinals give you very nice properties, desirable properties for the real numbers, but only for definable sets of real numbers.
+
+So things you can express in a concise way. Uh it is kind of remarkable that hypotheses about very large infinite sets have direct consequences on concrete mathematical objects like the real numbers but they do.
+
+Now what about large cardinals? So there's a theorem called Scott's theorem says that V= L is incompatible with measurable cardinals and the know the the intuition for this is that large cardinal say there are too many things so many things that they become harder to describe because they resemble things that appeared before. But V equals L says everything that exists can be constructed in an explicit way. So there's this conflict there and there's also something called Kunan theorem which says that if you have something called a Reinhardt card and the exim of choice has to fail.
+
+Um and then I I felt like I had to mention at least one theorem of mine. So here's a theorem. It says suppose what's called an exacting cardinal then v is not equal to hot and I drew a picture of an exacting cardinal which I don't know if this will mean anything but it's saying there's some large set and it kind of resembles itself but going through smaller sets in the process.
+
+So this is from a paper with John Beria and Philip Luca.
+
+I I mentioned before that V equals hot is a strong form of V equals L and it's a weak form sorry it's a weak form of V equals L and it's a strong form of the aim of choice. So the picture is that very large infinities seem to be in conflict with the aim of choice or with the global structural properties in general.
+
+And some people interpret this as evidence against either global structural principles or against these kinds of large cardinals or some people say these are not real genuine large cardinals. Genuine notions of infinity because infinity it should be implicit in its definition that it should be compatible with the axum of choice or with v equals hot. Um, so it was a long-held view that most people believe, most platinists believe that V is not equal to L because they believe that measurable cardinals are true are real, but then they also believe in the axim of choice. So they reject Reinhardt cardinals. It's a it's a delicate balance. I think on the other hand it seems that these this is the first kind of large cardinal that is compatible with the aim of choice but which implies that the universe does not consist of definable things.
+
+It it paints a picture well there's a picture later.
+
+So yeah it's not clear what the correct answer here should be. Maybe it's too early to say. I drew a picture of the universe, the picture that's painted by these large cardinals that conflict with structure. So here's V and here's a portion of the universe which satisfies the exum of choice. And then for larger sets you have new things and V is not equal to HOD. So remember this meant definable hereditarily oral definable.
+
+So these large cardinals mean that in a way most mathematical objects cannot be defined.
+
+Kind of like in the physical world where it seems that most matter cannot be seen and L is tiny in comparison.
+
+So what is the summary and the future?
+
+We know that the standard collection of axioms for mathematics the dural Franco axioms are incomplete and the true platonic view what I'm calling the true platonic view suggests that we should find new axioms to extend this collection.
+
+It's not my idea. This is a other people had had this idea before.
+
+Um, a promising avenue is to consider notions of large infinity which are motivated by this hierarchy hierarchical conception of set to to unravel this notion of infinity.
+
+But another promising avenue is to look at principles asserting that there's some global regularity to the mathematical universe.
+
+But there is a there's a trade-off here. So on the one on the one side you need to define what we need to determine what the nature of infinity is and which principles concerning infinity are legitimate principles and also which principles concerning regularity are legitimate principles and I argue that these two lines of research conflict with each other so what is this argument well it's the fact that these are genuine regularity principles and these are genuine princip principles concerning infinity.
+
+So if well this is the case then what is the situation? Have we overestimated infinity?
+
+Have we flown too close to the sun? Or maybe orderliness in mathematics is too good to be true.
+
+seems that we might be treading on one of these two paths, but I would say it's too early to say.
+
+So, I will end here and open the time for discussion.
+
+>> I've got a a question to make sure I'm understanding what's at stake here. So in a world of mathematical objects, is it the case that one of these objects exists only because there is some proof that leads to it? You know, like in the physical world, somebody can predict, oh, there's a planet called Neptune, I'm sorry, a planet called Pluto based on the orbit of Neptune. or they can predict some particle and somebody else can go and build a big telescope or make a particle collider and then test whether that's true so that you know that that object is really out there. Do in the mathematical world is there something corresponding to that or does something exist only because there's a proof leading up to it?
+
+>> Well, my view would be that proofs is not why things exist but it's how we learn about mathematical objects.
+
+But there there is some analog of that which is that what I was referring to before as using the scientific method which is that if you postulate an axiom you might have a reason for postulating it. You might have a you might think that it suggests some hypothesis.
+
+maybe have a conjecture and then it has some predictions, some mathematical predictions and either confirming or refuting these predictions, these conjectures will give you information and at at some point I think it's happened before that well I'm sure I know it's happened before that people held a philosophical view that said that a certain axiom was true and they had reasons for this but Then new theorems came to light which made these people question their earlier beliefs.
+
+For example, let let me give you an example about this.
+
+>> If you had asked me 10 years ago, I would have thought that these kinds of infinities were an anomaly because the aim of choice certainly is true.
+
+So these should be an anomaly. And in fact, people for decades interpreted this as evidence that these axioms are just inconsistent on their own.
+
+And people tried to prove that they were inconsistent for a long time. Same this people tried to prove they were inconsistent for a long time and they failed. You might say they failed because they didn't try hard enough. But it could be that they failed to prove that they were inconsistent because they are not inconsistent.
+
+And the thing is you can never prove that they are consistent by good.
+
+But I interpret the fact that people tried really hard and failed as evidence for the consistency.
+
+And then with this result, the picture to me suggests that you know there's a trend of infinities conflicting with structural properties about the universe and sets and perhaps it places like the global axiom of choice in question.
+
+So would it be fair to say or plausible to say that the axioms are what is real and the mathematical objects are just projections of the axiom which would be a kind of a direct analogy to Plato's cave where you know the the stuff you see on the wall is just a projection of the real stuff.
+
+I I would I would to me it seems more like the opposite because the problem with that is that the axioms are the exoms are just syntactical objects. They are symbols [clears throat] >> and you know you could have many possible axioms and some of them seem to be effective and reliable and others not.
+
+And I don't know how to account for that fact without appealing to platonism.
+
+But that's almost anti-platoninism then.
+
+You know, in other words, you're saying the things on the wall are the real guys.
+
+>> No, I I would say the things on the wall are the axioms and this is what >> Oh. Oh, okay. All right.
+
+>> And this is what we are seeing. You know, it's like a cruel version of Plato's story where we are condemned to remain inside the cavern and we we we maybe see some exits on the way, but we we're chained to the cavern and we can't leave and we don't even know if it's a real exit or if it's a cliff.
+
+So uh >> I have a different kind of question uh if I may. The the v equals hod question between describability and constructability basically strikes me as very similar to the P equals NP question.
+
+Uh so I would ask first is that impression correct and then secondly um most people as far as I know think that P equals NP is false. Is there kind of a consensus that V equals HOD is false?
+
+>> Yeah, that's a that's a good question.
+
+So constructibility and definability have a have a technical meaning that I purposely did not give.
+
+Um there are some analoges of P versus NP that happen in the world of infinity but I don't think that this is one of them.
+
+I mean there is some faint analogy right because L consists of the things that you can understand completely you know why they are there and you can trace them to um so like they can be constructed from simpler things iteratively and HOD doesn't quite say why things are there but it says that things can be defined so it's um it's a bit different in principle. So I think there's a consensus between platonists that V equals L is false.
+
+Um, perhaps not everybody agrees with this, but I think that the majority of people do. And the arguments for the for this come back to the fact that cardinals like metrical cardinals just have very intuitive, desirable and natural consequences for the set of real numbers. And this seems very hard to ignore.
+
+So people interpret this as evidence, strong evidence against V equals L. For V equals hot, the situation is very different.
+
+I would think that there's a chance that most platonists believe V is equal to HUD or reasons that are hard to convey um in a short amount of time.
+
+>> Okay. I I I I'm not so sure. I think that uh >> I'm I'm a bit more skeptical about it, but I I it's I think it's early to say for me >> what what I whether I believe that they are equal or not.
+
+>> Okay.
+
+>> Uh can I ask a question related to physics?
+
+So, so there are I think there are at least two kind of perspective from physicists on mathematics. One is quite weak. It's saying uh uh what physically can happen should be mathematically possible and another is very strong. It says anything that is mathematically possible will happen physically.
+
+So I uh uh in terms of the the contradictory and some self-reference uh contradictory there was a approach that introduced time into those uh those self-referential uh sentence. So unfold this infinite contradictory and somehow uh at least superficially eliminate the the contradiction. So, so I just wonder is it really eliminate the contradiction or or it just looks like it eliminated.
+
+I think something I say about mathematics is uh you don't get things for free. So often it looks like you got rid of a problem but really you just pushed it around somewhere else.
+
+Um so probably the the issue of incompleteness was just moved around to something that will that manifests itself in a different way.
+
+So, so do do so there's no people in phys physicist physical uh mathematical field seriously study this idea because I >> I wanted to say that this notion of pluralism kind of sounds like the thing you were saying that it comes from a similar motivation of you know everything that is consistent exists in a certain way.
+
+Um but it kind of goes uh it's it asserts this in a stronger way.
+
+It's not only saying that every mathematical situation that is consistent exists, but it's also saying that they are all equally valid and real. So there's no preferred notion of real numbers.
+
+If you ask a question about the real numbers, it's not it doesn't mean anything by itself without specifying which real numbers you're talking about. So it's it's somewhat of a very extreme version of that.
+
+Whereas the realism say the realism view or what I'm calling they're all realism probably um let's call this the um ultra plism view would say these objects exist but they are not the real real numbers.
+
+There's only one of those.
+
+This thing you said also bears some resemblance to the forcing axiom perspective.
+
+which says that the universe should have as many things as it can.
+
+Not quite the same, but I'm not sure if I answered your question.
+
+>> Uh I'm not sure either, but yeah. Thank you.
+
+C >> could I ask a question? Um I'm not sure it's super tightly connected to to what you just said, but but I would just like to get your opinion. Um c could you talk a little bit about the notion of explanation in mathematics that is what do what does it mean to explain? So let's say you have some particular you know maybe surprising you know fact that that exists in some in some system and then uh what what is what is your notion of providing a satisfactory explanation for it and which which I'm of course contrasting with how we do it in biology and physics and so on.
+
+Yeah, that's um I I I like that question because it comes up from time to time because though you know the purely mathematical answer to this would be [clears throat] you give a proof and the proof is the explanation and there can be no more complete explanation than the proof.
+
+But some people disagree with this. Some people would say the proof is just the reason why you believe in it. but it doesn't really explain what what it is that you're doing.
+
+So people often have arguments about what an explanation should be in mathematics because I I don't know how this might be a a sociological thing as well or might be even a personality thing but some people when they talk about mathematics they give an explanation for things and then they give the proof and the explanation is the important thing and the proof is a formal exercise But other people give an explanation and then they find this like a partial answer and they're waiting for the proof because that's the real explanation and anything else you could give is just informal discussion.
+
+>> Yeah. I mean, one one reason I ask is because I I have this I have this feeling and I'm trying to understand to what extent to what extent it's real and to what extent I'm I'm I'm making this up which is that in other disciplines if you keep asking why right so you have some fact let's say in biology you have some fact and you say but why and so you know bang bang bang you sort of go back and you keep going back and back but eventually you end up with some some eventually you end up with some sort of mathematical statement and then what I'm trying to understand is is that then there's an asymmetry which then you can stop because it doesn't there is no as you just said there is no deeper thing than than you know some sort of proof that connects it to other to other things sort of laterally and that's the end of that um or or is there some some symmetry where where you know math isn't the back stop to everything else um and and again I was thinking like to this to this question of what's what's satisfactory I was thinking of what it might be like to explain let's say a glider in the traditional game of life cellular automaton. Like like how do you explain a glider? Well, somebody could take you through the steps and it only takes whatever four steps and you say, "Oh, well, yep. Well, there it is." Uh, you know what? But that's not really an explanation. That's a that's a simul you know, you've basically just watched a simulation of it, right? You've actually just carried out the rules and you confir you've confirmed that, yeah, it works the way we thought, you know, we thought it worked. But then actually, you know, if you wanted to know, but why does it, you know, go at a certain angle or it has a certain speed or it it it is or isn't stable to certain other interactions, other than actually just watching the simulation, is there any more why to it than that? And what do we what are we looking for? You know, when when we want a deeper explanation than just the the kind of like to to me it sounds like what the theorems do is they just kind of show you show you the necessity of how it works and that's the end of that.
+
+Yeah, I think I I find myself doing exactly this thing that you mentioned.
+
+Often you're having a discussion about mathematics with somebody and then somebody states something and then you ask why and then they say more. And if you keep asking why, eventually it comes down to here's the proof. M >> and to me this seems like this is as far as you can go because this something you can't question because the proof is a it's it's a formal sequence of symbols that each one follows from the previous ones. And to me this seems like this is as far as it goes. But there are people that disagree. There are people that say well that's the proof but I still don't understand why. And then they ask why is this the proof? Why is not why is it not differently?
+
+Why is this the step in the proof and why did you not do this other step instead? What would break down in the proof >> if you changed it? This is something that people ask.
+
+>> Could could it be could it be analogous to this issue of going in the sciences going downwards instead of upwards? In other words, if if you have if you have some interesting biological phenomenon, you you could drill down and eventually the answer is well because of chemistry and then well because of particles and quantum foam. I don't know what what the hell is underneath that but but right and but but but but you lose you lose a certain amount of insight that you sometimes gain by going in the opposite direction you know you might say oh because in the ecological whatever or in the evolutionary whatever so it goes up instead of instead of down is there is there in math a notion of that that instead of drilling down to the proof that is sort of like the you know the low the lowest level explanation could you come back and ask for some sort of larger scale insight about what is important interesting or fruitful about this fact as opposed to trying to, you know, nail it with a with a proof. Is that a reasonable analogy?
+
+>> I think it is. Uh I I think you're right. If if somebody asks about photosyn synthesis and you start talking about quarks to explain the situation, they will find they will not be happy with the explanation.
+
+And I think you you would probably I think you're right. If you go to the extreme case where um you know there's a there's a famous instance of uh of the four color theorem where I think what what what the proof boiled down was at some point they just had like an enormous amount of cases to check and then they just got a computer to check all the cases and the computer said this works and then people. Nobody would consider this an explanation of why it works. I guess they would be convinced that it works, but nobody would say it's been explained.
+
+>> I mean, that's very interesting, right?
+
+Because the the the analogy on the biology side is big data. So, in in biology, you know, you would think you people act as if as if, well, we're just going to measure every damn thing. We're going to get a list of all the of all the, you know, the molecules and the and the transcripts and everything else and like that's it. I mean, what else could you possibly want? But but typically, you stand back from you say, well, what did we just learn? Like, this is this is not explaining anything. So, that seems that seems to be analogous.
+
+>> Yeah. I think the notion of explanation necessarily relates to you as well.
+
+So, somehow the the information has to be something that you can use.
+
+That's mean that the explanation need to be cause and effect some sort of mechanical cause and effect otherwise it's not satisfy >> you you mean like a dialogue or what do you mean >> in a d in the case of you will give me all the possible um possible sol possible scenarios and I prove that in all possible scenarios that's not going to be happen but you're saying that's not an explanation. It's not satisfied explanation. Is that because that what you expect is a cause and effect explanation or just because we don't defined as that kind of set of scenarios as explanation.
+
+Yeah, I'm not sure, but I I I think there's a there's a personality component to it.
+
+There's a certainly in math people consider different things to be valid explanations.
+
+Uh, I I' I've had disagreements with co-authors because sometimes maybe I just write the proof and I think this is the explanation, but then the other person says, "No, that's not an explanation. Let me explain it." And then they give an explanation, but then I complain because I think this is too imprecise >> maybe.
+
+>> So that that's another important po point of explanations, right? The more the more precise it is, the more you know the more information it involves the more difficult it is to follow.
+
+>> Maybe it's related to compressibility like uh some for some chaotic system the the trajectory is impredictable for long term means the trajectory is not com somehow not compressible by some simple for formula. you can only doing real solving and you you won't consider the the solved trajectory as a explanation for the system.
+
+>> That's a that's a very interesting point. And I never thought about that.
+
+But I think you're right because now that I think about it, the proofs where I would typically think that the proof itself is the explanation are proofs that have a high let's call it kmar of complexity where it's hard to convey the idea with fewer words. Whereas there are other proofs where the idea is super simple but the proof itself maybe has a lot of details that don't really give you that much insight. And then maybe just a a few a small summary would be a better explanation.
+
+>> I remember there's some some male communication between venoy and uh maybe ger uh about explanation and program itself. So so it it eventually turns out is it's wrong but I think it's a good good interesting to to talk about. So I I don't know uh maybe it's a vanoyman said this there's a the serum or something uh says when something is complex enough it's explanation will be more complex than the system itself.
+
+So it's like if you have a real neuronet network in order to explain the neuronet network for all every detail you will have something that more complex than the original neuronet network.
+
+>> Yeah. Or or a lang large language model.
+
+>> Yeah. Yeah.
+
+I think it's called the law of requisite variety.
+
+>> The law of what? Sorry.
+
+>> The law of requisite variety. I think it's uh something in in cybernetics that says the controller must be at least as big as the thing that it controls or as complex as it as it controls.
+
+>> Interesting.
+
+>> By the way, there's a question in the chat by Tony Hammet Irvine or >> Yes.
+
+>> I'm not sure if Irvine is your name or you are located in Irvine.
+
+>> No, it's Tony Hammet Irvine. Okay. So, how many different sizes of infinity are there? So, this is a it's a good question. There is one of the axioms that I was on the slide that I must have erased by accident.
+
+Um, it roughly says that those the number of sizes is as large as the whole universe of sets.
+
+So if you have um a fixed set with a fixed size, there are more infinities than that.
+
+>> Sorry, can you repeat that?
+
+>> Yeah. So consider any set >> okay >> it has some size.
+
+There are more infinities than that.
+
+>> Interesting. So it's my initial question came derived from this notion of infinity and then you had discussed the notion of small and large sets and then coming back to this discussion of explanation of how Mike had said maybe we look down instead of up it does seem that this question can be tangential in a way we're trying to describe or explain something but there is a different size of infinity to at the initial equation.
+
+So how do you is it 0 equals one or it does not equal one or they're both at the same time. So it also is a construct of what does this fit into this this pluralism or this realism and my understanding is that you are more on this realism notion. Is that correct?
+
+>> Yeah. So I I think when I when I was preparing this slides, I was trying not to not to give away my beliefs but I think I failed.
+
+>> No, go for it.
+
+>> But I I think this is this indep well was one of the axioms of set theory. one of the classical axioms of set theory that there are it's not stated precisely but you can derive it from the axioms that there are too many infinities.
+
+So if you have any set every set has a size that is not how many infinities there are there are more than that.
+
+>> What do you mean too many infinities?
+
+So let me go back to here.
+
+So here are some >> inconsistent in itself.
+
+Well, you can never prove formally that something is not inconsistent by good term, but it seems that it is consistent.
+
+So here here are the I listed the infinities by size.
+
+But what is this alpha ranging over?
+
+It's ranging over all the transfinite numbers. So you can think of these as transfinite numbers in themselves and you can use these themselves to to find more and more infinities.
+
+>> I see.
+
+>> So you have alf alpha where alpha could be al if one. So you could have al if al if one then you could also have al if al if al if one and you know that's the thing about infinity it keeps going interesting. Thank you.
+
+>> Do we have time for one more question?
+
+Um yeah.
+
+>> Yeah. So I was just thinking about this um you know mappings between you know set theory and biology. So so would it be fair to say that the the current state of biology or maybe other disciplines as well is that we have a large catalog of facts which means that you know we have large number of things that we know how to define. said to be the hard set. But then there is also this emerging field of theoretical biology uh which has a small subset L where it tries to say how some of these things that we are able to define is also generated you know use some sort of generated theory that u basically you know says how those things are defined.
+
+So would it be is this a fair comparison? And would it be fair to say that one of the hopes of theoretical biology is to make the heart of biology equal to L where everything that we can define u can also be generated through some sort of compressed theory or set of a biology or something like that. Is that a fair comparison?
+
+Um, maybe Michael has some thoughts about this.
+
+>> Yeah, it's interesting. I'm I'm I'm thinking about it. I mean, in biology, I guess you have you have roughly two kinds of two kinds of constituents. You have people who they want theories that will work to help them make stuff. So, engineers, regenerative medicine, that kind of thing. And then and then there are, you know, sort of more theoretical people that want some kind of insight into, you know, I don't know what life is, you know, why evolution does what it does, like that that kind of stuff, right? Um I don't know if I don't know if you get to the same place, you know, if you can get to both of those places with the same with the same approach. I'm I'm not sure.
+
+>> And it also begs the question of uh what might be this uh larger set, right? the the generic set, you know, things that are more than definable. What might it even mean in biology? Is there even such things as we can observe but we cannot define in biology?
+
+>> I mean, life is a maybe a reasonable example, right?
+
+We just had a paper where, you know, 55 people try to define life and, you know, everybody most people thought they know it when they see it, but but nobody really agreed very well on the on what exactly it is, right? So maybe maybe that's the whole Yeah, >> I think the concept of life or living things, it seems to transcend all the instances of living things that we know.
+
+>> So a a nice analogy to this would go back to uh Yanbo's point about physics having this dichotomy about what you explained. So it occurred to me a specific example would be um uh you know first semester physics. So you have kinematics and dynamics. Well, kinematics really is just a set of descriptions. And so you could so you have acceleration, velocity, you define all those things. And you could use the same terminology to define the changes of color of a flower when it blooms. Um, then dynamics. Oh, and kinematics will let a cannonball go this way and then make a 90° turn. Then where you actually learn some physics is in the dynamics and where that is is or where that comes from is the conservation laws and so that's what's in you know you conserve the momentum you conserve the energy and so now you get into telling you what our world actually does. So two questions would be so for Santa or or Michael you know is there something analogous to that and then for one is there anything like that in mathematics something that um constrains what could have been the case to something that really looks like what is the case I mean on on our side I think those are the things that look like uh behavior science or or cognitive science. It looks like if you want the meta to to me it seems like if you want the meta principles of of what the biology is doing, they end up sounding like like the kinds of things we we we study in in in behavioral science. So you end up talking about goals and various you know veilance you know and competencies and and uh and things like that which again like back to the previous point it seems to go upwards instead of instead of downwards or or I suppose you could turn the whole pyramid over and say behavior is is the first rung which I I like that anyway.
+
+I think in mathematics the analog of that would be things like uh kinematics or uh thermodynamics are things that people are doing in analysis or in geometry or in algebra and then the version of the analog of the conservation laws where the rules of motion are derived from would be the the axioms.
+
+So starting from the axioms you could reach the rules of other parts of mathematics but it seems that that's not the whole story. So if you just look at the axioms you're not going to learn algebra or analysis. you somehow need to, you know, the the two practices are they teach you different things, >> you know, with regard, >> by the way, let me let me just uh mention uh nonsequiter, but I I remember now I intended to say something when I showed this slide, which is that I know that there are people here that are working on all kinds of things and I would be very happy if we identify some kind of undecidable problem in some part of science that is not mathematics.
+
+So this would be a nice direction of research. I'm sure there are many problems that are waiting to be found to be unsolvable and just people haven't looked at them from the right point of view. There's an open invitation for discussions in the future.

@@ -1,0 +1,326 @@
+# "Towards a Platonic Intelligence with Unified Factored Representations" by Akarsh Kumar
+
+- **URL:** https://www.youtube.com/watch?v=1mXUFweWOug
+- **Duración:** 63.8 min
+- **Idioma de subtítulos:** en
+- **Nota:** Keynote / presentation
+
+## Transcripción
+
+Um this will be about like towards a platonic intelligence with a um unified factored representation.
+
+One second let me just move this.
+
+There we go.
+
+Okay.
+
+Okay. Amazing.
+
+Okay. So uh to start off with uh I want to state something obvious that you guys already know that the world is not random but rather it has a lot of structure as we know and this includes everything from like self similarity across like many spatial scales to like physics symmetries like symmetries in like translation rotation invariance of the world as in if you have like some laws of physics it's going to be true here and if you're like one mile away from here and um every I mean Everything has structure. I mean, even the fact that objects exist and they're basically persistent across time, that's a form of structure. And um the the fact that there's so many um common patterns across in this world, right, across many different objects, that's what leads some of us to believe in this like idea of like there's like this this um space of forms, this platonic space of forms where these properties, common properties across many objects are inherited from the space of forms.
+
+That's one way to think about um what's going on, right? And obviously this idea came from Plato and it was pretty influential and that's the main point of this um symposium is to talk about that.
+
+So um I claim that basically intelligent agents in order to solve their goals they need to really understand how the world works in order to control it right to uh achieve their goals. And in order to un uh understand this world, I argue that they must capture this structure of the world. All these different structures that the world has, they must capture it in some way. And more specifically, what I mean is that the internal representations of their minds and their brains must capture the structure of the world. So I'll talk about more concretely what this means next, but at a high level, basically you can't really control the world without understanding how it works. And you can't understand the world without really um understanding all the different structures that are in the world, right?
+
+So we face this problem in AI because in AI we're trying to create these intelligent agents, right? And we have this uh we face this problem. How do we capture the regularities of the world, right? So one of the things we've been uh think about thinking about in AI is like what if we just try to bake in some symmetries of the world through how we design the architectures of our agents right so this is also known as inductive biases and I'll give you an example of like two or three of these is like one is like translation invariance in images whenever you look at an image and you see like some object you know that the system should process the object very similarly if it's over here versus as if it's like shifted over 100 pixels to the right. And this is translation equariance or translation invariance.
+
+And we try to bake this into um ar an architecture based on the convolutional architecture. That's what it's made to do. Another example is like whenever we process sets of objects and we want we don't care about the ordering of the set like red green blue or blue green red.
+
+We don't care about if what the order is then we use an attention architecture uh in a transformer to do this kind of thing. Right? And in general, this field called symmetry learning or geometric deep learning has um is a really big field in deep learning. And basically the goal is how do we capture known regularities of the world into the architectures, right? And this is kind of like you're just baking in the structure of the world.
+
+But what about all the other um structures in our world, right? All the other regularities. And one example I really like is like lighting invariance.
+
+So you see this lion in the dark and during the day and you don't really know what architecture should capture this lighting invariance, right? And we don't know how to do this. So what's our solution?
+
+Well, okay. So, the solution is we just try to train on a lot of data with SGD and hope that the AI will learn this underlying regularity of the world um based on the patterns that it picks up from all of these data uh from all this data right that's this is the predominant paradigm in modern deep learning currently. So, the question is does this actually work right and there's a lot of evidence that's showing that it is somewhat working. I mean the AI systems nowadays if you use chat chieftd they can pick up on all sorts of patterns of the world and they seem to really understand the world and how it works and even self-driving systems they can like figure out uh what a stop sign looks like during the day at night and it seems like everything is just working but this brings us to our um position paper and our um which where we hypothesize that conventional SGD in deep learning um finds neural repres representations which are actually fractured and entangled um um in the sense that their actual internal representations are fractured and entangled. So uh over here we can see that I mean you find a network which has a certain output behavior but the output behavior we visualize it as like a skull which I'm going to get into detail how we're doing this but at a high level you visualize the output behavior and the internal representations don't really match what you would expect to see if it's really like understanding the skull in a subjective way right and more specifically what I mean is that it doesn't capture the underlying regularities of this world which is the skull So our position or our opinion is that a different kind of search algorithm which is not conventional SGD but a different kind of very exotic open-ended search may be the solution to learning what we call unified and factored neural representations. And as you can see over here the representations of the skull look a much better and much more like what we would want in how you would build up the skull. So let's get into um and so so you might be asking why does this matter at all right if the output behavior is the same and we basically believe that the internal representation of an agent really u affects its capability to generalize to new situations it's never seen before especially OOD its creativity in the sense that how and how it like sees the world and how it comes up with new solutions or new any artifact that it can create and especially continual learning and adaptation. And you can see over here on the top we see that the network with the nice representation if you perturb its weights it has really good adaptability behavior because the skull changes in like semantically meaningful ways versus the skull on the right the network on the right it has terrible adaptability and it basically just produces like a mess on the right.
+
+So let's get into the details of how we're uh doing this kind of experiment, right? So uh we're going to be using what we call like a compositional pattern producing network or CPN. And basically this is like a toy domain to study neural representations. And the goal is basically just to implicitly represent an image. And at a high level, it's inspired by the biological development process like morphogenesis.
+
+Um because it's about how do you reuse existing machinery to across different like uh points in space in order to achieve the same thing. That's where the inspiration comes from. So let's talk about how we would represent this specific image. Let's see this pixel uh that's highlighted over there. What we're going to do is we're going to basically mark its xy location and its d distance from the center. And we're going to take these three numbers and just plug them into a network that is the CPN. And after it's done processing, we're going to take its output and consider it as its HSV or you could think about it as just like a RGB value.
+
+And that's going to be the RGB pixel value for that um pixel. And if you sweep this across every pixel in the image, then you can basically visualize the entire output behavior of the CPN as a single image. And the reason that we construct the image like this rather than just modeling like the RGB pixels is because this makes it very very easy to uh visualize how the output behavior of this network is internally represented neuron by neuron. So in this case you can literally go to each neuron and see when does it activate at which XY locations does it activate and you can visualize that as an image also.
+
+And one thing I want to make clear, um, this is probably a really important slide, is that the CPN are an analogy.
+
+We're not really interested in just like how do you represent images, but rather these CPN serve as like a very useful visual analogy to think about what other AI systems like largecale LLMs might be doing, right?
+
+And basically the analogy is that its output behavior or the output image of the CPN is analogous to the LLM's entire output behavior over the entire its entire output space. Right? And the CPN's internal visualization is basically analogous to the LLM's internal representation of its entire output behavior. So basically just how it models and sees the world.
+
+And because we're using CPN, we can just visualize how these behaviors are constructed holistically, right? Not just like in a single neuron, but seeing how it's built up over many many neurons.
+
+And importantly, uh this brings us to the main point is that like two CPNs may have the exact same output behavior, but their inner encodings could be qualitatively different, right? And this means that two LLMs may have the same output behavior, as in you can't tell them apart from what they're doing on the outside, but their internal representation and how they see the world internally may be qualitatively different.
+
+Sweet. And with that, um, I will actually go on a slight tangent with Pigreeder, but it'll connect back into the main story very quickly. So, let's talk about Pigreeder. So, Pigreeder was basically an online website for humans to breed these CPN images to their desire. So, humans would just see these images and you'd pick like two or three of them you'd like and just mutate them and keep going. It's kind of like breeding horses, right? And what you're going to be doing is just evolving the underlying CPN that um generated these images.
+
+And importantly, one of the big uh things about the system is that there was no end goal. you can just do whatever you want. The humans weren't told like, oh, you should try to evolve a skull or you should try to evolve like a cat image or something. They just said just do whatever you want. Have fun. And uh one caveat here is that the actual CPN's used inside here were not like your conventional multi-layer perceptrons from um AI, but rather these things called neuro evolution of augmenting topologies need. And you can imagine this as like rather than having like a dense connected network, you have like a graph of neurons that you're growing in this arbitrary way. So it's much I guess in a way it's much more flexible, right?
+
+And so what would you expect to find from this pig reader system? Right? And I think most people would say that oh if people don't really have a objective goal in mind, then you kind of would just expect to find these um super rubbish images, right? This is what you'd expect to find. But here's what people actually found. These images with lots and lots of um structure and basically what humans prefer, right?
+
+It's like literally things from our world. So the question is like how did people um find these kinds of things?
+
+And if you want a deep dive into how um this kind of thing happened, you should really check out the book from my collaborators Ken and Joel on why greatness cannot be planned. And they really go into a lot of um insights into like the nature of search, deception, serendipity in search, which is um a really important topic I believe and open-endedness. And basically um they argue that this pigreeder system is like a um like a microcosm for like natural evolution or like scientific innovation.
+
+These open-ended process which keeps discovering stuff forever. So I do want to uh talk more about pig braider and then talk about that what properties it has that uh why I think you should consider it as like a very very interesting system. So first property it has is that it's open-ended. So if you think about natural evolution it's like this divergent evolutionary process which produces all these different diversity of animals right um and pigreeder is similarly like that.
+
+there's literally a pigreeder evolutionary tree where you just have images which are diverging and growing um open-endedly. So that's one thing that's really interesting about it.
+
+Other things that are interesting about it include this idea of serendipitous adaptation. So in evolution um a lot of the traits that we ended up with or all animals ended up with were traits that were evolved for one function but get repurposed later down the line for something else. So here's an example like feathers were originally evolved to keep like the animal warm but they later got repurposed for flight. So this is an example of like this huge task space where things are kind of just it's a more serendipitous rather than like planned ahead of time right and pigreeder displays this property also you can see that um the the stepping stones that they call it two let's say look at the teapot image someone was actually trying to evolve a egg in a hat before someone else took that image and started evolving a teapot so this is an example of like this machinery that was used to represent this egg got repurposed to represent this teapot. And this is like a common very common story in all the pig breeder discoveries.
+
+Basically, every image in pig breeder that was found is kind of it displays this idea that like there it's like almost seems like random, but it's what we'd call serendipitous and how it got to the end product. Right?
+
+And one final property that I want to outline is that um as we know that um natural evolution has developed very adaptable genotypes. And this is kind of like the emergence of evolvability, right? Because the way that our bodies and our um are structured is basically uh it contains certain axes of variation. Let's talk about the symmetries. The way our bodies are structured really has a lot of baked in symmetries. Like for example, there's like a bilateral symmetry and the way our organs are structured are modular.
+
+And it's just that there's a lot of um structure in the way our bodies are structured, right? And the reason it's like this is because certain axes of variation during search become much more likely while others become impossible.
+
+So for example, if you have a mutation in your genome and your right hand gets like uh longer, right? Your left hand would also get longer because evolution has kind of realized that encoding this axis of this symmetry into the genome is really important because there's no point in not doing it, right? So this axis of variation where both get uh longer becomes likely where whereas this axis where only one gets longer becomes impossible, right? So it's a way to kind of like speed up search in that way.
+
+And pigreeder has also shown um this form of evolvability emerging. There's examples in the pigreeder where certain images are structured in a very nice organized way such that their children have very fit descendants as in they're basically producing images that humans would like. And there are some images which don't have this property and but they quickly die out because humans don't select for their children. Right?
+
+So there's this like implicit pressure to be evolvable.
+
+So great now that I talked about pigreeder let's get into the actual experiments that show this internal representation that we've been talking about. So let's look into just uh let's pick this image of this skull right and see what happens.
+
+So let's take this skull image that we found with pigreeder. And what we're going to do is this. We're just going to create a data set from it based on this uh based on the mapping that we're talking about where you have XYD to HSV and you list out all the pixels, right?
+
+And we have this big data set and then what we can do is just train a conventional network to recreate the skulls using all the tools from AI, right? And what we found what we find is that the optimization works amazingly.
+
+it perfectly reproduces this um skull behavior, right? But then let's uh let's talk about what happens when we start looking at the internal representation of how it represents the skull, right?
+
+That's where we see some problems. But before that, what we're going to do is quickly talk about layerization, which is not too important. So um but I will quickly go over it just for the sake of complete completeness. So basically, you can imagine that our neat networks that we found at Pigreeder, they're in this arbitrary, they're like this arbitrary graph of neurons. In order to make it compatible with the space that we're going to be doing SGD training with AI on, we're going to convert everything into a universal architecture which is the MLP through this process of layerization. And specifically uh this will give us like an existence proof that this pigreeder solution is in is a solution that the SGD could have found but it didn't. And more concretely, what we're going to be doing is just taking all the connections of this arbitrary graph in neurons and stitching them together to in the MLP to recreate the same computational graph.
+
+Okay, so this is what the internal representations look like for the pigreeder skull. This is the one found with pigreeder. So you can see that the four input neurons encode the four inputs or X, Y, D, and we just have a bias neuron for historical compatibility. And over the layers as you go up you can see that the neurons encode different things and builds up the pattern at which you see at the end which is the skull. But you can see that there's not really any redundancy. It's very very uh modular in that way. It's very sparse and it seems quite organized in how it's doing it. Right? So let's look at this SGD skull. Now to contrast, this is what happens when you train SGD when on the same network architecture to get the skull.
+
+It looks like a complete mess, right? It looks like complete spaghetti. And you can see everything ends up canceling out the end and giving you the perfect output behavior. But the internal representations are like completely just like what I'd call spaghetti, right?
+
+They're just like a complete mess.
+
+So, how does this actually impact um downstream what we call like downstream tasks or something? So, on the left over here, what we're going to be doing is just sweeping individual weights of this network and seeing how the output behavior changes. And you can see that it really shows you that uh if you sweep a weight, there's literally a weight that corresponds to the mouth opening or the left and eye winking or the distance between the eyes right there. Right? or like literally a weight controlling the jaw width. And this kind of shows you that the network kind of understands the underlying um what we would call the underlying regularities of the skull, right? These are axes aligned with how a human uh sees the skull. And if you imagine that the skull is an analogy to the real world and the behaviors uh that you would want to employ, this basically corresponds to nice changes in this actual behavioral output of the network, right? Versus if you have the network on the left, you can see that the weights kind of most almost all the weights look like this. they kind of just correspond to rubbish meaningless changes which don't respect the underlying x x-axis symmetry of the skull or any regularity of the skull for that matter. Right?
+
+So this pattern is true for all the images that we've tried out like here's this butterfly image for pigreeder and here's this skull uh SGD image of this uh butterfly.
+
+You can see it's the same pattern and if you look at the weight sweeps it's the exact same thing. you capture the regularities on the left and you don't really do that on the right. Right? Over here you can see that one of the weights literally destroys the left wing while leaving the right wing sort of intact which is completely not respecting that symmetry of the butterfly. Right? And here's the apple image found at Pigreeder and here's it with um SED and it's the same pattern again um on the left. U one of the my collaborers's favorite is like the stem angle. There's literally a weight in the apple network that on the pig breeder side at least that corresponds to if you sweep it, it controls the angle at which the stem is um controlled at. So this really shows that the stem and the apple are like modular are decomposed in like a modular way in order to have this happen, right?
+
+So the question is this is cool but this is still like this toy domain. How does this really apply to LLM and like real intelligent systems, right? So there is some uh evidence uh actually a lot of evidence that um these LLMs also suffer from fractured and entangled representations that don't respect the underlying regularities of the world. So let's start off with a old example from GPD3. So in GPT3 um we ran this experiment where we had like um where you just say like I have three pencils and two pens and four erasers. How many things do I have? And it gets it right.
+
+You have nine things. But if you ask it the same exact question, but change up the um item names, like I have three chickens, two ducks, and four geese. How many things do I have? It gets it wrong.
+
+It says you have 10 animals, right?
+
+Instead of nine. And what this means is that the machinery or the neural circuitry that it's using to count up the objects is entangled with the types of the object that it's seeing. Right?
+
+So this is an example of how it could be the representation is entangled. Right?
+
+So let's scale up to more modern networks. Uh there's there's a lot of papers that show that like um if you change like if if a network can if a LLM can be really good at doing like these math problems, slightly changing the numbers in the math problems causes them to um decrease their performance on that um on that data set, which is crazy because you would expect them to be kind of robust to changes in the numbers, right? And uh sure if you scale them up this has been going away which we're going to talk about but let me go through some other examples too. This >> sorry can I can I ask a question uh in the the previous slide the example about the the counting >> uh the the slide before this?
+
+>> Yeah. So does it say 10 because it includes the me as well?
+
+Uh because it says you have 10 animals total. So, if it's actually including the the person who's asking the question, then it's actually not incorrect, right? I mean, just out of curiosity.
+
+>> Oh, uh, the me is not in the prompt.
+
+It's just the I have. And the fact that it's asymmetric between the two shows that's the difference, right? I don't think that's what's going on because whenever you say like how many things do I have, you don't talk about yourself, right?
+
+>> Yeah. Yeah. I I I know. I know. But um I was thinking maybe it's thinking in a much clever way that uh that makes us think that it's it's incorrect. I mean in in a sense you could argue that it's not incorrect but yeah I'm just saying >> interesting.
+
+Yeah. In that case it should at least be symmetric on both sides. Right. I also don't think it makes much sense to say 10 in this case.
+
+>> Yeah. Okay. Yeah that's that's fair.
+
+um this paper from some of my friends at MIT here um they basically showed that these LLMs they're really really they're trained on the internet right and the internet has this the world that we operate in which is like um the current world but if you change their evaluation to counterfactual worlds then the performance goes down a lot and by counterfactual world what I mean is like instead of doing arithmetic in like base 10 you do it in base 9 this is a way less common um way to do things right or in code execution you change it to be base one indexing then the performance goes down a lot. So in this way you could argue that there's like it's not respecting if you change one thing about the world it's not respecting it's not understanding the world where it's like um it understands the regularities in a deep way where it can be robust to these counterfactual changes right here's another example I really like um this is from an anthropic mechan paper from quite recently where they looked at claude and they asked it what's 36 + 59 and it came out with the answer 95 which is correct. But if you look at the um actual arithmetic that goes behind this answer right the actual neural circuitry that's happening you can see it's using like random heruristics that a human would never even think about. It's like saying like oh 36 is around 30 and if you add and it's around 40 and if you add around 40 plus around 50 it's like around 92 and it's it's completely like different than how a human would do this arithmetic problem. Right? So it's neural circuitry is kind of just like a bag of huristics. And indeed there's been a paper that's been written that arithmetic um that language model solve math with just a bag of heruristics right while still getting the answer right.
+
+So I think it's uh I think there's a lot of evidence that like these LLMs their behaviors are amazing but the way they actually represent these behaviors are very um surprising and definitely concerning right and now let's talk about the counterargument right like how does scaling work because this is like the predominant view in AI that if we keep scaling these systems then um they should just keep getting better right so this is the scaling laws view and you can see that the actual test loss or the test performance and the downstream performance and how you use use these systems are getting better. But again, this is a statement about um like the actual behaviors, right? And if you if we go on to the next slide, then we can talk about the platonic representation hypothesis from our lab. And this is actually one of the coolest papers um ever. So you guys should all definitely check this out of basically what they claim is that neural networks trained with different objectives on different modalities. So one could be trained on images and one could be trained in language. They show that these two models trained on different modalities and in different ways are actually converging in some sense to like um uh as you scale up the model sizes and their performances. So over here in this graph they're showing that um as you increase the language model performance its alignment with a vision model also increases. And the reasoning behind this is basically that as you force these networks to do more and more tasks then the number of representations which solves all the tasks in either modality kind of has to overlap more and more.
+
+So this is all saying this is all very very cool but I do want to point out that these scaling laws and this platonic uh representation hypothesis are all very like statistical observations of what's happening right these are statistical observations of a statistical uh behaviors right and it's very unclear how this relates to respecting regularities of the world and I think we need a lot more um um research trying to connect the two because the examples we gave in our paper where we did a survey on like all these um studies that were showing that language models struggle in this task in this way or something they're more talking about whether or not you respect some regularity of the world and I think this is a very different um way to see the world than if you just look at this as like a statistical um mechanism right and one more thing I want to point out is that the efficiency of this scaling view right we don't have infinite data in the world we only have the 10 trillion tokens of the internet and the question is is that enough and if it's not then this scaling view isn't really a practical way forward right and more practically we need to figure out like even now u with with these large scale um LLMs why do our LM still have this notion of jagged intelligence right as in they can do some really really hard tasks like get IMO gold but they can't reliably book a hotel or a plane ticket for you. So why is it that the task that we find so um hard like the winning the IMO gold it can do pretty nicely but it can't do something what we seem as basic and um like book a hotel and I think the uh main point I want to make is that deep learning is fundamentally like a datadriven statistical learning paradigm and I think it's a very very fascinating paradigm that that should be investigated.
+
+But I wonder if there exists like a more efficient like regularitydriven learning paradigm because obviously like human intelligence and like animal intelligence they don't just ingest like billions of um examples in order to learn right they do something much more different and um something much more akin to like understanding the regularities of the world and building on top of them. So what could this look like? Right? And I think the things that would matter the most is like something like some process of complexification.
+
+If you look at like the process like morphogenesis, it doesn't just encode every part of your body at once. It grows it according to something more fundamental, right?
+
+And this is a very adaptive process which adapts to the environment and it's not just baked in. So and importantly I think the cool thing is that if you do this complexification in a learning algorithm it should like try to build up the regularities on top of other regularities in the same way that like if you go remember the skull internal representations it's like building up like x-axis symmetry and then on top of that it builds in like the eyes from that symmetry. So it's building up symmetries on top of other symmetries in a form of like a regularitydriven learning that's like bottom up. And this process of complexification should also give you uh build on these ideas like emergence and um I'm going to tie this back into emergence in a bit.
+
+Another thing that I think could be really important is training for adaptability. So rather than just training for to solve the task, what we really want is to train for adaptability because I think it gives you a lot of like regularization pressure to learn like symmetries and regularities to be robust to environmental changes, right?
+
+And I think that a representation that kind of has to be robust to environmental changes is one that must capture the axis of variation which like as Plato would say like carve nature at its joints, right?
+
+And this is just personally what I think is really important. It's like serendipity.
+
+And what I mean by serendipity is that this the order in which you learn things really matters. If you look at LLMs, they learn uh calculus at the same time as they're learning arithmetic. But humans, they always learn arithmetic before calculus because their internal representation of calculus builds on top of the regularities from arithmetic. But LLMs, they kind of learn them at the same time. So they must have different circuitry if that's going to happen, right? Different circuitry for arithmetic and calculus. And that's why I think this idea of serendipity or in general curriculum learning is really it should be important in terms of you're doing this regularitydriven learning.
+
+And I really think serendipity specifically is important because it gives you a much higher chance of finding a useful learning curriculum to actually employ. Right? And if you think about it uh this these uh paradigms what what paradigm captures all of these it's like the field of open-endedness um I think has a good uh not solution but they've been thinking about this and I think they have the toolkit to come up with a solution that can handle all of these.
+
+>> Can I ask a question?
+
+>> Yeah.
+
+>> How do you think about the the the order related to reinforcement learning?
+
+Because uh uh you talk about uh uh learning circulum and uh when you when you train uh reinforced learning agents they often start with some very simple behaviors and by and by interacting with the complex environment they they complexify themselves. So, so I I was just wondering uh if you if you can train if you can convert this pattern generation into some kind of reinforced learning task, would it also have similar meaningful and robust weight or or not?
+
+>> Uh that's a really interesting question.
+
+I think the on policy nature of reinforcement learning is a really um it should be super useful it seems. But I guess uh the fact that there's still like a singular objective that you're trying to solve is I think is a downfall. I mean there's a lot of works in the field of reinforcement learning that show that like um you train the RL agent to do one task and it masters it but what it but if you perturb the environment even even ever so slightly like change like for example like change like the placement of the objects even a little bit or change the color of like the how the objects are represented everything breaks down. So I think the way they represent their task solution is still um very very um brittle. So I think what you really need is uh either take the scaling route and you just have like a many many different tasks or the more better route I think would be to kind of have many different environments that it's exposed to in like a sequence and in kind of like a serendipitous way.
+
+This is kind of what happened with evolution, right? You're exposed to this is what I'm going to talk about in the next slide too is like you're exposed to some environment but then you're forced to adapt according to the environment to some other environment and you're forced to adapt again and this pressure to adapt is what I think really creates makes you robust because if you don't adapt quickly then you will die and in order to adapt I really think you need a really strong representation. I think they're um this is my hunch is that I think a strong representation and adaptable representation are like one and the same.
+
+>> Yeah. I also wondering how how does the like models like AlphaG go looks like because AlphaG go when you start the reinforce learning they these start with very poor uh players and the the there's a similar a symmetry between player and environment because you when you improve yourself your environment also improved.
+
+So there there's a nature there's a nature course of learning uh maybe maybe there are two kind of different reinforce learning like offer I think it's maybe a different one and maybe they they have similar like complex complexification process as you mentioned >> yeah it builds in a lot of these things together but um I mean AlphaGo obviously solved go so that was a huge impressive result but I'm still not sure that it's training to be adaptable. It's kind of like its objective is to train to solve the objective, right? The cool thing about evolution is that it's like you could say that it's optimizing to be a good fit for the environment, but it's implicitly optimizing for adaptability because everything is always changing, right? So, if someone shows that like this if there is a pressure to like adapt, then that would be um pretty cool, I think. Yeah.
+
+>> Thank you.
+
+>> Yeah. So I guess zooming out a bit um how does this relate to like the platonic viewpoint and what you guys have been thinking about for a while right so I think this space of forms that people have been thinking about obviously um create like you could argue that it's like this is where the real world and all its patterns come from and I think intelligent agents are fit or like um trying to be intelligent to that world so obviously indirectly the space of forms is going to leak through but I guess the cool thing is that uh that uh uh I've been thinking about that I guess maybe you guys can add something to the conversation is that does this space of forms directly does does the internal representations of a good agent intern like does this mind come directly from the space of forms right so I guess uh you could argue that like just as like you have this like aspirational ideal of like this platonic um shape and you have the real instantiation of it in this pyramid the same way that real intelligent agents are kind of trying to mimic this aspirational ideal of this like perfect mind that can understand the regularities of the real world. But this is all just um speculation, right?
+
+[laughter] So cool. Yeah, this is something I'd love to get your guys' thoughts on. And just to wrap up, I'd like to thank my collaborators Jeff, Joel, and Ken um for making this work possible. And with that, thank you.
+
+>> Thank you. That was very interesting.
+
+Uh questions.
+
+>> Yeah. Yeah.
+
+>> Yeah. Hi. Um so as I understand this you're the um the training process. So first of all this is beautiful. um the and you could sort of see where having things modular like this now allows you to do cognition rather than just like randomly emitting motions and stuff. But um it seemed to me that you're still training on something. And so then the question is is the difference between this way and the old way of doing things that instead of training to fulfill a task, you're training towards some criterion. In other words, somebody is somewhere is saying, "Oh, gee, that actually looks like something. I'll keep that one." As opposed to to keeping the spaghetti. Um, is is that a fair way to look at it? So, or your evolutionary adaptability, that's another criterion.
+
+You survived. Maybe you did it this way, maybe you did it that way. So, the tasks are different, but the criterion is the same.
+
+>> Yeah. So I do want to say they they did some experiments after pig breeder happened where they asked people to explicitly evolve the skull where they're like your goal is to get to the skull and get there as quickly as possible and that did not work at all.
+
+So I and even if it did I think that you would end up with like kind of like a brittle skull. I think the key important thing is the fact that this environment that people people are selecting images right so this environment of selection that's happening like the selection pressure is extremely complex. It's this it's as complex as a human brain because they're the ones doing the selecting, right? And more importantly, it's changing after the skull gets discovered. No one thinks that that's interesting anymore. And you need to figure out a different adaptation that's more interesting than the skull, right?
+
+So, I think this pressure to adapt again is the thing that's creating these good representations. That's >> the Oh, go ahead.
+
+>> Yeah. That's the reason that the skull like there's a weight that corresponds to the mouth opening because that's the axis of variation that humans find the most interesting. Right? So in the same way in the real world there's some axis of variation that are going to be like um on earth that are going to be useful and these are the ones that intelligent agents need to capture right >> but there's some point at which whoever is doing it said okay I'm done you know that's my picture.
+
+So, that's the thing. Uh, when one person gets it done and they upload their picture, um, the next people, uh, start evolving. It's like this open-ended process. It never stops, right?
+
+>> Okay.
+
+>> Chris, okay. Yeah, Chris.
+
+>> Yeah, thanks. This this was very nice.
+
+Um I just wanted to comment on the question in your last slide about the effects of the the world of forms on um the agent. Yeah, the one right after that.
+
+>> This one.
+
+>> No, the one right after that.
+
+No, I'm sorry. That one? Yes, that one.
+
+[laughter] >> I mean the the wonderful thing about organisms is that we are part of the real world. Mhm.
+
+>> So, uh to the extent that uh this idea of of forms informing our structure uh or the structure of the real world, then that applies to us too and in particular to the way that our minds work.
+
+So in in thinking about this picture um we have lots of intelligent agents that are already part of the world >> and so their interactions with the rest of the world are just part of the way the world works. Right? So >> if the way the world works is driven by some you know abstract principles symmetry and so forth >> then um our behavior with respect to the world is is driven by those same symmetries.
+
+Whereas with intelligent agents, we're we're trying to use a an abstraction from certain features of the real world to design an intelligent agent when we're coming up with with any machine learning scheme.
+
+>> Yeah.
+
+And this suggests at least to me that it's an interesting approach to think about to design the simplest possible agent can and just turn it loose which I think is what you're describing to some extent with pigreeder.
+
+Um is that a fair assessment of the proposal you're making?
+
+So you're so the way I see it is that like let's talk about like um a concrete example of like planets right let's talk about let's say that like the space of forms in forms physics right and the way that particles interact and these particles you run them for a long time according to like gravitational laws and they form this uh imperfect planet right with some bumps and things but this planet is like emergent from the laws of physics But this planet, you could argue it's kind of like trying to inherit the property of being a perfect sphere, right? So, not only were the laws of physics inherited from the space of forms, but also um this emergent planet is trying to be another idea from the space of forms.
+
+Right. In the same way, I think that intelligence in the sense that you said they're just agents in the real world, they're just complex systems. They're just made off of small little tiny particles following the laws of physics.
+
+But as a global whole, the emergent phenomenon of the brain could be something like mimicking trying to mimic some something more platonic in that sense. Right. That's the way I've been seeing it >> if that makes sense.
+
+>> Yeah. Okay. Thanks.
+
+>> Thank you, Brian.
+
+>> Hey, K. Uh, yeah. Yeah, I had a question about u the framing around the way the CPN and I guess open-endedness is kind of this top- down signal where you're having someone or something like some maybe like God or something choosing the things that actually are desirable than less desirable and having this top down view even for the SGD model too to like match this target.
+
+>> But is there a more bottomup view of the open-endedness where like there isn't a kind of loss function that's given from top down but like it's just kind of an emergent property of the system. Maybe it's like stability or persistence or something.
+
+>> Yeah, I would actually classify the Preeder stuff as bottom up. I would classify the SGD ones as top down because the SGD one kind of what it what I feels like it's doing is that you have this like block of marble and you're chipping away at different places in order to get the shape that you want, right? But I see this pig breeder one as in you're starting out with like like a small no network which has like no neurons and you're building up the first neuron which encodes x-axis symmetry and then you build up something else which builds on top of that symmetry and you're building this bottom up this uh layers and layers >> process is done by humans right and that >> the selection process done by humans that's the top down signal I'm kind of describing is like >> oh you're saying if you can replace humans with some other signal >> right like something that is more in the nature of the system or the physics that it would exist in a world rather than having a human top down being like okay this is something I like this is something I like this is something I don't like.
+
+>> Yeah. So we're I don't think any like if you do something like um any like if you try to put an equation onto it I don't think it's going to work because it's not going to be nuanced or diverse enough. We are doing some experiments and trying to make like a automatic pig breeder with VLMs using VLMs and even that is like we're like struggling a lot. So I think the I think the environment that you're exposed to really does have to be extremely rich and complex in order >> maybe that perspective maybe the human itself is the environment that the picture kind of lives in and it has to survive or persist in and that's kind of how you would >> that's right that's I think that's the right way to view it. So then the question is if you want good um networks and good um sorry um AI systems right you need to subject them to the right environmental pressures and the I think the way that you subject them matters a lot. So I'm a big fan of like you know this pressure it to adapt. I think that's the right way to think about it.
+
+>> Cool. Thanks >> Yanu.
+
+Hey uh so I also have two question about fairness. So, so the first one is uh uh uh different architecture might suit both for for different thing and that's uh what you explained but uh I think uh there are some example in in video games like some people want to challenge themselves so they they constrain themsel like I only have one weapon to win the game and when they decide to do this the is the entire playing process become very complex you can't play game like a usual people and usually people can play game in a quite a decomposible way. They they have a clear clear semantic meaning of doing this doing that but when you apply this constraint you you have lot of things that locally looks nonsense. So just wondering first the data is generated by CBPM uh but uh you train it on MLP. So uh this this kind of um I don't know if it's a very fair to to compare this and this lead to another question is uh CBPN has a very uh carefully designed uh architecture and training process and some details but MLP uh I know that there are some tricks or regularizations on MLP. I just wondering have you tried uh try to optimize MLP in order to make it symmetric u because if you don't do that then uh this comparison uh it's also might feels unfair to compare.
+
+Yeah.
+
+>> Yeah. So in terms of the first of all in terms of the fairness I mean uh in this paper we're it's like a position paper and we're not proposing pigreeder as an algorithm that's supposed to compete against and that everyone should use right it's more like to inspire like that fact that this algorithm has some cool properties that were assoc even though we cheated and we used humans in the loop we used a different um neat network it's supposed to inspire ideas that maybe we can extract some insights and turn this into an algorithm which can compete against SGD and do better.
+
+So, and we're not trying to be fair.
+
+We're trying to cheat and come up with an algorithm which in some way or shape or form found something interesting, right? Um yeah, I think that's the grand goal of this kind of research. And your second question was about uh what was the second question?
+
+>> Uh it's about how how many efforts you applied you you put on optimizing MLP in order to make it >> Oh, yeah. Yeah. reasonable, right?
+
+>> Yeah. So, obviously you can't bake in any explicit symmetry into the network.
+
+We did try a large set of experiments using like um weight decay and we even tried to make the target symmetric like the target image perfectly symmetric to see if if it was perfectly symmetric would it pick up and the answer is it almost never um picks it up. there are like one or two seeds out of like 20 seeds in which you have if you have the right weight decay with the right um symmetry aspect with the right architecture um because we tried out different architectures also then it ends up working but it almost never actually works. Yeah.
+
+>> Yeah. Okay. Yeah. There there was a recent study that adding noise to the weight of the the the model instead of adding weight decay. I'm wondering, have you tried that? Would it make the the map become more symmetric?
+
+>> No, I haven't tried that. I really doubt that these things like this would qualitatively change the learning dynamics to make it capture regularities versus not capture regularities. I don't think any simple trick like that would do it. Uh, one of the cool ideas that I'm investigating with the undergrad here is like basically trying to see if um the network if we try to make the weights predictable because predictability is like a very specific type of signal that could qualitatively change what you learn, right? Because weight decay is more like a simplicity bias where you want to regularize it towards like low weight norm. But I think that if you try to make it predictable, that's not the same thing.
+
+It's not the same as simplicity. It's the it's completely different. So I think there are ideas in which it could change, but honestly I don't even think that's that would work that well. I think what you really need to do is like rethink what's going on and what the ad what the pressures you are that you're optimizing towards. And I think the pressure to adapt is probably the biggest thing that needs changing. I think that would fix a lot of things.
+
+>> Interesting. Yeah. Thank you.
+
+>> Mhm. Excellent.
+
+Um yeah, great paper. I really loved it.
+
+Um I'm an experimental biologist so for me this was really up my alley. You know I really loved um >> the idea and I think [clears throat] you know objective functions are something very fundamental and I think this really this really sort of shows it. Um, and I think one of the things you could you could interpret from your paper is there might be uh a trade-off between complexity of the objective function and how controllable uh the outcome is. As you noted yourself with when you tell people to select for a certain outcome, pick breeder doesn't work anymore. How fundamental do you think that trade-off is?
+
+the trade-off between um having a fixed objective function and what else?
+
+>> Yeah, sort of the richness of your objective function and how uh how how well you can determine the outcome of your optimization process.
+
+>> Yeah. So I think the fact that pig breeder is not able to optimize directly and that it has to take this like serendipitous path through the search space um I think there needs to be more research like quantifying just how important that is. That was like kind of like the point of the paper that we don't really know or understand what caused these good representations and it would be cool if like we could figure it out, right? So um I think I it feels that like the serendipitous search is very very important. I can't exactly um rigorously tell you why, but the reason it feels that it's like important is because it combines this pressure to adapt while making optimization easier because you're not just optimizing for a single skull, right? Because that's like really really hard to do. You're optimizing for either a skull or a cat or a dog or anything else that a human would want, right? So I think that is like the serendipitous search kind of makes optimization easier and the pressure to adapt is is something that's obviously good and um that's hard to satisfy. It's hard to optimize towards.
+
+So then you need a serendipitous search to optimize it if that makes sense.
+
+>> Doug, you're muted. Sorry.
+
+>> Okay, great. Um so we find that natural languages pervasively omit system component relations which has to affect whatever happens when you use written stuff to train these machines. But um then in that context that made me think about your apple example. So does the network know that the stem is a component of the whole apple as opposed to just something that's sitting next to it? So that's this issue of not only so engineers think in terms of systems and components. So um not only do you have two things sitting next to each other, but there's is the stem a component of the apple? Is the color red a component of the apple? And that's different than you know computer scientist is always talking about overlapping sets and so the system component thing is structural completely different thing.
+
+So how smart is this guy?
+
+>> Yeah that's a good question. Um so over here I mean you can see that there's feature maps that correspond to just the apple and there's a feature map that corresponds to just the stem and at some point in the network they get combined in order to make the apple with the stem. So I mean that's kind of like the modular decomposition you would expect in an ideal world if you wanted these two things to be decomposed right >> so I think the feature maps are they basically show that it's like basically perfect um in terms of what you would if you want that but then the question is um is that the right decomposition right that's one of the things I've been thinking about is like how do you know this de so like basically if you imagine the skull you can decompose it any number of ways right you can decompose it along this way which I like or another way which you might like and they're both we what we would call unified and factored. So then that really begs the question is like in a ground truth manner what makes a good representation and personally I feel like that definition should be grounded in the set of future tasks that you may want to adapt to right I have this thought experiment I like a lot which is like if you evolve like a cat on Earth right but you have the same identical cat evolved on Mars and they're identical in their behavior one may have different axis of variation in its genotype based on the past and future environments it's going to be exposed to, right? Because the future environments in Mars are going to be different than the ones on Earth. So, um they might be very different in that.
+
+Since you're thinking about that, um I was debating whether to mention this, but since you're at MIT, I don't know whether they still teach uh what the frog's eye um tells the frog's brain, an ancient MIT paper that I think is one of the more important papers in biology.
+
+But basically, frog's eyes only see things like uh edges, light, dark contrast, and a couple other things. The rest never gets through to the brain. So if the fly is not moving, the frog doesn't even see it. So they have a basis set of universals like Kant would talk about. Um you and I have a different set more complex. On the other hand, the frog could say, "Oh, that's a needless overcomplexification of the world." >> Yeah.
+
+>> And so there's some thought that goes into what is your basis set.
+
+>> Yeah. Exactly. And it should be grounded in what you need to do now and what you may need to do in the future, [laughter] right? Well, good point. I guess evolution decided that for the frog. So, okay.
+
+>> Yeah, that's very cool. What's that paper called? What the frog eye frog's eye. What the frog's eye tells the frog's brain. Um, let me uh get you the author so you can find it.
+
+Um, everybody I think has passed away.
+
+Um >> uh >> uh Jerry Lein, L T V I N and um Humberto Machana who also passed away. Anyway, uh it was an MIT thing. The biologist he told me uh laughed at him uh when they presented, but basically this stuff is hardwired into your nervous system. Oh, and he finally got it published in the ILE E proceedings.
+
+>> Very cool. I will check out that paper.
+
+Thanks.
+
+>> Yeah, >> Santos.
+
+>> Yeah. So, uh do you think that the pressure to adapt is very different from the pressure to generalize uh which is a standard component of any MLP uh optimization, right?
+
+>> Yeah. I think uh honestly I don't think we know the answer and I think that it feels like it should be very very different um in that sense because I feel like the pressure to adapt if you construct it in the right way I think it should be like a much stronger pressure that regularizes your neural network a lot more um I don't have evidence for this concretely yet but that's just a feeling that I have. Yeah.
+
+>> Okay.
+
+>> Hey uh I want to ask another question.
+
+uh I just realized that this uh study might deeply related to computational complexity theories because when you uh gradually complexify your uh complify or grow the the CPPM it's really like you have a touring machine and you have a sequence of program you and you add bits to complicify the the program and in computational uh uh complexity theory this very interesting a bias called uh Solomon of induction or algorithm probability which the theyentially prefer shorter shorter programs and they proven this uh this kind of distribution this kind of bias has some very beautiful and powerful uh universal property. So so um and one of the reason they have this two to the minus com complexity is because they have some uh they they are actually somehow growing the the program. So so I want wondering have you considered such connection between them?
+
+>> Yeah. So what I have been thinking about a lot in terms of like is simplicity like a um one is it a good um pressure toward that you should strive towards and two is it enough right and what for one I do think that it's very interesting obviously you want simpler things rather than more complex things but the question is that whether it's enough is I'm not so sure about that is because simplicity is basically supposed to be a um um how do you call it like a heruristic for what you really want which is like generalization adaptability etc etc right and I think that if we can optimize for generalization adaptability directly we don't really need simplicity and in often times I have I'm beginning to think this more and more is that they may not even be one uh that correlated they're probably correlated up to a point until they stray off so for example in this skull example we have a toy experiment obviously it's not that conclusive because it's just a toy CPN experiment But we whenever we regularize it with weight decay, we find solutions which are way way lower weight norm than this nice elegant modular solution. Way lower weight norm. So in the traditional sense of L2 regularization, you would say it's a simpler representation, right? But it turns out to be way less adaptable still compared to this nice modular one. So um maybe uh some sort of simplicity mechanism or compression is not exactly what you're looking for and it's supposed to be just a heristic for adaptability which is what you really want.
+
+>> Yeah. So, so what I exactly want to say is I just uh intuitively feel that evolution especially growing and evolution putting together is is might directly give you such bias of algorithm probability and maybe that's why CBPN and this kind of open-ended process give you such clean result.
+
+>> Oh, you're saying it's simple in like a different way according to like >> Yeah. Yeah. Like when you when you start with some seed and you are add something you are you are exponentially more likely to have shorter evolution tree that that shorter evolution tree like if you in terms of something like assembly theory they are more simple and I feel that this architecture gives you such bias.
+
+>> Yes. Yes. Definitely I 100% agree with that. Yeah, it it gives you a specific kind of like um like graph bias towards smaller graphs of neurons.

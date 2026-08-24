@@ -2,6 +2,22 @@
 
 Sección del repositorio About God.
 
+## Corpus del simposio "The Platonic Space" en YouTube
+
+Transcripciones limpias e indexables del simposio completo (36 videos).
+
+- **Playlist:** https://www.youtube.com/playlist?list=PL6SlweOjqYXzpxJMhzHJjEq4s0lS9udCQ
+- **Ubicación:** `youtube-symposium-playlist/`
+- **Formato:** `.md` y `.txt` por video, con metadatos y carpetas por tipo de sesión.
+- **Estructura:**
+  - `00-OPENING/` — Introducción.
+  - `01-KEYNOTES/` — 27 presentaciones individuales.
+  - `02-CONVERSATIONS/` — 2 conversaciones.
+  - `03-PANEL-DISCUSSIONS/` — 5 discusiones de panel.
+  - `04-CLOSING/` — Cierre / síntesis.
+  - `INDICE.md` — Índice general con enlaces.
+  - `README.md` — Guía del corpus.
+
 ## Archivos
 
 - `Conversation of Michael Levin with Iain McGilchrist #2 (1).txt`

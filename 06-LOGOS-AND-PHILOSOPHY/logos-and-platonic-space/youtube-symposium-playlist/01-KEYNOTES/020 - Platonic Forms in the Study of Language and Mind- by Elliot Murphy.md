@@ -1,0 +1,1294 @@
+# "Platonic Forms in the Study of Language and Mind" by Elliot Murphy
+
+- **URL:** https://www.youtube.com/watch?v=pqDnfNUlvRo
+- **Duración:** 153.2 min
+- **Idioma de subtítulos:** en
+- **Nota:** Keynote / presentation
+
+## Transcripción
+
+Well, hi. I'm Elliot Murphy. I'm a postdoc at the Department of Neurosurgery at UT Health in Houston, Texas.
+
+And I'm going to be presenting some work today about language in the brain.
+
+Um, thank you to Mike for the invitation to participate in this symposium on the Platonic space. I think what I'll be offering today is a perspective on what the nature of language can tell us about properties of neural computation that would otherwise be potentially um difficult to explore without the framing and help of linguistic theory.
+
+Um, I'm going to give a brief introduction. Then I'll be talking a little bit about um large language models and their connection to linguistic theory or disconnection.
+
+>> [snorts] >> I'll then be talking about theoretical linguistics and the nature of language and the uh its place in nature.
+
+I'll be talking a little bit later about uh the brain and how principles of linguistics can help guide neuroscientific uh theory formation.
+
+So, I'm going to argue that there's a diverse causal landscape in the brain and that different parts of this landscape can explain different components of linguistic structure. So, the difference between sound, meaning, and grammar, and things like that.
+
+I'm going to argue that mathematically formalized theories of language can help narrow down the list of plausible candidate neural mechanisms.
+
+And that this mathematical space will involve the use of concepts from category theory, hopf algebra, and statistical physics.
+
+Now, with respect to previous speakers in this symposium, some of this material will be building off the work of Lauren Rosen and Carl Friston and the ideas that they presented in their lectures.
+
+So, to begin, I'm going to assume here that the mind follows logico-syntactic algebraic rules.
+
+It has fixed scopes and limits, just like our sensory and perceptual systems, right? Uh, therefore, our science-forming faculties have particular scopes and limits, what we can explain and what we can't explain.
+
+What kind of questions we can answer and what kind of questions we can't answer.
+
+And that it can execute specific computational operations.
+
+I'm going to assume that humans abstract away from sensation to generate a notion of structure. Now, what that notion is exactly will be um clarified later on.
+
+Uh, I'm going to follow Chomsky by arguing that language is a generative system of structured expressions and Petrassi by assuming that language provides instructions to conceptual systems. That's kind of the primary uh function of the language system is to update and provide uh conceptual instructions.
+
+In the brain space, I'm going to assume that rhythmicity provides a means of handling information via oscillations.
+
+The brain is an inference generator negotiating its internal model with sensation.
+
+And that the broad goal here is to seek a uniting link between the operations of matter and abstract mental processes.
+
+Okay, so, on to section two. I'll be talking here about large language models and interrogating the extent to which they can offer cognitive neuroscientists assistance with exploring the biology of language.
+
+Uh, but I'll be arguing that they should really be described as large corpus models, not large language models. Well, why is that? Uh, number of reasons here.
+
+I'll just briefly provide some evidence.
+
+There's some recent papers of mine that you can look at for more for more detail here.
+
+Uh, but firstly, LLM brain alignments in the literature in uh the neurolinguistic space have been found to be driven by fra- uh fragile methodologies and overlooked confounds like uh word rate and positional signals.
+
+Uh, transformers don't represent sentence meaning in a manner akin to the human brain, right? They're actually significantly inferior to models explicitly designed to encode the syntactic relations between word rate explicit symbolic models.
+
+LLMs don't reliably distinguish between grammatical and ungrammatical structures.
+
+Uh, the so-called large reasoning models seem to engage what in what I play I play I call sophisticated pattern matching.
+
+Seven leading LLMs do not show reliable sensitivity to the meaning-structure distinction, which is a major distinction in uh human psycholinguistics.
+
+And ChatGPT doesn't uh capture fundamental principles of linguistic structure. This is a paper that actually came out a couple days ago now.
+
+Uh, LLMs don't capture generalizations about null complementizers, right? So, the way that you can uh include or drop complementizer uh terms like that in English sentences, which is a purely syntactic phenomenon.
+
+They also have a strong linearity bias and don't capture deep syntactic structures. So, this is a recent review paper in which the authors uh looked at large language models and asked how much of syntax can they provide for reason, capture, and represent faithfully.
+
+And what they call the remaining challenges in the field are basically all of human-specific syntactic knowledge, and I'll come back to that later.
+
+Uh, but surely large language models, if they were language models, would align best with language areas in the brain.
+
+Well, that doesn't turn out to be the case.
+
+Uh, LLMs' ability to predict brain activation in uh fMRI in this paper doesn't strongly differ between language and non-language-related brain areas, which suggests that whatever statistical properties that LLMs are capturing is not specific to linguistic computation.
+
+LLMs also prefer to manipulate noun-based information, not verb-related information. That sounds a bit of a broke criticism, but it's actually quite important uh because verbs encode the core properties of compositional syntax-semantics. They set up things like tense, voice, transitivity, mood, uh argument structure, and things like that. Uh, whereas nouns are easier to target uh uh by distributional models due to their frequency.
+
+And in some other papers that I've published with uh Evelyn Avidor and Gary Marcus and others, we've tried to interrogate this uh compositional syntax ability as not just of the output of large language models themselves and their ability to judge and make sense of uh coherent prose, but also in the um text-to-image space in the case of these um models that generate images from uh structured text or strings of text, I should say.
+
+Uh, they often don't do a good job of capturing basic syntactic and semantic relations. So, this is a paper a couple years ago about DALL-E 2 where the sentences are not uh particularly well captured. Um, and a more recent paper has looked at DALL-E 3 that came out this year a couple a few months ago showing that this is also the case for um DALL-E 3 where uh the paper performs almost at chance essentially. Um, uh there's a couple of structures that it performs fairly well at above chance like passives, but most of them it it uh gives you, for example, one woman has glasses and one woman have has no glasses. It's effectively a 50% chance if it will be uh both or not.
+
+In the early days of generative text-to-image, um I generated this uh crayon prompt, which later became DALL-E mini in 2022.
+
+If you ask it, uh give me a wedding photo with absolutely no Shrek, it provides you with this, um which of course does include a certain degree of Shrekness.
+
+Um, but what about GPT-5, which is claimed to provide thinking built in, so you get the best answer every time?
+
+If you ask it to draw a picture of 22 bananas, it gives you a rough approximate. If you count them, it's actually 26. Uh, I did this a number of times and it never successfully gave me 22, which is very strange.
+
+Um, if you ask it to draw a picture of a street at night with every street lamp lit except three, uh it doesn't perform very well. This is a a case where there are two unlit.
+
+If you ask it to draw a picture of a brick wall with the word nevertheless painted on it, uh with every occurrence of the letter E having a red circle around it, again, it fails. Incorrect spelling and incorrect circling, which suggests that this mapping between not just the individual tokens in the prompt, but the compositional relations between these tokens is not very well captured.
+
+And this is a kind of strange one I did the other day as well. I just decided to on my walk home from work, I opened my ChatGPT app and decided, let's have a little conversation. And I just decided to give it this quote from uh movie David Lynch movie Mulholland Drive.
+
+And over a series of responses, it didn't get the um didn't correctly identify the movie that the quote is from, even though this particular um quote is in scripts online, it's been talked about, it's quite a famous quote from uh any Lynch heads out there will recognize it straight away. Um, it goes through a number of iterations. It even claims that it's from No Country for Old Men um and from The Grand Budapest Hotel for some reason.
+
+And then even when I tell it it's from Mulholland Drive, it just says, "Oh, okay, thanks." And doesn't actually explain why it's from Mulholland Drive, like which character says it, and so on.
+
+So, yeah, to quote Anchorman, 60% of the time it works every time.
+
+Um, and I had a similar issue about maybe a few months ago in March when I gave it this sentence, "The mechanic who fixed the car carefully packed his tools." If you ask it, "What did he do carefully?" Well, there are two options, right?
+
+He could carefully pack his tools, or he could carefully fix the car, right? Like logically, regardless of intonation or context, that sentence, that string of text can be parsed into two different structures, right?
+
+The adverb can be associated with pack his tools or fix the car.
+
+Well, ChatGPT said, um he he packed his tools. And when you ask it, "Did he carefully fix the car?" it says, "Well, no, the sentence only specifies that he carefully packed his tools. It doesn't say anything about how he fixed the car.
+
+So, based on that sentence alone, we don't know whether he fixed the car carefully. Well, that's not true. The sentence does not only specify that he carefully packed his tools cuz it's structurally ambiguous, right? The sentence in English is inherently structurally ambiguous.
+
+Now, a lot of people um when I showed them this sentence, they actually agreed with ChatGPT because they say things like, "Well, if you want to mean it that way, you have to put some intonation, you have to put commas, you have to you know, you just wouldn't say it that way. You'd rephrase the sentence." And that's kind of missing the point, right? Uh, as an experiment, I'm just giving you this fixed data, right? This fixed string of of of tokens, and seeing what your mind can recover from that fixed string of tokens. Now, yes, in the real world context would help, right? Like if you're standing in a mechanics, you know, workspace next to one or two mechanics who's doing his his his job in a certain way, you can infer this one way or the other, but that's not the point of the example, right? The point of the example is that this sentence is inherently structurally ambiguous.
+
+Oh, yeah, and and Garry Kasparov disagreed with me and said ambiguity in language often requires context and understanding likelihood and custom. In a lecture 10 years ago, I used the sentence "The chicken is too hot to eat", which is a classic example. But I think Garry's missing the point here, right?
+
+Language often requires context and understanding to fully enrich the meaning, but you don't need any context whatsoever to understand that sentence, right? You can impose it and use additional contextual cues to narrow down the intended meaning or the likely meaning. But the point that I'm making here is not about likely meaning or intended meaning. It's about the inherent structural ambiguity of the sentence and that ChatGPT just can't pass that.
+
+There's another quick lesson here from the Baby LM challenge, which is when you limit these models to valid amounts of data in the ecological sense, right? The number of words that children exposed to.
+
+These models then have an unshakably strong bias to impose linear solutions on linguistic tasks, right? They're more keen and more eager to impose linear rule or linear solution to a language task than to impose some seeming or alleged type of hierarchical representation.
+
+And that's of course in contrast to infants who instinctively impose hierarchical structure dependent rules.
+
+So, let's think a bit more about the logical relations here between how we can talk about large language models and how they can relate to cognitive theory, cognitive science theory.
+
+So, we all know about modus ponens and modus tollens, right? So, if P then Q, P, therefore Q.
+
+And if P then Q, not Q, therefore not P.
+
+So, very simple logical relations. But people like Olivia Guest and Andre Martin have pointed out in a number of very good papers that the way that researchers often make conclusions about the output or behavior a lot of large language models in terms of the implications for linguistic theory and cognitive science theory is quite fallacious and entertaining logical relations that don't actually obtain.
+
+So, for example, the obvious one is affirming the consequent, right?
+
+So, correlation of our models to data is necessary, but it's not sufficient, right?
+
+The goal of science is not just prediction satisfaction, it's explanation.
+
+It's very common in the literature to confuse types of inference, misunderstand the evidentiary role that correlation plays and offer no formalized thought on the relationship between model and observation.
+
+So, for example, statement one, if I am Beyoncé, then I am fabulous.
+
+Statement two, I am fabulous.
+
+Statement three, therefore I am Beyoncé. Well, of course, that's not a valid, but it's exactly the same type of logical reasoning that many LLM researchers use when they say that, you know, if the model correlates with human behavior or imaging data, then the model does what humans do, right? We find some correlations, so therefore the model does in fact what humans do. Well, no, that's just affirming the consequent.
+
+Models, of course, do not equal phenomenon, explanandum does not equal explanans. So, here's another case here, right?
+
+Imagine the motion of bodies under gravity and Newtonian mechanics, right?
+
+As a case study.
+
+Now, it would be very strange to say if Newtonian mechanics behaves like physical objects, then Newtonian mechanics is physical objects, right? No one would would make that claim, but it's the same type of logical reasoning that is done in these LLM cases, question mark indeed. So, here's another example in the literature where the term explain is doing a lot of heavy lifting without much formal cashing out.
+
+We read that intermediate model layers best explain primary auditory cortical responses, while deeper layers best explain voxels in non-primary areas.
+
+Well, what does explain mean in that case, right? It's strong correlation, but that does not equal explanation.
+
+We often read things like this LLM output has human-like qualities to it, therefore it gives us science-specific implications for theories of human cognition. But nobody argues, as far as I know, nobody argues that AlphaGo is a plausible model of human strategizing or that Cicero is a plausible model of human theory of mind.
+
+Was Deep Blue a plausible model of Kasparov's brain simply because it matched his performance levels?
+
+So, wouldn't why would an LLM be a model of human language, right? We don't follow that inference all the way through.
+
+There's another problem here to do with standards of evaluation. So, sometimes one can adopt a different testing regime for models versus humans and this can be used as a tool to artificially inflate LLM accuracy. So, there are some cases of stimulus hacking, my friend Evelyn calls it S-hacking.
+
+>> [snorts] >> In S-hacking, people try many different prompts and testing regimes, cherry-pick the best-performing ones and then re-running the tests and LLMs until the desired result is achieved, right? This is analogous to P-hacking, but today many people in the AI space will call it pre-testing.
+
+So, again, this speaks to a poor causal logic here.
+
+We can say that a barometer can measure atmospheric pressure and have its activity regulated by it, but if we break the barometer, the thunderstorm doesn't stop, right? It's just purely a correlation here between these two things.
+
+There is no causal relation.
+
+Again, just to really hammer home this point, LLM text output looks like real human language, but then again, a fake flower looks a lot like a real flower, right? There's not much to make about that.
+
+Again, the spectrum of multiple realizability also rears its head here.
+
+Vastly different substrates and mechanisms can perform the same input-output mappings, right? The question is what is the algorithm that's providing that output? So, digital clocks and analog clocks both show the time, right? The behavior is showing the time, >> [snorts] >> but they have completely distinct implementations. And LLMs and humans can both generate coherent prose, as as we know, but what do we make from that?
+
+There's a related criticism here to the brain-LLM debate from Konrad Kording, who's pointed out that fitting RNNs make attractors even when the data does not have attractors, right? That's often the case where you get these sorts of geometrical topological, you know, circular types of rotational dynamics that may not actually be causal have causal power.
+
+So, he writes that a popular approach to study brain data is to fit an RNN to neural data and then show that this RNN has attractors. However, a recent paper from NeurIPS last year showed that in the context of partial observations, a simulated system that has no attractors also gives rise to a fitted RNN that does not have attractors. So, in other words, in the context of unobserved data, always the case in neuroscience, we may even wrongly infer that there are attractors, right? Now, that theme will come back a little bit later, but I think that's a very important lesson to to bear in mind here.
+
+So, as I kind of hinted already, in the cognitive neuroscience literature, there are many curious shadowy syllogisms, to quote Russell, that do not obtain, but which are disguised rhetorically as complex mechanistic insights.
+
+And then again, that theme of mechanistic insights, I'm channeling very much some of Lauren Ross's work here and I'll return to that theme later.
+
+Okay, [snorts] so I asked ChatGPT another question.
+
+Just as a privacy, I logged out of my ChatGPT account and signed in as a guest. Of course, you know, my personal ChatGPT history is riddled with cases of me bullying ChatGPT and trying to confuse it and so on. So, I decided, okay, I'll be neutral here for once.
+
+Here's a new question for you, ChatGPT.
+
+Do you think that neuroscientists should use LLMs as genuine theories of language to guide investigation?
+
+And it said, "No, don't do that. That's a terrible idea." Right? You should not use LLMs as genuine theories of language, right? And here's why.
+
+They're not theories, they're function approximators, absolutely. They lack cognitive plausibility. Well, that's kind of less controversial these days.
+
+Most people kind of accept that, but even so, it's quite an important point.
+
+Here's an important point, though. They obscure rather than clarify neural mechanisms, right? This is something that I'm going to be talking about in the second half of the talk.
+
+Treating LLMs as theories can mislead neuroscientific interpretations. They're black boxes and their success at some tasks tempts researchers, yes, indeed, very tempting, into post hoc rationalization, right? It must be like the brain, therefore. Well, that's a big issue.
+
+And they also bypass theoretical linguistics, which for many people is a good thing, but I think not. And again, I'll explain why in a few minutes' time.
+
+Okay, so why am I saying all this? Well, modeling the linguistic semantics via this type of vector space will only get us so far. Language interfaces with various conceptual domains, which have their own unique formats. Some of these are digital and logical, whereas others are analog and graded and continuous, right? So, when language exports information to other systems in the brain and other conceptual systems, each of these systems have their own type of requirements, right? It's like a sieve. Their own types of criteria to be met. Again, some of these have different formal properties and mathematical properties. So, for example, within a single lexical item like a book or city, right? We can use our posterior middle temporal gyrus to access some kind of limit type representation of city, some kind of morphemic structure, and then send that off to phonological and semantic systems. When we do that, especially in the context of a complex sentence, which I'll show you in a second, we can simultaneously trigger a bunch of different conceptual domains that are wildly heterogeneous, right?
+
+So, theory of mind, Boolean logic, intentionality, causation, etc., etc.
+
+Vector space semantics treat lexical meaning, however, as points in a continuous uniform space, right?
+
+This may be okay for things like king versus queen, right? Where queen is like, you know, king you know, minus male plus female, right?
+
+But even that's kind of just approximate. But semantics and reality is highly typed and heterogeneous.
+
+So here's this example that I was promising you. The progressive school next to the river was high in the New York time rankings and it just hired a new chancellor after being repainted, okay? So what is a school in that case? What are we referring to? What kind of object or entity is school? Right? Does it exist in the physical world?
+
+Right? Does it exist out there? Can you refer to it? Well, no. It's just a cooked up recipe, right? It's a set of instructions for internal inference to use a first instance type of metaphor.
+
+So a single word can call upon diverse and categorically incompatible semantic features, right? These conceptual domains are not dimensions in the embedding sense. They host different mathematical structures and implicate different neural structures, by the way.
+
+So word to vec and LM embeddings collapse these senses into a blended vector. Even contextual embeddings often smear them because they lack an explicit type system to separate senses, right? So when you say the book was interesting and it was heavy or it was interesting and it was blue, there is nothing in the physical world that can simultaneously be an abstract piece of information and a concrete piece of, you know, paper, right?
+
+And I think this is very difficult to capture in this type of language.
+
+So distances in vector space often reflect corpus frequency artifacts, right? I say often, that's kind of an understatement.
+
+Here are some other more delicate things here that aren't considered.
+
+Consider asymmetric entailment relations, right? If I say every dog barked, that means that some dog barked, but not vice versa. But distributional vectors place every and some close together because they co-occur with the same kinds of nouns and verbs, right?
+
+The frequency properties. But as I said, one entails two, but not the reverse. So it doesn't capture the semantics. But these vector approaches risk conflating the implementation medium with the computational level, right? The task, the what, the kind of what it's doing, what is the goal here, with the actual algorithmic settlement, if you like.
+
+So how does a vector-based learner discover abstract exceptionalist rules without relying on statistical accident?
+
+Unclear.
+
+In this paper from Stephen Pinker dosing colleagues, they risk explaining compositionality post hoc, right? It just emerges in the geometry somehow, rather than as a necessary design property. And later on the talk I'll come back to this uh these sorts of compositional rules being necessary design features of language, right? It's not an accident that every child converges on the same type of sets of solutions here.
+
+But the very properties that many authors cite as hallmarks of efficient communication can also be reinterpreted as pressures shaping internal manipulation of thought. So what does that mean? Well, a lot of people have used these types of LLM discoveries to argue that, you know, language is clearly therefore in the game for efficient communication. But many of the evidence provided for this can also be rethought as, okay, if it's efficient for communication, it's also, by the way, efficient for internal thinking.
+
+So things like dependency minimization, ambiguity, and short words, they can all help both with communication and internal computational efficiency, right? What's important is what happens when these two things clash.
+
+I'll come back to that in a second.
+
+So in philosophy of law, coherentism holds that a belief is justified if it fits into a larger consistent system of beliefs forming a mutually supportive network. You can see where I'm going here, right? Claims about LLMs are like the brain can certainly be internally coherent within one's theory of language and one's theory of computation and so on. But this doesn't mean that it's right.
+
+Yeah?
+
+It doesn't mean that our foundational assumptions are valid just because we can define communication in certain way that relates to our definitions about what large language models are doing and what they how the human brain computes and what our what our theory of neural computation is like. All of these things can be internally consistent and coherent, right? They can be shielded and safe and protected from all these other problems on the outside, but that doesn't mean that it is the correct theory.
+
+I will call this the definitional fallacy, right? Similar type of thing.
+
+So just because you can define a concept like culture or communication in relation to some scientific field, it doesn't follow at all that this definition will actually be able to be operationalized within the context of a productive explanatory theory.
+
+So I can provide a definition of semantics as a vector math or something similar, but it doesn't follow from that that just because you can define semantics as X, Y, or Z, that it should be defined that way, right?
+
+Often researchers think half the battle is already won just by offering coherent definitions and boundaries of inquiry, right? But that's not the case.
+
+Now to return back to the earlier point I was trying to make here, Gary Marcus has made a very nice point that perhaps GPT-2 was actually really the last pure LLM, right? And when I'm critiquing LLMs here, many of the subsequent cases of LLMs, like if you download GPT-5.2 right now, it will have a lot of symbolic like components smuggled in a sense, right? Like it's code interpreters and Python interpreters and obviously things like guardrails, right?
+
+There'll probably be some symbolic filters there.
+
+So none of these contemporary large language models are actually purely connectionist, like purely deep learning. They already invoke a lot of these types of symbolic constraints that I'm hinting at.
+
+So just to conclude this little section, in the study of semantics we've moved from this, where we have a very formal, you know, algebraically explicit model of what human knowledge is with respect to different types of semantic operations, how you compose meaning, right? How you compose simple meanings into more complex meanings. We've moved from this to this, right? Which I think is not an advance. I think it's a form of regression effect. So yeah, just to conclude this section, I've argued that large language models cannot in fact capture properties of human language, genuine properties of human language. They do a good job of learning a bunch of statistical regularities, but they don't capture genuine linguistic principles. So that leaves the question then, which I'm going to address in this next section, if large language models don't capture the mathematical algebraic properties of language, these platonic forms hovering in the background, then what are those properties, right? I've said a lot about what language is not, but I haven't really told you what language is. So let's think about that for a second.
+
+So my central scientific research these days concerns how the brain coordinates the binding of distinct features into what linguists describe over the years in progressively more baroque terminology as a labeled set, a compositional structure, an intentional composite function, a highly morphic pluralistic mereological object, or a free non-associative symmetric commutative magma, right? Or more simply, what I would say is single a notion of structure, as I said at the beginning.
+
+But the question for me is can these formal accounts of language be of any service to experimental neurolinguistics, right? Does the high-level psychological theory of language that you subscribe to have consequences for cognitive neuroscience?
+
+Now people like Ray Jackendoff have always insisted, I think very very correctly, that your theory of language and your theory of language representation and your theory of language evolution has massive consequences for your theory of neural computation.
+
+And I'm going to try and push that idea quite far here.
+
+But before we get there, just a couple of lessons from the neural correlates of consciousness that many of you will already be aware of, but I just want to kind of draw the connection here between these two fields.
+
+Lesson number one is correlating neural activity does not equal explanation, well, sure.
+
+But number two, bad metaphysics gives you bad science, right? Your assumptions about what consciousness is will determine the success of your fidelity and kind of conceptual resolution of your neuroscientific theory.
+
+So Mark Solms, South African neuropsychologist, has made this point very well in in his work.
+
+He argues that studies of consciousness that prioritize vision or visual perceptual report miss the mark somewhat.
+
+And the reason why is because consciousness is not primarily about perceptual report, right? At its root level, it's necessary and lowest order, you know, first principle type of necessary feature is an affective state, right?
+
+Consciousness is ultimately an affective property and on top of that you have particular perceptual dimensions of that property, right? So at the most essential level, every conscious experience has a feeling to it.
+
+Consciousness is not reducible to reportable perception. So therefore, neuroscientific studies that are based on visual outbound paradigms may not expose critical neurodynamics for consciousness. Same with ones that are focused on auditory outbound paradigms and so on and so on. But the the lesson for linguistics here and the language sciences is that we have to boil down to what are the necessary minimal components of language, right? So every time you do language, every time you process language, there is something always happening, right?
+
+Is it accessing lexical items? Is it building a constituency structure, right? Is it predicting? Do you always have to engage prediction? Do you always have to engage in, you know, certain types of semantic composition and other type of semantic composition? Do you always have to engage in some kind of phonological rhythmic processing? You know, maybe that's like not a core property of language, maybe it's like an external thing. These sorts of questions I think are what we need to tackle with in order to narrow down on neurobiology of X, right? This is a point that a certain retired older linguist living in Tucson used to make, which is the claim that in order to study the nature of X, you have to have a good definition of what X is. It's a very simple point, right? If you want to understand the neurobiology of language, you should really have a clear definition of what language is.
+
+Same for consciousness.
+
+So at a um, we can think of language as involving some form of constituency structure, right? You have a workspace of elements, workspace of lexical items, X, Y, and Z, or syntactic objects, and then you have some kind of compositional operator that binds them together into a some kind of set or union, um, and then updates the workspace accordingly, right? Where you still have these set of elements, but now the workspace is updated slightly, right? And now you have a strict set of elements. So, for example, you have eat and cheesecake somewhere in your lexical, uh, you know, workspace, and then you compose them together into the unit uh, eat cheesecake.
+
+Uh, now this crucially involves asymmetric headedness. There's a little small point here that I think is worth emphasizing.
+
+There are many forms of um, cognitive processes that admit for symmetry and tolerate symmetry. Human language does not like symmetry. It's not a fan of symmetry, right? Music tolerates symmetry, mathematics tolerates symmetry, no problem. Um, uh, geometric reasoning, of course, tolerates symmetry, um, aesthetic reasoning, and so on. But language really doesn't like symmetry.
+
+Whenever there's two objects that are combined together into a set, one of them wins. One of them one of them becomes the what's called the head of the phrase or the phrase that determines the distributional properties and semantic interpretation, right? So, for example, um, a red boat is a boat that is red, right? It's not a red-like quality that happens to exhibit boat-like features, right? So, that would be a noun phrase. And then you take things like a verb phrase like John ran.
+
+What does John ran mean? So, John ran means there was an event of running, and John happens to be its participant, right? It doesn't mean John ran does not mean that there is a special kind of John who exhibits, uh, running abilities, right?
+
+Doesn't mean that.
+
+Uh, ran is the head of the phrase John ran, and uh, boat is the head of the phrase red boat. And you can follow this through to all sorts of different complex structures to kind of coordinate and guide how linguistic constituency directs and constrains and narrows down the coordinates in conceptual space that other systems entertain, okay? It's a very simple point, right? It's not that complicated, but it has huge consequences for how we organize and theorize about the neurobiology of language.
+
+Um, so algebraic models from linguistic theory provide hints at what the neural code for syntax might look like, okay? I want to preface here might. It's not necessarily the case, but I think there's a good reason to assume that, um, we, uh, the, uh, kind of algebraic recipe for language that we have can guide and provide hints at what the brain is likely doing here.
+
+So, we may be looking for a neural mechanism that respects non-associativity of constituent geometry, right? So, for example, we can say old men and women, and we can parse that as either old men and women, where the men men and women are both old, or old men and women, right? Where the woman might be, uh, might be old, might be young.
+
+So, syntactic knowledge boils down to a non-associative commutative if magma from category theory that generates non-planar trees interfacing with distinct cognitive systems providing instructions to them in that particular formal space.
+
+Uh, Chomsky for a while has argued that formulations of merge should be captured within naive set theory, um, but it turns out that sets are too unstructured. You can't really do anything, you know, any two elements in the universe can be a set. It's kind of hard to constrain, um, and build a formal theory from just using naive set theory. So, recent category theoretic magma formulations by people like Matilda Marcolli, uh, provide new avenues to formally map syntax to possible neural geometries, and I'll be chasing on that idea uh, later on in the talk.
+
+So, the algebraic properties of natural language seem to be unlike anything else in cognition.
+
+Uh, how the brain neurally enforces a free, non-associative, symmetric, commutative, unbounded, digitally infinite, combinatorial, hierarchical, recursive structure-building, tree-formation, category theoretic magma operation, otherwise known as merge if you want to save some breath, remains a mystery. But it's the central question in the cognitive neuroscience of language, right? It's the central element of knowledge of language.
+
+Um, so operations, just to give you an example here, operations are subject in natural language to structural configurations, not linear sequential distance. This is channeling a very classic example from Chomsky from the '50s. If you take something like the boy who's holding the flower is happy, if you want to form a question, right?
+
+Interrogate that structure, you have to say is the boy who is holding the flowers happy? Where you don't move the, uh, linearly closest, uh, is to the front of the sentence, right? You move the one that's actually closest in structural depth, right? So, is the boy who holding the flowers is happy is ungrammatical because it extracts an a more deeply embedded question word, even though they're both legitimate question words. And there's no logical reason why that would be the case, right? Unless linguistic operations are sensitive to structure dependence, right? And that seems to be a fairly universal property of language.
+
+So, at a minimum then, right? Just offering a kind of parts list to cognitive neuroscientists saying, "Hey, I want you guys to explore the neurobiology of language." And they say, "Well, what's language, okay? I'm a sophisticated neuroscientist. I know everything about the brain. I have access to all sorts of different, uh, you know, imaging and recording modalities.
+
+I'm an expert at all sorts of, you know, uh, coding languages, and I can provide any assistance you need. But you just need to tell me one thing. What is language, right?" Um, if someone asks you that question, well, here it is. This is what we mean by language. What is the minimal essential components of of natural language? Uh, well, one of them is commutativity, right? Uh, the neural code for a two-item set must ignore any order at the moment of combination. Why is that? That's a more The reason why is potentially a little bit more controversial, but at a minimum we want to assume that, um, at the underlying semantic representation, a Japanese speaker, an English speaker, and an Italian speaker have the same type of structural inferences, right?
+
+Even if they put the words in different orders, right? So, Spanish speakers might order the words uh, in the sentence that I'm saying right now in a different way, but the ultimate conceptual recipe that I arrive at, I assume I assume Spanish speakers and Japanese speakers arrive at the same types of conceptual coordinates that I do when I read these sort of sentences about that I'm, uh, regurgitating to you from the screen right now. Um, but so there is some sort of underlying, uh, deeper structure there, right? Um, now there's a little asterisk here that I'll just mention briefly for those who are more interested here. It's possible that commutativity, um, might only be a property of, um, computational models, right? And might not be realized in performance, right?
+
+Might be a classical competence-performance distinction where elements of commutativity dissolve and are no longer needed when you get to the performance level. But I'll leave that aside here. I'll just assume that commutativity is a core property that we have to take seriously for neurobiology.
+
+Um, now another property that definitely is, um, serious for neurobiology and is not as much of a edge case as commutativity, is non-associativity, right?
+
+Cuz non-associativity, you see that all over the place. Uh, so this would imply that once a third element is merged into a structure that's already been built, like the workspace I mentioned before, right? X, Y, and Z, then the hierarchical depth of previous combinations must be recoverable and respected and shielded, uh, usually through some kind of categorical label, right? You you you kind of categorize a set in in in in a particular way, um, which would privilege one member of the newly formed set, okay? So, that's just a way of saying that these hierarchical relations are respected and conserved over time, right? You don't just build a structure and then two seconds later you kind of reconfigure it just randomly, right? It's always preserved and respected. And there are some interesting theories about low-frequency dynamics providing some kind of shield to working memory and attentional resources that I've talked about in my papers, and I'll come back to a little bit later. Um, uh, another property is closure, right?
+
+So, the output of merge is itself a syntactic object, right? Whatever you build can therefore be manipulated again. That links back to, uh, recursivity.
+
+Uh, also binarity, merge builds binary branching trees, strictly binary branching structures.
+
+Uh, the theoretical reasons for that, you can consult the Marcolli paper. I'm not going to go into those details. Uh, and finally non-monotonic structure building. Merge can involve deletion of subtrees or workspace elements, okay?
+
+Okay.
+
+So, therefore candidate mechanisms for neural implementation need order-insensitive pairwise binding plus a second depth-sensitive process, right?
+
+Depth-sensitive is absolutely crucial.
+
+That's triggered only when the bound item is itself subjected to a further merge operation. So, critically, experimental predictions for merge-based syntax must be specific enough to help adjudicate between salient support for and against structural inferences, right? Uh, without that level of precision, then predictions for experimental neuroscientists will risk being ornamental and subject to confirmation bias, right? So, later I'm going to argue for a specific neural model of language, Rose, that satisfies these mathematical criteria.
+
+So, here's a kind of graphical schema of the idea of language that I've been proposing so far. You have a lexicon, stored set of units. You can extract them, you can put them into sets or chunks, right? Uh, you can linearize them as linear chunks, or you can interpret them as abstract sets without a chunking order, right?
+
+Uh, those are the the two types of things that you can do, uh, with linguistic objects.
+
+Uh, most of the time we don't do externalization, obviously, right? We just internalize things, and we think in our heads, and we build structures for planning and inference, and so on. And only now and then we externalize it. And a subset of that externalization happens to be communication. But most of the time internalization is there. And by the way, whenever you get externalization, you also therefore get internalization, right? Cuz whenever you any any case of language production also presupposes comprehension, right? That's kind of a point that's often ignored in the, uh, production literature, but every case of language production presupposes I've generated at the in the comprehension level a valid structural inference that I'm then converting into speech, right? Whereas comprehension, you don't you With comprehension, you just don't do the, uh, external mapping part, right? It's all comprehension all the way down.
+
+But, these two options here can lead to two uh very different dramatically different, it turns out, philosophies of language, right? Uh one assumes that language is a system of sound with meaning. And the other view assumes that language is actually fundamentally a system of meaning with sound, right? The those kind of sound maybe a little bit symmetric. Um but, the point of emphasis there is that language is fundamentally either a system of meaning at its at its heart that happens to involve externalization in some form, right? And that does seem to be the case, you know, forget about theory and philosophy and uh all these other things about metaphysics. Just from a kind of experimental perspective, the fact that there are so many different types of uh ways to recover and build and assemble linguistic inferences from sign language, right?
+
+You know, Braille, you know, tactile types of externalization and comprehension, uh speech, orthographic processing, right?
+
+The the level of variation on the externalization side is pretty significant. Uh in fact, the only modality is maybe like olfaction, right?
+
+There's no kind of smell. Um but, it's possible that if you it's theoretically possible that if you um coordinated uh certain smells and associated them with particular lexical items, it's possible that you could maybe recover some type of primitive language, right? Instead of just using sign language or um uh you know, Braille or speech or reading, you could maybe trigger your your sense of smell to link into the language system primarily as well.
+
+Possibly unlikely, maybe because of the uh impoverished mission impoverished uh domain-specific like representational scope or human sensitivity to smell. Um but, hey, in in theory, you could maybe do that.
+
+In contrast, on the internalization side, there's no negotiation, right?
+
+It's the same type of computation no matter what you do at the externalization side, right? It's always the same type of hierarchical sets and structures being built to send off to conceptual systems, right? There's no variation there. And like I said, there's no variation across human beings, right? Again, this is a very simple point. But, the way that Japanese speakers uh can externalize the phrase "the whiskey bottle" is very different, but the way they think about whiskey bottles is very similar, right? Although, don't tell that to my Irish friends because uh Irish whiskey is quite distinct here.
+
+But, the main point here is that there's variation in externalization, right?
+
+But, not externalization um in in in how it maps to internalization, right? The mapping it seems to be quite uniform.
+
+So, there are lots of consequences of this that we can kind of think about immediately for um experimental purposes, but I'll just kind of assume that this is the general architecture that I want to pursue for for language.
+
+So, what are the consequences of this for biology, right? And evolution and the sorts of things that uh Mike's interested in. So, uh we can assume here, as I do, that there is no justification, to quote Berwick and Chomsky, empirical or conceptual for the decomposition of binary set formation into separate steps, right? There is no such thing as half merge. You either have this merge computation or you don't, right? There's no It's a binary thing. It's like a completely different phase transition in human intelligence.
+
+You you just can't have half a set-forming capacity, right? You either have it or you don't. Lots of reasons why, you can read this paper for more details. Um but, that also kind of therefore hints that it's maybe implausible to go all the way down with this neo-Darwinian type of uh incremental gradualist perspective on how language therefore evolved.
+
+Um and actually, there's a really good interview uh discussion with uh Steven Pinker and Richard Dawkins.
+
+And Dawkins is of course a famous classical uh you know, hardcore uh neo-Darwinian synthesis type of guy. So is Pinker.
+
+Um but, Pinker provides this kind of gradualist theory of of language to to Dawkins, and Dawkins pushes back. And in fact, he also pushed back in his memoir in 20 uh maybe 2016, 2015, I think, uh where he writes that um this kind of generative Chomskyan perspective on language evolution, that language evolved suddenly in this kind of uh symbolic the kind of way that it um triggers symbolic reasoning and structural inferences and recursivity, digital infinity, right? Uh you can't really get digital infinity in a gradualist type of way. And of course, when he puts this to Pinker, Pinker doesn't have any response, he just changes the topic. Um but, Dawkins is completely right. Um there is no way to embed this theory of um digital infinity compositional recursive knowledge through a gradualist mechanism. It's a very good interview.
+
+I recommend it very much. Uh and indeed, I would give it a five bags of popcorn.
+
+Excellent interview, strongly recommend uh listening to that exchange.
+
+But, unlike domains of the language sciences like social linguistics, pragmatics, and experimental psycholinguistics, which deal with highly complex systems, theoretical linguistics can provide a streamlined view on what it is that our brains must be able to do in order to comprehend natural language, right? So, that's what I focus on theoretical linguistics here, right? I'm not focusing on the complex dimensions of communication, you know, social interaction, uh all these sorts of things. I'm just focusing on the bare the bare minimum.
+
+So, formal syntactic models can basically act as a sieve for neural theories.
+
+Uh but, I mentioned there's no gradualism.
+
+Well, there is, turns out, some gradualism, not in the computation of syntax and merge, but in the way that it exports information to different workspaces. So, what do I mean by that?
+
+Well, it turns out that some monkeys have a kind of primitive morphology.
+
+They can say crack ooh or hawk ooh for like there's a landborne threat or, you know, a airborne threat, and it's either the ooh morpheme that can intensify it, right? It's like, "Oh, it's here right now." versus "It's not here right now." Um but, they do seem to be restricted to uh morphologically combining two different elements, right? So, element one, element two. But, not forming it into a hierarchical set, right? Just linear uh additive combination, right?
+
+Like X and Y rather than XY.
+
+Um Human beings, of course, can do that, too.
+
+Um but, we also do things like word phrase binding and phrase phrase binding. So, Luigi Rizzi has this nice framework for the workspace model that I talked about, >> [snorts] >> where based on the type of workspace that you can export to will determine the complexity of syntactic structures you can build, right? If you only have access to one particular workspace, then you can maybe build uh one merge and two merge things. But, if you want to get beyond that and interpret and export and hold it in memory, then you really need multiple workspaces. Now, in some more recent papers of mine, I've talked about how um posterior temporal cortex, which I'll come back to, is potentially the generator of syntactic structure, whereas inferior frontal cortex might be one of these workspaces. And there's a more There's another uh part of the brain, the dorsal language uh region um around area 55b and posterior middle frontal uh gyrus that could also act as a potential workspace, too, since it seems to be involved in in syntactics syntactic processing at the sentence level.
+
+But, I'll leave that aside and uh just kind of notice here that there are demands from the on the language system to export information to multiple workspaces, okay?
+
+Um Okay, so I'm going to be arguing that in my Rose model at least, the level of word, phrase, and beyond requires a workspace to store combined objects, right? What that would be called the E-level uh later on for my anchor, the encoding of linguistic information.
+
+Um but, the possibility of developing in parallel two complex phrases also demands something that word phrase does not need, right? At the phrase phrase level. Uh it needs a workspace where parallel structure formation is permitted, according to Chomsky, or alternatively, two separate workspaces, according to Adger and Rizzi, right?
+
+This is a kind of debate in theoretical linguistics that isn't as relevant, but the point is you at least need to go beyond single workspaces for for doing some of these types of computations.
+
+So, it's likely that from the 12 to 18 months age, uh children uh child language production systems are limited to zero merge, right? But, their comprehension systems are likely always one step ahead. So, there's a lot of work, which I'll come back to later, about child um linguistic knowledge that seems to be uh fairly sophisticated even by the age of like 18 months. Kids can seem to resolve uh long-distance structural dependencies, which is uh again, not produce them, but uh suss them out, right? Figure them out.
+
+So, I think this relates a little bit to some of Mike's work on um sorting algorithms, right? Whereby he's shown that uh even some of the simplest algorithms have emergent behaviors and side quests. Well, likewise, natural language is comprised of an elementary structure-building algorithm of assembling compositional schemes. And from this simple form of XY labeling, we can build complex compositional instructions that cannot be reduced to the meaning of individual parts, right?
+
+That's a classic definition of compositionality.
+
+So, getting closer to the topic of the symposium here, I realize I've been talking about large language models for a while now, but moving closer towards formal topics and your biological topics, mathematics is what? It is the study of numbers? No.
+
+Platonic entities and realms? Not explicitly and not and not um uh uh necessarily, right? Collections of formulas? No.
+
+Abstract structures? Yes, right? It's ultimately the study of abstract structures, no matter what our uh philosophy of mathematics is, right?
+
+Whether we're platonist or non-platonist, right? Whether we think mathematics is uh discovered or invented, um it is ultimately the study of abstract structures, right?
+
+Uh and it turns out that human language is one of the most interesting abstract structures in nature.
+
+There are other rival theories of syntax that kind of emphasize less the hierarchical constituency structure that I'm talking about and emphasize more the fact that human language has what are called dependencies, right?
+
+So, if I say to you, "The keys to the cabinet are on the table." that's grammatical. But, if I say, "The keys to the cabinet is on the table." that is not grammatical, right? And the reason why is because words across sentences kind of relate to each other. They share features that overlap to uh provide uh more complex conceptual instructions that can not be achieved with accessing a single lexical item like a single word.
+
+So in Ted Gibson's theory, he emphasizes these dependency relations as the core necessary components around which he builds other theories of other components of language I should say.
+
+Um but the issue here is that dependency grammar is not a viable candidate theory of natural language syntax since it isolates word-word dependency graphs rather than hierarchical constituency structure, right? So dependency graphs turn out to be projections from this deeper algebraic structure.
+
+Why? Well, because every dependency is also constrained and guided by these hierarchical relations, right? So certain of these theories in the literature are also intentionally positioned simply to counter generative grammar positions and be distinct from it rather than being formed from a novel first principles account of what linguistic knowledge is. I think there are many cases in the literature that have kind of built off of the foundational work of generative grammar and because they disagree on some of the philosophical or acquisitional or processing types of or evolutionary questions, they therefore assume that the fundamentals of generative grammar must therefore also be wrong.
+
+And what we're going to do is provide a novel linguistic theory that simply is against whatever the generative grammar theorists are saying without agreeing that of course it seems fairly obvious that language has to has to have some type of unification compositional operator at its basis, right? So there are usage-based theories construction grammar and other types of theories that try and allied these concerns over constituency structure and focus on other aspects of parsing.
+
+Whilst as many people have written in the literature, they actually end up smuggling in secretly a lot of these types of merge-based operations whilst not explicitly invoking them, right? So they may not explicitly say we are going to be doing um you know, hierarchical structure building. But a lot of the in fact we're going to have a you know, non-hierarchical theory of language like a lot of many usage-based theories. But it turns out that a lot of these theories inadvertently do actually kind of presuppose a rich degree of hierarchy even though they may not explicitly call upon it. So that's a separate topic that we can you know, maybe talk about in some other type of space. But um the main point I'm making here is that these necessary design features like hierarchical constituency structure guide all of these other types of processes that many other linguists argue are central, right? So things like chunking, right? You know, constructions, right? Memorizing constructions. Well, in order to do that you have to have a constituency structure, right? You have to kind of reassemble it. The fact that we can interrogate and be creative in the kind of constructional apparatus that we have, the kind of free unbounded generative capacity that language for language production that humans have really speaks against the idea that we are simply memorizing and rehashing uh chunks of of linear structure here.
+
+Again, this is a separate issue, but just worth mentioning.
+
+So in this connection to quote David Foster Wallace, defining yourself in opposition to something is still being an analytic on that thing, right? You're still kind of defining your linguistic theory of language in opposition to some other type of of theory. And as far as I know, all of the most successful um theories in the history of science have not been doing that, right? You know, Newton, Einstein, Darwin, they generate novel first principles, right?
+
+They they're imaginative. They don't just say I don't like this theory, so I'm just going to you know, develop a particular set of principles and hypotheses that intentionally you know, disagree with this other type of theory.
+
+If they do end up doing that, then it should be incidental, right? It should be an incidental accident that you end up predicting things that a rival theory doesn't predict purely out of the kind of you know, novel conception of what the nature of the competence is that you're describing, right?
+
+But just to retrace here one final topic in this connection, the internal competence of LLMs is often better than their actual output performance, right?
+
+What they know exceeds what they might appear to know when playing around with ChatGPT, right? As I do on my way on my way home when I when I ask it about Mulholland Drive, it seems to be not doing a a good job. But maybe there's something else going on here, right? And there's some nice work by Jonathan Brennan's lab showing that um there is a very clear discrepancy between performance and competence. But however, this is true.
+
+But however, it's only so far been shown that the distance and direction of LLM embeddings might represent some aspect of dependency grammars, right?
+
+But as I just said, dependency grammar is not a candidate model for compositional syntactic knowledge, right? So it's true that LLMs know things beyond what they seem to know on the surface, but it turns out what they might actually know beyond the surface is something that is not crucial to a core property of human language, right?
+
+Okay.
+
+So all of that is to say just to boil the last you know, hour or so of of conversation down to something very simple, what we're looking for um is a set of candidate neural mechanisms that must respect all the things I've just talked about, right? Has to respect set grouping, has to respect sensitivity to a type system of semantic categories, has to reflect the asymmetric nature of phrase composition, right? As I said this asymmetry, the symmetry breaking algorithm.
+
+It has to recursively embed headed structures inside other structures.
+
+And it has to be sensitive to long-distance dependencies that that kind of come out of those constituency relations, right? Between elements.
+
+So this figure here that I have in this paper that came out in Cognitive Neuroscience a few months ago, I kind of define a a kind of schema of what I consider to be the core language network in the brain and the kind of not core language network, I call the extended language network, right?
+
+So it's common in the literature to define the brain's language network as those parts of the brain that show an increase in activity to set processing sentences compared to processing lists of words, unstructured lists of words.
+
+So there's a few problems with that which I've written about in huge obnoxious levels of detail in my papers, but I'll just summarize it very simply.
+
+Um when you process sentences compared to list of words, you are also doing things that are not language-specific, right?
+
+So whenever you process a sentence, yes, it's true. You are building hierarchical syntactic structures.
+
+But you are also recruiting potentially language-specific working memory resources, attentional resources. You're building a situation model construction, right?
+
+You're calling upon world knowledge, right? World knowledge. That's not specific to language. It's not linguistic computation, but it's still called upon when you have a sentence, right? Um so there's no In other words, there's many things that you do during sentence processing that are not specific to language, okay? That's a kind of simple way to put it.
+
+So at its at the core, what we're looking for are parts of the language network or defining language network via headedness, incremental node count, dependencies, and then of course the individual units themselves, right? So the atoms of computation or the units, the lexical items, and then these three things, headedness, node count, dependencies, kind of arise from those units. Now large language models seem to be very good at the things in the sub-symbolic feature space, right? As I've already said, they're very good at sussing out word length and all the nuanced you know, frequency dynamics around that. They're very good at representing semantic vector similarity, um and they're very good at other things, too. But they do not seem particularly good explicitly the whole slew of list I've mentioned to do with um narrow syntactic knowledge. As I said, they may be There's some evidence that it could be quite good at representing dependency grammars. But if so, that would be again, if they capture dependencies but not other features, well then that shows that they are capturing dependencies not via syntactic knowledge, but they're representing dependencies accurately via some other solution, right?
+
+So when learning their language, no child uses a strategy whereby a phrase's category is unrelated to any element inside it, right? So headedness is respected.
+
+And dependencies are guided as I said by structural information, right? Okay, I've already said that.
+
+So this merge-based knowledge of language permits a kind of information coarse-graining, right? Reformatting concepts and giving us new kinds of things to think about.
+
+So you can say John is happy or you can provide a more specific instruction, those two old Italian men are happy. But it's still a noun phrase, right?
+
+Uh so language evolution didn't just make it easier to communicate, it also made it easier to think.
+
+So this merge-based syntax gives us more precise coordinates in conceptual space, right?
+
+But in the literature, we often read that stroke patients have substantial language deficits, but they can still think.
+
+You know, they can pass various cognitive tests.
+
+So therefore language cannot be considered a thought system.
+
+Mm, well, the authors here equate evidence that non-linguistic thought survives after aphasia with the conclusion that language is not a thought system. But this is a flawed logic and a category error.
+
+Inferring that language is not a thought system because non-linguistic thought survives after damage to language areas is like saying vision is not a sensory system because blind people can still smell and hear.
+
+So the formal structure of language is excellent for generating complex semantic inferences, but it's not as good for efficient clear communication. Now there are some examples in this paper here that I won't go into, but if you're interested you can I this paper.
+
+So the vast majority of everyday language use is not for communication, but for organizing our thoughts, planning, strategizing, aiding directed attention, the consolidation of experience, reflecting on personal responsibilities, cognitive model updating, right? World model updating, and more general and abstract forms of reflection, right?
+
+Um and indeed many cases of so-called communication are not even about genuine communication, right? It's about you know, social grooming, you know, small talk, um you know, gossiping, misdirection, um um deception, right? All these sorts of things. In fact, Richard Dawkins, going back to Dawkins again, before he became famous um for his selfish gene work, I think there were a few papers he had in the maybe in the mid-70s where he talked about language and uh primate communication and he said something like um you know, the evolution of language probably was less critical for helping people communicate truthful messages and it was more useful for deception, right? And lying, right?
+
+If you have language, you can more explicitly and creatively deceive and manipulate people, right? Um if you want to just communicate a simple message, well, you can do that. You can do most of those things fairly easily without language, right? Um okay.
+
+So, even if non-verbal reasoning remains, language facilitates certain higher-order processes in these in these stroke patients I mentioned.
+
+And syntax provides for these systems, right? Via multi-step logical inference, counterfactual reasoning, inductive definitions. That's a that's a key one actually, inductive definitions.
+
+That really is closely related to this merge-based constituency structure. Um complex nested planning and evidentiality representations, right?
+
+So, a final point here. It may not be intuitive to think about language this way, right? There are many very excellent scientists who you know, disagree that language is a thought system. But I suspect it's because they kind of let their intuitions guide them slightly further than they than they should do.
+
+Uh you know, Newton and later physicists showed that our intuitions about mass and motion are wrong.
+
+Mendel and genetics showed our intuitions about much of biology are wrong. Gödel showed that our intuitions about mathematics are wrong, right? And of course mathematics is infamously riddled with counterintuitive conclusions. See John Conway's work.
+
+In fact, one of my favorite examples here is the the fact that the infinite series of natural numbers summed towards infinity, the answer would presumably while it trends towards infinity, this sum though divergent turns out to be associated via analytic continuation with what value? It turns out it's the value minus 1 over 12. So, very very counterintuitive, but also has shown to be completely true.
+
+So, why should our intuitions about language be taken seriously as feasible means to guide scientific theories? And why should our intuitions about anything be used as additional constraints on how we define and operationalize concepts like thought and language? Remember I talked about this definitional fallacy earlier where I said that just because you can define a concept in a very nice, careful way, doesn't mean it's true at all or useful. So, why is language one of the only major topics in cognitive science where attitudes are so high-bound and intuitions and biases are so unshakable that they guide theory formation? Well, it's probably for sociological reasons, right? To do with the fact that we do seem to be the only species with language and it's very, you know, uh our linguistic identity and our use of language is very closely tied to our sense of self and existence as a species. So, it's harder to kind of shake off intuitions about language than it is about our intuitions about other things. But you know, we also have intuitions about working memory that have been shown to be wrong and we no longer allow them to be you know, have any grasp on our science. And I think the same should be true of language, right? We should kind of shed all of our biases about the nature of language, how it evolved, what it's for, all these sorts of things and really approach the issue from a you know, more scientific way.
+
+So, for example, just to really hammer the hammer home this point here, the word geometry literally means earth measurement, right? But since classical times at least, geometry has now matured sufficiently to the point that more generalizable and abstract mathematical principles could be extracted and modern geometry these days has no relation to measuring hills and mountains, right?
+
+And I think the same is true for linguistics and language, right?
+
+When we think of language, we may think of you know, communication, speech, whatever, but that's that's just an intuition, right? It has nothing to do with the actual nature of the beast.
+
+Okay. So, [snorts] moving to the final part of the talk here, I've kind of set up all of this through a lot of philosophical claims about the nature of language, the structural formal nature of language, and I've argued that I am going to use these mathematical models of language to constrain the neurobiology of language and that's what I'm going to try and achieve in this in this section here.
+
+But before I get to theoretical neuroscience, let's just talk about some experimental neuroscience to kind of narrow down what we're thinking about here. So, in our lab here in Houston, Texas, we use intracranial recordings in epilepsy patients who are not responsive to medication undergoing surgery for seizure monitoring and we do a number of experiments with these patients to do with language processing and comprehension and production.
+
+And we use a number of different types of electrodes. We either use surface grid electrodes on the top here that kind of just go underneath the dura over the the cortical mantle or we use penetrating depth electrodes that have oblique trajectories targeting specific like mesial sites that are usually involved in temporal lobe epilepsy like hippocampus and you know, amygdala and these sorts of sites.
+
+Um So, I've already established that language allows us to construct phrases out of words, yes. Um with respect to the neural basis of this though, our intracranial recordings have indicated a unique involvement of the posterior superior temporal sulcus across different phrase types and sensory modalities.
+
+So, for example, the plot on the left shows general regions involved in accessing individual words and processing words, auditory words, and then the region on the left is the site that is specifically involved in the meaning of phrases. So, how did we derive that?
+
+Well, we gave patients types of stimuli that were either real phrases, so auditory recordings of red boat, or involving a pseudo word, so a fake word that barred semantic composition. Okay.
+
+The plot in B shows the density of coverage across patients. C shows the general activation to auditory stimuli in broadband gamma activity, so high-frequency gamma activity, 70 to 150 hertz.
+
+And then here shows the evolution from after the onset of the noun in red boat phrases. So, 100 milliseconds to 300 milliseconds after the onset of the phrase licensing word. And you show that this region you can see that this region is clearly sensitive to the initial successful parsing of the word in during composition. And then in non-compositional trials, it tries hard to process it and make sense of it, right? But it can't. So, you have this kind of interesting dynamic here where it's clearly involved in successful composition because the auditory recording lasts about 350 to 400 milliseconds, so it's clearly parsing that element correctly. Um and then after the auditory recording is stopped, it still tries to do some additional work to make sense of it.
+
+And across patients, we show that there are many electrodes that were sensitive to word meaning and many and there was a couple that were sensitive to both word meaning and phrase meaning, but many electrodes were sensitive explicitly just to the meaning of phrases and not the meaning of words, right? Which is quite interesting.
+
+Whereby you would have electrodes that didn't care about whether or not something was a fake word or a real word. It didn't access individual lexical items, but it was involved in the parsing of phrases, right? So, again, that kind of points to the idea that there's this additional higher-level of semantic composition, compositionality, that cannot be recoverable based on individual units, but it delivers a more nuanced specific type of meaning.
+
+With respect to frontal effects, we showed that frontal cortex was more involved in successful anticipation of upcoming material. So, after the patient had heard a real word in word position one like red, they would anticipate this could be a real phrase I'm about to listen to here, right? Um and you and you showed very well we showed very nice dynamics here between when the first word was a real word versus a fake word.
+
+As in when you could versus likely would not anticipate a real phrase.
+
+We also looked at phrase synchronization, generalized phase locking between parts of language network to show successful and increased phrase phrase composition in low frequencies during phrase structure building as predicted by certain neural models of language.
+
+>> [snorts] >> And then finally, just to go back to the task itself, the task involved listening to phrases and then identifying does this picture match the phrase that you just heard, yes or no. Um when the phrase did match the picture, you see this nice increase in anterior insula and anterior frontal gyrus. And when it did not, when there was a violation, you see these nice effects in more classical kind of syntax sites. So, like IFS and posterior IFG, which I think suggests that but again, you don't see it in posterior temporal cortex, which for me suggests that a lot of people like Greg Hickok and William Matchin are really onto something when they claim that posterior temporal cortex is in the game of generating here syntactic morphosyntactic structures and if frontal cortex is involved in doing something like using that structure for linearization, externalization, working memory, attention, whatever, all these sorts of additional demands, right? In this case, it's clearly the task demand of you know, visual attentional picture matching, right? But the point is frontal cortex uses syntactic information for a particular task. And we've kind of um replicated these findings in a different paradigm where instead of using nouns uh adjectives and nouns, we use pronouns and verbs.
+
+So things like you send versus you sends. So sends would be a morphosyntactic violation, it's ungrammatical, whereas you send is good.
+
+Um and probably is of course a pseudo word. So this allows us to look at semantic composition by contrasting pop send and you send as in the previous paper. And it also allows us to look at morphosyntactic composition, all right?
+
+By looking at is the uh is the uh phrase grammatical or not.
+
+Um and some of these phrases were made ungrammatical by including an S, and some of them are made grammatical by taking away the S at the end, right?
+
+Just for uh full disclosure there.
+
+Um we should we replicate these effects for posterior temporal cortex phrase composition. Uh we didn't have explicit coverage right over the part of PSTS that we would have liked, but we had more or less the same type of coverage.
+
+And we showed the same general dynamics of uh posterior temporal uh middle temporal gyrus effects before IFS and IFG.
+
+And same for morphosyntactic effects, the earliest sites were in uh PMTG and PSTS, and then later sites were in IFS.
+
+So the same type of uh temporal dynamics here.
+
+Um and then in another paper, we decided to move beyond phrases and look at sentences, right? I'm always a little bit scared of sentences because they're very complicated and they're hard to you know, uh deal with all possible confounds and manipulate all the factors that you actually care about. So I'm a little bit hesitant of sentences, but for this paradigm, we used um phrases that define a common object.
+
+And the task for the patients was simply to name the object, right? So if we say a round red fruit, the patient would say apple. If we say a round red age, that would be nonsense cuz it's a not a meaningful sentence, right? However, the referential sentences, what I'm calling referential, like the good sentences, they differed as well. Some of the sentences, the answer was obvious before the final word.
+
+So things like uh it's white and falls from the sky in winter. Okay, that's pretty obviously going to be snow.
+
+Whereas sentences like an object used for weighing, the final word weighing, that's not obvious at all until the final word, right? If you hear an object used for Sorry, if you read This is reading, I should say. If you read an object used for, that could be literally anything, right? Um and then same too for the non-referential sentences. They could also be parsed in different ways.
+
+So I uh uh separated them, classified them based on whether they were semantically coherent or incoherent. So if they violated some kind of theta role of the of the words or whatever, right?
+
+I can't have it. If you read the methods, there's a more specific linguistic definition, but a place where ocean shop violates what we know about oceans, right?
+
+They just can't shop. Whereas a person at the circus who makes you commute, that doesn't violate anything about what we know about people, right? Now they just There doesn't happen to be a word for that concept, right? A person at the circus who makes you commute, you would still say nonsense because it's not a real thing. But it's a perfectly fine sentence, right? There could be a person at the circus who makes you commute, right?
+
+>> [snorts] >> Uh you could have a name for it, right?
+
+Invent some name for the person at circuses who makes people commute.
+
+Um okay, and what we show is that uh there's a very large portion of the of the language network and the extended language network that is involved in successful semantic composition, semantic coherence, right? Refer- uh lexical access, um successfully retrieving the word to the sentence. We show effects in uh uh hippocampal theta followed by parahippocampal uh gamma activity. We show lots of effects in frontal cortex. Um we also show differences for the coherent versus incoherent sentences. And the overall map here is just a summary of all the results where you can see effects of um referential, semantic coherence, and the narrowing effect that I mentioned to do with if the answer is obvious or not in different parts of the brain.
+
+And the main semantic hub that we showed was in IFS, inferior frontal sulcus, and we're increasingly thinking more about um frontal effects being in the inferior frontal sulcus, not the gyrus. Uh this was previously not obvious because of uh limitations in recording modalities and resolution and the fact that previous intracranial recordings have mostly used these grid surface grids which can't get into the deep sulcal sites.
+
+But it seems that these uh uh portions of tissue in IFS are very heavily sensitive to all manipulations of semantic information, which is very interesting.
+
+Now, we also had uh the patient The paper that I just showed you was uh around 60 patients. We also publish some case studies every now and then based on the uh particular interest that we have and if the um uh subjects and the patient are interesting enough to be uh relevant to a particular specific scientific question. So in this case, we had a uh a brain tumor patient in the OR who was undergoing awake uh tumor resection surgery. And this guy turned out to be a uh professional musician.
+
+Which is wonderful because we could um A uh get him to play music in the OR to help to make sure that the surgeon, Dr.
+
+Tandon, resected tissue that was not going to lead No, that was not going to disrupt his ability to play music, right? This guy's a professional musician, he wants to preserve his musical abilities. He also wants to pre- preserve his language abilities. And since we're very close to to um a higher order language cortex here, we did a number of language tests as well during the uh surgical resection to make sure that the surgery was not impacting on this patient's ability to speak.
+
+So what we did here, uh this project was also co-led by uh Meredith McCarthy, PhD student here in the lab who's recently defended. And um what we did is we placed these grid electrodes over um a portion of posterior temporal and frontal cortex and gave the patient two tasks. We had them uh repeat and com- comprehend and repeat different stimuli.
+
+So he comprehended and then repeated um uh uh sentences. He did the naming task that I mentioned before, a round red fruit apple.
+
+And then he also uh listened to and then produced different melodies on this little mini keyboard here. Now the melodies were either complex or simple, right? We define complexity in terms of Lempel-Ziv complexity, right? A Kolmogorov estimate of compressibility essentially. Um but we also define the We also selected the high complexity melodies based on whether or not they were aesthetically uh we sussed them as having aesthetic kind of melodic structure, right? So the low complexity would just be A B B B B B, right? Or A A A B B B. The high complexity would be do do do do do do, right? Some kind of melodic structure to it.
+
+And it would involve more than two tone types.
+
+So this is the ECoG grid. The uh shaded purple area is the area of the the tumor, the brain tumor.
+
+And the colored electrodes represented which parts of the brain were sensitive to different um uh properties like language or music. So the blue electrodes were sensitive to language, they were active for language.
+
+The yellow ones were active for music.
+
+The green ones were active for both.
+
+We did cortical stimulation mapping.
+
+And when Dr. Tandon electrically stimulated different parts of the brain colored here, uh different behavioral functions were uh knocked down.
+
+So his ability to name common objects was disrupted in this uh more ventral portion. His ability to uh perform uh comprehend and produce music and language were also uh disrupted in different parts of uh PSTG.
+
+But most of these intracranial signatures are in high frequency gamma activity, right?
+
+So what is the computational scope or expressive power of gamma? That's an open question, right? We look at high frequency gamma activity, but what exactly does that mean? What are the computations indexed by high frequency gamma activity? Do they differ from the computational power of lower frequencies? Do they also differ from the computational power of inter-areal dynamics?
+
+That's uh a question that I'm going to ask, and uh the answer I think will be yes, but I'll explain why.
+
+So moving more uh explicitly now into the theoretical neuroscience and away from the messy world of experimental neuroscience, which is very scary.
+
+Um we can consider, as I said at the beginning, that different causal structures can provide unique explanatory perspectives in neuroscience, right? Neural mechanisms, quote unquote, can have causal and explanatory power, but there are also causal structures that are not classically mechanistic for things like cascades and pathways, channeling Lauren Ross's work here, of course, right?
+
+We also have non-causal entities that provide unique explanatory power, like mathematical models and neural topologies. So what can we do with that?
+
+Well, most high impact factor journals will state their aim is to publish mechanistic insights, yet many journal editors are unable to explain what exactly a neural mechanism is.
+
+And indeed, funding agencies also request mechanistic contributions, even though different agencies place distinct weight on this notion.
+
+And of course, as I've already mentioned, LLMs mostly obscure insights into neural mechanisms, so how can we uh deal with this topic?
+
+So here are a number of explanatory structures in neuroscience that we as psychologists and psychologists of language can potentially recruit and exploit when doing uh theory formation.
+
+The first one is, well, mechanism. Okay?
+
+There's kind of narrow and broad types of mechanisms that uh Ross and uh Lauren Ross and uh co-authors define throughout their papers.
+
+Uh there are a fine-grained They often provide fine-grained detail, kind of They're conceptualized like clockwork.
+
+We also have uh pathways. They involve a logic of flow. They uh dictate routes, information processing routes. They're conceptualized as highways. Then we have circuits. They are conceptualized as like wiring diagrams, right? They offer a meso-scale scopis. They drive narrow oscillatory motifs. They uh provide a uh recurrent dynamics, and they are fixed closed-loop system.
+
+We then have cascades, which offer a slightly different causal logic from the other two in that they're conceptualized as a snowball effect. They involve amplification of effects and momentum.
+
+And then finally, we have topological structures, uh things like neural geometries. These are often abstracted away from temporality, though not always more more more recently. Things like manifolds are a case case of this, right? They are conceptualized as a landscape.
+
+So classic examples would be a internal cortex steroids or thalamic ring attractors.
+
+So this is a fairly complex case of what potential structures are out there for cognitive scientists to exploit. Um what's um you know, slightly frustrating in the language space is that in the working memory domain, in the attention domain, in the spatial navigation domain, even in the auditory perception domain actually, a lot of researchers have made use, they've made quite imaginative use of a lot of these different explanatory structures to help explain their behavior of interest. But in the language space, linguists have been I think quite slow to catch up to developments in cognitive neuroscientists and kind of migrate some of their questions and concerns and frameworks over to this more updated 21st century style conception of neural computation.
+
+In fact, that was always the case. You know, if you go back to the '90s and early 2000s, linguists were the last team to make use of scalp EEG and the ERP revolution and all those other sorts of techniques.
+
+Okay, and this of course immediately leads into the question of causation because explanation seems to very closely related in these um conceptual discussions with causation.
+
+So I kind of assume a classical interventionist definition of causation whereby X causes Y if we intervene on X in such a way as to change the outcome of Y. Okay, that's kind of a more modern conception of causation that differs from some classical human beliefs. You know, many people like Conrad Coding and others have kind of you know, subscribed to this theory of of causation.
+
+So counterfactual causation here would almost be synonymous with control, right? So science allows us to do at least three things, right? I like to think of it as this three-type structure, this triad. You can explain, you can predict, and you can control, right? Science is in the game of explanation, prediction, and control.
+
+Primarily it's in the game of explanation, and then secondarily, depending on your interests and concerns and whatever type of field you're in, prediction, and then of course control.
+
+Neurosurgeons of course are highly interested in control for clinical interventions. And control can also therefore provide quasi-causal evidence for basic neuroscientists, too.
+
+So causes can be proximal and distal, right? They can be There's no kind of spatial bound on them. Pathways and cascades are not mechanisms, but they do have causal explanatory power as I mentioned.
+
+But if you cannot identify why something would not qualify as a neural mechanism, then you've not successfully delimited the concept. This goes back again to the definition of causality that I mentioned earlier.
+
+It's very tempting to especially for writing high impact factor papers and getting grants to claim that a lot of your findings and results literally equate with mechanistic insights. But that's not the case unless you cash out why exactly when exactly this would no longer qualify as a mechanism, right?
+
+It's like a I think what There's an old quote from Oscar Wilde who says a something like to define is to delimit, right? As soon as you define something successfully, you're immediately delimiting its scope and separating it from the space of all other possible concepts.
+
+Uh so what we need is a method to help migrate the concepts of linguistic theory into a testable framework.
+
+So big question here is which neurobiological scales of organization are going to be causally prominent and explanatorily useful for varying representational levels of language?
+
+That's a more nuanced question than simply saying, "What are the neural correlates of language?" Cuz we can find all sorts of correlates of language in the brain at all sorts of different recording scales, units up to inter-areal dynamics, at low and at slow and fast timescales, um at low and high recording resolutions.
+
+But what we really need is to kind of delimit why we're going to find these effects and what it what does it mean?
+
+So it's been noted in many places that observable output behavior greatly underdetermines network implementation, right? Many classic papers show This is an excellent paper by Jonas and Coding, of course, famous paper that showed this.
+
+So strict reductionism is extremely ambitious here, right? We need a kind of a more complex systems perspective. And that's exactly what I try to achieve in this paper that came out a couple of years No, last year, sorry, 2024. This ROSE framework and more recently in this paper in Cognitive Neuroscience and this book that came out in 2020, which is on my website, The Oscillatory Nature of Language, where I kind of explore if language is to be conceptualized in a more updated version of neural dynamics that goes beyond ERP-ology or box-ologist or localizationist models of language in the brain, where we simply assume some complex computation is housed in some gross neuroanatomical region, like syntax is in IFG, or semantics is in ATL, right? Or morphosyntax is in pMTG, right? If you want to go beyond that sort of um more kind of uh localizationist perspective, we have to think about these sorts of questions.
+
+So I'm going to explain what this ROSE model is in a second.
+
+But first, just think about how an emerging consensus in neuroscience, which is very um influential, is that complex behavior and cognition rely on coordinated interactions between brain regions with phase synchronization being a major candidate for implementing weighting this coordination, a major measuring major measurement by gating information transmission. Uh but as I said, unlike attention and working memory, language has not been given this level of treatment.
+
+So just to summarize a very long history, reliable signatures of syntactic structure tend to be found in the low frequency range, whereas reliable signatures of semantic composition and lexical information are rapidly found in high frequencies and all over the place, too, in lower frequencies, too.
+
+There are naturally many exceptions here that I deal with in the paper, but it's this tension and reconciliation that I attempt to address.
+
+So this ROSE model assumes that there are single-unit encodings of distinct conceptual features at the unit level that compose into manipulable objects that can be accessed at the O and S level, okay?
+
+Um the O level involves high-frequency gamma ensembles transforming coherently bound units at the spike level into complex feature bundles via spike-phase coupling, okay? So spike-phase coupling gives you that first level of manipulation.
+
+And then S controlling O would involve uh low-frequency synchronization and cross-frequency coupling to generate recursive categorical inferences via the transmission of lexical information at the lower level up into this higher-order configuration constituency configuration, okay?
+
+And then different types of memory systems, workspaces as I mentioned, are coordinated via different types of um uh low-frequency codes, right? So low-frequency regimes like delta-theta for hierarchical memory or theta-gamma for lexical memory, and then delta-gamma coupling for just generic combinatorial processing. Now all of these measurements have been aligned and kind of experimentally tested and recovered. So this is not just, you know, wildly speculative um you know, fiction.
+
+Uh the theta-gamma lexical memory code involves linearization of objects, which is in turn synchronized to this slower delta-theta superordinate structural memory code, which involves uh that's how you get um mor morphosyntactic objects um embedded inside other structures.
+
+Uh so LLMs will be helpful with isolating properties of phonological and lexical statistics, which are sensitive at the R and O level because that's where the primitive units are, but I suspect that they will be less helpful with isolating higher-order syntactic inferences at S and E. And I think some of these predictions have already been satisfied whereby brain LLM alignments are really quite useful uh getting uh you know, frequentist types of perspectives on lexical frequency profiles of you process a word in a sentence and you go from a high-frequency to a low-frequency word and vice versa and you keep bouncing up and down. Uh LLM brain alignments do seem to be good at capturing that, but they don't seem to be good at capturing punctuated moments of structural inference at the S and E levels, right? And I think the reason why the reasons why I've already explained.
+
+So that I've just only mentioned a very brief summary of what this model is, but I will flesh out in more specific details later.
+
+But for now, most accounts either place heavy emphasis on symbolic knowledge, like theoretical models or Fitch and Rabagliati's models, um or predictive processing, right?
+
+Without a means for integration. So what we need is a kind of neurosymbolic hybrid code of figuring out how the brain uses statistical cues to update symbolic inferences. And that's what the ROSE model is trying to do.
+
+So the higher levels of ROSE, S and E, provide instructions for symbolic phrase structure representations, while the lower levels provide probabilistic aspects of linguistic processing with different types of CFC being hypothesized to interface these domains.
+
+Where cross-frequency coupling provides the interface between these two levels of um symbolic and subsymbolic representations.
+
+So in the paper in these papers that I've mentioned, empirical and conceptual motivations are presented to defend the idea that delta-theta inter-regional phase amplitude coupling constructs multiple sets of syntactic and semantic features and imposes biases on how to read out the items provided by this phase code.
+
+This occurs when the phase of delta is synchronized with the amplitude of theta. In turn, theta phase couples with high-frequency local cortical processing.
+
+So, delta represents superordinate syntactic categories and theta represents morphosyntactic feature bundles generated via lexical access, right? Search at the R level.
+
+Phase resetting of this mechanism, alongside concurrent encoding of its products in workspaces, again, workspaces physically housed, likely in these IFG and P MFG sites that I mentioned.
+
+Also in PMTG, too. But these three kind of core syntax sites.
+
+Um Phase resetting of this mechanism permits a facility for recursive self-call, right? That satisfies another criteria of language that I mentioned earlier.
+
+Now, the paper provides more explicit concrete details about the phase and frequency dynamics, but that's the general architecture.
+
+Uh so, the bulk of work on the ROS is achieved by a frontotemporal symbolic low-frequency phase code interacting via cross-frequency coupling with a series of local probabilistic inferences over lexical semantic content, with the latter being implemented via spike phase coupling, assembling bundles of linguistic features.
+
+And which can emerge into dynamical motifs.
+
+So, again, just to rehearse this, the concept of dynamical motifs, by the way, is explained in more detail in the 2025 2025 paper. I won't talk about it too much here.
+
+But at the R level, you have single unit encoding of conceptual features. This involves a cellular barcode for distinct features that compose into syntactic objects, which are then coherently bound via spike phase coupling by high-frequency gamma activity at the R level, right? So, sensorimotor transformations are conducted at this R level.
+
+So, the R level also involves vector codes for ensembles hosting features common to objects represented at O that are ultimately coordinated by S. And this is also where the dynamical motifs neural manifolds theory kind of comes in in terms of regular frequently accessed bundles of features at the R level.
+
+So, at the R level, as I said, we have high gamma sensorimotor transformations into lexicalized objects, right? How you have a comprehend and produce these lexical items.
+
+The core network nodes here where would be mid fusiform cortex and ventral temporal cortex, orbitofrontal cortex, middle temporal gyrus, inferior frontal cortex, and intraparietal sulcus.
+
+Uh they are accessible to the higher-order delta theta phase locking components, right? Delta theta can see these higher gamma ensembles and coordinate them in to assemble more complex semantic objects.
+
+This S level can implement the semantic composition of language-specific concepts that coordinate the firing of all units.
+
+High gamma activates ensembles, assemblies, sorry, of distinct units hosting the barcode or vector code for units that compose into feature bundles.
+
+So, what about the S level? This is kind of following on from everything that happens above, right? Everything that happens above is coordinated by the S level. A low-frequency neural program generates structural inferences over the R level. Delta theta phase amplitude coupling in specific language sites for categorical inferences modulate the representation of feature bundles in the theta gamma lexical memory buffer, right? Theta gamma is lexical memory buffer. By structuring the readout of these complexes.
+
+And then finally, at the encoding level, this involves traveling waves where the complexes that built at F are then migrated and transported and exported to other systems for further inference. So, this involves local and global workspaces for bottom-up lexical memory and top-down hierarchical memory, right?
+
+Delta theta. Traveling waves implement delta theta coupling for hierarchical memory and theta gamma for lexical memory.
+
+Meanwhile, alpha power codes for workspace description, right? I mentioned low frequency as being involved in shielding syntactic inferences earlier in this talk, and that's where alpha comes in.
+
+Beta power codes for syntactic predictions. I showed some intracranial evidence for that a few moments ago from our from our papers in the lab here.
+
+So, the basic data structures of syntax are atomic features, types of linearly readable mental representations that are coded at the single unit and ensemble level.
+
+I assume that representations encompass any object manipulable by the generative component of language, being composed of features determining constraints on operations, like uh what linguists linguists would call selection, agreement, licensing, and movement.
+
+Examples would include, you know, noun plural, demonstrative, complementizer, tense, and prepositional, and so on and so on.
+
+And also conceptual features, conceptual roots, like the conceptual features that compose into lexical items like break and home.
+
+Um whereby, for example, um you know, let's see, um swim merged with N would make the noun swim. Swim merged with V would make the verb swim. Okay.
+
+Uh syntax builds structure through recursive applications of merge, and these are then entered into a space of syntactic working memory.
+
+So, again, that theme of syntactic working memory has loosely been addressed in the literature over the last five or six years, I would say, only very recently.
+
+Uh it's roughly associated with um certain portions of Broca's area.
+
+But as I said, I I suspect there are other parts of the frontal cortex, too, like the dorsal posterior MFG that is probably also involved in aspects of working memory.
+
+Uh recruited for recruited by the language network.
+
+Uh lexical items are simplex conceptual atoms, okay? In the formal semantics uh jargon.
+
+So, if these features seem exotic and not very, you know, neurally plausible, well, just consider for a moment how we already happily entertain things like stubby animate concepts in higher-order vision, right? Um you know, stubby um animate dimensions compared to you know, inanimate and non-stubby. I can't remember the word now. Non-stubby is what it's called, but it's D R. Saunders' work, right? Where you have stubby and you know, smooth or hard type type of edges.
+
+Um representational eccentricity is already normalized in sensory neuroscience, right? So, things like elongated blue edge detector. Why is that Why is the concept of elongated blue edge detector any more baroque and exotic than the concept of demonstrative?
+
+If feature bundles like NOT appear exotic, it's only because linguists linguistics has historically lacked the luxury of metaphoric reification that vision science enjoys.
+
+So, stubby cells, simple cells, grandmother neurons are all idealized explanatory constructs.
+
+Uh ROS's representational primitives are of precisely the same ontological kind.
+
+Simplified handles on the high-dimensional feature-specific subspaces that neural populations inhabit.
+
+So, depending on the lexical item in question, uh spikes at the R level, right? So, individual spikes at the R level from relevant cortical regions will be coordinated by uh spike phase coupling, like posterior middle temporal cortex for abstract word features, as I show in a second, inferior parietal cortex for eventive features, anterior temporal lobe for entity or object features, ventrotemporal cortex for face and place features, inferior frontal cortex for more formal and function word features. So, what happens when you have sentences involving entities and events? Well, then these two regions will be coordinated, right?
+
+So, in this submitted manuscript, we did a concreteness word judgment paradigm where we gave patients individual words to read, and they had to make a judgment, is this word concrete or abstract, okay? A museum, concrete. Loyalty, abstract. Um okay.
+
+And just to summarize very quickly, um most hubs of the language network showed increased activity for the kind of task-responsive, you know, good, non-violation concrete words. And the only region that showed increased activity for abstract words was, coincidentally, this interesting part of posterior temporal cortex. Um which seems to suggest that posterior temporal cortex codes for not just language-specific representations, but also language-specific structures and computations.
+
+So, uh ROS invokes ROS also invokes a factor coupling and dynamical motifs to guide the construction of minimally complex linguistic objects. If you read the 2025 cognitive neuroscience paper, I talk about this in more detail.
+
+Um at the appropriate level of resolution where whereby statistical and symbolic instructions will presumably interface, right? This cross-frequency coupling dynamic between S and O.
+
+These would likely be commonly co-occurring lexical semantic features that conspire into dynamical motifs and that routinely get merged via the mechanisms of ROS.
+
+So, empirical data for stable local attractors or motifs in higher-order language regions remain limited. Uh demonstrating them for lexical composition is non-trivial, but still, the use of dynamical motifs for lexical information seems all the more plausible in the face of widespread, flexible, and mixed high-dimensional coding across the cortical hierarchy. So, that's why I'm invoking them at this crucial transition point between R and O, where you have primitive um representations occurring in regularized types of combinations.
+
+And in fact, there's a really nice commentary paper um by Low and Köhler and Casanina that came out recently that kind of replies to my ROS paper and adds some really nice um discussion about how we can kind of cash out the notion of dynamical motifs in a slightly more formal and explicit way than I do in my paper.
+
+Oh, I've already mentioned this. I'll just skip this slide. Mentioned that before.
+
+Um and there's some interesting evidence already for this from a paper that came out uh in 2024 on bioRxiv. Uh this group used uh 21 acute neurosurgical patients in the OR, and they had them do a bunch of language tasks, like uh you know, sentence repetition and comprehension. And they managed to recover around a thousand good units from these 21 patients. These are single unit recordings, I should say. Single unit recordings. And they had recordings in higher order language sites, like Broca's area and posterior temporal cortex.
+
+And they showed hundreds of units were sensitive to phonological, you know, phonetic features. Many units were sensitive to semantic features, too.
+
+Uh but zero units were sensitive to uh syntactic features and information.
+
+Which I think really does support this idea in ROSE that the seat of syntax is really not to be found at the unit level, but rather in the inter-areal type of systems level perspective I'm pursuing here.
+
+This is um a more kind of simplistic localizationist generalized map of what I'm assuming will be the major regions of the core and extended language network. Again, I've already called upon PSDS and PMTG. Uh middle fusiform for early lexical semantic processing, especially in the orthographic dimension.
+
+Uh IFG will in uh and be involved in some aspects of morphosyntactic linearization, but different parts of conceptual structure, too. And different workspace demands. And IPL is involved in kind of event level semantics, okay?
+
+So, there's lots of more things to say about this, but I'm not I don't want to focus too much on these, you know, uh localizationist types of questions. I want to focus more on kind of the um dynamics. And the reason why is because if you try and um use localizationist models to interface with any other types of uh models, formal mathematical models, you just can't do it, right? You can't map In the same way it's hard to map a neuron onto a noun, it's even more difficult to map um a gross neuroanatomical region onto an algebraic, you know, formula, right?
+
+It's very difficult to uh find a linking hypothesis for that.
+
+So, as I said, prefrontal cortex, more generally, I think for language, uh hosts circuits supporting variable binding, sequencing, especially dorsal frontal sequencing, gating, and working memory storage.
+
+While lateral posterior temporal cortex uh is probably the true, you know, the core language region, I guess. Um it's more reliably and efficiently subserves cross-modal [snorts] semantic integration, superordinate categorization, and recursive hierarchical processing. So, syntax internal demands.
+
+Meanwhile, traveling waves build up this workspace cycle by cycle.
+
+You can think of it as a kind of evidence accumulation for syntactic inferences that are bounded by the cross-frequency coupling dynamics over language hubs.
+
+There's a lot of recent work um already kind of showing the behavioral relevance of of uh rotational um uh you know, brainwave dynamics um in working memory and attention spaces.
+
+So, here's a quote from Earl Miller.
+
+There's no reason in principle why a rotation in this mathematical subspace should correspond directly to a rotation on the surface of the cortex when they look at traveling waves.
+
+But it turns out it does. That suggests to me that the brain is using these traveling waves to actually do computation, analog computation for Miller.
+
+Analog computation is way more energy efficient than digital, and biology favors energy efficient solutions.
+
+Uh so, I've kind of extended these ideas and in this ROSE paper in 2025, um I map these cross-frequency coupling operations that I've already established not just to gross kind of um uh complex linguistic operations, but to more specific linguistic operations to do with these features that I've already mentioned, right? Headedness, uh no closure, incremental no closure, um proprietary accessing, proprietary proprietary representations, and things like that.
+
+And it yields lots of very specific predictions for the type of parsing um algorithm that you would assume to be involved in any moment of uh sentence comprehension, right? Whatever your parsing demands are during production versus comprehension, during a um easily predictable text versus a less predictable text.
+
+Your parser, your um your mind's language parser, will engage uh to varying degrees in various in different ways based on the context of use, right? And your pre-existing knowledge base, essentially. Um and that leads to different predictions for when these different dynamics will either be present or static or increase or decrease, okay?
+
+And again, I don't want to ignore here at the very bottom um the alpha and beta and gamma dynamics, right? So, as I've said, alpha dynamics, alpha amplitude, seems to be very much involved in lexical semantic shielding and stabilizing and protecting structural inferences uh from decay and external interference.
+
+Beta involved in anticipation and set maintenance, right? Maintaining the status quo.
+
+And gamma in these kind of uh what's called shift minimalist grammar operations, just lexical access, essentially kind of chunking in squeezing in a new uh uh lexical item.
+
+And then of course also lexical semantic unification involving those, the kind of uh basic semantic level composition.
+
+But in response to other comments, we might hear that it's not cognitively plausible to have a simple one-to-one isomorphism between some parsing computation and a narrow frequency band, right? So, in previous decades in the early 2010s, there was some work that tried to argue that, you know, beta is associated with syntax and gamma is associated with semantics, for example, okay?
+
+Um but of course, this comment in blue is obviously correct uh because the spatiotemporal dynamics that I invoke in ROSE are to be thought of as the principal, but not exclusive, drivers of parsing operations, okay?
+
+These dynamics are the PAC relations with the largest explanatory causal scope for specific parsing operations.
+
+And the ones that best predict and drive them, okay? That's the difference from simply saying, you know, beta equals syntax compared to the types of CFC dynamics that I'm invoking as the principal drivers.
+
+And then of course, well, does that make ROSE false falsifiability of ROSE a little bit difficult? No, it doesn't, for the reasons that I explore in the paper.
+
+It's very specific to uh falsify.
+
+And the reason is because ROSE provides a possible infrastructure for flexibly implementing distinct types of parsing operations for the real-time processing of language, right?
+
+Uh in other words, you have the specific predictions for each word in the sentence.
+
+So, this perspective helps to furnish a more restrictive core language network in the brain than current language localizers that isolate general sentence composition, right? I've already uh levied this critique before, sentences over word lists.
+
+Because I define the language network as being critically involved in selectively computing and representing specific parsing operations.
+
+And I also elaborate on this in this paper, uh a short commentary paper, too, if you're interested in in those sorts of critiques.
+
+So, ROSE can also be thought of as indexing what physicists would term a mesoscopic protectorate.
+
+Right? That kind of an emergent um a form of uh organization uh that is stable and you no longer need to kind of look under the hood at component parts for it to kind of um provide this level of um mesoscopic uh organization.
+
+And this mesoscopic protectorate is graphically represented in this uh figure from this paper, where I kind of step through the different components of ROSE from R O S and E, and talk about in the figure description of ROSE, the specific components of interest, and how each of these components is causally related to another one, right? How S and O involves causal integration, how R involves causal composition into O, and how the the boundary between R and E uh is a case of causal exclusion.
+
+How the brain's kind of core dual demands of diversity versus stability, or segregation versus integration, this kind of dual tension that the brain always deals with, uh that Friston has talked about quite a lot, these two um demands can be settled and kind of implemented through this ROSE mechanism.
+
+So, just to step through this one final time, just to really hammer it home, I'm assuming that phase amplitude coupling coordinates the hierarchical assembly of features forming headedness inferences. Now, what does that mean?
+
+Well, the assembly with the greatest relative PAC strength, I would assume, codes for phrase head, right? So, in that case, um the uh head of the phrase is simply whichever of these um sets of um uh features are exhibiting the strongest PAC strength with this higher order, like superordinate S level um delta or theta wave.
+
+Uh meanwhile, dynamical motifs at the R and O level and spike phase coupling coordinate constellations of semantic features into lexical items.
+
+So, here causal composition, integration, and exclusion apply across these levels, yielding a mesoscopic protectorate in the brain for syntactic inferences.
+
+So, ROSE uses a combination of explanatory structures in neuroscience, right? I mentioned before, here's this big set of explanatory structures in neuroscience that we can make use of to help explain properties like language working memory and attention. And I'm explicitly combining multiple of them, right? I'm not just focusing on cascades.
+
+I'm not just focusing on neural manifold folds.
+
+I'm not just focusing on toroids. I'm not just focusing on broad mechanisms or narrow mechanisms. I'm focusing on a number of these features um to neurally enforce non-associativity, commutativity, and other algebraic properties of human language, right? Ensuring that syntactic structure uh is respected and enforced.
+
+So, just to elaborate on that a little bit further, ROSE enables potentially unbounded vacation until rising frontoparietal alpha signals that the syntactic workspace is full, while frontotemporal temporal traveling waves in delta ferry each completed complex to working memory buffers, right?
+
+So, each delta cycle ends with a beta-mediated commit burst, right? We can call it a commit operation that silences the delta carriers for the daughters, uh daughters in the tree, that is, ensuring the composite enters the next workspace step as an indivisible unit, right? Again, respecting uh the algebraic properties of language.
+
+Because headedness is selected by PAC strength rather than presentation order, the system is commutative for free, right? It's already commutative. We don't have to stipulate that. Yet, the beta commit best freezes the set, thereby preserving non-associativity.
+
+Now, you can see the supplementary supplementary details in this 2025 paper for a mini review of how LLMs fail to capture higher-order language, if you want more specific cases in the literature for that than the ones I've already presented you. And the supplementary materials in the paper also provide a comprehensive table comparing different connectionist models of composition and how they compare with rows.
+
+Cuz rows is of course a, you know, symbolic connectionist, like a hybrid model. It's not a pure connectionist model.
+
+So, one of the interesting consequences, as I mentioned of this rows theory, is that we effectively get commutativity for free, given that we assume headedness is established via strength of packed active nodes. We don't have to stipulate some additional mechanism to allow for it, since it's not the order of packed complexes that matters, right?
+
+And there's a really nice review paper that came out this year in in this in this paper, which is in non-English, but you can easily translate it, that kind of compares different models, like my rows model with other, you know, Ding, Martin, and Kemmerer's models and looks at the kind of, you know, the pros and cons and strengths and weaknesses of different models and how they implement syntax in this dynamical oscillatory fashion. It's a very nice paper.
+
+This paper also gets five bags of popcorn.
+
+Um, so reflecting the ever-flexible nature of symbolic knowledge, we do not need to assume that frequency bands here are strict types with rigid functional interpretations, rather they're more likely to be what Martin calls tokens of processes with physiological bounds that render them into functional types.
+
+So, for example, the obvious case here is uh children's low-frequency cortical tracking of syntax has been shown by Usha Goswami and other people to be slightly different from the adult brain.
+
+The canonical frequency band itself is less important than the causal structuring force of the signal.
+
+These are reflective of endogenous timescales of specific computations, rather than being fixed bounds. So, what's critical is the logical and causal relations of neural structures in this distinct causal landscape of explanatory structures invoked by rows, and less the kind of narrow, you know, 4.2 Hz versus 4.1 Hz sorts of questions.
+
+So, do different types of macro versus microscale traveling waves form their own internal hierarchy of sensitivity to distinct structures or higher-order relations in language processing, right?
+
+So, e.g., global situation model maintenance versus local phrase structure and coordination. That's a future That's a question for for future research, as in what type of workspace is being constructed and can different workspaces yield different traveling wave signatures in terms of, you know, the speed and spread of the wave.
+
+Uh excellent framework has already been provided here by Elman's work.
+
+So, he assumes that one set of emergent properties, organization of coding and communication in subspaces, is observed at the local spiking level, and another set of properties, oscillations that can bidirectionally influence spikes and organize cortical information flow, is observed at the mesoscale network level.
+
+So, for him, organized traveling waves execute computation in the brain through so-called slow low-frequency waves, which can actually rapidly impact electric fields and are not slow at all, but they're slow waves, but they don't impact the brain in a slow manner.
+
+Uh Miller has a content versus control model. So, for him, content in working memory, I should say, working memory content seems to be indexed by gamma, and control, some type of manipulation, seems to be indexed via alpha and beta.
+
+Now, that model that he proposed a few months ago in this current opinion paper is not dissimilar to rows, right? It's very kind of analogous to the way that we're thinking about how to implement and execute control versus content, or in other words, the classical, you know, distinction in cognitive science between computation and representation, or, you know, things and events, right?
+
+Nouns and verbs, what what the entity is versus how you manipulate it.
+
+Um, so, here's another lesson from the history of science, this time via Mike himself.
+
+If you keep interrogating deeper and deeper, getting more precise and causal mechanistic, then as Mike says, you eventually end up in the math department, right? And that's where the language sciences and cognitive neuroscientists should also be heading, I think, right? Our get Our aim is to interface eventually with elements of the of the math department, you know, probably the applied math department, right?
+
+Uh so, how can we get there?
+
+So, here's I'm going to spend some time now focusing on some case studies. I've already presented the rows model, but I promised you that I'm going to try and cash out more explicitly the algebraic connections with rows. Now, I've mentioned some way in which rows can respect um algebraic properties of language and kind of offer a concrete linking hypothesis between Marr's levels of computation, algorithm, and implementation. But, I want to explore some other candidates, too, and other ways of cashing this out.
+
+So, there's an excellent paper by Matilda Marcoli at Caltech and Robert Berwick at MIT, who focus on rows as a plausible candidate theory for syntax.
+
+Um, they write a proof showing that the mechanisms of rows, like phase synchronization, can be mathematically connected to the algebraic properties of merge, uh providing hints towards an explanatory theory of neurolinguistics, whereby the way that they formalize and mathematically formalize the theory of merge in generative grammar using hopf algebra and category theory, you can draw a mathematical um direct line of communication to the mathematical tools that they use to formalize that with the way that you connect and formalize things like phase synchronization.
+
+Um, now, there is an open question here for everyone in the field, which is, how can we guarantee that the structures generated by rows comply with non-associativity, rather than simply generating node boundaries just in case the structure turns out to be non-associative, right?
+
+That's a tricky question. But, there's some ways that we can think about dealing with that. But, you want to make sure that when you're building this kind of oscillatory model of of of structures, that it's not breaking associativity just just in case it happens to be a linguistic object.
+
+You want to make sure that no, no, in this case, this is a linguistic object, linguistic structure, and not a non-linguistic structure that has a similar initial structure configuration to it, right?
+
+Um, so, that's one of many questions for for future research.
+
+But, if if mathematical linguists uh can point more easily to rows-compliant neural processes than to others, then this leads us towards an exciting terrain of previously inaccessible neurolinguistic research, right? Where previously um cognitive, you know, psychological [snorts] theory and cognitive neuroscientists have been adjudicating between different theories based on other criteria, right? The criteria is the usual ones. Does it predict an N400 response, you know, yes or no, type of thing. Does it predict a P600 response in this time window, yes or no.
+
+Um, we can now add an additional constraint from the realm of, as Mike would call, platonic forms, right? This more abstract space to draw direct lines of formal communication between computational, algorithmic, and implementational levels.
+
+So, here's another candidate, too, right? I mentioned Marcoli and Berwick.
+
+In July 2025, they had this preprint.
+
+And then this month, uh a few days ago, actually, uh David Adger has a new book out with MIT Press, which I think is open access, I'm pretty sure.
+
+Um, it's a really excellent book.
+
+He argues for a new theory of syntax that replaces set-theoretic, category-theoretic merge with mereological syntax, right? So, there's mereological sums involving part-whole relations, where you have a mereological object like, you know, X and Y, where Y is part of of the X uh object. And in this case, he would conceptualize a phrase like X and Y not as X merge with Y, but as X and Y becoming a proper part, right? So, in in his case, he thinks about subjoin, right? Where X is part of Y, instead of it simply being X and Y are together part of a set, right? Where but but they're still in principle separable.
+
+Um, so, his theory is much more kind of mathematically relational, whereby there are intrinsic deep connections intrinsically between the representations that you're manipulating and the structures that they build. They're the same system, right? It's all just one big part-whole relation.
+
+Uh the formal details here don't matter as much, but I'll just kind of cash out and extract some of the most interesting lessons from David Adger's text.
+
+Uh now, at this point, it doesn't matter if you subscribe more to the kind of merge-based theory of syntax or Adger's theory of syntax. The point is, we want to extract different predictions and how we can use mathematical theories to negotiate questions in uh the cognitive sciences and cognitive neurosciences.
+
+So, Adger uses part-whole relations via mereological formalism, whereby Marcoli and Berwick use category-theoretic magmas.
+
+Uh Adger highlights the necessity of cyclic local integration steps. That's really a core part of his um formal system. While Marcoli and Berwick highlight the role of cross-frequency and synchronization mechanisms as not just correlative, but necessary for building recursive structure, if we're assuming the connection between category-theoretic merge and phase synchronization the way that they do.
+
+Adger's part-whole subjoin operation, which he uh aims should replace merge, speaks directly to the mereological nature of multiplexed part relations, right? While Marcoli and Berwick's framework is mathematically sympathetic more to phrase phase synchronization, right? It's can also be cashed out with pack, as they say, but it's most directly related to phase synchronization.
+
+So, different mathematical formalisms will be more or less directly translatable into processes at different scales within your organization.
+
+Hence, will yield distinct experimental predictions for which types of neural signatures will drive syntactic inferences, right?
+
+So, by ensuring that the algorithms the brain uses respect the formal design features of human language, we help align experimental neuroscience with what we know about the nature of language.
+
+So, for example, perhaps the intimate relation between lexico-syntactic and semantic processing in the brain's language network speaks more to adj-thesis that lexical features are inherently part of syntactic objects than it does other theories that posit a starker representational divergence between units and operations. Now, many points to make here. There is already certain evidence that these two things, uh syntax and semantics and lexicality, are potentially more dissociable depending on the regions, depending on your recording modality, depending on your scale of neural complexity, dep- depending on your theory of language, right?
+
+But, I'm just I'm not settling this issue here. I'm just opening this as a kind of, you know, a plausible space of of contention.
+
+But, unlike merge, uh adj-subjoin operation doesn't create a nested set, but a new object where both inputs are parts.
+
+No separate, you know, categorization labeling object is required since the composite's identity arises from its parts.
+
+So, mapping this model more closely to psycholinguistic variables, I think will be really uh important here at this point, right? Cuz it'll give you assumptions about the presence or absence of neural signatures pertaining to headiness that would differ from a Coli and Berwick model, right? Because they have a very explicit um uh more uh an account of labeling which is uh kind of necessary.
+
+In contrast, Marcoli and Berwick propose merge as a binary magma operation via category theory, formalizing this as addition in a semi-ring with entropy minimization defining combination.
+
+All right? So, they take merge from naive set theory. They partially formalize it into category theory, and then they formalize it again uh via this apparatus. So, this operation And again, once you do that, that helps you connect with phase synchronization, right? Um this operation can be implemented by simple neural by a simple neural circuit binary gate computing a join of two input functions.
+
+The use of a commutative non-associative semi-ring for syntax by Marcoli and Berwick, I think suggests that any neural implementation must allow combining signals without order bias and without averaging away hierarchy, right?
+
+>> [snorts] >> Which naturally points to oscillatory binding for me rather than say simple additive firing rate summation.
+
+So, for Marcoli and Berwick, a uh plausible neural mechanism for merge must allow reversible composition and and decomposition since hopf algebras have inverses as co-operations.
+
+Uh this points toward dynamic patterns like oscillations that can flexibly bind and unbind representations. A stable firing rate pattern summing two inputs might not easily be decomposed into the inputs again.
+
+By contrast, oscillatory phase coding can be more naturally parsed back into constituents.
+
+Uh similarly, if we focus only on one specific frequency band or ERP component, right? We likely blur parent-child relations in any hierarchical representation. Right? So, how can compositional syntax emerge from high-frequency gamma activity activity um in isolation on its own?
+
+There are no accounts, as far as I know, for how we can ground syntax in monocausal signatures, right? Like an like a P600. It just doesn't work that way.
+
+Again, there are correlations with the P600 and N400, but that's not a theory.
+
+Uh Marcoli and Berwick prove that the algebraic structure of human syntax centered on merge as a free commutative non-associative operation can be faithfully embedded in a function space governed by the thermodynamic semi-rings and optimized by Rényi entropy.
+
+By modeling lexical items as wavelet-based functions and syntactic combinations as entropy-regularized additions, a novel blueprint for neurolinguists can eventually be assembled.
+
+The recursive, non-associative, and information-sensitive structure of merge here mirrors properties observed in cortical oscillatory dynamics such as cross-frequency coupling and spike-phase coordination.
+
+These insights suggest specific empirical targets.
+
+For instance, cortical circuits that minimize local entropy under compositional constraints or that exhibit nonlinear gain modulation aligned with Renyi Rényi-like cost functions during structure building.
+
+Future intracranial uh or high-density MEG uh experiments can test whether syntactic processes engage such entropy-sensitive wave interactions, thereby grounding formal language theory in neurophysiological um computation.
+
+Ramping neural engagement for semantic composition has already been well documented in high-frequency cortical recordings, but constraining the hypothesis space towards more specific mechanistic candidates for composition, right? As in the merge uh two tree tree structures and hopf algebra Markov chain in Marcoli and Berwick, remains a clear challenge for contemporary cognitive neuroscience.
+
+Rel- Relatedly, if merge is to be seen as an operation involving minimization and entropy functionals, there may be certain routes from the active inference world that might prove and that might provide support here.
+
+Now, we would also expect Rényi entropy cost to be associated with general neural complexity metrics and oscillatory complexity. For instance, PAC modulation index, you know, MI strength, and phase concentrations can be converted to distri- discrete probability distributions from which Rényi entropy can be computed, right?
+
+There's lots of ways to cash this out.
+
+Um specific parsing windows um when merge is expected to occur should exhibit a reduction in Rényi entropy in high gamma amplitude distribution, like more structured focused activation, or impact strength between relevant bands. Depending on how you, you know, uh model your uh theory of neural computation.
+
+So, psychological theory and theoretical linguistics seek to uncover what kind of neural machinery could carry the load that syntactic theory says the brain must perform.
+
+But, the only way this will happen is if linguists and psychologists of language formalize their models of language knowledge and processing in more algebraically explicit ways.
+
+There's a reason why Galileo said mathematics is the language, you know, the universal language of uh of science.
+
+Keeping to naive models of hierarchy and basic graph-theoretic models of uh tree structures will likely be insufficient for offering more acute experimental predictions for direct cortical recordings in the human brain.
+
+So, just stepping back a bit here now, I've offered a number of mathematical and causal uh explanatory candidates for how uh the human language faculty can be neurally enforced.
+
+So, let's think more about causation here. I already mentioned it uh very briefly.
+
+Uh David Lewis once said that there are infinite possible causes for any event in the world, right? There are surely many lower-order causal structures that subserve syntactic inferences. But, Rose places greater emphasis on the mesoscale configurations as a way of reframing, I think, where the heart of neurolinguistics should lie, right? I'm not dismissing or um you know, discounting the importance of these lower-order structures that I mentioned at the R level or sub-R level, but I'm just claiming this is where I think the heart of neurolinguistics should be, right? In a similar way that Friederici used to say that the uh the seat of syntax was in IFG and not in, you know, IPL, I'm kind of saying that the seat of syntax is at this specific scale.
+
+Uh scientists often say uh causes should always produce their effects. Well, again, ideally, yes. Uh it sounds reasonable, but it's much too ambitious in reality for most scientific models in the life sciences, right? So, how we think about causation in neurosciences is is very different from how we think about it uh in other sciences, but I think the point to be to be made here is that we need to think more carefully about what it means for us to assess causal evidence in neuroscience in relation to these sorts of models, right? So, for example, if you stimulate a part of um uh mid-fusiform gyrus during lexical processing, the patient may experience uh alexia or some kind of a semantic, you know, uh paraphasia or something, some kind of deficit in processing.
+
+And then you can say, "Well, okay, there's probably good evidence that this structure is causally involved in this process." But, then you can also stimulate a part of, for example, anterior temporal lobe laterally, and let's say there's no deficit, no immediate deficit.
+
+Uh many people will then can claim, "Okay, well, this is causal evidence that lateral ATL is not involved in the behavior that we're talking." But, that's not true at all, right?
+
+You haven't shown that whatsoever. All you've shown is that um stimulation did not lead to a reduction in performance, but it's also possible that other parts of the brain can um help uh carry the slack here, right? Uh be supporting uh processing um uh features of the behavior in question, right? So, just because you stimulate ATL and there's no behavioral disruption, doesn't mean actually that ATL is not involved in the behavior. And there's many other things as well in terms of how we can uh use uh you know, different types of um stimulation uh extra-extracranial, you know, stimulation techniques, TMS and tDCS and all these sorts of um methods to manipulate um oscillatory dynamics in a way that can improve our causal resolution. But, these questions still have to be kind of um entertained in the background before uh making strong causal claims.
+
+Um and ultimately, of course, a scientific theory is only as successful as the number as the number of new interesting research questions it helps open up, right? Uh and you know, luckily, Rose has been used productively, I think, to frame and explain a range of neuroimaging and EEG results in the literature. And forthcoming work with uh multiple labs who I'm working with and other labs too, uh will explore how Rose can help researchers ask new questions about the neural implementation of second language acquisition, dependency resolution, uh and lexical semantic processing.
+
+Okay, uh the subtitle of the paper that I uh mentioned in Cognitive Neuroscience in 2025, the paper is Rose, a Universal Neural Grammar. Okay, so so far I've talked about the Rose part, but I haven't really talked about the Universal Neural Grammar part. So, let's do that for a little bit.
+
+Uh I'm claiming here that Rose matures in accordance with a genetically determined biological matrix.
+
+So, this implies an innate endowment for the neural organization of syntactic computation, and therefore an innate competence for these platonic for how these platonic forms that Mike would be interested in ingress into types of neural organization that I'm framing here.
+
+So, children use hierarchical knowledge and statistical learning jointly.
+
+Uh the SNE levels interface via cross-frequency coupling with probabilistic RLs, right? That's the that's the prediction here. That's how language learning is achieved.
+
+Uh Rose's innateness claim rests on several converging empirical and theoretical points that I'll just review here very briefly. So, lots of points I mean, each of these points is worthy of their own lecture, but I'll just uh go through them quickly.
+
+Uh structure dependence appears early in development. Infants already compute hierarchical rather than linear relations, 18-month-old infants even.
+
+There's evidence for endogenous syntactic organization, right? So, cross-frequency mechanisms implement recursive structure building and headedness in a way that is independent of learned statistical patterns, suggesting that these are pre-specified motifs.
+
+There's a species specificity and developmental maturation in language, right? The UNG claim, Universal Neural Grammar, at Universal Neural Grammar claim posits that all human brains instantiate this multi-level oscillatory infrastructure for syntax, which develops but is not learned, similar to all other neurobiological systems with constrained plasticity.
+
+I've already mentioned the know-how of merge point, the fact that merge itself is unlearnable, right? You simply cannot learn it.
+
+Um there's the classic poverty of the stimulus arguments that are also always important here, right? It's always important to emphasize the POS arguments. Uh children uniformly converge on complex syntactic rules that are not derivable from surface level statistics, right? Statistics is not the same things as a structure.
+
+Structure and statistics are different, and we use them very uh you know, they interface in in very tight um and important ways during processing and and acquisition, but they are fundamentally not the same thing.
+
+And then finally, the usual neurolinguistic insights, right? So, EEG and MEG studies show that the types of cross-frequency coupling dynamics invoked by Rose uh track hierarchical phrase structure and syntactic closure, so moments of closure, in both adults and infants in ways that are updated by the statistics of language, but which are not reducible to statistical information.
+
+And children as young as 7 months show sensitivity to the typical word order pattern of their parents' language, right? Uh of course, you can say, "Well, statistics cues this for them." Sure, of course, but the principles of phrase structure are domain specific.
+
+Children don't invent the notion of head or structure or constituency, right?
+
+Even by 18 months, they show sensitivity to non-local dependencies.
+
+I see also here the work of Charles Yang.
+
+Uh an innate structural scaffold seems to interact with general learning biases, right? So, we have this innate language knowledge to do with uh Rose-centric merge stuff, but then we also have learning biases. [snorts] For Yang, he you know, talks about the tolerance principle and other things like that. When we add in constraints reflective of UG, like you know, assume that there are categories and phrase boundaries, then statistical learning becomes far more efficient.
+
+So, it's not really again, to go back to the LLM question, it's not really about statistical learning versus innate structure or statistics versus structure. It's rather structural inferences versus statistics, and and how else can it be, right? That's the only way it can be.
+
+Um also see the case of Nicaraguan Sign Language, this really remarkable case where uh children rapidly and effortlessly acquired um a recursive grammar in the absence of explicit instruction and any decisive evidence.
+
+But of course, there's still a very strong obsession with learning in the field of AI. Everyone talks about learning, right? Uh of course, this is partly driven by the nature of the enterprise, ML, but this also has a problematic implements when it bleeds over into domains of psychology and cognitive science. Not everything has to be learned.
+
+And then a slightly tangential point here, Susan Carey has argued quite nicely that there is no good evidence for non-linguistic deductive reasoning involving the disjunct uh disjunctive syllogism, and that animals and prelinguistic children probably don't make logical inferences. Again, this goes back to the point I made earlier about syntax being uh a type of thought system, especially in relation to things like inductive definitions and counterfactual reasoning and things like that.
+
+Now, having said that, in the literature, there are some nice examples um which are still fully connectionist, but at least trying to uh move away from uh you know, the 2017, 2018, 2019 types of approaches to uh LLMs and how they can be uh relevant to NLP research, and towards a more kind of biologically plausible framework, right? So, this hierarchical reasoning model is explicitly uh influenced by uh theta-gamma coupling dynamics and other things like that. So, neurobiologically partially neurobiologically plausibly informed, if not, you know, a genuine um replacement for the sort of thing I'm talking about. Nevertheless, these considerations I think help refine these sorts of um uh questions.
+
+So again, coming back to causation, um in the 17th century, the mechanical philosophy, right?
+
+Uh so, explanations in terms of contact mechanics with deterministic interactions. That's a kind of intuitive definition of mechanism.
+
+The imaginative space of cognitive neuroscience mostly remains within this kind of pre-Newtonian, you know, Cartesian mechanism mechanistic bounds, despite evidence for a distinct and complex causal landscape, right? There's many distinct causal logics in the brain that are entertained, and uh you know, most fields uh in the cognitive sciences, in the kind of you know, human cognitive neuroscience, tend to focus on their favorite type of causal logic and just focus on that as being the main explanatory driver of any form of behavior. But as I said before, what I've tried to do with Rose is uh have a much more kind of pluralistic perspective on uh this causal landscape.
+
+So, there's no reason to remain reductionist about the causal structure of mental content. Downward causation, which is really the main theme here, right? This whole talk I've essentially been hinting at the theme of of downward causation, but I've never mentioned it um until now.
+
+But downward causation is readily apparent in the brain, and the neuron doctrine died some years ago. In fact, the neuron doctrine was explicitly inspired by uh late 19th and mid-20th century kind of neuroscience into motor uh and sensory motor uh processing. And we've kind of exported a lot of our theories of what neural computation is from 20th century motor neuroscience into the uh study of human language, which I think is a mistake.
+
+Uh so yeah, the neuron doctrine died.
+
+How?
+
+Well, there's increasing evidence that the central functional unit of the brain is not the cell. Cells obviously contribute to function, but they don't causally anchor it. There's also emerging evidence that types of behaviorally relevant information, not just any old information, available at the LFP level are not recoverable in single units.
+
+Although single neurons constitute the basic units of the nervous system, their impact on information processing is contingent on their interaction with the specific synaptic connection patterns of underlying neural circuits, which is why we can say localization is not explanation, dot dot dot, but it helps, right? Localization of course is not explanation, obviously, but it's very important to kind of know where you are to help narrow down these mechanistic um questions.
+
+So, consider also Dara Sarris' work, where she's mapped this uh Oh yes, stubby spiky. I earlier tried to remember this, right? Uh animate versus inanimate, and then spiky versus stubby um [snorts] concepts in uh ventral uh uh temporal and lateral lateral temporal um uh priming cortex.
+
+And so, the question for us is, okay, if this is how a decent map of visual object recognition is, it's this conceptual space between animate and inanimate and spiky and stubby, um what is that going to be for language, right? So, just as higher order visual cortex may have inborn axes like that, the language system might have pre-specified dimensions such as predicate versus non-predicate or concrete versus abstract, right? That help organize concepts into syntactic rules.
+
+So, what are the relevant axes for conceptual combination in language? Is it event entity, predicate non-predicate, right? We don't know that. We have to uh think more about these sorts of questions, I think.
+
+And there's a very recent a very excellent paper uh that just came out on the archive uh maybe a few days ago, about a week ago, that tried to uh explore this hypothesis space in um a more explicit way. So, whereby different researchers can kind of be, you know, pegged along this um spectrum, whereby you assume waves are purely epiphenomenal, and it's mid-20th century motor view of, you know, spikes and behavior, um to a more um causally explicit view, where you assume that waves are in fact uh doing some element of computation. So, I've just briefly here, this is probably only partially accurate, but I've tried to just, you know, annotate where some researchers in the field would lie on this spectrum.
+
+Uh people like John O'Keefe and Buzsáki um down at number two, the classic Liz and Jensen model of working memory at three, uh, my stuff, uh, Rose at four, uh, Krishna Jayant, Popel and Miller at four, likely, and then people like Tononi and Llinas, Rodolfo Llinas, um, slightly higher, I think. This is not a perfect spectrum, but I think it helps, it's a very useful framework just for thinking about, um, what waves are doing, um, do they just impact behavior?
+
+Do they, um, you know, if if if waves are doing something causal, is it causal towards behavior or is it just causal back down to spikes, right?
+
+Uh, is it, uh, causal towards perception, but maybe not higher order cognition, right?
+
+These are the sorts of questions that I think the the field is, of course, trying to tackle right now.
+
+Uh, and this is a nice type of way of thinking about this type of, uh, a framework.
+
+Uh, so, as I've as I've already kind of hinted, many researchers still think of causation exclusively through the what I call the Humean, you know, metaphors of driving a transfer of energy, the classic billiard balls example, but even synaptic transmission itself doesn't actually involve a transfer of energy.
+
+The causal connection is really just constraint satisfaction or signal transaction, right? And especially in in in the domains of of physics and chemistry, uh, the notion of constraint satisfaction is very, uh, salient and operative, and it's becoming more salient, I think, in the, uh, cognitive neuroscience of language.
+
+Um, in fact, the notion of constraint satisfaction has always been very salient in theoretical linguistics.
+
+So, biological causation often involves enabling or constraining rather than actually actively producing, right? Like funneling or canalizing and constraining.
+
+So, on that note, here's a few, uh, possible physical bounds on cortical computation that may yield explanatory power for neurolinguistics. Now, in a paper I've written with, uh, Karl Friston and Hameroff Holmes, um, we've already kind of talked about this, where we have the notion of algorithmic complexity being exported into the domain of syntactic theory, but there's also things like, uh, Shannon-Hartley theorem, the Bekenstein bound, uh, sphere packing and constraints, right, for the kind of topological structures.
+
+And each of these constraints will be relevant to different explanatory structures in neuroscience, right? I mentioned the five that I mentioned, um, and I think it's useful to kind of, uh, consider these as examples of that type of constraint satisfaction, the criterial causation that I mentioned.
+
+So, here's the paper, uh, in question that I mentioned with Holmes and Friston that talks about, um, using the language of statistical physics to offer a new first principles kind of grounding for the nature of, uh, syntactic complexity itself.
+
+And as I mentioned, there's surely many lower order causal structures that subserve syntactic inferences, but Rose places greater emphasis on mesoscale configurations as a way of reframing where the heart of neurolinguistics should lie. Now, this is partly ontological and partly methodological, right? Due to what we can actually record in the human brain and and what signals we are currently, um, getting.
+
+A final point about time scales of causality, which is very relevant, by the way, to, um, intracranial EEG. Scientists are often tempted to assign true causality to whichever causal factor occurs over the faster time scale, right?
+
+What what whatever's first, whatever's fastest.
+
+Uh, even when two causal factors may produce the same outcome with equal probability. Now, we're very guilty of this in human and cognitive neuroscientists, where we record different brain regions and we say, "Look, brain region one lights up the first.
+
+Brain region two lights up 30 milliseconds later, and then brain region three lights up 100 milliseconds later." And we're very quick to assign this kind of causal hierarchy based on temporal dimensions, but as you can see by consulting the Rose model, things ain't that simple.
+
+Uh, we may be eager to explain human language in terms of single cell behavior. That's pretty rapid, right?
+
+But true causality may involve downward causation from mesoscale dynamics, as in Rose. There are lessons to be learned here, too, but I'll just skip over that.
+
+So, uh, I think we should return to Aristotle's thesis of causal pluralism that entertains multiple interacting causal forces, which has been sidelined in contemporary mechanism-obsessed neuroscience.
+
+Now, people like Kevin Mitchell have written very nicely about this, too, so I recommend their work as well in in in this connection.
+
+So, you know, Aristotle has these material, formal, efficient, and final causes. Uh, some of them seem more mystical and magical, as Bacon called it, than others, but that's no longer being seen to be the case, I think, especially when we move into these more kind of abstract topological spaces and potentially non-causal models of, uh, of, uh, neural function.
+
+Francis Bacon, as I mentioned, uh, has some blame here. In the 17th century, he pushed the empiricist approach whereby only material and efficient causes were entertained, and, uh, the other, you know, formal and final causes, they were like telicity and, um, you know, the kind of, uh, the use and function and purpose of of an object were considered metaphysical or magical.
+
+Again, going back to the point I made at the beginning of this talk, it may seem intuitive that both brains and LLMs do very similar things, and neural function neural computation has to be executed in a particular way, but our intuitions about the three main branches of philosophy also turn out to be wrong.
+
+Right, so in epistemology, the intuition that no statement can be true and false at the same time, that's wrong. In ethics, the intuition that reducing pain and increasing happiness is the primary guiding principle of living an ethical life, no, that's way too simplistic. And in metaphysics, everything must have a sufficient causal reason, right?
+
+Leibniz's principle of sufficient reason, that's no longer assumed to be true, either.
+
+You can do some essays I've written about this if you're interested in, um, reading more about these these things.
+
+So, when we hear people say, uh, "but real understanding of the brain requires lower level causal details," well we say so, too, right? What's the reason for that?
+
+Um, and of course, when we read, as we often do on the archive, our artificial our artificial neural language model offers a biologically plausible account of language and composite compositionality, well, what are the concrete neurobiological predictions, right? If your artificial model is biologically plausible, well, then what are the experimental predictions across different scales of neural organization and complexity and temporal spatial resolution?
+
+So, scientific explanations, again, I mentioned science is in the game of explanation, prediction, and control.
+
+The ex- explanation part can be separated at least into causal, uh, and non-causal, right? Um, other potential distinctions, too, but certainly causal and non-causal is very central, where causal is, of course, cascades, pathways, mechanisms.
+
+Non-causal, although this is debatable whether mathematical and topological are partially non-causal, some of them might be, uh, causal, depending on the field.
+
+Um, and dynamical systems, too, right?
+
+But where do LLMs fit in here, right? I don't see where LLMs really fit in here.
+
+They're data-driven predictive models at best, right? And final final point here, that regression does not equal explanation, data does not equal theory, right? That's a separate component.
+
+So, there's been many calls for open, you know, open data, open code, you know, open access, all that kind of stuff, but I think we also need open theory. That's a real point that I want to, um, hammer home here.
+
+Um, researchers need to lay their inferential metatheoretical cards on the table, right? And not just do these sorts of, uh, experiments in cognitive neuroscience which are not mapped explicitly to a formal space.
+
+So, in conclusion, uh, diverse causal landscapes in the brain, uh, can derive distinct components of linguistic structure, and explanatory neurolinguistics will require the causal language of linguistics and neuroscience to be in sympathy.
+
+And this can't happen if we model language processing as centered on sequential probabilistic statistics, right? Cuz that's not what language is, right? That's not what it is at all.
+
+There is something unique about our species' evolutionary ecological niche, though it's maybe not as fashionable to say it these days.
+
+Um, we inhabit, more than any other species, a richly symbolic, logical, and causal mental realm.
+
+That's our internal mental space.
+
+And we should not be surprised, then, if sidelining these concepts in favor of statistical, functional, and frequentist tools offers little help in theory formation for higher order linguistic structures. Why is that? Another reason, too, here is that, um, you know, science is done through our mental science-forming faculties. It's a it's, to quote Cornel West, it's a very human thing, right? It's a human thing to do. Um, and if we forget that, if we think that science is done by, uh, some kind of angelic force and not by, uh, squishy, gooey, uh, neural stuff inside our skulls, then we will probably uh, sideline a lot of these important causal and symbolic, uh, structures and try and be, uh, more, you know, empiricist, data-driven, blah blah blah.
+
+There's nothing wrong with data-driven empiricist, uh, approaches to science, depending on the domain.
+
+They can be very complementary to theory work, but the point I'm making here is that if we're focused on human language, um, we really will be missing out on, uh, the core components of the system, because the core component of, uh, human language is not prediction. That's not what it is.
+
+In fact, I have a there's a I had my own reply commentary paper in cognitive neuroscience, uh, the cognitive neuroscience journal, in response to one of, uh, Parr and and Friston's, uh, papers a few months ago, if you want to read more about that.
+
+So, a mathematically explicit navigation of linguistic knowledge, these Platonic forms driving linguistic constituency structure, can help narrow down the list of candidate neural mechanisms for syntax, right? And that's I think that, like I said before, this was a previously inaccessible space of psychology and cognitive science, which I think is very exciting to explore.
+
+So, what about future directions?
+
+Well, we can explore how to align further these topics in experimental neurolinguistics, theoretical neuroscience through rows and other models, and mathematical models of linguistic computation. And not just linguistic computation, but other domains of cognitive science and psychology, right? Working memory, attention, other things like that.
+
+This can be achieved through experimentally probing the parsing of linguistic structures of various sizes, right? So, minimal compositional schemes, minimal morphosyntactic objects, up to naturalistically presented sentences.
+
+Uh we can do that in terms of how punctuated moments of symbolic inference occur alongside statistical processes.
+
+Now, crucially, they will always be alongside. There will never be any moment when your mind and your brain are purely doing statistics and purely doing symbolic inference. That's just not how it works. There's always a necessary integration, as I hypothesize via cross-frequency coupling. And other people like Hugo Weisman, Andre Martin in in their MEG work have tried to cash this out, too, in terms of how, you know, we can use MEG to look at cross-frequency coupling to negotiate these sorts of inferences. But, the point I'm making here is that we have to be much more explicit about the, you know, feature engineering that we engage in in our lab in our labs, plural, um for exploring these questions.
+
+And we can also do this through exploring the processing of different types of categories of composition, right? Um not just linguistic composition, but comparing how the brain and what mechanisms are involved in linguistic composition compared to geometric composition, melodic, mathematical structures, right?
+
+Uh in a minimal compositional scheme.
+
+In the theoretical space, this can also be achieved through exploring which psychological and computational theories of language and other other um faculties, too, can be formalized into a mathematical language that is more amenable to mapping into certain neurocomputational regimes.
+
+And that sounds um maybe ambitious, but it's actually not that that ambitious really, cuz like I said, even when you compare things like naive set theory, you know, X and Y equals XY, with category theory or mereological um models from algebra, even that simple transition does yield quite substantial differences in how you want to migrate things into neural um mechanisms. So, I think that's quite telling that already we're seeing evidence that the mathematical uh structures and algebraic recipe that we offer to neuroscientists can actually be immediately helpful in narrowing down the space of uh candidate models.
+
+Uh so, psychologists of language have the potential to help guide the search for the neural code of syntax in that case, right?
+
+Cuz they can provide cognitive neuroscientists with an explicit algebraic parts list to offer constraints. It may be possible to use the formal mathematical properties of language to help narrow the space of candidate mechanisms for how language is biologically implemented. This is an explanatory step that simply cannot translate into models of language that are purely box logical and localizationist, right? Like I said.
+
+And similar steps have already been made in psychological theories of working memory and attention with respect to constraining neural theories, but the language scientists are yet to catch up.
+
+So, yeah, thank you uh again to Mike for the invitation to be part of the symposium. Thank you to all of my collaborators for their help over the years with these, you know, experimental and theoretical types of issues.
+
+Uh and uh one final point here. Uh in recent years, the cognitive neurosciences have overwhelmingly embraced functionalist statistical methods and models, marginalizing algebraic symbolic accounts of how platonic forms may ingress into biology.
+
+And I'll just leave this quote here from Thomas Arnold, um kind of reflecting more on what it means and what it uh you know, what we can do when we're in a space where a field has potentially moved on into a domain where uh you know, progress is being achieved in a way that does not uh truly align with the necessary kind of design features of what we know human language um can do.
+
+And thank you again to Mike for inviting me to speak alongside these uh these other uh uh renunciants, so to speak, to quote Arnold, uh who are interested in platonic forms and how they can inform uh the study of biology and uh and mind.
