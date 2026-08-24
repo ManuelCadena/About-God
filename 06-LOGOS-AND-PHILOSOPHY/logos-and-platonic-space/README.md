@@ -30,6 +30,11 @@ Transcripciones limpias e indexables del simposio completo (36 videos).
     (con escena 3D de conos anidados), el argumento completo de **Karl Friston** paso a paso
     (con escena 3D de Markov blankets anidados y flujo al atractor) y la **teoría transmisiva de Nic Rouleau**
     (cerebro como interfaz/antena, con diagrama SVG). Fuentes adicionales: transcripciones del canal @drmichaellevin.
+  - v3 (2026-08-24): nueva sección 8b **Whitehead en profundidad** (Matt Segall): vocabulario procesual completo
+    (ocasiones actuales, objetos eternos, ingresión, prehensión, concrescencia, polos, creatividad),
+    crítica al modelo thin-client, alternativa procesual, "la eternidad crece" y diálogo con Levin;
+    con 4 diagramas SVG (ciclo de concrescencia, cielo de diseños vs continuo de potenciales, línea de los elefantes).
+    Documento interno de trabajo — no publicado.
 
 ## Archivos
 
