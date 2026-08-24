@@ -25,7 +25,11 @@ Transcripciones limpias e indexables del simposio completo (36 videos).
     causalidad asimétrica, biología como navegación en morfoespacio, mente-cuerpo como interfaz,
     IA/lenguaje/cultura, tensiones filosóficas, mecanismos de ingresión, espectro de agencia,
     agenda de investigación, mapa de contribuciones de los 36 videos, glosario y una escena 3D interactiva.
-  - Los gráficos están en SVG puro (alta resolución) y la escena 3D usa Three.js vía CDN.
+  - Los gráficos están en SVG puro (alta resolución) y las escenas 3D usan Three.js vía CDN.
+  - v2 (2026-08-24): capítulos expandidos con secciones en profundidad sobre los **conos cognitivos de Levin**
+    (con escena 3D de conos anidados), el argumento completo de **Karl Friston** paso a paso
+    (con escena 3D de Markov blankets anidados y flujo al atractor) y la **teoría transmisiva de Nic Rouleau**
+    (cerebro como interfaz/antena, con diagrama SVG). Fuentes adicionales: transcripciones del canal @drmichaellevin.
 
 ## Archivos
 
