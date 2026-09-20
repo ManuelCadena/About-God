@@ -1,6 +1,6 @@
 # Síntesis de Karl Friston para el capítulo *About God*
 
-> **Origen del corpus:** 13 entrevistas y charlas transcritas de la playlist *Karl Friston interviews* (https://www.youtube.com/playlist?list=PLrCEywc-GNcbqbBF66xTWRJF6M-2CAhA7), más dos fuentes preexistentes: *Lex Fridman Podcast #99* y *StarTalk: Scientists Discuss The Science of Perception & AI*.
+> **Origen del corpus:** 14 entrevistas y charlas de la playlist *Karl Friston interviews* (13 transcritas vía subtítulos de YouTube y 1 —*Redes 111*— recuperada desde RTVE), más dos fuentes preexistentes: *Lex Fridman Podcast #99* y *StarTalk: Scientists Discuss The Science of Perception & AI*.
 > **Fecha de síntesis:** 2026-09-20.
 
 ---
@@ -64,6 +64,10 @@ La autopoiesis (término de Maturana y Varela) encuentra aquí una formalizació
 
 **Conexión con *About God*:** si Dios se concibe como un principio organizador o como la fuente de la existencia, el Principio de Energía Libre describe la *lógica formal* que cualquier sistema existente debe satisfacer, sin comprometerse con la naturaleza de ese principio primero. [Interpretación del sintetizador]
 
+### 3.4 Autoorganización y "criticalidad autoorganizada" (Redes 111)
+
+En la entrevista con Eduard Punset, *Redes 111: La fórmula del cerebro* (https://www.youtube.com/watch?v=ykW6C_uSghI; transcripción disponible en https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml), Friston presenta la autoorganización como la manera en que algo se organiza a sí mismo, algo "tremendamente complicado pero a la vez fundamental para explicar por qué estamos aquí". Distingue entre sistemas autoorganizados inorgánicos (un copo de nieve) y sistemas biológicos: la diferencia esencial es, de nuevo, que los segundos se mueven. El cerebro, afirma, es un "artilugio muy constructivo y muy activo que intenta forjar hipótesis y explicaciones para lo que observa", lo cual entronca con la noción platónica de forma que subyace a las impresiones de los sentidos.
+
 ---
 
 ## 4. Friston sobre conciencia, autoconciencia, mente y libre albedrío
@@ -120,7 +124,7 @@ Esto no implica un solipsismo barato. Friston es realista en el sentido de que l
 
 ### 6.3 Psicopatología como inferencia fallida
 
-En *Dysconnection Hypothesis of Schizophrenia Karl Friston* (https://www.youtube.com/watch?v=QQzXFiudJc8) y *Bayesian Theories of Perception and Cognition* (https://www.youtube.com/watch?v=aWEBVY4PFZE) se aplica el marco a trastornos psiquiátricos. Alucinaciones y delusiones se interpretan como inferencias patológicas: modelos generativos que atribuyen causas incorrectas a las sensaciones. La esquizofrenia, por ejemplo, puede entenderse como una alteración en la precisión (peso) de los errores de predicción, lo cual desestabiliza la frontera entre el propio cuerpo y el mundo.
+En *Dysconnection Hypothesis of Schizophrenia Karl Friston* (https://www.youtube.com/watch?v=QQzXFiudJc8), *Bayesian Theories of Perception and Cognition* (https://www.youtube.com/watch?v=aWEBVY4PFZE) y *Redes 111: La fórmula del cerebro* (https://www.youtube.com/watch?v=ykW6C_uSghI; transcripción RTVE: https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml) se aplica el marco a trastornos psiquiátricos. Alucinaciones y delusiones se interpretan como inferencias patológicas: modelos generativos que atribuyen causas incorrectas a las sensaciones. La esquizofrenia, por ejemplo, puede entenderse como una alteración en la precisión (peso) de los errores de predicción, lo cual desestabiliza la frontera entre el propio cuerpo y el mundo. En *Redes 111*, Friston compara la esquizofrenia con un científico cuyos "instrumentos estadísticos están estropeados", llegando a deducciones falsas y engañándose sobre sus datos.
 
 ---
 
@@ -175,15 +179,15 @@ El Principio de Energía Libre describe cómo cualquier sistema existente debe t
 11. **Bayesian Theories of Perception and Cognition** — https://www.youtube.com/watch?v=aWEBVY4PFZE (modelos bayesianos, percepción y enfermedad mental).
 12. **Simon DeDeo - Behavior without Utility** — https://www.youtube.com/watch?v=pOqQhXrIIIs (filosofía, comportamiento sin función de utilidad).
 13. **Richard Menary - Predictive Engines and the Free Energy Principle** — https://www.youtube.com/watch?v=r9-jEtVZyUU (motores predictivos y principio de energía libre).
+14. **Redes 111: La fórmula del cerebro - neurociencia** — https://www.youtube.com/watch?v=ykW6C_uSghI (entrevista de Eduard Punset a Friston en español; transcripción recuperada desde RTVE: https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml).
 
 ### Fuentes preexistentes
 
-14. **Karl Friston: Neuroscience and the Free Energy Principle | Lex Fridman Podcast #99** — https://www.youtube.com/watch?v=ur6ZYFjHX1c (visión general para público general; conexión con consciencia, IA y sentido de la vida).
-15. **Scientists Discuss The Science of Perception & AI (StarTalk)** — https://www.youtube.com/watch?v=3p4JGPjo1i8 (entrevista con Neil deGrasse Tyson; IA, percepción, conciencia).
+15. **Karl Friston: Neuroscience and the Free Energy Principle | Lex Fridman Podcast #99** — https://www.youtube.com/watch?v=ur6ZYFjHX1c (visión general para público general; conexión con consciencia, IA y sentido de la vida).
+16. **Scientists Discuss The Science of Perception & AI (StarTalk)** — https://www.youtube.com/watch?v=3p4JGPjo1i8 (entrevista con Neil deGrasse Tyson; IA, percepción, conciencia).
 
 ### Videos no disponibles para transcripción
 
-16. **Redes 111: La fórmula del cerebro - neurociencia** — https://www.youtube.com/watch?v=ykW6C_uSghI (video en español sin subtítulos disponibles; descarga de audio bloqueada).
 17. **Video privado/oculto de la playlist** — https://www.youtube.com/watch?v=HeQfO4byFhg (privado; requiere autenticación del propietario).
 
 ---

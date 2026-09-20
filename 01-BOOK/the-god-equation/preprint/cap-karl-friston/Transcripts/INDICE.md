@@ -3,8 +3,8 @@
 - **Playlist transcrita:** [Karl Friston interviews](https://www.youtube.com/playlist?list=PLrCEywc-GNcbqbBF66xTWRJF6M-2CAhA7)
 - **Fecha de generación:** 2026-09-20
 - **Videos en la playlist:** 15
-- **Transcripciones completas obtenidas:** 13
-- **Videos no disponibles:** 2 (privado / sin subtítulos ni descarga permitida)
+- **Transcripciones completas obtenidas:** 14 (13 vía subtítulos de YouTube + 1 vía transcripción publicada de RTVE)
+- **Videos no disponibles:** 1 (privado; requiere autenticación del propietario)
 - **Ubicación del capítulo:** `Cap Karl Frison/` dentro del libro *About God*
 
 ## Estructura temática
@@ -59,12 +59,16 @@ Fuentes que ya estaban en la carpeta del capítulo antes del scraping; se integr
 
 1. [Simon DeDeo - Behavior without Utility](06%20-%20Philosophy%20and%20Epistemology/001%20-%20Simon%20DeDeo%20-%20Behavior%20without%20Utility.md)
 
+## 09 - Interviews and Longform Conversations
+
+1. [Redes 111: La fórmula del cerebro - neurociencia](09%20-%20Interviews%20and%20Longform%20Conversations/001%20-%20Redes%20111%20-%20La%20formula%20del%20cerebro%20-%20neurociencia.md)
+
 ## Videos no disponibles
 
 | # en playlist | Título | ID | Razón |
 |---|---|---|---|
 | 10 | Sin título (oculto / privado) | `HeQfO4byFhg` | Video privado; requiere autenticación del propietario. |
-| 12 | Redes 111: La fórmula del cerebro - neurociencia | `ykW6C_uSghI` | Sin subtítulos automáticos ni manuales; descarga de audio bloqueada (HTTP 403). |
+| 12 | Redes 111: La fórmula del cerebro - neurociencia | `ykW6C_uSghI` | Transcripción recuperada desde RTVE (https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml); no accesible vía subtítulos de YouTube ni descarga de audio. |
 
 ## Archivos en cada carpeta
 

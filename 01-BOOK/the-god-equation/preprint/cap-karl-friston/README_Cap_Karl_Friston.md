@@ -20,13 +20,14 @@
 - `03 - Consciousness and the Mind`: conciencia, cognición encarnada, percepción bayesiana.
 - `04 - Neuroscience and Psychiatry`: neuroimagen, modelado causal, esquizofrenia, codificación predictiva.
 - `06 - Philosophy and Epistemology`: comportamiento sin utilidad, epistemología bayesiana.
+- `09 - Interviews and Longform Conversations`: entrevistas extensas, incluyendo `Redes 111` en español.
 
 ## Videos transcritos
 
 - **Playlist origen:** https://www.youtube.com/playlist?list=PLrCEywc-GNcbqbBF66xTWRJF6M-2CAhA7
 - **Total en playlist:** 15 videos
-- **Transcritos exitosamente:** 13
-- **No disponibles:** 2 (video privado `HeQfO4byFhg`; video en español `Redes 111` sin subtítulos ni descarga permitida)
+- **Transcritos exitosamente:** 14 (13 vía subtítulos de YouTube + 1 vía transcripción publicada de RTVE)
+- **No disponibles:** 1 (video privado `HeQfO4byFhg`)
 
 ## Cómo usar el material
 
@@ -36,6 +37,6 @@
 
 ## Próximos pasos sugeridos
 
-- Obtener o corregir la transcripción del video `Redes 111: La fórmula del cerebro - neurociencia` (español).
-- Validar frases exactas contra el audio antes de usarlas como citas académicas directas.
+- Validar frases exactas de `Redes 111` contra el audio de RTVE antes de usarlas como citas académicas directas.
+- Recuperar el video privado `HeQfO4byFhg` si el propietario concede acceso.
 - Cruzar esta síntesis con el capítulo de Michael Levin para el puente vida-cognición-agencia.

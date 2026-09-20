@@ -1,0 +1,131 @@
+Título: Redes 111: La fórmula del cerebro - neurociencia
+Canal/Programa: RTVE Redes — Eduard Punset entrevista a Karl Friston
+URL: https://www.youtube.com/watch?v=ykW6C_uSghI
+Fuente de transcripción: https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml
+Duración: ~27 minutos
+Idioma: español
+Nota: Entrevista sobre autoorganización, inferencia, esquizofrenia, Alzheimer y genialidad/locura.
+
+Imaginen por un momento que (a ver si les ha ocurrido alguna vez) de repente te invade una idea que te perfila el carácter de una persona, te descubre algo esencial de una persona, de un objeto o de un proceso; y no hay manera de saber cómo se me ha ocurrido, cómo me ha venido esto a la cabeza.
+Es curioso. ¿Les ha pasado esto alguna vez? Los científicos lo llaman, a esto, criticalidad autoorganizada.
+Karl Friston, es maravilloso tenerte en el programa.
+En primer lugar, me gustaría preguntarte en qué consiste la noción de criticalidad autoorganizada.
+De pronto notas algo y no sabes por qué, y describís este fenómeno con un nombre muy complicado y complejo: criticalidad autoorganizada. ¿A qué os referís?
+Autoorganización
+Karl Friston:
+Creo que la autoorganización es justamente lo que su nombre indica, es decir, la manera en la que algo se organiza a sí mismo.
+Y es tremendamente complicado pero a la vez fundamental para explicar por qué estamos aquí.
+Si te planteas lo que te distingue de cualquier otro sistema autoorganizado, como por ejemplo un copo de nieve, que no es un sistema autoorganizado biológico pero sí que presenta un tipo de estructura y de autoorganización similar muy bonita…
+Pues bien, está claro que hay algo fundamentalmente distinto entre un copo de nieve y yo o un copo de nieve y tú.
+¿Cómo nos movemos? ¿Cuáles son las reglas o imperativos que lo rigen?
+Básicamente, los sistemas biológicos (como tú y yo y el resto de sistemas biológicos que encontramos en nuestro entorno) se mueven.
+Probablemente no haya ninguna otra diferencia entre un sistema autoorganizado biológico y el tipo de autoorganización que encontramos en el campo de la física y la química en los sistemas inorgánicos.
+Por tanto, la pregunta esencial es la siguiente: ¿Cómo nos movemos? ¿Cuáles son las reglas o imperativos que lo rigen?
+Eduard Punset:
+Si es que hay alguna regla…
+Karl Friston:
+Si es que la hay, exacto; eso es justamente lo que queremos indagar.
+Eduard Punset:
+¿Y qué hace en realidad el cerebro? ¿Se dedica a juguetear con los estímulos que recibe o realmente intenta determinar cómo es el mundo?
+Karl Friston:
+Me gusta la manera en la que has introducido la noción de jugueteo, porque en el fondo constituye la esencia de la autoorganización, se trata de cómo se utilizan, cómo se barajan estos datos para construir una hipótesis, un modelo, una idea interna sobre qué es lo que está provocando las impresiones de los sentidos.
+Y esto es exactamente lo mismo que hace un científico cuando analiza sus datos científicos e intenta entender los mecanismos subyacentes, las causas, las estructuras biofísicas que los han originado.
+en nuestros sentidos, la noción real no existe
+Así pues, dicha comprensión es la clave de lo que hace el cerebro en su búsqueda de sentido.
+Y entronca con las ideas de Platón y con la noción de la forma platónica que genera una impresión que nuestros sentidos (nuestros ojos o nuestros oídos) disfrutan, pero teniendo en cuenta que, en nuestros sentidos, la noción real no existe: debemos dotar a las impresiones sensoriales de la idea o del significado que explica qué lo ha provocado.
+El cerebro es un artilugio muy constructivo y muy activo que intenta forjar hipótesis y explicaciones para lo que observa…
+Eduard Punset:
+Continuamente, ¿no?
+Karl Friston:
+Continuamente, en efecto.
+El cerebro es un artilugio muy constructivo y muy activo que intenta forjar hipótesis y explicaciones para lo que observa…
+Eduard Punset:
+¿Qué sucede en el cerebro cuando de repente alguien padece esquizofrenia, por ejemplo, o alzhéimer? ¿Qué es lo que ocurre?
+Karl Friston:
+Bueno, si consideramos que la autoorganización consiste en el proceso de entender o dar sentido a la información que nos llega mediante los órganos sensoriales, en el caso de una enfermedad lo que sucede es que se produce un fallo en el proceso de comprensión o inferencia a la hora de poner a prueba las hipótesis.
+Muchos creen que las enfermedades como la esquizofrenia representan un error de inferencia, puesto que los enfermos realizan inferencias falsas, llegan a la conclusión de que algo (que en realidad no existe) está ahí a partir de pruebas erróneas.
+Es como si un científico tuviera instrumentos estadísticos estropeados: haría deducciones falsas, llegaría a conclusiones erróneas y se engañaría sobre sus datos científicos del mismo modo que un esquizofrénico sufre delirios y llega a conclusiones falsas o realiza inferencias incorrectas de lo que ha percibido.
+para ser un buen científico hay que barajar muchas hipótesis diferentes y hay que explorar explicaciones distintas
+Eduard Punset:
+Karl, ¿hay alguna esperanza de que tus métodos estadísticos o tus instrumentos matemáticos arrojen alguna luz en anomalías como la esquizofrenia o el alzhéimer?
+Karl Friston:
+Esperamos que algún día sea así. De hecho, nuestro grupo de trabajo se dedica a este tema y hemos empezado a investigar la esquizofrenia.
+Creemos que si logramos entender el cerebro normal y el delicado proceso de autoorganización que se requiere para que un cerebro normal se comporte adecuadamente, responda adaptativamente y comprenda el mundo; si entendemos la simplicidad y podemos dar cuenta de dicho proceso matemáticamente y captar su estructura, entonces también podremos entender qué sucede cuando la cosa no funciona y, por tanto, podremos abordar varios procesos en pacientes con alzhéimer o esquizofrenia y examinar con precisión los mecanismos que pueden haber sufrido daños.
+La esquizofrenia y el pensamiento lateral
+Eduard Punset:
+Ahora que hablamos de la esquizofrenia, siempre pensaba en mis amigos esquizofrénicos o epilépticos que, en cierto modo, es como si lograran desconectar…
+Karl Friston:
+Ajá, el pensamiento lateral. Casi como si fueran más creativos, porque pueden hacer asociaciones y detectar relaciones entre cosas que los demás no detectan, ¿verdad?
+Eso pasa porque pueden desconectar de las reglas de la deducción, sí.
+hay que acercarse al límite, pero no demasiado, para que la exploración  sea funcional, no te perjudique y no te arrastre más allá del límite
+Eduard Punset:
+Y ahora tú dices que desconectar puede ser útil. ¿O no?
+Karl Friston:
+Si nuestro objetivo es encontrar el mejor modelo del mundo para desenvolvernos en él con comodidad y disfrutarlo tanto tiempo como sea posible, entonces estamos actuando como los científicos porque debemos encontrar la hipótesis, el modelo que mejor explique el mundo de los sentidos.
+Sin embargo, para ser un buen científico hay que barajar muchas hipótesis diferentes y hay que explorar explicaciones distintas.
+Tal vez por ello haya ejemplos destacados de personas en el campo de las artes y las ciencias que padecen esquizofrenia o trastorno bipolar, ¡porque su capacidad de barajar conceptos  distintos, ideas diferentes, hipótesis variadas puede explicar por qué son más creativos como científicos, artistas o músicos!
+Se trata de un juego bastante peligroso: hay que acercarse al límite, pero no demasiado, para que la exploración sea funcional, no te perjudique y no te arrastre más allá del límite.
+Eduard Punset:
+Hay un concepto que utilizas… ¿cómo lo llamabas? Energía libre, que al parecer (corrígeme si me equivoco) es la diferencia entre la energía que se encuentra en un sistema y la energía no utilizable.
+¿A qué te refieres exactamente con el concepto de energía libre?
+La energía libre
+Karl Friston:
+El concepto de energía libre es en realidad un concepto estadístico o matemático que procede de la teoría de la información.
+Es una idea fantástica desarrollada en la física estadística por expertos como Richard Feynman.
+el cerebro intenta minimizar las cosas que le sorprenden creando explicaciones precisas para los datos
+El caso es que el cerebro intenta minimizar las cosas que le sorprenden creando explicaciones precisas para los datos.
+Se ha tomado prestado el concepto de energía libre de la física estadística y se ha descrito el proceso del cerebro como una máquina de realizar inferencias que intenta minimizar la energía libre.
+La idea es que necesitamos explicaciones muy precisas que expliquen lo que sucede a nuestro alrededor pero que no sean demasiado complicadas, que cumplan el principio de parsimonia, también llamado la Navaja de Ockham, no sé si lo conoces.
+Básicamente consiste en escribir de un modo matemático aquello que el sentido común nos dice que es verdad: que nuestras ideas acerca del mundo (y cuando hablo del mundo me refiero literalmente a lo que vemos ahora pero también a nuestras relaciones, nuestro lugar en el mundo, nuestras explicaciones y modelos del mundo) deben explicar y proporcionar un modelo preciso y coherente del mundo real en el que estamos inmersos, pero a la vez deben ser simples para poder llevar a cabo generalizaciones.
+La tensión entre ambas cosas refleja la diferencia entre la energía del sistema y la entropía.
+Eduard Punset:
+Es fantástico, porque mientras hablabas pensaba que, en realidad, el concepto de inestabilidad y la tensión que mencionabas siempre forma parte de vuestro análisis del cerebro.
+Y ahora pienso que, de pequeños, todos jugábamos con arena, ¿no? Formando montoncitos de arena en la playa. Y sabíamos que una manera de formarlos era añadir arena poco a poco, cada vez más, hasta que llegaba un momento en el que (nunca sabías exactamente cuándo sucedería, pero sabías que acabaría sucediendo)… ¡pumba! Todo el montón se desmoronaba.
+Karl Friston:
+Llegaba la avalancha.
+Eduard Punset:
+¿Es esto lo que sucede cuando el cerebro está funcionando?
+Karl Friston
+:
+Sí. Es un ejemplo maravilloso de criticalidad autoorganizada.
+Tiene todos los ingredientes necesarios. Creo que hay que tener un buen cerebro, un buen científico, por así decirlo, en la cabeza: hay que construir un sistema muy cuidadosamente.
+construimos cuidadosamente la inestabilidad para que el sistema pueda explorar  un abanico de estados diferentes
+El montoncito de arena no aparece ahí por arte de magia, hay que irlo construyendo con cuidado; sin embargo, también se está construyendo el caos, se está forjando la autodestrucción, porque en algún momento llegamos al límite de la estabilidad.
+Por tanto, construimos cuidadosamente la inestabilidad para que el sistema pueda explorar  un abanico de estados diferentes. Por supuesto, esto nos lleva de nuevo a la idea de explorar una variedad de hipótesis para encontrar la mejor, la que nos permita optimizar nuestro modelo.
+Eduard Punset:
+¿Y encontramos lo mismo en las ratas, en el cerebro de las ratas?
+Karl Friston:
+¡Desde luego! ¡Supongo que lo encontramos en cualquier sistema biológico que se esté autoorganizando!
+Evidentemente, el grado de mejora o sofisticación del modelo depende del cerebro y de la infraestructura disponible.
+Pero cabe imaginar que cualquier sistema biológico, incluido el de los organismos unicelulares, tiene, hasta cierto punto, la capacidad de formar un modelo del entorno y minimizar la sorpresa o maximizar las confirmaciones del modelo explorando y encontrando la hipótesis con menor energía libre.
+cualquier sistema biológico, incluido el de los organismos unicelulares,  tiene, hasta cierto punto, la capacidad de formar un modelo del entorno  y minimizar la sorpresa
+Eduard Punset:
+¿Nos enseña algo vuestra investigación sobre la diferencia –que desconocemos totalmente– entre la genialidad y la locura?
+Karl Friston:
+Me imagino que en cierto modo (como hemos dicho antes) cuanto más nos acercamos a la genialidad más nos acercamos a la locura, porque tanto el genio como la persona con una enfermedad mental tienen la capacidad de generar ideas e hipótesis de una manera que deja atrás las limitaciones naturales.
+En este sentido, es el mismo fenómeno. Los genios vislumbran de repente una explicación simple que nadie había detectado antes, pero por supuesto, como nadie la había detectado antes, es como si estuvieran un poco locos: ¡han tenido que explorar y adoptar ideas y conceptos internos que nadie había tenido antes!
+Por tanto, están un poco lejos del tipo de fenotipo mental que llamaríamos normal.
+Así pues, creo que probablemente haya una estrecha relación entre ambas cosas, ¡pero no hay que ir demasiado lejos! Si pierdes completamente la conexión, creo que no es bueno.
+Eduard Punset:
+Exacto, esto me recuerda a una historia que leí en alguna parte sobre un escritor francés que entrevistó a Einstein, y que le preguntó cómo había llegado a algunas de sus conclusiones más célebres como la teoría de la relatividad.
+Einstein respondió algo así como: «pues bien, me levanto por la mañana, salgo de casa, paseo un poco y luego vuelvo a casa».
+Y el entrevistador (cuyo nombre no recuerdo, pero se trata de una anécdota verídica) le dijo: «pero, ¿te apuntas en algún lugar las ideas que se te ocurren?» Einstein respondió que no, y el entrevistador insistió: «¿no?
+Pero entonces, si no te lo apuntas, ¡puedes olvidarte de las cosas importantes!» A lo que Einstein repuso: «no, cuando pienso algo muy importante, ten por seguro que no se me olvida». Probablemente es lo mismo que lo que decías antes, cuando de repente…
+El «momento eureka»
+Karl Friston:
+Sí, cuando se produce el «momento eureka», que por supuesto supone la recompensa que la mayoría de científicos buscan.
+Es también el momento en el que la energía libre se desmorona porque, de pronto, has descubierto una explicación que es más sencilla y más convincente. La noción de energía libre entraña una coherencia interna fabulosa: el principio de intentar eliminar la energía libre forma parte de su propio descubrimiento.
+El principio de energía libre proporciona por sí mismo un buen modelo y una buena explicación del mundo… pero tienes toda la razón: nunca se olvida la recompensa cuando de repente descubres una explicación (ese momento eureka) y ya solamente necesitas una idea para explicar lo que antes requería cinco ideas distintas.
+Es una sensación maravillosa.
+estas fórmulas matemáticas no nos permitirán predecir cómo se comportarán las personas
+Eduard Punset:
+¿Estás satisfecho? Me refiero a que ahora nos decís que hay un sistema, una explicación matemática sobre la manera que somos, gracias a la cual podremos hacer predicciones más fácilmente e incluso nos permitirá descubrir algunas cosas sobre la esquizofrenia o el Alzheimer.
+En este sentido, ¿notas una diferencia respecto al pasado?
+Karl Friston:
+Pues… sí. Sin duda. Sin embargo, debo decir que estas fórmulas matemáticas no nos permitirán predecir cómo se comportarán las personas.
+Lo más importante es, como bien decías, que nos proporciona una justificación para el imperativo de explorar, de ser impredecibles al servicio de la minimización.
+Tiene más que ver con los procesos de predicción que con lo que predice la gente: esto es lo que esperamos descubrir con esta forma de tratamiento matemático, y por el camino queremos entender la fisiopatología de enfermedades como la esquizofrenia o el alzhéimer, ¡o simplemente comprender lo que supone hacerse mayor o ser muy joven!
+Eduard Punset:
+Karl, ¡muchas gracias por haber arrojado un poco de luz sobre tanta oscuridad como la que había en relación con el cerebro y nuestros pensamientos!
+Karl Friston:
+Gracias a ti, ha sido un placer charlar contigo.
