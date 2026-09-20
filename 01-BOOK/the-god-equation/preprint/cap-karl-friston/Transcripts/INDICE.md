@@ -3,8 +3,10 @@
 - **Playlist transcrita:** [Karl Friston interviews](https://www.youtube.com/playlist?list=PLrCEywc-GNcbqbBF66xTWRJF6M-2CAhA7)
 - **Fecha de generación:** 2026-09-20
 - **Videos en la playlist:** 15
-- **Transcripciones completas obtenidas:** 14 (13 vía subtítulos de YouTube + 1 vía transcripción publicada de RTVE)
-- **Videos no disponibles:** 1 (privado; requiere autenticación del propietario)
+- **Transcripciones completas obtenidas:** 15
+  - 13 vía subtítulos de YouTube
+  - 1 vía transcripción publicada de RTVE (*Redes 111*)
+  - 1 vía transcripción de diapositivas (SlideServe) para video privado (*Consciousness and the Bayesian brain*, Sandler Conference 2014)
 - **Ubicación del capítulo:** `Cap Karl Frison/` dentro del libro *About God*
 
 ## Estructura temática
@@ -48,6 +50,7 @@ Fuentes que ya estaban en la carpeta del capítulo antes del scraping; se integr
 
 1. [Embodied Cognition Karl Friston](03%20-%20Consciousness%20and%20the%20Mind/001%20-%20Embodied%20Cognition%20Karl%20Friston.md)
 2. [Bayesian Theories of Perception and Cognition](03%20-%20Consciousness%20and%20the%20Mind/002%20-%20Bayesian%20Theories%20of%20Perception%20and%20Cognition.md)
+3. [Consciousness and the Bayesian brain - Sandler Conference 2014 (video privado)](03%20-%20Consciousness%20and%20the%20Mind/003%20-%20Consciousness%20and%20the%20Bayesian%20brain%20-%20Sandler%20Conference%202014%20(video%20privado).md)
 
 ## 04 - Neuroscience and Psychiatry
 
@@ -63,12 +66,12 @@ Fuentes que ya estaban en la carpeta del capítulo antes del scraping; se integr
 
 1. [Redes 111: La fórmula del cerebro - neurociencia](09%20-%20Interviews%20and%20Longform%20Conversations/001%20-%20Redes%20111%20-%20La%20formula%20del%20cerebro%20-%20neurociencia.md)
 
-## Videos no disponibles
+## Videos cubiertos mediante fuentes alternativas
 
-| # en playlist | Título | ID | Razón |
+| # en playlist | Título | ID | Fuente alternativa |
 |---|---|---|---|
-| 10 | Sin título (oculto / privado) | `HeQfO4byFhg` | Video privado; requiere autenticación del propietario. |
-| 12 | Redes 111: La fórmula del cerebro - neurociencia | `ykW6C_uSghI` | Transcripción recuperada desde RTVE (https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml); no accesible vía subtítulos de YouTube ni descarga de audio. |
+| 10 | Consciousness and the Bayesian brain — Sandler Conference 2014 | `HeQfO4byFhg` | Video privado en YouTube; contenido recuperado desde transcripción de diapositivas de SlideServe + papers asociados. |
+| 12 | Redes 111: La fórmula del cerebro - neurociencia | `ykW6C_uSghI` | Sin subtítulos en YouTube; transcripción recuperada desde RTVE (https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml). |
 
 ## Archivos en cada carpeta
 

@@ -26,8 +26,11 @@
 
 - **Playlist origen:** https://www.youtube.com/playlist?list=PLrCEywc-GNcbqbBF66xTWRJF6M-2CAhA7
 - **Total en playlist:** 15 videos
-- **Transcritos exitosamente:** 14 (13 vía subtítulos de YouTube + 1 vía transcripción publicada de RTVE)
-- **No disponibles:** 1 (video privado `HeQfO4byFhg`)
+- **Transcritos exitosamente:** 15
+  - 13 vía subtítulos de YouTube
+  - 1 vía transcripción publicada de RTVE (*Redes 111*)
+  - 1 vía transcripción de diapositivas para video privado (*Consciousness and the Bayesian brain*, Sandler Conference 2014)
+- **Cobertura:** 100 % de la playlist con al menos una fuente textual recuperable
 
 ## Cómo usar el material
 
@@ -37,6 +40,5 @@
 
 ## Próximos pasos sugeridos
 
-- Validar frases exactas de `Redes 111` contra el audio de RTVE antes de usarlas como citas académicas directas.
-- Recuperar el video privado `HeQfO4byFhg` si el propietario concede acceso.
+- Validar frases exactas de `Redes 111` contra el audio de RTVE y del video privado `Consciousness and the Bayesian brain` contra las diapositivas/papers asociados antes de usarlas como citas académicas directas.
 - Cruzar esta síntesis con el capítulo de Michael Levin para el puente vida-cognición-agencia.

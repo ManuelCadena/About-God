@@ -1,6 +1,6 @@
 # Síntesis de Karl Friston para el capítulo *About God*
 
-> **Origen del corpus:** 14 entrevistas y charlas de la playlist *Karl Friston interviews* (13 transcritas vía subtítulos de YouTube y 1 —*Redes 111*— recuperada desde RTVE), más dos fuentes preexistentes: *Lex Fridman Podcast #99* y *StarTalk: Scientists Discuss The Science of Perception & AI*.
+> **Origen del corpus:** 15 entrevistas y charlas de la playlist *Karl Friston interviews* (13 transcritas vía subtítulos de YouTube, 1 —*Redes 111*— recuperada desde RTVE, y 1 —*Consciousness and the Bayesian brain*— recuperada vía transcripción de diapositivas de SlideServe porque el video de YouTube es privado), más dos fuentes preexistentes: *Lex Fridman Podcast #99* y *StarTalk: Scientists Discuss The Science of Perception & AI*.
 > **Fecha de síntesis:** 2026-09-20.
 
 ---
@@ -87,6 +87,10 @@ En *Karl Friston: Active inference and artificial curiosity* (https://www.youtub
 ### 4.3 Libre albedrío dentro del marco inferencial
 
 Friston no defiende un libre albedrío metafísico; lo reubica como la *selección entre cursos de acción alternativos dentro de un modelo generativo*. En *Lex Fridman Podcast #99* (https://www.youtube.com/watch?v=ur6ZYFjHX1c) menciona que los sistemas capaces de planear tienen los ingredientes relevantes para el libre albedrío: la selección entre diferentes caminos de acción. Desde el punto de vista bayesiano, "elegir" es actualizar la creencia sobre la acción más probable dado un objetivo inferencial.
+
+### 4.4 Conciencia como inferencia jerárquica (Sandler Conference 2014)
+
+En las diapositivas de la charla *Consciousness and the Bayesian brain* (Sandler Conference 2014, video privado `HeQfO4byFhg`; transcripción de diapositivas en SlideServe: https://www.slideserve.com/tyrone/consciousness-by-inference-karl-friston-university-college-london), Friston resume su programa en una frase: *"I am [ergodic] therefore I think"*. El argumento es que cualquier sistema ergódico con una manta de Markov debe, para mantener su integridad estructural y dinámica, inferir las causas ocultas de sus estados sensoriales y actuar para mantenerse alejado de estados improbables. La conciencia emerge en este marco como la capacidad del sistema para representar inferencias jerárquicas sobre el mundo y sobre sí mismo. Las diapositivas rematan con la cita de von Helmholtz: *"Cada movimiento que hacemos [...] debe pensarse como un experimento diseñado para probar si hemos entendido correctamente las relaciones invariantes de los fenómenos"*.
 
 **Nota para *About God*:** esta compatibilización suaviza el supuesto consciente tradicional: el libre albedrío no requiere una causa no causal, sino un modelo lo suficientemente rico como para representar opciones y preferencias futuras. [Interpretación del sintetizador]
 
@@ -186,9 +190,10 @@ El Principio de Energía Libre describe cómo cualquier sistema existente debe t
 15. **Karl Friston: Neuroscience and the Free Energy Principle | Lex Fridman Podcast #99** — https://www.youtube.com/watch?v=ur6ZYFjHX1c (visión general para público general; conexión con consciencia, IA y sentido de la vida).
 16. **Scientists Discuss The Science of Perception & AI (StarTalk)** — https://www.youtube.com/watch?v=3p4JGPjo1i8 (entrevista con Neil deGrasse Tyson; IA, percepción, conciencia).
 
-### Videos no disponibles para transcripción
+### Videos cubiertos mediante fuentes alternativas
 
-17. **Video privado/oculto de la playlist** — https://www.youtube.com/watch?v=HeQfO4byFhg (privado; requiere autenticación del propietario).
+17. **Redes 111: La fórmula del cerebro - neurociencia** — https://www.youtube.com/watch?v=ykW6C_uSghI (entrevista en español; transcripción recuperada desde RTVE: https://www.rtve.es/play/noticias/20111116/formula-del-cerebro/475820.shtml).
+18. **Consciousness and the Bayesian brain — Sandler Conference 2014** — https://www.youtube.com/watch?v=HeQfO4byFhg (video privado; contenido recuperado desde transcripción de diapositivas de SlideServe: https://www.slideserve.com/tyrone/consciousness-by-inference-karl-friston-university-college-london; paper asociado: https://doi.org/10.1080/15294145.2013.10773716).
 
 ---
 
