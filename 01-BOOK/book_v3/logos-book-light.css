@@ -1,0 +1,52 @@
+/* LOGOS book-light.css — tema claro: pantalla aireada + impresión económica de tinta */
+:root{
+  --ink:#1a202c; --paper:#ffffff; --soft:#f7f9fc; --line:#c9d4e0;
+  --accent:#1a7f5a; --accent2:#2b5fa6; --gold:#9a6b12;
+  --evidence:#1a7f5a; --hypothesis:#2b5fa6; --speculation:#b06a00;
+  --conjecture:#7c3aed; --warn:#b42318;
+}
+@media screen{
+  body{background:#fdfdfe;color:var(--ink);font:17px/1.7 "Georgia","Times New Roman",serif;max-width:1100px;margin:0 auto;padding:2.5rem 1.6rem}
+  h1,h2,h3,h4{font-family:"Helvetica Neue",Arial,sans-serif;color:#0f2a43}
+  h1{border-bottom:3px solid var(--accent);padding-bottom:.45rem;font-size:1.9rem}
+  h2{border-left:5px solid var(--accent2);padding-left:.75rem;margin-top:2.4rem;font-size:1.4rem}
+  h3{color:#17405f;margin-top:1.8rem}
+  table{border-collapse:collapse;width:100%;font-size:.92rem;margin:1rem 0}
+  th{background:var(--soft);color:#0f2a43;text-align:left;border-bottom:2px solid var(--accent2)}
+  th,td{border:1px solid var(--line);padding:.5rem .65rem}
+  tr:nth-child(even){background:#fafbfd}
+  a{color:var(--accent2)}
+  .tag{display:inline-block;padding:.12rem .55rem;border-radius:10px;font:700 .72rem sans-serif;letter-spacing:.03em;border:1px solid}
+  .t-established{color:#0c5c40;border-color:#0c5c40;background:#e6f4ee}
+  .t-strong{color:#1a7f5a;border-color:#1a7f5a;background:#eefaf4}
+  .t-mixed{color:#2b5fa6;border-color:#2b5fa6;background:#eef3fb}
+  .t-spec{color:#8a5200;border-color:#b06a00;background:#fdf4e3}
+  .t-meta{color:#6d28d9;border-color:#7c3aed;background:#f4effe}
+  .t-warn{color:#b42318;border-color:#b42318;background:#fdeceb}
+  .card{border:1px solid var(--line);border-radius:10px;padding:1.1rem 1.3rem;margin:1.1rem 0;background:var(--soft)}
+  .quote{border-left:4px solid var(--accent);padding:.5rem 1rem;color:#3c4858;font-style:italic;margin:.9rem 0;background:#fbfdfc}
+  .keybox{border:2px solid var(--gold);background:#fefaef;border-radius:10px;padding:1rem 1.2rem;margin:1.2rem 0}
+  svg{max-width:100%}
+  .figwrap{border:1px solid var(--line);border-radius:10px;background:#fbfdff;padding:1.2rem;margin:1.3rem 0;text-align:center}
+  .figcap{font:.82rem sans-serif;color:#5a6b7d;margin-top:.6rem}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+  img.gen{max-width:100%;border-radius:10px;border:1px solid var(--line)}
+}
+@media print{
+  @page{size:6in 9in;margin:.85in .75in;@bottom-center{content:counter(page)}}
+  html,body{background:#fff!important;color:#000!important;font:11pt/1.55 "Georgia",serif;max-width:none}
+  h1{font-size:20pt;page-break-before:always;color:#000;border-bottom:2pt solid #000}
+  h2{font-size:14pt;page-break-after:avoid;color:#000;border-left:none;padding-left:0;margin-top:18pt}
+  h3,h4{color:#000}
+  table{font-size:9pt}
+  tr{page-break-inside:avoid}
+  th{background:#f0f0f0!important;color:#000!important}
+  th,td{border:.5pt solid #777}
+  .card,.figwrap,.keybox{border:.5pt solid #999;background:#fff}
+  .quote{color:#222;background:#fff}
+  .tag{border:.5pt solid #000;color:#000;background:#fff}
+  a{color:#000;text-decoration:none}
+  .no-print{display:none!important}
+  .figcap{color:#333}
+  img.gen{max-width:4.6in}
+}

@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>The God Equation — v3 (versión de autor revisada)</title>
+<link rel="stylesheet" href="../assets/logos-book-light.css">
+</head>
+<body>
+
+<h1>The God Equation — Versión 3</h1>
+<p><em>Edición de autor revisada tras auditoría epistémica de corpus (5,005 documentos, 62 claims, 4 facetas de lectura profunda). Esta versión aplica las 7 «Recomendaciones quirúrgicas al manuscrito» del Doc 12.</em></p>
+
+<div class="card">
+<h3 style="margin-top:0">Leyenda epistémica (usada en todo el libro)</h3>
+<span class="tag t-established">ESTABLISHED EVIDENCE</span> consenso científico con cita verificable ·
+<span class="tag t-strong">STRONG EVIDENCE</span> evidencia real en el corpus ·
+<span class="tag t-mixed">MIXED / AUTHOR INFERENCE</span> interpretación del autor ·
+<span class="tag t-spec">SPECULATIVE</span> ·
+<span class="tag t-meta">METAPHYSICAL CONJECTURE</span> ·
+<span class="tag t-warn">RETRACTED / CLAIM MODIFICADO</span>
+</div>
+
+<h2>Qué cambia en esta versión — tabla de cambios quirúrgicos</h2>
+<table>
+<tr><th>#</th><th>Recomendación quirúrgica (Doc 12)</th><th>Aplicada en</th><th>Estado</th></tr>
+<tr><td>R1</td><td>Reemplazar el modelo logístico con coeficientes asignados por cadena de Bayes Factors con rangos [min, mode, max] y curva prior→posterior</td><td>Parte II reemplazada por <em>model_rebuilt.html</em></td><td>HECHO</td></tr>
+<tr><td>R2</td><td>Retractar la cifra «mediana 98.6%»; nueva banda honesta ~60–95% dependiente del prior</td><td>§3.1 del modelo reconstruido (retracción explícita)</td><td>HECHO</td></tr>
+<tr><td>R3</td><td>Agrupar variables correlacionadas (FT+MN → Orden Cósmico; BC+CG → Complejidad Consciente): 8 variables → 6 factores</td><td>Tabla de agrupación del modelo reconstruido</td><td>HECHO</td></tr>
+<tr><td>R4</td><td>Añadir capítulos de mecanismo: espacio platónico / ingresión (Levin), Teano «según el número», consciencia transmisiva, falsabilidad</td><td>Parte III expandida — 4 capítulos nuevos</td><td>HECHO</td></tr>
+<tr><td>R5</td><td>Etiquetar el paso «información → Dios personal» como inferencia del autor, nunca como claim de los científicos citados</td><td>Leyenda + etiquetas por capítulo; cláusula de no-atribución</td><td>HECHO</td></tr>
+<tr><td>R6</td><td>El mal como factor que penaliza (BF &lt; 1), no neutro</td><td>Factor F6 = EV ∈ [0.7, 0.8, 0.95]</td><td>HECHO</td></tr>
+<tr><td>R7</td><td>Convertir el libro en programa de investigación: «qué refutaría esta hipótesis» por variable</td><td>Capítulo de falsabilidad</td><td>HECHO</td></tr>
+</table>
+
+<div class="keybox">
+<strong>Tesis central (reformulada):</strong> el libro ya no afirma una probabilidad calculada de Dios. Afirma una
+<em>arquitectura auditable</em>: el lector aporta su prior; el libro aporta Bayes Factors justificados con rangos;
+la conclusión es una banda, no un número. La hipótesis metafísica (el Logos como estructura de posibilidades
+que ingresa al sustrato, en el sentido del espacio platónico de Levin) se presenta como
+<span class="tag t-meta">METAPHYSICAL CONJECTURE</span> con un mecanismo naturalista real detrás
+<span class="tag t-strong">STRONG EVIDENCE</span>, no como resultado científico.
+</div>
+
+<h2>Estructura del libro v3</h2>
+
+<h3>PARTE I — El problema y la tradición (capítulos 1–4, conservados del manuscrito con notas editoriales)</h3>
+<p>La edición v2 anotada (<code>The_God_Equation_v2_anotado.docx</code>) contiene las notas quirúrgicas por capítulo; el texto narrativo se conserva con las etiquetas epistémicas de la leyenda.</p>
+
+<h3>PARTE II — El modelo, reconstruido</h3>
+<!-- model_rebuilt.html — body-only fragment for The God Equation v3
+     Restructured probability-model chapters.
+     Academic Spanish. References: model_audit.md, claims C11-C13, C31-C35.
+     CSS classes: .card, .keybox, .tag, .figwrap, .figcap per logos-book-light.css -->
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CHAPTER: DEL LOGIT A LA CADENA DE BAYES FACTORS
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 id="cap-bf-chain">Capítulo: Del logit a la cadena de Bayes Factors</h2>
+
+<div class="card">
+  <strong>Contexto.</strong> El modelo original (v2) empleaba una regresión logística con
+  coeficientes asignados manualmente (C11, C31): logit&nbsp;<em>P</em> = &beta;<sub>0</sub> +
+  &sum;&beta;<sub>i</sub>&thinsp;<em>x<sub>i</sub></em>, con ocho variables binarias y un
+  intercept neutro (&beta;<sub>0</sub>&nbsp;=&nbsp;0). La simulación Monte Carlo (C13, C33) arrojaba
+  una mediana de ~98.6&thinsp;% y una media de ~94.6&thinsp;%. Ese resultado, aunque internamente
+  consistente, <strong>no es defendible ante revisión externa</strong> por cinco razones documentadas
+  en la auditoría (<em>model_audit.md</em> &sect;2): coeficientes declarados sin fuente empírica,
+  independencia condicional falsa entre variables correladas, ausencia de razones de
+  verosimilitud explícitas, conjunto de hipótesis incompleto, y variables mal especificadas
+  (C35). Este capítulo reconstruye el aparato cuantitativo desde su fundamento bayesiano.
+</div>
+
+<h3 id="bf-formalism">1.1&ensp;Formulación: odds posterior como producto de Bayes Factors</h3>
+
+<p>Sea <em>T</em> = teísmo clásico y <em>A</em> = la mejor alternativa naturalista
+considerada <em>por variable</em> (no un rival monolítico). Definimos el
+<strong>Bayes Factor</strong> (BF, factor de Bayes) para cada pieza de evidencia
+<em>e<sub>i</sub></em>:</p>
+
+<div class="keybox">
+  <strong>Ecuación central</strong><br>
+  <em>O</em>(<em>T</em>&thinsp;|&thinsp;<strong>e</strong>) &nbsp;=&nbsp;
+  <em>O</em>(<em>T</em>) &times;
+  &prod;<sub><em>i</em>=1</sub><sup><em>k</em></sup> BF<sub><em>i</em></sub>
+  &emsp;&emsp;donde&emsp;
+  BF<sub><em>i</em></sub> = <em>P</em>(<em>e<sub>i</sub></em>&thinsp;|&thinsp;<em>T</em>)
+  &thinsp;/&thinsp;
+  <em>P</em>(<em>e<sub>i</sub></em>&thinsp;|&thinsp;<em>A</em>)
+  <br><br>
+  <em>O</em>(<em>T</em>) = <em>P</em>(<em>T</em>)&thinsp;/&thinsp;(1 &minus;
+  <em>P</em>(<em>T</em>)) es la <strong>odds a priori</strong>; el lector la elige.
+  La probabilidad posterior se recupera: <em>P</em>(<em>T</em>&thinsp;|&thinsp;<strong>e</strong>)
+  = <em>O</em><sub>post</sub>&thinsp;/&thinsp;(1 + <em>O</em><sub>post</sub>).
+</div>
+
+<p>Ventaja sobre el logit de v2: cada BF<sub><em>i</em></sub> es auditable de forma
+independiente (&laquo;&iquest;cu&aacute;ntas veces m&aacute;s esperable es esta evidencia bajo
+<em>T</em> que bajo <em>A</em>?&raquo;). No se requiere asumir un intercept global ni
+defender un coeficiente &beta; que no proviene de datos.</p>
+
+<h3 id="bf-grouping">1.2&ensp;Agrupación de variables correladas</h3>
+
+<p>Las ocho variables originales (C12, C31) presentan dos pares fuertemente
+correlados (C35, <em>model_audit</em> &sect;2.2). Mantenerlas separadas y multiplicar
+sus BF constituye doble contabilización (<em>double-counting</em>) de la misma
+base evidencial. Agrupamos:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Factor agrupado</th>
+  <th>Variables originales</th>
+  <th>Justificación del agrupamiento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>F1 &mdash; Orden cósmico</strong></td>
+  <td>FT (Fine-Tuning, ajuste fino) + MN (Metaphysical Necessity, necesidad metafísica)</td>
+  <td>Ambas derivan de la contingencia del universo: las constantes finamente ajustadas (C17, C18) y la necesidad de un fundamento no contingente (C06) comparten la misma base probatoria cosmológica.</td>
+</tr>
+<tr>
+  <td><strong>F2 &mdash; Complejidad consciente</strong></td>
+  <td>BC (Biological Complexity, complejidad biológica) + CG (Consciousness Gap, brecha de la consciencia)</td>
+  <td>La consciencia emerge sobre la complejidad biológica; los argumentos de la brecha explicativa (C25, C26) y del origen de la vida (C22&ndash;C24) comparten evidencia sobre la insuficiencia de explicaciones puramente materiales de la vida y la mente.</td>
+</tr>
+<tr>
+  <td><strong>F3 &mdash; Orden moral</strong></td>
+  <td>MO (Moral Order, orden moral)</td>
+  <td>Factor independiente: la existencia de hechos morales objetivos (C09, C27) no depende evidencialmente de la cosmología ni de la biología.</td>
+</tr>
+<tr>
+  <td><strong>F4 &mdash; Experiencia religiosa</strong></td>
+  <td>RE (Religious Experience, experiencia religiosa)</td>
+  <td>Factor independiente, sujeto a corrección por tasa base de experiencias anómalas (C15, C29, C30).</td>
+</tr>
+<tr>
+  <td><strong>F5 &mdash; Indicios cuántico-informacionales</strong></td>
+  <td>QM (Quantum-Mind indicators, indicadores cuánticos)</td>
+  <td>Factor independiente pero débil: dependencia del observador y el programa &laquo;it from bit&raquo; (C21) sugieren, pero no demuestran, un papel fundamental de la mente/información.</td>
+</tr>
+<tr>
+  <td><strong>F6 &mdash; Problema del mal</strong></td>
+  <td>EV (Evil, mal)</td>
+  <td>Evidencia que cuenta <em>contra</em> el teísmo (BF&nbsp;&lt;&nbsp;1). Las teodiceas (C28) mitigan parcialmente, pero no anulan, la fuerza del sufrimiento gratuito aparente (C14).</td>
+</tr>
+</tbody>
+</table>
+
+<p>Resultado: <strong>6 factores plausiblemente independientes</strong>, frente a los
+8 originales. La reducción es conservadora (reduce el producto total en favor de la
+honestidad epistémica).</p>
+
+<h3 id="bf-ranges">1.3&ensp;Rangos propuestos para cada Bayes Factor</h3>
+
+<p>Cada rango [m&iacute;n, moda, m&aacute;x] representa una distribución triangular
+sobre la incertidumbre razonable. Los valores se justifican a continuación con
+referencia a la literatura filosófica relevante. <span class="tag t-mixed">RANGOS
+DEFENDIBLES</span> &mdash; no &laquo;datos&raquo;, sino juicios informados
+explícitos y auditables.</p>
+
+<table>
+<thead>
+<tr>
+  <th>Factor</th>
+  <th>BF m&iacute;n</th>
+  <th>BF moda</th>
+  <th>BF m&aacute;x</th>
+  <th>Justificación del rango</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>F1</strong> Orden cósmico</td>
+  <td>1.5</td>
+  <td>4.0</td>
+  <td>8.0</td>
+  <td>El ajuste fino (C17: Penrose ~10<sup>10<sup>123</sup></sup>) favorece fuertemente al teísmo, pero el multiverso (C20) y las constantes derivables de una Teoría del Todo reducen el BF; la necesidad metafísica (C06) aporta fuerza moderada adicional ya incorporada. El rango inferior (1.5) concede al escéptico que el multiverso, aunque especulativo, podría explicar buena parte del ajuste fino. La moda (4.0) refleja que, incluso con el multiverso como competidor, las constantes finamente ajustadas son varias veces más esperables bajo diseño.</td>
+</tr>
+<tr>
+  <td><strong>F2</strong> Complejidad consciente</td>
+  <td>1.2</td>
+  <td>3.0</td>
+  <td>6.0</td>
+  <td>La brecha explicativa de la consciencia (C25) y el problema del origen de la vida (C22&ndash;C24: ~1 en 10<sup>74</sup> para una proteína funcional) son más esperables si la realidad incluye mente en su fundamento. El rango inferior (1.2) concede al naturalista que futuras teorías emergentistas o abiogenéticas podrían reducir drásticamente la brecha. El máximo (6.0) asume que el &laquo;hard problem&raquo; permanece irresoluble bajo fisicalismo puro.</td>
+</tr>
+<tr>
+  <td><strong>F3</strong> Orden moral</td>
+  <td>1.0</td>
+  <td>1.8</td>
+  <td>3.0</td>
+  <td>Los hechos morales objetivos (C09, C27) son más esperables bajo un legislador moral; pero el realismo moral naturalista (Wielenberg, Enoch) ofrece alternativas no triviales, limitando el BF superior. El mínimo 1.0 (neutro) refleja la postura de que la evolución puede generar ficciones morales adaptativas indistinguibles de hechos objetivos.</td>
+</tr>
+<tr>
+  <td><strong>F4</strong> Experiencia religiosa</td>
+  <td>0.8</td>
+  <td>1.3</td>
+  <td>2.0</td>
+  <td>La prevalencia transcultural de experiencias místicas (C29: ~49&thinsp;% de estadounidenses reportan experiencias) favorece débilmente al teísmo (C15, C30); pero la neurociencia de la experiencia religiosa (Persinger, Griffiths) muestra que sustancias y estimulación eléctrica reproducen fenomenologías similares, reduciendo la fuerza. El mínimo 0.8 reconoce que las experiencias podrían, neto, favorecer levemente al naturalismo si su explicación neurológica resulta completa.</td>
+</tr>
+<tr>
+  <td><strong>F5</strong> Indicios cuánticos</td>
+  <td>0.7</td>
+  <td>1.2</td>
+  <td>1.8</td>
+  <td>La dependencia del observador y &laquo;it from bit&raquo; (C21, C108) son sugestivos pero no constituyen evidencia directa de teísmo; interpretaciones como muchos mundos eliminan el papel del observador. El rango es conservadoramente estrecho y centrado cerca de la neutralidad.</td>
+</tr>
+<tr>
+  <td><strong>F6</strong> Problema del mal</td>
+  <td>0.7</td>
+  <td>0.8</td>
+  <td>0.95</td>
+  <td>El sufrimiento gratuito aparente (C14) es más esperable bajo naturalismo que bajo un Dios omnipotente y perfectamente bueno: BF&nbsp;&lt;&nbsp;1 por definición. Las teodiceas del libre albedrío y del &laquo;soul-making&raquo; (C28) mitigan pero no eliminan esta penalización. El máximo 0.95 reconoce que las teodiceas pueden absorber la mayor parte del impacto; el mínimo 0.7 refleja la posición de Rowe/Draper de que el mal constituye evidencia moderada contra el teísmo. <span class="tag t-warn">PENALIZA</span></td>
+</tr>
+</tbody>
+</table>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CHAPTER: EJEMPLO DESARROLLADO — POSTERIOR COMO FUNCIÓN DEL PRIOR
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 id="cap-worked-example">Ejemplo desarrollado: posterior como función del prior</h2>
+
+<h3 id="arithmetic-mode">2.1&ensp;Aritmética explícita con las modas</h3>
+
+<div class="keybox">
+  <strong>Producto de Bayes Factors (modas):</strong><br>
+  &prod;&thinsp;BF<sub>moda</sub> = 4.0 &times; 3.0 &times; 1.8 &times; 1.3 &times;
+  1.2 &times; 0.8 = <strong>26.96</strong> &nbsp;&asymp;&nbsp;27
+</div>
+
+<p>Interpretación: la evidencia acumulada, en su estimación modal, multiplica por ~27
+las odds iniciales del lector a favor del teísmo. El cálculo completo:</p>
+
+<table>
+<thead>
+<tr>
+  <th style="width:10%"><em>P</em>(<em>T</em>) prior</th>
+  <th style="width:12%">Odds prior</th>
+  <th style="width:14%">Odds post (moda)</th>
+  <th style="width:12%"><em>P</em>(<em>T</em>|<strong>e</strong>) moda</th>
+  <th style="width:14%">Odds post (m&iacute;n)</th>
+  <th style="width:12%"><em>P</em> m&iacute;n</th>
+  <th style="width:14%">Odds post (m&aacute;x)</th>
+  <th style="width:12%"><em>P</em> m&aacute;x</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1&thinsp;%</td>
+  <td>0.0101</td>
+  <td>0.273</td>
+  <td><strong>21&thinsp;%</strong></td>
+  <td>0.0072</td>
+  <td>0.7&thinsp;%</td>
+  <td>4.98</td>
+  <td>83&thinsp;%</td>
+</tr>
+<tr>
+  <td>5&thinsp;%</td>
+  <td>0.0526</td>
+  <td>1.42</td>
+  <td><strong>59&thinsp;%</strong></td>
+  <td>0.037</td>
+  <td>3.6&thinsp;%</td>
+  <td>25.9</td>
+  <td>96&thinsp;%</td>
+</tr>
+<tr>
+  <td>10&thinsp;%</td>
+  <td>0.111</td>
+  <td>3.00</td>
+  <td><strong>75&thinsp;%</strong></td>
+  <td>0.079</td>
+  <td>7.3&thinsp;%</td>
+  <td>54.8</td>
+  <td>98&thinsp;%</td>
+</tr>
+<tr>
+  <td>25&thinsp;%</td>
+  <td>0.333</td>
+  <td>8.99</td>
+  <td><strong>90&thinsp;%</strong></td>
+  <td>0.236</td>
+  <td>19&thinsp;%</td>
+  <td>164</td>
+  <td>99.4&thinsp;%</td>
+</tr>
+<tr>
+  <td>50&thinsp;%</td>
+  <td>1.000</td>
+  <td>27.0</td>
+  <td><strong>96&thinsp;%</strong></td>
+  <td>0.71</td>
+  <td>41&thinsp;%</td>
+  <td>493</td>
+  <td>99.8&thinsp;%</td>
+</tr>
+<tr>
+  <td>75&thinsp;%</td>
+  <td>3.000</td>
+  <td>80.9</td>
+  <td><strong>99&thinsp;%</strong></td>
+  <td>2.12</td>
+  <td>68&thinsp;%</td>
+  <td>1478</td>
+  <td>99.9&thinsp;%</td>
+</tr>
+</tbody>
+</table>
+
+<div class="card">
+  <strong>Lectura.</strong> Un agnóstico que parta de un prior del 10&thinsp;% obtiene,
+  con las modas, un posterior del 75&thinsp;%. Un escéptico fuerte (prior 1&thinsp;%)
+  llega al 21&thinsp;%: la evidencia lo mueve, pero no lo convence. Un teísta moderado
+  (prior 50&thinsp;%) alcanza el 96&thinsp;%. El rango de incertidumbre en los BF produce
+  una banda posterior de ~0.7&thinsp;%&ndash;83&thinsp;% para el prior del 1&thinsp;%, y de
+  ~41&thinsp;%&ndash;99.8&thinsp;% para el prior del 50&thinsp;%. <em>El prior importa
+  decisivamente, y reportar un solo número oculta esta dependencia.</em>
+</div>
+
+<h3 id="prior-posterior-curve">2.2&ensp;Curva prior &rarr; posterior</h3>
+
+<p>La siguiente gráfica muestra <em>P</em>(<em>T</em>&thinsp;|&thinsp;<strong>e</strong>)
+como función de <em>P</em>(<em>T</em>) para los tres escenarios (m&iacute;nimo, moda,
+m&aacute;ximo del producto de Bayes Factors).</p>
+
+<div class="figwrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 370" role="img"
+     aria-label="Curva prior-posterior para tres escenarios de Bayes Factor acumulado">
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f0f4f8"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="60" y="20" width="440" height="310" rx="6" fill="url(#bg-grad)" stroke="#c9d4e0" stroke-width="0.7"/>
+
+  <!-- grid lines -->
+  <g stroke="#dce3ec" stroke-width="0.5">
+    <line x1="60" y1="82" x2="500" y2="82"/>   <!-- 75% -->
+    <line x1="60" y1="144" x2="500" y2="144"/>  <!-- 50% -->
+    <line x1="60" y1="206" x2="500" y2="206"/>  <!-- 25% -->
+    <line x1="60" y1="268" x2="500" y2="268"/>  <!-- 0%  (approx) -->
+    <line x1="170" y1="20" x2="170" y2="330"/>  <!-- 25% prior -->
+    <line x1="280" y1="20" x2="280" y2="330"/>  <!-- 50% prior -->
+    <line x1="390" y1="20" x2="390" y2="330"/>  <!-- 75% prior -->
+  </g>
+
+  <!-- axes -->
+  <line x1="60" y1="330" x2="500" y2="330" stroke="#0f2a43" stroke-width="1.2"/>
+  <line x1="60" y1="20" x2="60" y2="330" stroke="#0f2a43" stroke-width="1.2"/>
+
+  <!-- x-axis labels -->
+  <text x="60" y="350" font-size="11" fill="#3c4858" text-anchor="middle">0</text>
+  <text x="170" y="350" font-size="11" fill="#3c4858" text-anchor="middle">0.25</text>
+  <text x="280" y="350" font-size="11" fill="#3c4858" text-anchor="middle">0.50</text>
+  <text x="390" y="350" font-size="11" fill="#3c4858" text-anchor="middle">0.75</text>
+  <text x="500" y="350" font-size="11" fill="#3c4858" text-anchor="middle">1.0</text>
+  <text x="280" y="368" font-size="12" fill="#0f2a43" text-anchor="middle" font-weight="600">P(T) prior</text>
+
+  <!-- y-axis labels -->
+  <text x="52" y="333" font-size="11" fill="#3c4858" text-anchor="end">0</text>
+  <text x="52" y="271" font-size="11" fill="#3c4858" text-anchor="end">0.20</text>
+  <text x="52" y="209" font-size="11" fill="#3c4858" text-anchor="end">0.40</text>
+  <text x="52" y="147" font-size="11" fill="#3c4858" text-anchor="end">0.60</text>
+  <text x="52" y="85" font-size="11" fill="#3c4858" text-anchor="end">0.80</text>
+  <text x="52" y="23" font-size="11" fill="#3c4858" text-anchor="end">1.0</text>
+  <text x="15" y="175" font-size="12" fill="#0f2a43" text-anchor="middle" font-weight="600"
+        transform="rotate(-90,15,175)">P(T|e) posterior</text>
+
+  <!-- Diagonal reference (BF=1, no evidence) -->
+  <line x1="60" y1="330" x2="500" y2="20" stroke="#b0b8c4" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="415" y="115" font-size="9" fill="#8a919c" transform="rotate(-36,415,115)">sin evidencia</text>
+
+  <!-- Curve: MINIMUM product BF=0.71 — evidence slightly HURTS theism -->
+  <!-- P_post = (p*0.71) / (1 - p + p*0.71) = 0.71p / (1 - 0.29p) -->
+  <!-- Points: (0,0), (0.1, 0.073), (0.25, 0.19), (0.5, 0.415), (0.75, 0.68), (1.0, 1.0) -->
+  <polyline fill="none" stroke="#b06a00" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"
+    points="60,330 104,307 170,271 280,201 390,119 500,20"/>
+  <text x="120" y="297" font-size="10" fill="#b06a00" font-weight="600">BF&prod;=0.71 (m&iacute;n)</text>
+
+  <!-- Curve: MODE product BF=27 -->
+  <!-- P_post = 27p / (1 - p + 27p) = 27p / (1 + 26p) -->
+  <!-- Points: (0,0), (0.05, 0.587), (0.1, 0.75), (0.25, 0.90), (0.5, 0.964), (0.75, 0.988), (1.0, 1.0) -->
+  <polyline fill="none" stroke="#1a7f5a" stroke-width="2.5"
+    points="60,330 82,148 104,78 170,33 280,19 390,16 500,20"/>
+  <text x="135" y="61" font-size="10" fill="#1a7f5a" font-weight="700">BF&prod;=27 (moda)</text>
+
+  <!-- Curve: MAX product BF=493 -->
+  <!-- P_post = 493p / (1 + 492p) -->
+  <!-- Points: (0,0), (0.01, 0.833), (0.05, 0.963), (0.1, 0.982), (0.25, 0.994), (0.5, 0.998), (1.0, 1.0) -->
+  <polyline fill="none" stroke="#2b5fa6" stroke-width="2" stroke-dasharray="8,3" opacity="0.8"
+    points="60,330 64,72 82,19 104,14 170,12 280,11 500,20"/>
+  <text x="100" y="30" font-size="10" fill="#2b5fa6" font-weight="600">BF&prod;=493 (m&aacute;x)</text>
+
+  <!-- Shaded band between min and max for visual -->
+  <polygon fill="#1a7f5a" opacity="0.07"
+    points="60,330 82,148 104,78 170,33 280,19 390,16 500,20
+            500,20 390,119 280,201 170,271 104,307 60,330"/>
+
+  <!-- Reference dots on mode curve -->
+  <circle cx="104" cy="78" r="4" fill="#1a7f5a"/>
+  <text x="112" y="92" font-size="9" fill="#1a7f5a">10%&rarr;75%</text>
+
+  <circle cx="280" cy="19" r="4" fill="#1a7f5a"/>
+  <text x="288" y="36" font-size="9" fill="#1a7f5a">50%&rarr;96%</text>
+
+</svg>
+<div class="figcap">Figura 1. Posterior P(<em>T</em>|<strong>e</strong>) vs. prior P(<em>T</em>)
+para tres escenarios de &prod;BF (producto de Bayes Factors).
+Banda verde: zona de incertidumbre entre el escenario mínimo y el máximo.
+Línea discontinua gris: diagonal de referencia (sin evidencia, BF = 1).</div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     CHAPTER: ROBUSTEZ HONESTA
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 id="cap-robustness">Robustez honesta: análisis de sensibilidad</h2>
+
+<h3 id="old-claim">3.1&ensp;Retractación del ~98&thinsp;%</h3>
+
+<div class="card">
+  <span class="tag t-warn">RETRACTACIÓN</span>&ensp;
+  <strong>La cifra del ~98.6&thinsp;% (C33) no es defendible</strong> como probabilidad
+  posterior del teísmo. Esa cifra es un artefacto de (a) coeficientes &beta; asignados por
+  el autor sin fuente externa, (b) doble contabilización al tratar FT y MN &mdash;y BC y
+  CG&mdash; como independientes cuando comparten base evidencial, y (c) la neutralización
+  total del mal (EV&thinsp;=&thinsp;0 en v2) en lugar de modelarlo como evidencia adversa.
+  El Monte Carlo de v2 midió la sensibilidad del modelo a sus propios supuestos, no la
+  fuerza de la evidencia (cf.&nbsp;<em>model_audit.md</em> &sect;2.1). Un escéptico que
+  modifique &beta;<sub>FT</sub> de 2.5 a &minus;0.5 obtiene un posterior de ~35&thinsp;%:
+  el resultado dependía del prior del autor, disfrazado de cálculo objetivo.
+</div>
+
+<h3 id="new-band">3.2&ensp;Nueva banda estimada</h3>
+
+<p>Bajo el modelo corregido con 6 factores agrupados, BF con rangos auditables, y
+el mal como penalización explícita:</p>
+
+<div class="keybox">
+  <strong>Banda posterior honesta:</strong> ~60&thinsp;%&ndash;95&thinsp;% para priors
+  entre el 10&thinsp;% y el 50&thinsp;%, usando las modas de los BF.
+  El resultado es <em>prior-dependent</em> por diseño:
+  el libro aporta los factores de Bayes; el lector aporta su prior.
+</div>
+
+<h3 id="sensitivity">3.3&ensp;Sensibilidad: eliminación individual de factores</h3>
+
+<p>Para evaluar la fragilidad de la conclusión, eliminamos cada factor individual del
+producto modal (&prod;BF<sub>moda</sub>&thinsp;=&thinsp;27) y recalculamos el posterior
+para un prior del 50&thinsp;% (odds prior = 1). La eliminación equivale a dividir el
+producto total entre el BF del factor retirado:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Factor eliminado</th>
+  <th>BF<sub>moda</sub> retirado</th>
+  <th>&prod;BF residual</th>
+  <th>Posterior (prior&nbsp;50&thinsp;%)</th>
+  <th>Caída vs.&nbsp;96&thinsp;%</th>
+  <th>Veredicto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><em>Ninguno</em> (referencia)</td>
+  <td>&mdash;</td>
+  <td>27.0</td>
+  <td>96.4&thinsp;%</td>
+  <td>&mdash;</td>
+  <td>&mdash;</td>
+</tr>
+<tr>
+  <td>F1 Orden cósmico</td>
+  <td>4.0</td>
+  <td>6.75</td>
+  <td>87.1&thinsp;%</td>
+  <td>&minus;9.3 pp</td>
+  <td><span class="tag t-warn">CRÍTICO</span></td>
+</tr>
+<tr>
+  <td>F2 Complejidad consciente</td>
+  <td>3.0</td>
+  <td>9.0</td>
+  <td>90.0&thinsp;%</td>
+  <td>&minus;6.4 pp</td>
+  <td><span class="tag t-spec">IMPORTANTE</span></td>
+</tr>
+<tr>
+  <td>F3 Orden moral</td>
+  <td>1.8</td>
+  <td>15.0</td>
+  <td>93.8&thinsp;%</td>
+  <td>&minus;2.6 pp</td>
+  <td><span class="tag t-mixed">MODERADO</span></td>
+</tr>
+<tr>
+  <td>F4 Experiencia religiosa</td>
+  <td>1.3</td>
+  <td>20.8</td>
+  <td>95.4&thinsp;%</td>
+  <td>&minus;1.0 pp</td>
+  <td><span class="tag t-strong">MENOR</span></td>
+</tr>
+<tr>
+  <td>F5 Indicios cuánticos</td>
+  <td>1.2</td>
+  <td>22.5</td>
+  <td>95.7&thinsp;%</td>
+  <td>&minus;0.7 pp</td>
+  <td><span class="tag t-strong">MENOR</span></td>
+</tr>
+<tr>
+  <td>F6 Mal (retirar penalización)</td>
+  <td>0.8</td>
+  <td>33.7</td>
+  <td>97.1&thinsp;%</td>
+  <td>+0.7 pp</td>
+  <td><span class="tag t-mixed">SUBE sin mal</span></td>
+</tr>
+</tbody>
+</table>
+
+<div class="card">
+  <strong>Hallazgos clave del análisis de sensibilidad:</strong>
+  <ol>
+    <li><strong>El orden cósmico (F1) es el pilar.</strong> Su eliminación produce la mayor
+    caída individual (&minus;9.3&nbsp;pp). Si un revisor rechaza el ajuste fino como evidencia
+    (por ejemplo, aceptando el multiverso como explicación suficiente), el caso acumulativo
+    se debilita significativamente pero no colapsa: el posterior se mantiene en ~87&thinsp;%
+    con prior del 50&thinsp;%.</li>
+    <li><strong>La complejidad consciente (F2) es el segundo pilar.</strong> Su eliminación
+    produce una caída de &minus;6.4&nbsp;pp. Si tanto F1 como F2 se retiran (un escéptico que
+    rechace el ajuste fino <em>y</em> la brecha de la consciencia), el producto residual cae
+    a 27&thinsp;/&thinsp;(4.0&thinsp;&times;&thinsp;3.0) = 2.25, dando un posterior del
+    69&thinsp;% con prior del 50&thinsp;% &mdash;todavía favorable al teísmo, pero ya no
+    abrumador.</li>
+    <li><strong>Los factores débiles (F4, F5) son prescindibles.</strong> La experiencia
+    religiosa y los indicios cuánticos contribuyen menos de 2&nbsp;pp combinados. El caso
+    acumulativo no depende de ellos.</li>
+    <li><strong>El mal (F6) importa honestamente.</strong> Incluirlo como BF&thinsp;=&thinsp;0.8
+    reduce el posterior en ~0.7&nbsp;pp frente a ignorarlo. Retirar la penalización
+    (como hacía v2 con EV&thinsp;=&thinsp;0) infla artificialmente el resultado. Mantener F6
+    es un costo epistémico necesario para la credibilidad del modelo.</li>
+  </ol>
+</div>
+
+<h3 id="adversarial-scenario">3.4&ensp;Escenario adversarial: todos los BF en su mínimo</h3>
+
+<p>Si <em>todos</em> los factores toman simultáneamente su valor mínimo
+(&prod;BF<sub>m&iacute;n</sub>&thinsp;=&thinsp;0.71), la evidencia acumulada
+<em>reduce levemente</em> la probabilidad del teísmo respecto al prior:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Prior</th>
+  <th>Posterior (todos BF m&iacute;n)</th>
+  <th>Comentario</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>10&thinsp;%</td>
+  <td>7.3&thinsp;%</td>
+  <td>Evidencia neta ligeramente adversa al teísmo</td>
+</tr>
+<tr>
+  <td>50&thinsp;%</td>
+  <td>41&thinsp;%</td>
+  <td>Evidencia neta ligeramente adversa</td>
+</tr>
+</tbody>
+</table>
+
+<p>Este escenario extremo &mdash;en el que <em>cada</em> pieza de evidencia adopta
+simultáneamente su valor más desfavorable para el teísmo&mdash; es improbable pero
+instructivo: demuestra que el modelo <em>puede</em> producir resultados contrarios
+al teísmo. Esa bidireccionalidad es precisamente lo que le otorga credibilidad
+epistémica frente al logit de v2, que nunca podía bajar del 50&thinsp;% con sus
+coeficientes positivos fijos.</p>
+
+<h3 id="conclusion-model">3.5&ensp;Conclusión metodológica</h3>
+
+<div class="keybox">
+  <strong>Síntesis.</strong> El modelo reconstruido reemplaza un número único no
+  defendible (~98.6&thinsp;%) por una <strong>función transparente</strong>:
+  <em>P</em>(<em>T</em>&thinsp;|&thinsp;<strong>e</strong>) =
+  <em>f</em>&thinsp;(prior,&thinsp;BF<sub>1</sub>,&thinsp;&hellip;,&thinsp;BF<sub>6</sub>).
+  Con priors entre 10&thinsp;% y 50&thinsp;% y las modas de los BF, la banda posterior es
+  <strong>~75&thinsp;%&ndash;96&thinsp;%</strong>. Con los mínimos cae a
+  <strong>~7&thinsp;%&ndash;41&thinsp;%</strong>; con los máximos sube a
+  <strong>~98&thinsp;%&ndash;99.8&thinsp;%</strong>. Ningún número único puede sustituir a
+  esta función sin ocultar el papel determinante del prior del lector.
+  <br><br>
+  <span class="tag t-mixed">MODELO REFORMULADO</span>&ensp;
+  La contribución del libro no es &laquo;la probabilidad de Dios es X&thinsp;%&raquo;
+  sino &laquo;cada pieza de evidencia aporta un factor de Bayes auditable; el lector
+  multiplica y decide&raquo;. Eso es epistemológicamente honesto &mdash;y más persuasivo
+  por serlo.
+</div>
+
+
+<h3>PARTE III — Mecanismo y significado (capítulos nuevos)</h3>
+<section class="card chapter" id="espacio-platonico">
+  <p class="tag t-strong">[STRONG EVIDENCE] para la plasticidad morfogenética y la navegación de espacios de posibilidades; [SPECULATIVE] para su lectura como Logos divino.</p>
+  <h2>El Espacio Platónico: patrones que ingresan</h2>
+  <p>Una tesis central de este libro sostiene que la realidad no es mera yuxtaposición de materia, sino materia inteligiblemente ordenada. La expresión «Espacio Platónico» ofrece un vocabulario contemporáneo para formular esa intuición, pero exige una disciplina conceptual estricta. En Michael Levin, el <em>morphospace</em> no designa, por sí solo, un cielo religioso ni una mente cósmica. Designa un espacio de formas, conductas y competencias posibles que un sistema vivo puede explorar. La expresión «dones agenciales» (<em>agential gifts</em>) señala que ciertas arquitecturas materiales permiten acceder a capacidades que no fueron especificadas pieza por pieza. El organismo no recibe un plano minucioso desde fuera: coordina, corrige errores y alcanza estados-meta mediante dinámicas distribuidas.</p>
+  <p>La evidencia experimental relevante procede de la biología del desarrollo y la cognición basal. Redes bioeléctricas entre células almacenan estados, delimitan objetivos anatómicos y pueden ser perturbadas para producir resultados morfológicos reproducibles sin alterar la secuencia genómica. Planarias, xenobots y anthrobots muestran, con alcances distintos, que el sustrato celular puede resolver problemas en un espacio anatómico y reorganizarse ante circunstancias nuevas. Esta plasticidad apoya una afirmación acotada: la forma final no se deduce de una lectura ingenuamente lineal del genoma. No prueba que la forma exista como entidad separada, ni que una inteligencia trascendente la comunique.</p>
+  <div class="quote">«Patrones de forma y conducta más allá de la emergencia» y «Free Lunches» deben leerse como títulos programáticos del simposio de Levin: invitan a preguntar qué competencias aparecen al ensamblar sistemas, no autorizan a convertir una metáfora de acceso en una ontología ya demostrada.</div>
+  <h3>Ingresión sin magia causal</h3>
+  <p>La noción de <em>ingresión</em>, desarrollada por Matt Segall a partir de Alfred North Whitehead, describe cómo una posibilidad formal adquiere determinación en un acontecimiento concreto. No es necesario imaginar objetos matemáticos empujando átomos desde otra región espacial. Basta distinguir tres niveles: un conjunto estructurado de posibilidades; unas restricciones dinámicas que hacen algunas trayectorias accesibles; y una realización física particular. La causalidad eficiente permanece en el sistema material, mientras la descripción formal identifica qué organización se actualiza. En este sentido deflacionario, «ingresar» significa que una dinámica selecciona una configuración entre alternativas posibles.</p>
+  <p>Karl Friston, en «On the (Platonic) Nature of Things», ofrece un puente formal mediante el principio de energía libre. Un sistema que persiste bajo una frontera estadística puede describirse como si mantuviera un modelo generativo y minimizara energía libre variacional. En morfogénesis, las trayectorias hacia una forma-meta pueden representarse como inferencia: los estados celulares reducen discrepancias respecto de resultados fenotípicos esperados. <span class="tag t-established">[ESTABLISHED]</span> La identidad algebraica y los métodos variacionales están establecidos dentro de sus supuestos. <span class="tag t-strong">[STRONG EVIDENCE]</span> Su uso para modelar coordinación y homeostasis cuenta con apoyo formal y experimental. <span class="tag t-mixed">[MIXED]</span> Sigue discutido cuánto explica el formalismo, frente a cuánto redescribe dinámicas conocidas.</p>
+  <svg viewBox="0 0 760 250" role="img" aria-labelledby="svg1-title svg1-desc" style="width:100%;height:auto;background:#fbfcfd;border:1px solid #ccd6dd">
+    <title id="svg1-title">De posibilidades a forma realizada</title><desc id="svg1-desc">Tres niveles: espacio de posibilidades, dinámica selectiva y organismo realizado; la interpretación teológica aparece como inferencia adicional.</desc>
+    <rect x="30" y="55" width="190" height="90" rx="8" fill="#eef4f8" stroke="#607d8b"/><text x="125" y="84" text-anchor="middle" font-size="15">Morphospace</text><text x="125" y="110" text-anchor="middle" font-size="13">formas y competencias</text><text x="125" y="132" text-anchor="middle" font-size="12">posibles</text>
+    <path d="M225 100 H290" stroke="#607d8b" stroke-width="2" marker-end="url(#a1)"/><rect x="295" y="55" width="190" height="90" rx="8" fill="#f4f7ec" stroke="#789262"/><text x="390" y="84" text-anchor="middle" font-size="15">Dinámica material</text><text x="390" y="110" text-anchor="middle" font-size="13">bioelectricidad +</text><text x="390" y="132" text-anchor="middle" font-size="12">inferencia activa</text>
+    <path d="M490 100 H555" stroke="#607d8b" stroke-width="2" marker-end="url(#a1)"/><rect x="560" y="55" width="170" height="90" rx="8" fill="#f8f1ed" stroke="#9a7661"/><text x="645" y="84" text-anchor="middle" font-size="15">Forma realizada</text><text x="645" y="110" text-anchor="middle" font-size="13">reparación, conducta,</text><text x="645" y="132" text-anchor="middle" font-size="12">morfogénesis</text>
+    <path d="M390 150 V195" stroke="#8a6d3b" stroke-dasharray="5 4"/><text x="390" y="218" text-anchor="middle" font-size="13" fill="#6d5328">¿Logos? inferencia metafísica adicional</text><defs><marker id="a1" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#607d8b"/></marker></defs>
+  </svg>
+  <h3>El contrapunto de Fields</h3>
+  <p>Chris Fields, en «From Experience to Math», impide una conclusión precipitada. Si la matemática emerge de regularidades compartidas en la experiencia y toda transmisión de información requiere un portador físico, la eficacia descriptiva de las estructuras no demuestra que ellas habiten un dominio ontológicamente anterior. Esta alternativa puede ser empíricamente equivalente a una lectura platónica en muchos contextos. Por ello, la existencia de una representación matemática compacta no decide entre realismo platónico, estructuralismo, instrumentalismo o una metafísica de procesos.</p>
+  <p>La convergencia del simposio es, entonces, real pero limitada. Levin pregunta cómo los ensamblajes acceden a competencias; Segall interpreta la actualización como ingresión whiteheadiana; Friston formaliza persistencia e inferencia; Fields reconstruye la matemática desde experiencia y fronteras informacionales. No hay unanimidad ontológica. La evidencia respalda que los sistemas recorren paisajes estructurados y que las descripciones de atractores, simetrías y modelos generativos tienen poder explicativo. No establece que el paisaje sea una sustancia inmaterial ni una persona.</p>
+  <h3>La lectura del Logos</h3>
+  <p>La tesis del Logos puede adoptar esta maquinaria sin apropiarse indebidamente de su autoridad. Su formulación legítima es abductiva: si el universo posee un espacio estable y fecundo de posibilidades, si ciertos sustratos realizan patrones portables y si la agencia aparece por grados, entonces una razón ordenadora constituye una interpretación metafísica coherente. <span class="tag t-spec">[SPECULATIVE]</span> Identificar esa razón con un Logos personal, bueno y creador excede los datos. También excede los modelos de Levin y Friston, cuyos mecanismos funcionan naturalísticamente.</p>
+  <p>La cautela fortalece, no debilita, la propuesta. El Espacio Platónico aporta al libro un mecanismo naturalista de actualización: restricciones, memoria bioeléctrica, atractores y minimización variacional conectan posibilidad con realización. El Logos aporta una lectura sobre por qué existe ese espacio, por qué es inteligible y por qué contiene rutas hacia agentes capaces de conocerlo. La primera cuestión admite pruebas de laboratorio; la segunda compara cosmovisiones. Confundirlas produciría una falsa demostración. Mantenerlas separadas permite una tesis más precisa: la ciencia muestra cómo patrones ingresan en materia organizada; la teología filosófica pregunta si la estructura total de posibilidades tiene un fundamento racional.</p>
+  <p class="quote"><strong>Fuentes del corpus:</strong> Michael Levin, ponencias «Patterns of Form and Behavior Beyond Emergence» y «Free Lunches»; Matt Segall, exposición sobre ingresión y Whitehead; Karl Friston, «On the (Platonic) Nature of Things»; Chris Fields, «From Experience to Math». La referencia a estas ponencias acredita sus posiciones, no una adhesión conjunta al teísmo.</p>
+</section>
+
+<section class="card chapter" id="numero-teano">
+  <p class="tag t-meta">[DOCTRINAL RECONSTRUCTION] Tradición viva interpretada; no atribución histórica directa sin fuente primaria.</p>
+  <h2>El Número según Teano: estructura, no sustancia</h2>
+  <p>Decir que «Dios es información» parece audaz, pero mezcla categorías. La información técnica presupone un alfabeto, diferencias discernibles, una distribución y, según el caso, un intérprete. Dios, en la teología clásica, no sería un objeto codificado dentro de un sistema más amplio. Tampoco el número es una materia sutil de la cual se fabriquen piedras, células y estrellas. La corrección pitagórica que guía este capítulo puede expresarse así: las cosas no nacen <em>del</em> Número como de una sustancia; nacen <em>según</em> el Número, es decir, conforme a proporciones, límites y relaciones inteligibles.</p>
+  <p>Esta fórmula se asocia aquí a Teano como emblema de una línea pitagórica, no como cita textual críticamente establecida. <span class="tag t-meta">[DOCTRINAL RECONSTRUCTION]</span> La tradición antigua es fragmentaria, estratificada y transmitida por testimonios tardíos; por ello, el capítulo reconstruye una intuición doctrinal y no pretende resolver autoría filológica. «Número» nombra estructura relacional: unidad y multiplicidad, medida, armonía, razón entre términos. Bajo esta lectura, una cosa es lo que es no porque contenga una porción de una sustancia llamada número, sino porque realiza un orden determinable.</p>
+  <h3>De información a posibilidad estructurada</h3>
+  <p>La reformulación propuesta sustituye «Dios como información» por «Dios como fundamento de la estructura de posibilidades». La primera frase invita a preguntar cuántos bits tiene Dios o en qué soporte se almacena; ambas preguntas son errores categoriales. La segunda afirma algo metafísicamente más sobrio: toda realidad contingente actualiza unas posibilidades y excluye otras; esas posibilidades guardan relaciones de compatibilidad, implicación y proporción. El Logos sería el fundamento por el cual ese orden modal es inteligible y realizable.</p>
+  <p><span class="tag t-established">[ESTABLISHED]</span> Las ciencias describen regularidades mediante estructuras matemáticas y comparan modelos por su adecuación. <span class="tag t-strong">[STRONG]</span> Es defendible que una misma estructura pueda tener realizaciones materiales diversas y que las restricciones de organización sean explicativamente relevantes. <span class="tag t-mixed">[MIXED]</span> Es disputado si las estructuras existen independientemente, emergen de prácticas cognitivas o resumen patrones físicos. <span class="tag t-spec">[SPECULATIVE]</span> Que el fundamento último de las posibilidades sea una inteligencia personal constituye una inferencia metafísica, no un resultado de teoría de la información.</p>
+  <svg viewBox="0 0 760 255" role="img" aria-labelledby="svg2-title svg2-desc" style="width:100%;height:auto;background:#fffdf9;border:1px solid #d8d0c4">
+    <title id="svg2-title">Del sustancialismo a la estructura</title><desc id="svg2-desc">Contraste entre cosas hechas de número, tesis rechazada, y cosas ordenadas según número, tesis propuesta.</desc>
+    <rect x="35" y="40" width="290" height="145" rx="8" fill="#f8eeee" stroke="#a76b6b"/><text x="180" y="70" text-anchor="middle" font-size="16">Modelo rechazado</text><text x="180" y="105" text-anchor="middle" font-size="14">NÚMERO = sustancia</text><path d="M130 125 H230" stroke="#a76b6b" stroke-width="3"/><path d="M140 145 H220" stroke="#a76b6b" stroke-width="3"/><text x="180" y="172" text-anchor="middle" font-size="12">«cosas hechas de número»</text>
+    <path d="M342 112 H415" stroke="#777" stroke-width="2" marker-end="url(#a2)"/><text x="378" y="98" text-anchor="middle" font-size="12">corrección</text>
+    <rect x="430" y="40" width="295" height="145" rx="8" fill="#eef6ef" stroke="#6f9472"/><text x="578" y="70" text-anchor="middle" font-size="16">Modelo estructural</text><circle cx="515" cy="125" r="18" fill="#dbe9f2" stroke="#66839a"/><circle cx="640" cy="125" r="18" fill="#f2e8d5" stroke="#947b54"/><path d="M534 125 H621" stroke="#6f9472" stroke-width="3"/><text x="578" y="157" text-anchor="middle" font-size="12">«cosas según proporción»</text>
+    <text x="380" y="225" text-anchor="middle" font-size="14">Logos: fundamento propuesto del orden de posibilidades</text><defs><marker id="a2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#777"/></marker></defs>
+  </svg>
+  <h3>Amelita como tradición viva</h3>
+  <p>El corpus de Amelita ofrece una ilustración contemporánea de esta gramática. En su enseñanza, las virtudes son presentadas como patrones que se «llaman», se reciben y se encarnan en actos. La metáfora de una fotosíntesis espiritual —luz convertida en gesto— expresa el tránsito desde posibilidad normativa hasta conducta. El valor documental de este material es doble: atestigua cómo una comunidad viva conserva y transforma símbolos pitagóricos, y proporciona prácticas observables de atención, recapitulación y formación del carácter. No certifica la antigüedad de cada formulación ni demuestra que las virtudes existan como energías separadas.</p>
+  <p>Por eso se requieren dos etiquetas simultáneas. <span class="tag t-strong">[STRONG AS PRACTICE]</span> Es plausible y susceptible de estudio que la repetición, la atención y la evaluación de la conducta modifiquen hábitos. <span class="tag t-spec">[METAPHYSICAL CONJECTURE]</span> Que una virtud sea una entidad divina alada que desciende desde el Uno pertenece a la doctrina de la escuela. Puede orientar una vida, pero no debe presentarse como resultado experimental. La expresión «tradición viva» describe continuidad practicada; no garantiza identidad histórica sin interrupciones.</p>
+  <h3>Virtud, forma y límite</h3>
+  <p>La reformulación estructural permite dialogar con la morfogénesis sin declarar identidades ontológicas. Una virtud funciona como forma normativa: define un conjunto de acciones más congruentes que otras. Un organismo, en el marco de Levin, navega hacia configuraciones anatómicas; una persona, en el marco ético, navega hacia configuraciones de carácter. En ambos casos hay estado actual, posibilidades, restricciones, memoria, error y corrección. La analogía es fuerte en la arquitectura. La identidad —«la virtud y el atractor bioeléctrico son la misma cosa»— no está establecida.</p>
+  <p>La preposición «según» preserva precisamente esta diferencia. El tejido se organiza según relaciones fisiológicas; la acción justa, según una norma; una melodía, según intervalos. Ninguno necesita estar compuesto de relaciones como si estas fueran átomos. Así, el Logos no es una base de datos cósmica y las criaturas no son archivos descargados. El Logos designa, en la hipótesis del libro, la razón por la que las posibilidades forman un orden y por la que algunas realizaciones son verdaderas, bellas o buenas.</p>
+  <h3>Ganancia teológica y costo epistémico</h3>
+  <p>Esta corrección gana coherencia. Evita identificar información de Shannon con significado, evita separar el patrón de todo soporte y evita atribuir a la matemática voluntad propia. También impone un costo: ya no puede decirse que la ciencia «descubrió a Dios como información». A lo sumo, la ciencia descubre estructuras, invariantes y paisajes de posibilidad; la filosofía pregunta qué ontología los explica; la teología propone que el Logos los funda y conoce.</p>
+  <p>La tesis final es deliberadamente condicional. Si la inteligibilidad del orden modal requiere fundamento, y si un fundamento racional explica mejor ese orden que un hecho bruto, entonces el lenguaje del Logos adquiere fuerza abductiva. Pero subsisten alternativas: realismo estructural sin mente, nominalismo, naturalismo modal y metafísicas de proceso. La enseñanza de Amelita muestra cómo la hipótesis puede vivirse: actualizar posibilidades de virtud en actos verificables. No decide por sí misma cuál metafísica es verdadera. Teano, leída con cautela, ofrece la regla de oro: no divinizar el símbolo ni materializar el Número; reconocer que lo real llega a ser bajo forma, proporción y límite.</p>
+  <p class="quote"><strong>Regla de interpretación:</strong> «según el Número» es aquí una reconstrucción filosófico-doctrinal. Las afirmaciones sobre Amelita describen el corpus de la escuela como tradición viva; no se presentan como testimonios históricos directos de Teano.</p>
+</section>
+
+<section class="card chapter" id="consciencia-transmisiva">
+  <p class="tag t-mixed">[MIXED→SPECULATIVE] Hipótesis puente con evidencia indirecta; no teoría confirmada de la consciencia.</p>
+  <h2>Consciencia transmisiva y el Logos humano</h2>
+  <p>El debate sobre la consciencia suele polarizarse entre producción y separación. Para el materialismo productivo, el cerebro genera experiencia del mismo modo —solo analógicamente— que un órgano produce una función. Para el dualismo sustancial, mente y cuerpo pertenecen a órdenes distintos cuya interacción plantea dificultades conocidas. La propuesta transmisiva asociada aquí a Nic Rouleau abre una tercera vía: el sistema nervioso no tendría que crear la consciencia desde cero ni alojar un alma completamente independiente; podría modular, filtrar o estabilizar un proceso experiencial más amplio.</p>
+  <p>Esta formulación debe manejarse con rigor. Rouleau discute memoria, estados de consciencia y continuidad de la experiencia, e insiste en que haría falta un mecanismo para explicar el paso de una forma a otra. El corpus no ofrece una demostración de que la consciencia exista fuera del cerebro, ni una identificación con Dios. <span class="tag t-mixed">[MIXED]</span> La idea de transmisión organiza algunas observaciones y genera contrastes conceptuales. <span class="tag t-spec">[SPECULATIVE]</span> La existencia de un campo consciente independiente, la supervivencia personal y su procedencia de un Logos son extensiones no establecidas.</p>
+  <h3>Qué significa transmitir</h3>
+  <p>«Transmisión» puede significar al menos tres cosas. Primero, dependencia de canal: la experiencia cambia cuando cambian conectividad, neuromodulación o integración neural. Esto está ampliamente apoyado, pero es compatible con producción. Segundo, selección de información: el cerebro amplifica señales, inhibe otras y mantiene modelos del entorno y del cuerpo. También es naturalista y comprobable. Tercero, recepción ontológica: el cerebro accedería a una consciencia que existe con independencia de él. Solo este tercer sentido constituye la hipótesis fuerte, y la evidencia de los dos primeros no se transfiere automáticamente al tercero.</p>
+  <p>La distinción evita la falacia del receptor de radio: que un radio dañado distorsione la música no prueba que todo cerebro sea receptor de una señal extracerebral. La analogía muestra posibilidad lógica, no probabilidad empírica. Para elevarla a hipótesis científica se necesitan variables: qué se transmite, por qué canal, con qué ancho de banda, qué perturbación altera recepción sin alterar producción, y qué observación diferencia ambos modelos.</p>
+  <svg viewBox="0 0 760 275" role="img" aria-labelledby="svg3-title svg3-desc" style="width:100%;height:auto;background:#fbfbfd;border:1px solid #ced3dc">
+    <title id="svg3-title">Tres modelos de consciencia</title><desc id="svg3-desc">Comparación entre producción cerebral, dualismo y transmisión; la flecha al Logos está marcada como especulativa.</desc>
+    <rect x="25" y="35" width="210" height="145" rx="8" fill="#eef4f8" stroke="#658195"/><text x="130" y="62" text-anchor="middle" font-size="15">Producción</text><text x="70" y="105" font-size="13">cerebro</text><path d="M115 100 H178" stroke="#658195" marker-end="url(#a3)"/><text x="145" y="127" text-anchor="middle" font-size="12">causa</text><text x="181" y="105" font-size="13">experiencia</text>
+    <rect x="275" y="35" width="210" height="145" rx="8" fill="#f7f1e8" stroke="#907650"/><text x="380" y="62" text-anchor="middle" font-size="15">Dualismo</text><text x="315" y="105" font-size="13">mente</text><path d="M355 100 H415" stroke="#907650" stroke-dasharray="4 3"/><text x="380" y="127" text-anchor="middle" font-size="12">interacción</text><text x="420" y="105" font-size="13">cuerpo</text>
+    <rect x="525" y="35" width="210" height="145" rx="8" fill="#eef6ef" stroke="#6d9270"/><text x="630" y="62" text-anchor="middle" font-size="15">Transmisión</text><text x="555" y="105" font-size="13">proceso</text><path d="M608 100 H670" stroke="#6d9270" marker-end="url(#a3)"/><text x="640" y="127" text-anchor="middle" font-size="12">modulación</text><text x="675" y="105" font-size="13">cerebro</text>
+    <path d="M630 185 V225" stroke="#8c5f83" stroke-dasharray="5 4"/><text x="630" y="248" text-anchor="middle" font-size="13" fill="#714a69">Logos: interpretación especulativa</text><defs><marker id="a3" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#658195"/></marker></defs>
+  </svg>
+  <h3>Una tercera vía naturalizable</h3>
+  <p>La versión metodológicamente más fértil no postula primero una sustancia remota. Pregunta si la consciencia depende de relaciones distribuidas que atraviesan escalas: cerebro, cuerpo, ambiente y otros agentes. El principio de energía libre de Friston y las fronteras de Markov modelan cómo estados internos se acoplan estadísticamente con causas externas. Fields subraya que la información se intercambia mediante portadores físicos. Levin extiende la investigación de competencias a tejidos sin sistema nervioso y declara expresamente que no posee una nueva teoría de la consciencia. En conjunto, estos trabajos legitiman estudiar interfaces y continuidad, pero no prueban recepción extracorporal.</p>
+  <p>El enfoque transmisivo puede ser un tercer camino si conserva esa apertura. Frente al reduccionismo ingenuo, recuerda que correlación neural no equivale a explicación de la cualidad vivida. Frente al dualismo inmune a prueba, exige mecanismo y predicción. La consciencia podría ser una propiedad relacional realizada por redes corporales, un proceso extendido o un rasgo fundamental modulado por organismos. Esas opciones no son equivalentes y deben competir mediante modelos.</p>
+  <h3>El Logos humano</h3>
+  <p>«Logos humano» nombra la capacidad finita de recibir regularidades, articular razones y transformar comprensión en acción. El verbo «recibir» no presupone una antena metafísica; en su sentido mínimo, indica que conocer depende de un mundo que restringe nuestras representaciones. El pensamiento no inventa a voluntad los números primos, la resistencia de un tejido ni las consecuencias de una decisión. Responde a una estructura que lo precede.</p>
+  <p>La lectura teológica añade que esta correspondencia entre razón humana y orden real participa de un Logos más amplio. <span class="tag t-spec">[SPECULATIVE]</span> La participación podría explicar por qué mentes finitas acceden a verdades abstractas y por qué la comprensión puede orientar la conducta. Sin embargo, ni la inteligibilidad matemática ni el carácter unitario de la experiencia identifican por sí mismos una mente divina. Panpsiquismo, monismo neutral, emergentismo y teorías de orden superior ofrecen comparadores no teístas.</p>
+  <h3>Predicciones y límites</h3>
+  <p>Una hipótesis transmisiva seria debería superar tres pruebas. La primera es diferencial: predecir un patrón que un modelo productivo bien especificado no prediga. La segunda es dosis-respuesta: relacionar perturbaciones del supuesto canal con cambios cuantificables de contenido, integración o continuidad. La tercera es independencia: evitar usar el mismo dato —por ejemplo, una experiencia inusual— para definir el canal y confirmarlo. Estudios preregistrados, controles ciegos, medidas fisiológicas y comparación explícita de modelos son requisitos mínimos.</p>
+  <p>Resultados de anestesia, lesiones y estimulación muestran una dependencia robusta entre experiencia y cerebro. <span class="tag t-established">[ESTABLISHED]</span> Cualquier transmisión fuerte debe explicar esa dependencia al menos tan bien como sus rivales. Experiencias cercanas a la muerte, fenómenos místicos o anomalías de memoria pueden motivar preguntas, pero su interpretación es mixta por problemas de temporalidad, selección, reconstrucción y replicación. No deben presentarse como demostración.</p>
+  <p>Así entendida, la consciencia transmisiva no resuelve el problema difícil; reorganiza el espacio de hipótesis. Su mayor virtud es negar una falsa disyunción: o secreción cerebral o alma aislada. Su mayor riesgo es convertirse en metáfora sin canal, señal ni falsificador. El Logos humano puede ser defendido filosóficamente como apertura racional a un orden objetivo. Convertir esa apertura en recepción de una Mente suprema requiere argumentos adicionales. La etiqueta honesta permanece <span class="tag t-mixed">[MIXED→SPECULATIVE]</span>: evidencia fuerte para la modulación neural, debate abierto sobre la ontología de la experiencia y conjetura para su fuente divina.</p>
+  <p class="quote"><strong>Atribución limitada:</strong> Rouleau aporta preguntas sobre continuidad y mecanismo. Levin, Friston y Fields aportan marcos naturalistas sobre agencia, inferencia y canales físicos. La síntesis con el Logos pertenece al argumento de este libro.</p>
+</section>
+
+<section class="card chapter" id="falsabilidad">
+  <p class="tag t-meta">[META-METHODOLOGICAL] Programa de prueba; los factores de Bayes actuales son elicitados, no estimados.</p>
+  <h2>Qué refutaría esta hipótesis</h2>
+  <p>Una hipótesis que explica cualquier resultado no explica ninguno. La tesis del Logos debe especificar qué observaciones reducirían su credibilidad, aunque ninguna medición aislada pueda refutar una metafísica completa con la nitidez de una teoría local. En términos bayesianos, la pregunta correcta no es solo «¿es compatible este dato con Dios?», sino «¿cuánto más probable era este dato bajo la hipótesis del Logos que bajo sus mejores alternativas?». El factor de Bayes (FB) es la razón entre esas probabilidades condicionales. Si el dato es igual o más esperado bajo el comparador, el FB es cercano a uno o menor y no fortalece la tesis.</p>
+  <p>Los coeficientes de versiones anteriores de este libro no fueron estimados con casos etiquetados de universos con y sin Dios. Son pesos de escenario elicitados. <span class="tag t-established">[ESTABLISHED]</span> Sumar logaritmos de razones de verosimilitud es una identidad válida cuando se usa la factorización conjunta o razones condicionales correctas. <span class="tag t-meta">[NOT ESTABLISHED]</span> No está validado que las ocho variables sean independientes, ni que sus números actuales sean verdaderos FB. Este capítulo convierte una puntuación ilustrativa en agenda de investigación.</p>
+  <h3>Matriz de debilitadores por variable</h3>
+  <p><strong>Ajuste fino (AF).</strong> Debilitarían su FB: una teoría confirmada que derive los parámetros aparentemente ajustados sin libertad adicional; un mecanismo de selección cosmológica con predicciones novedosas verificadas; o un análisis de medida que muestre que observadores son típicos en una amplia región de parámetros. También lo reduciría comprobar que las cifras de improbabilidad dependen principalmente de parametrización o priors arbitrarios. No basta descubrir un multiverso posible: debe superar predictivamente al diseño y evitar trasladar el ajuste a su generador.</p>
+  <p><strong>Necesidad metafísica (NM).</strong> La debilitarían modelos coherentes de hechos brutos, regresos explicativos o fundamentación no personal que resuelvan las mismas preguntas con menor costo teórico; también una demostración de que el principio de razón suficiente produce contradicciones o no se aplica al conjunto de la realidad. Si el paso de «fundamento» a «mente personal» no genera expectativas distintas, el FB para teísmo —aunque no para algún fundamento— tiende a uno.</p>
+  <p><strong>Objetividad moral (OM).</strong> La debilitaría una explicación naturalista con predicciones exitosas sobre convergencia y desacuerdo moral, unida a una semántica no teísta de verdad normativa. También la debilitarían desacuerdos persistentes precisamente donde una revelación buena y competente predice claridad, o una dependencia completa de juicios morales respecto de variables manipulables sin residuo racional estable. Esto no refutaría toda norma, pero reduciría la ventaja explicativa de un legislador perfecto.</p>
+  <p><strong>Consciencia (CO).</strong> El FB teísta disminuiría si una teoría física-neurocomputacional predijera, antes de medir, contenidos y transiciones conscientes con alta precisión, explicara la unidad fenomenal y resolviera por qué esos estados tienen cualidad subjetiva. También si lesiones, anestesia y estimulación agotaran sistemáticamente toda variación de experiencia y fallaran pruebas preregistradas de cualquier canal transmisivo. Correlación neural ya pesa contra versiones ingenuas de independencia; una explicación completa pesaría mucho más.</p>
+  <p><strong>Complejidad biológica (CB).</strong> La debilitarían trayectorias reproducibles desde química prebiótica hasta sistemas evolutivos abiertos, junto con modelos que predigan innovaciones sin información teleológica añadida. En desarrollo, demostrar que los «dones agenciales» se derivan exhaustivamente de dinámica, historia selectiva y restricciones físicas reduciría la necesidad de una lectura trascendente. La evolución y la autoorganización ya son comparadores reales; tratarlas como ausencia de explicación inflaría artificialmente el FB.</p>
+  <p><strong>Indicios cuántico-informacionales (QI).</strong> La variable perdería fuerza si todas sus predicciones dependieran solo de formalismo operacional y ningún resultado distinguiera información ontológicamente primaria de información como descripción de procesos físicos. Confirmar que cualquier registrador físico produce los mismos hechos, sin papel especial de consciencia, debilita inferencias participativas fuertes. Si «información» siempre requiere soporte y la hipótesis del Logos no añade predicción, el FB debe aproximarse a uno.</p>
+  <p><strong>Experiencia religiosa (ER).</strong> La debilitarían estudios multicentro, ciegos y preregistrados que no hallaran señal por encima de expectativa, sugestión y reconstrucción; efectos fuertemente determinados por cultura sin contenido independiente; y la ausencia de mejora predictiva al postular una fuente externa. La diversidad puede explicarse como ruido, pero si cualquier contradicción se etiqueta ruido, el modelo se inmuniza. Deben fijarse por anticipado tasas de error y contenidos esperables.</p>
+  <p><strong>Mal y ocultamiento (MOc).</strong> Aunque versiones previas neutralicen su peso, no corresponde asignarle cero por decreto. El FB del Logos bueno disminuiría ante sufrimiento aparentemente gratuito, distribución indiferente al carácter, plegarias sin diferencia frente a controles y ocultamiento persistente entre buscadores sinceros. Una teodicea debe predecir restricciones observables, no solo acomodar retrospectivamente cada tragedia. Cuanto más libre sea para explicar cualquier mundo, menor su valor probabilístico.</p>
+  <p><strong>Convergencia informacional interdisciplinaria (CI).</strong> Esta variable nueva se debilitaría si el principio de energía libre resultara meramente tautológico sin predicciones exclusivas; si el Espacio Platónico fuera reemplazable sin pérdida por modelos físicos locales; si las estructuras matemáticas variasen enteramente con prácticas de observadores; o si «información» significara algo distinto en cada dominio. La convergencia verbal no cuenta como independencia evidencial. Debe medirse la covarianza con QI, CB y CO para evitar contar cuatro veces una premisa común.</p>
+  <svg viewBox="0 0 760 285" role="img" aria-labelledby="svg4-title svg4-desc" style="width:100%;height:auto;background:#fcfcfc;border:1px solid #d2d2d2">
+    <title id="svg4-title">Ciclo de actualización bayesiana</title><desc id="svg4-desc">Hipótesis y comparadores generan predicciones, que se contrastan con datos y actualizan credencias; dependencia y preregistro controlan el proceso.</desc>
+    <rect x="30" y="90" width="150" height="80" rx="8" fill="#eef4f8" stroke="#637f91"/><text x="105" y="120" text-anchor="middle" font-size="14">Hipótesis Logos</text><text x="105" y="145" text-anchor="middle" font-size="12">+ comparadores</text>
+    <rect x="225" y="35" width="150" height="80" rx="8" fill="#f3f5e9" stroke="#7b8b5b"/><text x="300" y="65" text-anchor="middle" font-size="14">Predicciones</text><text x="300" y="90" text-anchor="middle" font-size="12">preregistradas</text>
+    <rect x="420" y="35" width="150" height="80" rx="8" fill="#f8f0e9" stroke="#9b765b"/><text x="495" y="65" text-anchor="middle" font-size="14">Datos</text><text x="495" y="90" text-anchor="middle" font-size="12">con incertidumbre</text>
+    <rect x="610" y="90" width="125" height="80" rx="8" fill="#f2edf6" stroke="#806791"/><text x="672" y="120" text-anchor="middle" font-size="14">FB conjunto</text><text x="672" y="145" text-anchor="middle" font-size="12">dependencia</text>
+    <rect x="300" y="195" width="170" height="60" rx="8" fill="#eef6ef" stroke="#698c6b"/><text x="385" y="220" text-anchor="middle" font-size="14">Actualizar o abandonar</text><text x="385" y="242" text-anchor="middle" font-size="12">pesos e hipótesis</text>
+    <path d="M180 115 L225 88 M375 75 H420 M570 88 L610 115 M640 170 L470 215 M300 215 L165 170" fill="none" stroke="#666" stroke-width="2" marker-end="url(#a4)"/><defs><marker id="a4" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#666"/></marker></defs>
+  </svg>
+  <h3>Reglas de decisión</h3>
+  <p>Para cada variable se debe publicar antes del análisis: hipótesis principal y comparadores; observación; dirección esperada; umbral de relevancia; modelo de medición; tratamiento de datos faltantes; y regla de actualización. Un resultado nulo no siempre refuta: puede ser poco informativo. Pero una serie de resultados precisos donde el Logos predice diferencia y el naturalismo predice nulidad debe reducir las probabilidades asignadas al Logos. La actualización debe ser simétrica: no se permite subir con éxitos y conservar intacto el peso ante fracasos.</p>
+  <p>La dependencia es decisiva. AF, QI y CI pueden reflejar una única intuición de orden; CO y ER pueden compartir sesgos de reporte; CB y Espacio Platónico comparten datos biológicos. El programa debe estimar razones conjuntas o secuenciales, no multiplicar FB marginales como si fueran independientes. Cuando no haya datos para estimarlos, se reportarán intervalos y análisis de sensibilidad, llamándolos «pesos elicitados», no probabilidades objetivas.</p>
+  <h3>Qué contaría como fracaso global</h3>
+  <p>La hipótesis perdería sustancialmente su pretensión explicativa si, tras una serie acumulativa de estudios de alta potencia, sus predicciones exclusivas fallaran; si los modelos naturalistas anticiparan los datos con menor complejidad; si sus variables colapsaran en una sola metáfora sin poder discriminante; y si cada anomalía fuera absorbida mediante ajustes posteriores. No demostraría lógicamente que ningún Dios existe. Sí refutaría esta formulación como explicación empíricamente superior.</p>
+  <p>También habría fracaso si no pudiéramos especificar qué mundo sería menos esperado bajo el Logos. Un ser omnipotente puede ser compatible con cualquier mundo, pero la hipótesis enriquecida —racional, buena, comunicativa— debe arriesgar expectativas: inteligibilidad no trivial, agentes capaces de verdad, alguna accesibilidad moral y ausencia de engaño sistemático. Si esas expectativas no restringen nada, los atributos pierden contenido evidencial.</p>
+  <h3>De ecuación a programa</h3>
+  <p>La meta no es fabricar una cifra definitiva, sino instituir una práctica autocorrectiva. Cada edición debe incluir registro de predicciones fallidas, cambios de peso y razones para conservar o abandonar variables. Los datos y el código deben permitir reproducción; las fuentes teológicas y científicas deben permanecer etiquetadas; los comparadores deben presentarse en su versión más fuerte.</p>
+  <p class="quote">Una ecuación de Dios no es científica porque contenga símbolos. Se vuelve intelectualmente responsable cuando publica sus supuestos, compara alternativas, penaliza la flexibilidad y declara de antemano qué observaciones la harían menos creíble.</p>
+  <p>Este capítulo transforma la tesis en investigación: AF, NM, OM, CO, CB, QI, ER, MOc y CI dejan de ser casillas afirmativas y pasan a ser familias de pruebas. Algunos resultados afectarán solo una interpretación local; otros modificarán la arquitectura conjunta. El compromiso final es sencillo y exigente: donde el dato no discrimine, decir «no discrimina»; donde contradiga, bajar el peso; donde la fuente permita varias ontologías, no apropiarla como consenso. Solo una hipótesis que acepta perder puede aspirar racionalmente a ganar credibilidad.</p>
+</section>
+
+
+<h3>PARTE IV — Programa de investigación</h3>
+<div class="card">
+<strong>Documentos de soporte:</strong>
+<ul>
+<li>Doc 12 — <a href="../12_INFORME_SOPORTE_HIPOTESIS_GOD_EQUATION.html">Informe de soporte a la hipótesis</a> (matriz de evidencia completa)</li>
+<li>Doc 13 — <a href="../13_CAPITULOS_Y_PAPERS_PROPUESTOS.html">Capítulos y papers propuestos</a></li>
+<li><a href="../kb-analysis/model_audit.html">Auditoría matemática del modelo</a></li>
+<li><a href="../papers/">Portafolio de papers P1–P4</a></li>
+</ul>
+</div>
+
+</body>
+</html>
