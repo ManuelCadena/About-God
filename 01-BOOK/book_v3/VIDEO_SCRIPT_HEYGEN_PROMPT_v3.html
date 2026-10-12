@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The God Equation — Arquitectura y prompt maestro HeyGen v3</title>
+<link rel="stylesheet" href="../assets/logos-book-light.css">
+</head>
+<body>
+<h1>The God Equation — Arquitectura y prompt maestro HeyGen v3</h1>
+<p><em>Documento de preproducción para Video Agent en modo interactivo. Objetivo: un documental científico de menos de quince minutos, sin avatar, narrado por una voz profunda y autoritativa, con animaciones que expliquen exactamente la proposición pronunciada.</em></p>
+
+<div class="keybox"><strong>Decisión de arquitectura.</strong> No se generará otro máster en una sola llamada. La documentación de HeyGen define Video Agent como un sistema que decide aquello que el prompt deja abierto; por eso se usará <strong>modo chat</strong> para aprobar primero el plan de escenas, después se inspeccionará el borrador escena por escena y solo entonces se renderizará. Los gráficos científicos exactos se producirán con Hyperframes —composiciones de HTML, CSS y JavaScript— o se adjuntarán como referencias controladas; no se confiará a video generativo la escritura de fórmulas o etiquetas.</div>
+
+<nav class="card no-print"><h2>Índice</h2><ol>
+<li><a href="#diagnostico">Diagnóstico</a></li>
+<li><a href="#evidencia">Hallazgos de investigación</a></li>
+<li><a href="#arquitectura">Arquitectura recomendada</a></li>
+<li><a href="#prompt">Prompt maestro listo para HeyGen</a></li>
+<li><a href="#qa">Control de calidad escena por escena</a></li>
+<li><a href="#fuentes">Fuentes</a></li>
+</ol></nav>
+
+<h2 id="diagnostico">1. Diagnóstico del fallo anterior</h2>
+<table><thead><tr><th>Fallo observado</th><th>Causa arquitectónica</th><th>Corrección</th></tr></thead><tbody>
+<tr><td>Visuales decorativos sin relación con la narración</td><td>El generador recibió descripciones temáticas, pero no contratos proposicionales verificables.</td><td>Cada escena declara una idea, una transformación visible y un criterio de aceptación.</td></tr>
+<tr><td>Letras y palabras inexistentes</td><td>Se pidió al modelo que representara ecuaciones o etiquetas dentro de imágenes generadas.</td><td>Todo texto y fórmula será una capa tipográfica de Hyperframes, no píxeles generados.</td></tr>
+<tr><td>Repetición de clips</td><td>La narración duraba más que los clips y el montaje los reproducía en bucle.</td><td>Cada segmento tendrá progresión visual continua: estado inicial, transformación y estado final.</td></tr>
+<tr><td>Voz sin pausas ni jerarquía</td><td>Texto preparado como prosa escrita, no como partitura prosódica.</td><td>Frases respirables, puntuación deliberada, énfasis semántico y prueba previa de voz.</td></tr>
+<tr><td>Desajuste entre duración y contenido</td><td>El estimado se basó en marcas de tiempo, no en audio validado.</td><td>Primero se valida la narración; después se asigna la duración real a cada escena.</td></tr>
+</tbody></table>
+
+<h2 id="evidencia">2. Hallazgos de investigación</h2>
+<div class="grid2">
+<div class="card"><h3>Documentación oficial de HeyGen</h3><ul>
+<li>El prompt debe funcionar como un <strong>brief creativo</strong>: propósito, duración y apariencia.</li>
+<li>Un párrafo de estilo eficaz fija nombre visual, paleta hexadecimal, dirección artística, movimiento, transiciones y tono.</li>
+<li>Pegar el guion completo brinda el mayor control escena por escena.</li>
+<li>El modo <strong>chat</strong> permite revisar el plan y corregir escenas individuales antes del render.</li>
+<li>Video Agent construye gráficos y transiciones con <strong>Hyperframes</strong>, no solo con plantillas estáticas.</li>
+<li>Puede recibir hasta veinte archivos de referencia: imágenes, video, audio o PDF.</li>
+</ul></div>
+<div class="card"><h3>Ciencia del aprendizaje multimedia</h3><ul>
+<li><strong>Señalización:</strong> destacar visualmente la relación explicada, no adornar el plano.</li>
+<li><strong>Contigüidad temporal:</strong> mostrar el cambio cuando se pronuncia la idea correspondiente.</li>
+<li><strong>Coherencia:</strong> retirar detalles seductores que no aportan al modelo mental.</li>
+<li><strong>Segmentación:</strong> una proposición compleja por unidad visual.</li>
+<li><strong>Modalidad:</strong> narración para explicar; gráficos para demostrar relaciones.</li>
+<li><strong>Redundancia:</strong> no duplicar en pantalla cada palabra pronunciada.</li>
+</ul></div>
+</div>
+<p>La revisión de Noetel y colaboradores reunió 29 revisiones, 1,189 estudios y 78,177 participantes; encontró efectos positivos para señalización, contigüidad, coherencia, segmentación, modalidad y animación [1]. Mayer recomienda palabras más gráficos, temporalidad sincronizada, una voz humana atractiva y evitar la imagen estática de un instructor [2]. Una revisión sistemática de 113 trabajos concluyó que coherencia, segmentación y control del aprendiz son especialmente útiles para video instructivo [3].</p>
+
+<h2 id="arquitectura">3. Arquitectura recomendada</h2>
+<svg class="fig" viewBox="0 0 1000 300" role="img" aria-label="Pipeline HeyGen con control semántico">
+<rect x="25" y="85" width="165" height="110" rx="18" fill="#e8eef5" stroke="#3b5a8a"/><text x="108" y="125" text-anchor="middle" fill="#2c3e50" font-size="20">Guion canónico</text><text x="108" y="155" text-anchor="middle" fill="#5f6f7a" font-size="15">prosa prosódica</text>
+<path d="M190 140H240" stroke="#a67c00" stroke-width="5" marker-end="url(#a)"/>
+<rect x="240" y="55" width="185" height="170" rx="18" fill="#e8efe9" stroke="#5f7a6b"/><text x="333" y="100" text-anchor="middle" fill="#2c3e50" font-size="20">Contratos</text><text x="333" y="130" text-anchor="middle" fill="#2c3e50" font-size="20">semánticos</text><text x="333" y="165" text-anchor="middle" fill="#5f6f7a" font-size="15">idea → cambio visible</text>
+<path d="M425 140H475" stroke="#a67c00" stroke-width="5" marker-end="url(#a)"/>
+<rect x="475" y="55" width="185" height="170" rx="18" fill="#f7f1e3" stroke="#a67c00"/><text x="568" y="100" text-anchor="middle" fill="#2c3e50" font-size="20">HeyGen chat</text><text x="568" y="130" text-anchor="middle" fill="#2c3e50" font-size="20">+ Hyperframes</text><text x="568" y="165" text-anchor="middle" fill="#5f6f7a" font-size="15">plan antes del render</text>
+<path d="M660 140H710" stroke="#a67c00" stroke-width="5" marker-end="url(#a)"/>
+<rect x="710" y="55" width="265" height="170" rx="18" fill="#f0ecf5" stroke="#6d5e8a"/><text x="843" y="95" text-anchor="middle" fill="#2c3e50" font-size="20">Control de calidad</text><text x="843" y="130" text-anchor="middle" fill="#5f6f7a" font-size="15">audio · semántica · texto</text><text x="843" y="160" text-anchor="middle" fill="#5f6f7a" font-size="15">ritmo · repetición · certeza</text><text x="843" y="195" text-anchor="middle" fill="#6d5e8a" font-size="16">editar solo la escena fallida</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#a67c00"/></marker></defs>
+</svg>
+<table><thead><tr><th>Fase</th><th>Acción</th><th>Gate verificable</th></tr></thead><tbody>
+<tr><td>1. Voz</td><td>Seleccionar voz española grave y sobria; generar una prueba de 45 segundos.</td><td>Pronunciación correcta de Bayes, Friston, Logos y morfogénesis.</td></tr>
+<tr><td>2. Sesión interactiva</td><td>Enviar el prompt en modo chat, landscape, sin avatar fijado.</td><td>El plan afirma explícitamente “voice-over only” y no incluye presentador.</td></tr>
+<tr><td>3. Storyboard</td><td>Revisar dieciséis contratos visuales antes de producir.</td><td>Cada plano representa la relación causal o inferencial narrada.</td></tr>
+<tr><td>4. Primer borrador</td><td>Generar con referencias visuales del libro y diagramas controlados.</td><td>No hay texto inventado ni bucles perceptibles.</td></tr>
+<tr><td>5. Edición localizada</td><td>Obtener escenas y enviar un edit plan solo para escenas fallidas.</td><td>Las escenas aprobadas permanecen sin cambios.</td></tr>
+<tr><td>6. Validación</td><td>Transcripción, OCR, detección de repetición y revisión humana.</td><td>Dieciséis escenas aprobadas antes de exportar el máster.</td></tr>
+</tbody></table>
+
+<h2 id="prompt">4. Prompt maestro listo para HeyGen Video Agent</h2>
+<p>El siguiente bloque está diseñado para enviarse en <strong>modo chat</strong>. Primero debe devolver un storyboard; no debe iniciar el render hasta recibir aprobación.</p>
+<pre>Produce un documental científico en español internacional titulado “The God Equation”.
+Duración total: entre 13:30 y 14:30. Formato landscape 16:9, 1080p.
+Audiencia: adultos con interés en física, biología, matemáticas y filosofía de la ciencia.
+Objetivo: explicar una hipótesis informacional mediante inferencia bayesiana, sin presentarla como prueba religiosa.
+
+FORMA DE PRESENTACIÓN
+Es un documental narrado. La imagen ocupa todo el cuadro. Utiliza exclusivamente voz en off: ningún avatar, presentador, rostro parlante, digital human ni figura que mire a cámara. La voz debe ser seria, profunda, pausada, clara y con autoridad intelectual; nunca grandilocuente ni devocional. Lee el guion literalmente, sin reescribir afirmaciones científicas. Haz pausas naturales entre ideas y pronuncia “Bayes” como “béies”.
+
+REGLA SEMÁNTICA
+Cada escena debe visualizar la proposición exacta que se está narrando. No uses galaxias, partículas o redes como decoración genérica. Para cada escena identifica: 1) concepto, 2) relación o transformación, 3) evidencia visual de esa relación. Cuando la narración compare hipótesis, la imagen debe comparar predicciones. Cuando explique una actualización bayesiana, la imagen debe mostrar cómo una evidencia cambia odds o probabilidad. Cuando hable de morfogénesis, debe mostrar estados anatómicos y señales bioeléctricas, no ADN ornamental.
+
+TEXTO Y GRÁFICOS
+Crea diagramas, curvas, tablas, rótulos y fórmulas como elementos tipográficos nativos de Hyperframes. Nunca generes palabras dentro de fotografías o video sintético. Todo texto visible debe estar en español correcto y limitarse a términos esenciales. No muestres subtítulos de la narración. Para Bayes usa capas vectoriales limpias y revisables. Emplea señalización por color: azul para observación, salvia para evidencia favorable, terracota para evidencia adversa, violeta para hipótesis y oro para actualización.
+
+ESTILO
+“Atlas científico en acuarela cinemática”. Fondo marfil pergamino #F7F5ED; tinta azul pizarra #2C3E50; salvia #5F7A6B; azul académico #3B5A8A; oro antiguo #A67C00; violeta #6D5E8A; terracota #B5651D. Combina acuarela científica, diagramas vectoriales, macrofotografía naturalista y CGI tridimensional sobrio. Movimiento de cámara lento y motivado. Las formas se transforman para demostrar una relación. Transiciones: disoluciones por tinta, líneas que conectan conceptos y match cuts de escala. Evita glitches, estética de tráiler, templos, cruces, halos, deidades antropomórficas, ojos místicos, ciencia ficción genérica y bucles visibles. El tono final es riguroso, contemplativo y auditable.
+
+MÚSICA
+Cello discreto, piano espaciado y textura ambiental muy baja. Reduce la música durante definiciones, factores de Bayes y condiciones de falsación. La voz siempre domina. Deja respiraciones breves entre secciones.
+
+Antes de recibir el guion, confirma que aplicarás estas reglas y solicita el segundo mensaje con los contratos de escena.</pre>
+
+<h3>Segundo mensaje: guion canónico y contratos visuales</h3>
+<p>Enviar en la misma sesión interactiva después de que HeyGen confirme las reglas globales.</p>
+<pre>GUION CANÓNICO Y CONTRATOS VISUALES
+
+ESCENA 1 — EL UNIVERSO COMO INFORMACIÓN
+Narración: “El universo no es solo materia y energía. Es un conjunto de relaciones estructuradas: leyes, constantes, estados iniciales y secuencias codificadas. En el lenguaje de la física moderna, la información puede ser tan fundamental como aquello que describe. Esta es la pregunta de The God Equation: ¿puede una fuente antecedente de información explicar el orden que observamos?”
+Visual: comenzar con cuatro dominios separados —campo físico, constantes, ADN y red neuronal— y revelar que comparten patrones de relación. Las líneas convergen en una red abstracta etiquetada “información”. No representar una divinidad.
+Criterio: el espectador debe entender que información significa estructura relacional, no datos digitales flotantes.
+
+ESCENA 2 — DOS HIPÓTESIS, PREDICCIONES DISTINTAS
+Narración: “No partimos de una demostración. Comparamos dos hipótesis. La hipótesis informacional propone una fuente antecedente capaz de restringir el espacio de posibilidades. La hipótesis naturalista sostiene que el orden emerge sin una mente previa. Cada observación cuenta según cuál de las dos la predice mejor.”
+Visual: un mismo conjunto de observaciones entra en dos modelos transparentes; cada modelo produce una distribución predictiva diferente. Resaltar la comparación, no una batalla moral.
+Criterio: mostrar hipótesis → predicción → observación.
+
+ESCENA 3 — EL FACTOR DE BAYES
+Narración: “La herramienta formal es el factor de Bayes: la razón entre la probabilidad de observar un dato bajo una hipótesis y la probabilidad de observarlo bajo la otra. Un factor mayor que uno favorece la primera. Uno menor que uno favorece la segunda. Cerca de uno, el dato apenas discrimina.”
+Visual: fórmula vectorial correcta BF = P(D|H₁) / P(D|H₀). Tres ejemplos animados: mayor que uno, menor que uno y aproximadamente uno. La balanza cambia solo al entrar el dato.
+Criterio: fórmula legible, relación matemática correcta, sin números inventados.
+
+ESCENA 4 — DE PRIOR A POSTERIOR
+Narración: “La evidencia no actúa en el vacío. Comienza con un prior: lo que considerábamos plausible antes de observar los datos. Después actualizamos. Por eso el resultado honesto no es una cifra absoluta, sino una curva que muestra cómo diferentes priors conducen a diferentes posteriores.”
+Visual: tres puntos de partida recorren la misma función de actualización y terminan en posteriores distintos. Etiquetas nativas: prior, evidencia, posterior.
+Criterio: mostrar dependencia del prior sin sugerir arbitrariedad ilimitada.
+
+ESCENA 5 — AJUSTE FINO
+Narración: “Las constantes físicas permiten estrellas, átomos y química solo dentro de ciertos intervalos. El ajuste fino pregunta si esos intervalos son más esperables bajo una fuente de restricciones, bajo leyes todavía desconocidas o bajo selección en un multiverso. No es una prueba automática. Es una comparación de explicaciones.”
+Visual: espacio continuo de parámetros; variar una constante por vez y mostrar pérdida de estructuras estables. Después comparar tres marcos explicativos sin declarar ganador.
+Criterio: visualizar sensibilidad paramétrica, no un dial mágico.
+
+ESCENA 6 — MORFOGÉNESIS BIOELÉCTRICA
+Narración: “En biología, el genoma no agota la explicación de la forma. Redes bioeléctricas coordinan células, conservan objetivos anatómicos y participan en la reparación. La morfogénesis puede entenderse como navegación hacia estados posibles del organismo.”
+Visual: planaria o tejido realista; potenciales bioeléctricos recorren células, cambian decisiones locales y convergen en una forma global. Separar genoma, señal y anatomía como niveles complementarios.
+Criterio: mostrar coordinación multiescala, no afirmar que el ADN es irrelevante.
+
+ESCENA 7 — CONSCIENCIA: PROBLEMA ABIERTO
+Narración: “La consciencia permanece como un problema abierto. Los estados cerebrales se correlacionan con la experiencia, pero la relación entre mecanismo y vivencia todavía admite modelos rivales. Una hipótesis transmisiva es una posibilidad especulativa, no un resultado establecido.”
+Visual: correlaciones cerebro-experiencia en azul; modelos rivales aparecen como caminos incompletos. La hipótesis transmisiva se marca en violeta y “especulativa”.
+Criterio: el grado visual de certeza debe coincidir con la narración.
+
+ESCENA 8 — MORAL Y SUFRIMIENTO
+Narración: “El modelo también debe incluir evidencia adversa. El realismo moral puede favorecer una fuente objetiva de valor. El sufrimiento inmerecido puede pesar en sentido contrario. Un análisis honesto no borra el problema del mal: lo incorpora como un factor que puede reducir el caso acumulativo.”
+Visual: matriz de evidencia con una contribución favorable y otra adversa; la actualización final disminuye cuando entra sufrimiento. Sin imaginería religiosa.
+Criterio: mostrar explícitamente que una evidencia puede disminuir el posterior.
+
+ESCENA 9 — DEPENDENCIA ENTRE EVIDENCIAS
+Narración: “No podemos multiplicar datos correlacionados como si fueran independientes. Ajuste fino y orden cósmico se agrupan. Consciencia y agencia comparten información. Biología e información se solapan. La cadena solo es auditable si declara estas dependencias.”
+Visual: nodos correlacionados se agrupan antes de entrar a la cadena; evitar doble conteo con una señal visual clara.
+Criterio: demostrar por qué agrupar cambia el resultado.
+
+ESCENA 10 — ESPACIO DE FORMAS POSIBLES
+Narración: “El espacio platónico puede formularse sin misticismo: como el conjunto estructurado de formas y comportamientos posibles. Los sistemas físicos no realizan todas las posibilidades. Sus dinámicas seleccionan trayectorias, atractores y estados estables.”
+Visual: paisaje tridimensional de estados; múltiples trayectorias convergen en atractores anatómicos. Poliedros solo si explican simetría, nunca como ornamento.
+Criterio: posibilidad → dinámica → estado estable.
+
+ESCENA 11 — SEGÚN EL NÚMERO
+Narración: “La tradición pitagórica distingue entre estar hecho de número y estar ordenado según relaciones numéricas. Esta segunda lectura es más precisa. Las matemáticas no tienen que ser una sustancia para describir las restricciones que hacen posible una forma.”
+Visual: proporciones medibles organizan una vibración, una órbita y una morfología. Mostrar relaciones, no numerología.
+Criterio: tres fenómenos distintos unidos por proporción estructural.
+
+ESCENA 12 — PRINCIPIO DE ENERGÍA LIBRE
+Narración: “El Principio de Energía Libre describe cómo un sistema adaptativo mantiene un modelo generativo, predice estados sensoriales y actúa para reducir discrepancias. No demuestra una fuente cósmica. Ofrece un lenguaje formal para estudiar cómo los organismos estabilizan patrones.”
+Visual: ciclo percepción, modelo, predicción, error y acción; un error alto disminuye después de la acción. Etiquetas nativas correctas.
+Criterio: no confundir energía libre variacional con energía física disponible.
+
+ESCENA 13 — FALSABILIDAD
+Narración: “La hipótesis debe ser vulnerable. El caso se debilita si explicaciones rivales predicen mejor el ajuste fino, si la información biológica se reduce sin pérdida a mecanismos locales, o si las propuestas sobre consciencia no producen diferencias observables. Definir condiciones de derrota es parte del método.”
+Visual: tres pruebas con resultados posibles; algunas ramas fortalecen y otras debilitan la hipótesis.
+Criterio: mostrar resultados adversos reales, no una lista ceremonial.
+
+ESCENA 14 — EL PUENTE DE CUATRO REGISTROS
+Narración: “Física, biología, inferencia y computación comparten una pregunta: cómo una restricción selecciona posibilidades y estabiliza resultados. Llamamos Logos, de manera operacional, a la hipótesis de una fuente común de esas restricciones. El nombre no sustituye a la evidencia.”
+Visual: cuatro paneles sincronizados ejecutan la misma operación abstracta: posibilidades → restricción → estado estable.
+Criterio: la unidad proviene de una operación compartida, no de iconos parecidos.
+
+ESCENA 15 — HONESTIDAD EPISTÉMICA
+Narración: “La ciencia no demuestra aquí una deidad personal. Evalúa si ciertos datos son más esperables bajo una hipótesis informacional. Los factores son discutibles, los priors importan y las dependencias deben declararse. El valor del modelo está en hacer visibles esas decisiones.”
+Visual: tablero de auditoría con fuentes, rangos, dependencias y sensibilidad. Evitar un porcentaje triunfal.
+Criterio: el espectador debe identificar dónde puede cuestionar el modelo.
+
+ESCENA 16 — CIERRE
+Narración: “The God Equation propone un programa de investigación: medir cómo surgen y se conservan los patrones; comparar hipótesis con reglas explícitas; y aceptar que toda conclusión permanece abierta a nueva evidencia. Si la realidad puede leerse como información, la tarea científica no es venerarla. Es comprenderla.”
+Visual: regresar a los cuatro dominios iniciales; ahora sus relaciones son legibles. Terminar con el título y la frase “Una hipótesis informacional, abierta a prueba”.
+Criterio: cierre científico, no devocional.
+
+INSTRUCCIÓN DE FLUJO
+Trabaja en modo interactivo. En tu primera respuesta NO renderices. Devuelve un storyboard de dieciséis escenas con: duración estimada a partir de la narración, proposición visual, tipo de gráfico o material, transformación visible, texto nativo en pantalla y criterio de aceptación. Señala cualquier escena que no puedas ejecutar fielmente. Espera mi aprobación antes de generar.</pre>
+
+<h2 id="qa">5. Control de calidad escena por escena</h2>
+<table><thead><tr><th>Dimensión</th><th>Pregunta obligatoria</th><th>Causa de rechazo</th></tr></thead><tbody>
+<tr><td>Léxica</td><td>¿Los objetos visibles están autorizados por la narración?</td><td>Aparecen iconos religiosos, tecnología o cosmos sin función.</td></tr>
+<tr><td>Proposicional</td><td>¿La escena muestra la relación afirmada?</td><td>Solo ilustra palabras clave aisladas.</td></tr>
+<tr><td>Causal</td><td>¿La transformación visual corresponde a causa, actualización o consecuencia?</td><td>Movimiento ornamental o cámara sin propósito.</td></tr>
+<tr><td>Epistémica</td><td>¿El grado de certeza visual coincide con el verbal?</td><td>Una conjetura aparece como hecho establecido.</td></tr>
+<tr><td>Tipográfica</td><td>¿Todo texto es una capa nativa y está escrito correctamente?</td><td>Letras inventadas, fórmulas rasterizadas o etiquetas incorrectas.</td></tr>
+<tr><td>Temporal</td><td>¿Gráfico y narración aparecen simultáneamente?</td><td>La evidencia visual llega antes o después de su explicación.</td></tr>
+<tr><td>Ritmo</td><td>¿La escena progresa sin bucles perceptibles?</td><td>Repetición del mismo movimiento o plano.</td></tr>
+<tr><td>Audio</td><td>¿Hay pausas, énfasis y pronunciación correctos?</td><td>Lectura corrida, tono promocional o música invasiva.</td></tr>
+</tbody></table>
+<div class="card"><h3>Gate de aceptación</h3><p>Una escena solo se aprueba si cumple las ocho dimensiones. El máster no se exporta con escenas “suficientemente cercanas”. La documentación oficial permite obtener las escenas del borrador y enviar un <em>edit plan</em> que modifica las seleccionadas mientras conserva las demás.</p></div>
+
+<h2 id="fuentes">6. Fuentes</h2>
+<ol>
+<li>M. Noetel et al., “Multimedia Design for Learning: An Overview of Reviews With Meta-Meta-Analysis”, <em>Review of Educational Research</em>, 2021. <a href="https://consensus.app/papers/details/1f7d04c3f664533da5621eee37530353/">Consensus</a>.</li>
+<li>R. Mayer, “Evidence-Based Principles for How to Design Effective Instructional Videos”, <em>Journal of Applied Research in Memory and Cognition</em>, 2021. <a href="https://consensus.app/papers/details/92aeb9c0590e51d98f77d040b079c473/">Consensus</a>.</li>
+<li>M. Fyfield et al., “Improving instructional video design: A systematic review”, <em>Australasian Journal of Educational Technology</em>, 2022. <a href="https://consensus.app/papers/details/babf68b9f957596086c10c159a30a8fb/">Consensus</a>.</li>
+<li>HeyGen, “Prompting Guide”. <a href="https://developers.heygen.com/docs/prompting-guide">Documentación oficial</a>.</li>
+<li>HeyGen, “Prompt to Video / Video Agent”. <a href="https://developers.heygen.com/docs/video-agent">Documentación oficial</a>.</li>
+<li>HeyGen, “Writing Effective Video Prompts”. <a href="https://developers.heygen.com/writing-effective-video-prompts">Documentación oficial</a>.</li>
+<li>HeyGen, “MCP Overview”. <a href="https://developers.heygen.com/mcp/overview">Documentación oficial</a>.</li>
+<li>HeyGen, “Quick Start”. <a href="https://developers.heygen.com/docs/quick-start">Documentación oficial</a>.</li>
+<li>HeyGen, “Hyperframes Prompt Guide”. <a href="https://hyperframes.heygen.com/prompting/overview">Documentación oficial</a>.</li>
+</ol>
+</body>
+</html>

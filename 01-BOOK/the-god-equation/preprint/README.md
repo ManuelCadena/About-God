@@ -10,6 +10,10 @@ Sección del repositorio About God.
 - `the-god-equation-preprint-1.md`
 - `txtThe_God_Equation_Preprint 1.txt`
 
+## Producción audiovisual
+
+- `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v3.html` — investigación de prompting, arquitectura interactiva y prompt maestro en dos mensajes para HeyGen Video Agent; documental sin avatar y con control semántico escena por escena.
+
 ## Capítulos de soporte
 
 - `cap-karl-friston/` — Corpus de transcripciones de entrevistas de Karl Friston + síntesis para el capítulo correspondiente. Incluye:
