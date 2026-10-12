@@ -12,7 +12,8 @@ Sección del repositorio About God.
 
 ## Producción audiovisual
 
-- `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v3.html` — investigación de prompting, arquitectura interactiva y prompt maestro en dos mensajes para HeyGen Video Agent; documental sin avatar y con control semántico escena por escena.
+- `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v3.html` — investigación de prompting y arquitectura interactiva para HeyGen Video Agent.
+- `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v4_HIGHSCHOOL.html` — versión pedagógica para high school: lenguaje natural, CGI 2D/3D, texto exacto en Hyperframes y 16 contratos semánticos sin avatar.
 
 ## Capítulos de soporte
 

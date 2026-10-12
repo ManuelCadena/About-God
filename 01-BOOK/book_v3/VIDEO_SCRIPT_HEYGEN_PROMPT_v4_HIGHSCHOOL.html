@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The God Equation — Prompt HeyGen v4 para high school</title>
+<link rel="stylesheet" href="../assets/logos-book-light.css">
+</head>
+<body>
+<h1>The God Equation — Prompt HeyGen v4 para high school</h1>
+<p><em>Versión pedagógica para estudiantes de high school. Lenguaje natural, ejemplos cotidianos, animación CGI 2D y 3D, voz en off sin avatar y texto en pantalla controlado carácter por carácter.</em></p>
+
+<div class="keybox"><strong>Regla central:</strong> una escena no debe parecer científica; debe <em>enseñar</em> una idea científica. La narración plantea una pregunta sencilla, la animación muestra qué cambia y el texto en pantalla nombra únicamente la idea que el estudiante necesita recordar.</div>
+
+<nav class="card no-print"><h2>Índice</h2><ol>
+<li><a href="#hallazgos">Qué puede hacer HeyGen</a></li>
+<li><a href="#arquitectura">Arquitectura 2D y 3D</a></li>
+<li><a href="#texto">Contrato de texto en pantalla</a></li>
+<li><a href="#prompt1">Mensaje 1: reglas globales</a></li>
+<li><a href="#prompt2">Mensaje 2: guion y escenas</a></li>
+<li><a href="#qa">Control de calidad</a></li>
+</ol></nav>
+
+<h2 id="hallazgos">1. Qué puede hacer HeyGen</h2>
+<div class="grid2">
+<div class="card"><h3>CGI 2D determinista</h3><p>Hyperframes convierte HTML, CSS, SVG y JavaScript en video. Sirve para texto exacto, diagramas, curvas, tablas, mapas, contadores y animaciones educativas. Es la opción correcta cuando importa que una palabra, un número o una fórmula aparezcan sin errores.</p></div>
+<div class="card"><h3>CGI 3D real</h3><p>La guía oficial de Hyperframes recomienda pedir <strong>Three.js mediante el adapter</strong> cuando se necesita profundidad real, iluminación, sombras o movimiento de cámara. El 3D se usa para recorrer un espacio de posibilidades, una célula o un paisaje de estados; no para decorar.</p></div>
+</div>
+<table><thead><tr><th>Necesidad</th><th>Técnica</th><th>Ejemplo en el video</th></tr></thead><tbody>
+<tr><td>Texto, fórmulas y cifras exactas</td><td>HTML/SVG + GSAP en Hyperframes</td><td>Factor de Bayes y curva prior-posterior</td></tr>
+<tr><td>Diagramas pedagógicos</td><td>CGI 2D vectorial</td><td>Hipótesis → predicción → observación</td></tr>
+<tr><td>Profundidad, luz y cámara</td><td>Three.js mediante el adapter</td><td>Paisaje 3D de posibilidades y atractores</td></tr>
+<tr><td>Células y estructuras naturales</td><td>Ilustración científica + capas 2D/3D</td><td>Señales bioeléctricas coordinando tejido</td></tr>
+<tr><td>Datos animados</td><td>SVG/GSAP o bloque data-chart</td><td>Evidencia favorable y evidencia adversa</td></tr>
+</tbody></table>
+
+<h2 id="arquitectura">2. Arquitectura visual para enseñar</h2>
+<svg class="fig" viewBox="0 0 1000 330" role="img" aria-label="Arquitectura visual 2D y 3D">
+<rect x="30" y="70" width="220" height="190" rx="22" fill="#e8eef5" stroke="#3b5a8a" stroke-width="3"/><text x="140" y="115" text-anchor="middle" fill="#2c3e50" font-size="24">Pregunta sencilla</text><text x="140" y="160" text-anchor="middle" fill="#5f6f7a" font-size="18">¿Qué cambia?</text><text x="140" y="195" text-anchor="middle" fill="#5f6f7a" font-size="18">¿Qué observamos?</text><text x="140" y="230" text-anchor="middle" fill="#5f6f7a" font-size="18">¿Qué aprendemos?</text>
+<path d="M250 165H345" stroke="#a67c00" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="345" y="45" width="290" height="240" rx="22" fill="#e8efe9" stroke="#5f7a6b" stroke-width="3"/><text x="490" y="95" text-anchor="middle" fill="#2c3e50" font-size="24">Animación explicativa</text><text x="490" y="140" text-anchor="middle" fill="#3b5a8a" font-size="20">2D: relación y texto</text><text x="490" y="180" text-anchor="middle" fill="#6d5e8a" font-size="20">3D: espacio y profundidad</text><text x="490" y="225" text-anchor="middle" fill="#5f6f7a" font-size="18">estado inicial → cambio</text><text x="490" y="255" text-anchor="middle" fill="#5f6f7a" font-size="18">→ resultado visible</text>
+<path d="M635 165H730" stroke="#a67c00" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="730" y="70" width="240" height="190" rx="22" fill="#f7f1e3" stroke="#a67c00" stroke-width="3"/><text x="850" y="115" text-anchor="middle" fill="#2c3e50" font-size="24">Idea memorable</text><text x="850" y="165" text-anchor="middle" fill="#2c3e50" font-size="22">una frase</text><text x="850" y="205" text-anchor="middle" fill="#2c3e50" font-size="22">un gráfico</text><text x="850" y="240" text-anchor="middle" fill="#2c3e50" font-size="22">una conclusión</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#a67c00"/></marker></defs>
+</svg>
+<p>Cada escena seguirá el mismo patrón: <strong>pregunta → ejemplo → cambio visible → idea para recordar</strong>. Los términos nuevos se explican antes de usarlos. Las oraciones habladas tendrán entre ocho y dieciséis palabras siempre que sea posible.</p>
+
+<h2 id="texto">3. Contrato de texto en pantalla</h2>
+<table><thead><tr><th>Campo</th><th>Regla cerrada</th></tr></thead><tbody>
+<tr><td>Contenido</td><td>Solo las cadenas escritas entre comillas después de <strong>TEXTO EXACTO</strong>.</td></tr>
+<tr><td>Ortografía</td><td>Copiar carácter por carácter. No traducir, resumir, completar ni corregir automáticamente.</td></tr>
+<tr><td>Cantidad</td><td>Máximo 8 palabras por tarjeta; máximo 2 tarjetas simultáneas.</td></tr>
+<tr><td>Tipografía</td><td>Sans serif limpia; título 64–72 px; etiqueta 40–48 px; fórmula 52–60 px.</td></tr>
+<tr><td>Posición</td><td>Margen seguro de 8%; nunca sobre fondos ocupados; reservar una placa clara cuando sea necesario.</td></tr>
+<tr><td>Entrada</td><td>Fade y desplazamiento suave de 500–700 ms; aparece cuando la voz nombra la idea.</td></tr>
+<tr><td>Salida</td><td>Fade de 350–500 ms antes del siguiente concepto.</td></tr>
+<tr><td>Prohibido</td><td>Subtítulos automáticos, texto decorativo, letras dentro de imágenes, cifras inventadas y etiquetas no listadas.</td></tr>
+<tr><td>Validación</td><td>Comparar cada cadena renderizada con su cadena fuente antes de aprobar la escena.</td></tr>
+</tbody></table>
+
+<h2 id="prompt1">4. Mensaje 1 para HeyGen: reglas globales</h2>
+<p>Enviar mediante <strong>heygen_interactive_session</strong>, con <code>orientation=landscape</code> y <code>auto_proceed=false</code>. No renderizar todavía.</p>
+<pre>Crea un documental educativo en español internacional titulado “The God Equation”.
+Audiencia: estudiantes de high school, aproximadamente de 14 a 18 años.
+Duración objetivo: 13:30 a 14:30. Formato 16:9, 1080p.
+
+OBJETIVO
+Explica ideas difíciles con palabras sencillas y ejemplos visuales. El estudiante no necesita saber física, biología o estadística antes de ver el video. Define cada término nuevo antes de usarlo. Usa oraciones cortas, tono natural y preguntas que despierten curiosidad. No suenes como conferencia universitaria, anuncio ni sermón.
+
+PRESENTACIÓN
+Documental sin avatar. Usa solo voz en off. No muestres presentador, rostro parlante ni persona mirando a cámara. La voz debe sonar serena, profunda, clara y segura; como un excelente maestro que disfruta explicar. Haz pausas breves después de cada idea importante. Pronuncia “Bayes” como “béies”.
+
+ESTRUCTURA PEDAGÓGICA
+Cada escena debe seguir este orden:
+1. Una pregunta sencilla.
+2. Un ejemplo fácil de reconocer.
+3. Un cambio visible en la animación.
+4. Una frase corta para recordar.
+Nunca uses una galaxia, una red o partículas solo porque se ven científicas. Cada objeto debe cumplir una función en la explicación.
+
+CGI 2D
+Usa gráficos vectoriales 2D hechos con Hyperframes para fórmulas, diagramas, tablas, etiquetas y curvas. Usa SVG y GSAP para animaciones exactas. Muestra relaciones paso a paso. No reveles todos los elementos al mismo tiempo.
+
+CGI 3D
+Cuando una escena necesite profundidad real, iluminación o movimiento de cámara, construye la escena en Three.js mediante el adapter de Hyperframes. Usa 3D para recorrer espacios, células, paisajes de posibilidades o atractores. Usa materiales suaves, luz de estudio, sombras naturales y cámara lenta. No uses 3D como adorno.
+
+TEXTO EN PANTALLA
+Todo texto visible debe crearse como HTML o SVG nativo de Hyperframes. Nunca generes letras dentro de una imagen o video sintético. Solo muestra las cadenas indicadas después de “TEXTO EXACTO”. Cópialas carácter por carácter. No agregues, traduzcas, reformules ni inventes palabras, cifras, fórmulas, subtítulos, logos o etiquetas.
+Máximo 8 palabras por tarjeta y máximo 2 tarjetas a la vez. Usa sans serif limpia; títulos de 64 a 72 px; etiquetas de 40 a 48 px; fórmulas de 52 a 60 px. Mantén un margen seguro de 8%. No pongas texto sobre fondos ocupados. Hazlo entrar con fade y desplazamiento suave de 500 a 700 ms, sincronizado con la voz. Retíralo antes de presentar una nueva idea.
+
+ESTILO
+“Libro de ciencias que cobra vida”. Fondo pergamino #F7F5ED, tinta #2C3E50, salvia #5F7A6B, azul #3B5A8A, oro #A67C00, violeta #6D5E8A y terracota #B5651D. Combina ilustración científica clara, acuarela suave, diagramas modernos y CGI 3D sobrio. Transiciones con líneas que conectan ideas, tinta que se transforma y match cuts de escala. Evita glitches, fondos negros, exceso de brillos, ciencia ficción genérica, templos, halos, ojos místicos y símbolos religiosos.
+
+MÚSICA
+Cello, piano y textura ambiental muy suaves. Baja la música durante definiciones, fórmulas y conclusiones. La voz siempre debe escucharse con claridad.
+
+FLUJO
+Trabaja en modo interactivo. No renderices todavía. Confirma estas reglas y pide el segundo mensaje con el guion. Después prepara un storyboard de 16 escenas. Para cada escena indica: idea, animación 2D o 3D, cambio visible, texto exacto y criterio de aceptación. Espera mi aprobación.</pre>
+
+<h2 id="prompt2">5. Mensaje 2: guion sencillo y contratos de escena</h2>
+<pre>Usa este guion literalmente. No cambies las afirmaciones. Las indicaciones visuales no forman parte de la narración.
+
+ESCENA 1 — UN UNIVERSO LLENO DE PATRONES
+NARRACIÓN: “Mira a tu alrededor. Una galaxia, una célula y tu cerebro parecen muy diferentes. Pero los tres siguen patrones. La ciencia usa la palabra información para hablar de relaciones que organizan algo. Este video hace una pregunta: ¿de dónde viene tanto orden?”
+VISUAL: CGI 2D. Galaxia, célula y neurona aparecen por separado. Líneas simples muestran patrones compartidos y convergen en una tarjeta central.
+TEXTO EXACTO: “INFORMACIÓN = RELACIONES CON ORDEN”
+ACEPTACIÓN: se entiende que información significa organización, no archivos digitales.
+
+ESCENA 2 — DOS EXPLICACIONES
+NARRACIÓN: “Imagina dos detectives frente a las mismas pistas. Uno piensa que el orden tiene una fuente. El otro piensa que surgió sin una mente previa. No elegimos por gusto. Preguntamos cuál explicación esperaba mejor cada pista.”
+VISUAL: CGI 2D. Una misma caja de pistas alimenta dos modelos. Cada modelo crea una predicción distinta. No mostrar personas ni combate.
+TEXTO EXACTO: “HIPÓTESIS → PREDICCIÓN → PISTA”
+ACEPTACIÓN: las dos hipótesis se comparan con la misma evidencia.
+
+ESCENA 3 — LA IDEA DE BAYES
+NARRACIÓN: “Bayes nos ayuda a comparar esas explicaciones. Hacemos una pregunta sencilla: si una hipótesis fuera cierta, ¿qué tan probable sería encontrar esta pista? Después hacemos la misma pregunta para la otra hipótesis.”
+VISUAL: CGI 2D. Una pista entra en dos máquinas transparentes. Cada máquina muestra una barra de probabilidad distinta. Después aparece la fórmula correcta.
+TEXTO EXACTO 1: “¿QUÉ HIPÓTESIS ESPERABA MEJOR LA PISTA?”
+TEXTO EXACTO 2: “BF = P(D|H₁) / P(D|H₀)”
+ACEPTACIÓN: fórmula exacta y explicación visual sin números inventados.
+
+ESCENA 4 — ANTES Y DESPUÉS DE UNA PISTA
+NARRACIÓN: “Antes de ver una pista, ya tenemos una idea inicial. Se llama prior. Cuando llega evidencia nueva, actualizamos esa idea. El resultado se llama posterior. Distintos puntos de partida pueden terminar en resultados distintos.”
+VISUAL: CGI 2D. Tres fichas empiezan en lugares diferentes, reciben la misma evidencia y avanzan hacia nuevos puntos.
+TEXTO EXACTO 1: “PRIOR = ANTES DE LA PISTA”
+TEXTO EXACTO 2: “POSTERIOR = DESPUÉS DE LA PISTA”
+ACEPTACIÓN: el movimiento deja clara la actualización.
+
+ESCENA 5 — UN UNIVERSO MUY SENSIBLE
+NARRACIÓN: “Algunas constantes de la física parecen estar dentro de rangos especiales. Si cambian demasiado, no hay estrellas estables, átomos complejos o química como la nuestra. Esto no prueba diseño. Nos obliga a comparar varias explicaciones.”
+VISUAL: CGI 3D en Three.js mediante el adapter. Un panel cambia una constante y el sistema pasa de estable a inestable. Luego aparecen tres caminos explicativos equivalentes.
+TEXTO EXACTO: “AJUSTE FINO: COMPARAR EXPLICACIONES”
+ACEPTACIÓN: mostrar sensibilidad sin un dial mágico ni un ganador automático.
+
+ESCENA 6 — CÓMO LAS CÉLULAS CONSTRUYEN UNA FORMA
+NARRACIÓN: “Tus genes son importantes, pero las células también necesitan coordinarse. Usan señales químicas y eléctricas para decidir qué hacer y dónde hacerlo. Como un equipo que comparte un plano, muchas células pueden construir una forma completa.”
+VISUAL: CGI 2D y 3D. Células reciben pulsos bioeléctricos, cambian su conducta local y forman un tejido organizado.
+TEXTO EXACTO: “SEÑALES LOCALES → FORMA GLOBAL”
+ACEPTACIÓN: genes, señales y anatomía aparecen como partes complementarias.
+
+ESCENA 7 — EL MISTERIO DE LA CONSCIENCIA
+NARRACIÓN: “Sabemos que el cerebro y la experiencia están conectados. Pero todavía discutimos cómo la actividad cerebral se convierte en lo que sentimos. Existen varias ideas. Algunas son fuertes. Otras, como la mente transmisiva, siguen siendo especulativas.”
+VISUAL: CGI 2D. Cerebro y experiencia conectados; tres modelos rivales quedan abiertos. El modelo transmisivo aparece con borde violeta.
+TEXTO EXACTO 1: “PROBLEMA ABIERTO”
+TEXTO EXACTO 2: “HIPÓTESIS TRANSMISIVA: ESPECULATIVA”
+ACEPTACIÓN: no presentar una conjetura como hecho.
+
+ESCENA 8 — LA EVIDENCIA TAMBIÉN PUEDE RESTAR
+NARRACIÓN: “Un buen modelo no cuenta solo las pistas que le ayudan. El sentido moral puede apoyar una fuente de valor. El sufrimiento injusto puede contar en contra. Si una pista perjudica la hipótesis, el cálculo debe mostrarlo.”
+VISUAL: CGI 2D. Una balanza recibe una ficha favorable y después una adversa; la probabilidad sube y luego baja.
+TEXTO EXACTO: “EVIDENCIA A FAVOR Y EN CONTRA”
+ACEPTACIÓN: la evidencia adversa reduce claramente el resultado.
+
+ESCENA 9 — NO CONTAR DOS VECES LA MISMA PISTA
+NARRACIÓN: “Dos pistas pueden estar conectadas. Si las contamos como independientes, exageramos el resultado. Por eso agrupamos datos relacionados antes de combinarlos. Es como evitar que el mismo testigo vote dos veces.”
+VISUAL: CGI 2D. Nodos conectados se agrupan en una sola tarjeta antes de entrar al cálculo.
+TEXTO EXACTO: “CORRELACIÓN: EVITAR DOBLE CONTEO”
+ACEPTACIÓN: mostrar por qué agrupar cambia el resultado.
+
+ESCENA 10 — UN MAPA DE FORMAS POSIBLES
+NARRACIÓN: “Imagina un mapa con muchas formas posibles. Un sistema físico no puede llegar a todas. Sus reglas abren ciertos caminos y cierran otros. Algunos destinos son atractores: estados a los que el sistema tiende a regresar.”
+VISUAL: CGI 3D en Three.js mediante el adapter. La cámara recorre un paisaje de caminos; varias trayectorias convergen en dos valles atractores.
+TEXTO EXACTO: “ATRACTOR = ESTADO ESTABLE”
+ACEPTACIÓN: posibilidad, camino y estado estable deben verse en orden.
+
+ESCENA 11 — ORDENADO SEGÚN RELACIONES
+NARRACIÓN: “Decir que algo sigue matemáticas no significa que esté hecho de números. Una cuerda, una órbita y una forma viva pueden compartir proporciones. Los números describen relaciones que se repiten en sistemas diferentes.”
+VISUAL: CGI 2D. Cuerda vibrante, órbita y forma biológica se alinean mediante una misma proporción gráfica.
+TEXTO EXACTO: “ORDENADO SEGÚN RELACIONES”
+ACEPTACIÓN: mostrar proporción, no numerología.
+
+ESCENA 12 — PREDECIR, COMPARAR Y ACTUAR
+NARRACIÓN: “Un organismo intenta anticipar lo que sentirá. Compara su predicción con lo que ocurre. Si hay una diferencia, aprende o actúa. El Principio de Energía Libre estudia este ciclo con matemáticas.”
+VISUAL: CGI 2D. Ciclo paso a paso: predicción, sensación, error, acción y nueva sensación. El error disminuye al final.
+TEXTO EXACTO: “PREDECIR → COMPARAR → ACTUAR”
+ACEPTACIÓN: no confundir energía libre con combustible físico.
+
+ESCENA 13 — ¿QUÉ PODRÍA MOSTRAR QUE ESTAMOS EQUIVOCADOS?
+NARRACIÓN: “Una idea científica debe correr riesgos. Si otra explicación predice mejor los datos, nuestra hipótesis pierde fuerza. Si nunca puede perder, tampoco puede enseñarnos mucho. Por eso definimos pruebas que podrían cambiar nuestra conclusión.”
+VISUAL: CGI 2D. Tres pruebas se dividen en resultado favorable y resultado adverso; ambos caminos permanecen visibles.
+TEXTO EXACTO: “UNA BUENA HIPÓTESIS PUEDE PERDER”
+ACEPTACIÓN: mostrar condiciones reales de debilitamiento.
+
+ESCENA 14 — UNA OPERACIÓN QUE SE REPITE
+NARRACIÓN: “En física, biología, aprendizaje y computación aparece una idea parecida: muchas posibilidades, una restricción y un resultado estable. En este libro, Logos es el nombre de una posible fuente común de esas restricciones.”
+VISUAL: Cuatro paneles CGI 2D ejecutan sincronizados posibilidades → restricción → resultado. No usar iconos religiosos.
+TEXTO EXACTO: “POSIBILIDADES → RESTRICCIÓN → RESULTADO”
+ACEPTACIÓN: la unidad surge de la operación compartida.
+
+ESCENA 15 — UN MODELO ABIERTO A CRÍTICA
+NARRACIÓN: “La ciencia no demuestra aquí a una deidad personal. Compara una hipótesis informacional con alternativas. Los números pueden discutirse. El punto de partida importa. Las pistas pueden estar conectadas. El valor del modelo es mostrar todas esas decisiones.”
+VISUAL: CGI 2D. Tablero claro con cuatro tarjetas: factores, prior, dependencias y sensibilidad.
+TEXTO EXACTO: “VISIBLE, DISCUTIBLE, REVISABLE”
+ACEPTACIÓN: no mostrar porcentaje final triunfal.
+
+ESCENA 16 — LA PREGUNTA SIGUE ABIERTA
+NARRACIÓN: “The God Equation propone una forma de investigar. Medir patrones. Comparar explicaciones. Mostrar la incertidumbre. Y cambiar de opinión cuando llegue mejor evidencia. Si el universo puede leerse como información, nuestra tarea no es venerarlo. Es comprenderlo.”
+VISUAL: Los elementos de la primera escena regresan conectados por relaciones comprensibles. Cierre limpio con el título.
+TEXTO EXACTO 1: “THE GOD EQUATION”
+TEXTO EXACTO 2: “UNA HIPÓTESIS ABIERTA A PRUEBA”
+ACEPTACIÓN: cierre científico, claro y no religioso.
+
+Antes de renderizar, entrega el storyboard completo. Marca cualquier texto, fórmula o visual que no puedas producir exactamente. No sustituyas una escena difícil con imágenes genéricas.</pre>
+
+<h2 id="qa">6. Control de calidad antes del render</h2>
+<table><thead><tr><th>Prueba</th><th>Aprobación</th><th>Rechazo</th></tr></thead><tbody>
+<tr><td>Comprensión</td><td>Un estudiante puede explicar la idea con sus palabras.</td><td>Requiere conocimientos universitarios no explicados.</td></tr>
+<tr><td>Alineación</td><td>La animación demuestra la frase narrada.</td><td>El visual solo comparte el tema.</td></tr>
+<tr><td>Texto</td><td>Coincide carácter por carácter con TEXTO EXACTO.</td><td>Cualquier palabra añadida, omitida o mal escrita.</td></tr>
+<tr><td>2D/3D</td><td>La técnica elegida ayuda a comprender.</td><td>3D ornamental o diagrama plano cuando se necesita profundidad.</td></tr>
+<tr><td>Ritmo</td><td>Pregunta, cambio y conclusión tienen tiempo para entenderse.</td><td>Revelación simultánea, loop o corte antes de comprender.</td></tr>
+<tr><td>Certeza</td><td>Hipótesis, evidencia y especulación se distinguen.</td><td>Una idea debatida parece un hecho.</td></tr>
+<tr><td>Audio</td><td>Frases respirables, pausas y términos pronunciados correctamente.</td><td>Lectura corrida o tono promocional.</td></tr>
+</tbody></table>
+
+<h2>Fuentes oficiales</h2>
+<ul>
+<li><a href="https://developers.heygen.com/docs/prompting-guide">HeyGen Prompting Guide</a></li>
+<li><a href="https://developers.heygen.com/docs/video-agent">HeyGen Video Agent</a></li>
+<li><a href="https://developers.heygen.com/motion-graphics">Motion Graphics from a Prompt</a></li>
+<li><a href="https://developers.heygen.com/hyperframes-overview">Introduction to Hyperframes</a></li>
+<li><a href="https://hyperframes.heygen.com/prompting/runtimes-and-3d">Runtimes and 3D</a></li>
+<li><a href="https://hyperframes.heygen.com/prompting/data-and-maps">Data and Maps</a></li>
+<li><a href="https://developers.heygen.com/docs/edit-scenes">Edit Scenes</a></li>
+</ul>
+</body>
+</html>
