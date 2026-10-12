@@ -14,6 +14,7 @@ Sección del repositorio About God.
 
 - `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v3.html` — investigación de prompting y arquitectura interactiva para HeyGen Video Agent.
 - `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v4_HIGHSCHOOL.html` — versión pedagógica para high school: lenguaje natural, CGI 2D/3D, texto exacto en Hyperframes y 16 contratos semánticos sin avatar.
+- `../../book_v3/heygen_voice_samples/` — audición comparativa de Noxus, Carlos Claro Broadcaster y Mateo Plácido con la misma muestra narrativa.
 
 ## Capítulos de soporte
 
