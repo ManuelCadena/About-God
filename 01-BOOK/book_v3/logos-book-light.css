@@ -50,3 +50,4 @@
   .figcap{color:#333}
   img.gen{max-width:4.6in}
 }
+svg.fig{width:100%;height:auto;border:1px solid var(--line);background:#fbfcfd;border-radius:6px}
