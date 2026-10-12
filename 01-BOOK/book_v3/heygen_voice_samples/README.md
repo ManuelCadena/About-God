@@ -23,4 +23,15 @@ Califica cada voz del 1 al 5 en:
 5. Claridad para estudiantes de high school.
 6. Ausencia de tono publicitario.
 
+## Segunda ronda — voces adultas
+
+Esta ronda usa velocidad `0.88` y escribe **“Balles” únicamente en la narración** para conseguir la pronunciación solicitada. La notación científica visible permanece como `BF`.
+
+| Archivo | Voz HeyGen | Motor | Duración reportada | Perfil a evaluar |
+|---|---|---|---:|---|
+| `william_shanks_adult.wav` | William Shanks | Orca | 25.99 s | Voz adulta y autoridad narrativa |
+| `cornelius_adult.wav` | Cornelius | Orca | 25.21 s | Profundidad y sobriedad |
+| `efrayn_adult.wav` | Efrayn | Orca | 25.86 s | Madurez y naturalidad en español |
+| `antonio_adult.wav` | Antonio | Orca | 30.88 s | Ritmo lento y presencia adulta |
+
 La voz elegida se fijará mediante `voice_id` antes de crear la sesión interactiva de HeyGen.
