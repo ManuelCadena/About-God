@@ -19,4 +19,4 @@
 
 ### Arquitectura que lo sustituye
 
-El libro completo se producirá como una serie de 18 episodios, uno por capítulo. Cada episodio tendrá aproximadamente tres minutos y un contrato visual plano por plano. Esta segmentación evita comprimir los 18 capítulos en un solo video y permite revisar la relación entre narración y animación antes de cada render.
+El libro completo se producirá como una serie E0–E18: un Episodio 0 que plantea la pregunta rectora y un episodio por cada uno de los 18 capítulos. Cada episodio tendrá aproximadamente tres minutos y un contrato visual plano por plano. Esta segmentación evita comprimir el libro en un solo video y permite revisar la relación entre narración y animación antes de cada render.

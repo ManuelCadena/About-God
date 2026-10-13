@@ -16,7 +16,7 @@ Sección del repositorio About God.
 - `../../book_v3/VIDEO_SCRIPT_HEYGEN_PROMPT_v4_HIGHSCHOOL.html` — versión pedagógica para high school: lenguaje natural, CGI 2D/3D, texto exacto en Hyperframes y 16 contratos semánticos sin avatar.
 - `../../book_v3/heygen_voice_samples/` — audición comparativa de voces HeyGen, incluida la selección de William Shanks.
 - `../../book_v3/heygen_videos/The_God_Equation_HeyGen_v1_3m51s.mp4` — primer prototipo completo; preservado como caso negativo por falta de correspondencia entre gráficos y narración.
-- `../../book_v3/SERIE_YOUTUBE_18_CAPITULOS_MASTERPLAN.html` — arquitectura canónica de la serie audiovisual: 18 episodios, uno por capítulo.
+- `../../book_v3/SERIE_YOUTUBE_18_CAPITULOS_MASTERPLAN.html` — arquitectura canónica E0–E18: introducción rectora más un episodio por capítulo, reordenados por prerrequisitos conceptuales.
 
 ## Capítulos de soporte
 
