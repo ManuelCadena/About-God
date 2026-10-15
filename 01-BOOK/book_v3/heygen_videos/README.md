@@ -20,3 +20,27 @@
 ### Arquitectura que lo sustituye
 
 El libro completo se producirá como una serie E0–E18: un Episodio 0 que plantea la pregunta rectora y un episodio por cada uno de los 18 capítulos. Cada episodio tendrá aproximadamente tres minutos y un contrato visual plano por plano. Esta segmentación evita comprimir el libro en un solo video y permite revisar la relación entre narración y animación antes de cada render.
+
+## Episodio 0 — versiones
+
+| Versión | Video ID | Duración | Veredicto |
+|---|---|---|---|
+| E0 v1 (flat SVG) | `23d9a966ffce47ed8c33292a327c7c18` | 174.28 s | RECHAZADO por el usuario: gráficos planos primitivos, semántica correcta pero sin calidad cinematográfica. `E0_v1_flat_174s.mp4` + `E0_v1_contact_sheet.jpg` preservados como evidencia. |
+| E0 v2 (estilo códice) | `f2b566c6ea054a2a9b7ab9dfaf4ba995` | completado, en revisión | `E0_v2_codex_183s.mp4` — 183.36 s · 1080p · dirección de arte códice (ver `style_reference/`). |
+
+Sesión original: `d58b91397928420b9c553f9f0963e9b0` (storyboard blueprint_9hbvl1). Sesión cinematográfica one-shot: `bb528b6292b742378fd8a6156cb9dc11`.
+
+## E0 v2 — Estilo códice (2026-10-15)
+
+| Campo | Valor |
+|---|---|
+| Video ID | `f2b566c6ea054a2a9b7ab9dfaf4ba995` |
+| Sesión | `bb528b6292b742378fd8a6156cb9dc11` (one-shot) |
+| Archivo | `E0_v2_codex_183s.mp4` |
+| Duración | 183.36 s (~3:03) |
+| Resolución | 1920×1080, h264/aac, 67.98 MB |
+| SHA-256 | `d785025f1aabc42623dcf782a6fc1deebb0303429399ef1375dbb5e2c48208b0` |
+| Contact sheet | `E0_v2_contact_sheet.jpg` |
+| Estilo | Códice académico antiguo (pergamino, grabado, acuarela) |
+| QA | Sin avatar, sin rostros, sin iconografía religiosa (vitral tachado), textos nativos exactos visibles |
+| Pendiente | Veredicto del usuario sobre saturación/viveza vs. referencias |
