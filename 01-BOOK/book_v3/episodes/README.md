@@ -5,6 +5,8 @@ Un archivo HTML por episodio con: narración literal, 6–8 planos y, por plano,
 | Episodio | Archivo | Estado |
 |---|---|---|
 | E0 · La pregunta antes de la respuesta | `EP00_CONTRATO_VISUAL.html` | Contrato listo · storyboard HeyGen pendiente |
-| E1–E18 | — | Pendientes |
+| E1 · Evidencia y metafísica (Ch. 1) | `EP01_CONTRATO_VISUAL.html` | Contrato listo · storyboard HeyGen pendiente |
+| E2 · Fundamentos filosóficos (Ch. 3) | `EP02_CONTRATO_VISUAL.html` | Contrato listo · storyboard HeyGen pendiente |
+| E3–E18 | — | Pendientes |
 
 Voz: William Shanks. Sin avatar. Texto en pantalla solo HTML/SVG nativo.
